@@ -112,7 +112,6 @@ def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
             doc, tag, text, line = Doc().ttl()
             with tag('p'):
                 with tag('ul'):
-                    line('li', entry['vacaturefunctie']['naam'])
                     line('li', f'Bedrijf: {entry['vacatureBedrijfsnaam']} ({entry['leverancier']['type'].lower()})')
                     line('li', f'Locatie: {entry['tewerkstellingsLocatieRegioOfAdres'].title()}')
                     line('li', f'Type: {entry['vacaturefunctie']['arbeidscircuitLijn']}')
