@@ -1,0 +1,48 @@
+{
+    "criteria": {
+        "diplomaCodes": [
+            "D"
+        ],
+        "onlineSindsCode": "9000",
+        "arbeidsduurCodes": [
+            "V"
+        ],
+        "arbeidsregimeCodes": [
+            "D"
+        ],
+        "contractTypeCodes": [
+            "8"
+        ],
+        "jobdomeinCodes": [
+            "JOBCAT10"
+        ],
+        "internationaalCodes": [],
+        "beroepCodes": [],
+        "ervaringCodes": [
+            "4"
+        ],
+        "rijbewijsCodes": [],
+        "locatieCriteria": {
+            "locatiePostcodeGemeente": "2550 Kontich",
+            "locatieCode": "375",
+            "straalInKilometer": 30,
+            "geoLocatie": {
+                "latitude": null,
+                "longitude": null
+            }
+        },
+        "attestCodes": [],
+        "taalCriteria": {
+            "taalSelecties": [
+                {
+                    "taalCode": "N",
+                    "niveauCode": "15"
+                }
+            ]
+        },
+        "sorteerVeld": "DATUM"
+    },
+    "pagina": 0,
+    "zoekmodus": "C2",
+    "paginaGrootte": 10
+}
