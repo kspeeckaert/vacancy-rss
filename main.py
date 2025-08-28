@@ -41,7 +41,11 @@ def get_date(config_file: Path|str):
                 r = s.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek', 
                            data=json.dumps(config_data))
                 r.raise_for_status()
-                data.extend(r.json()['resultaten'])
+                partial_data = r.json()['resultaten']
+                if len(partial_data) == 0:
+                    logging.info(f'Bailing out early, no data received for page {i}')
+                    break
+                data.extend(partial_data)
                 if i < PAGE_COUNT-1:
                     time.sleep(randint(3,10))
         except Exception as e:
@@ -94,8 +98,11 @@ def generate_feed(data: list, output_file: Path|str) -> None:
 
 
 def main(config_file: Path|str, output_file: Path|str) -> None:
+    logging.info('Retrieving data...')
     data = get_date(config_file)
+    logging.info('Building RSS feed...')
     generate_feed(data, output_file)
+    logging.info('Done!')
 
 
 if __name__ == "__main__":

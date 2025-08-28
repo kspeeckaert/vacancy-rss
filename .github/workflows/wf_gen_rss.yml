@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add -f feeds/*.xml
+          git add -f $OUTPUT_FILE
           git diff-index --quiet HEAD || git commit -m "Update RSS feeds"
           git push
