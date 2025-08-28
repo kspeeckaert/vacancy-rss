@@ -14,7 +14,7 @@ from yattag import Doc
 
 BASE_URL = 'https://www.vdab.be/vindeenjob/vacatures'
 BASE_URL_REST = 'https://www.vdab.be/rest/vindeenjob/v4/vacatures'
-PAGE_COUNT = 1
+PAGE_COUNT = 20
 
 
 def create_session() -> requests.Session:
