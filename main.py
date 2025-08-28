@@ -13,49 +13,79 @@ from yattag import Doc
 
 
 BASE_URL = 'https://www.vdab.be/vindeenjob/vacatures'
-PAGE_COUNT = 20
+BASE_URL_REST = 'https://www.vdab.be/rest/vindeenjob/v4/vacatures'
+PAGE_COUNT = 1
 
 
-def get_date(config_file: Path|str):
+def create_session() -> requests.Session:
+    sess = requests.Session()
+
+    sess.headers = {'Content-Type': 'application/json',
+               'Accept': 'application/json, text/plain, */*',
+               'Referer': 'https://www.vdab.be/vindeenjob/vacatures?locatie=2550%20Kontich&afstand=30&locatieCode=375&sort=standaard&diplomaNiveau=D&arbeidscircuit=8&jobdomein=JOBCAT10&arbeidsduur=V&ervaring=4&arbeidsregime=D&taal=N_15',
+               'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15',
+               'Vej-Key-Monitor': 'b277002f-e1fa-4fc5-868a-fdab633c3851'
+              }
+    return sess
+
+
+def get_date(config_file: Path|str) -> list:
     
     logging.debug('Reading configuration file...')
     with open(config_file) as f:
         config_data = json.load(f)
+
+    data = []
+    sess = create_session()
     
-    with requests.Session() as s:
+    try:
+        for i in range(PAGE_COUNT):
+            logging.debug(f'Requesting data ({i}/{PAGE_COUNT})...')
+            config_data['pagina'] = i
+            r = sess.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek', 
+                          data=json.dumps(config_data))
+            r.raise_for_status()
+            partial_data = r.json()['resultaten']
+            if len(partial_data) == 0:
+                logging.info(f'Bailing out early, no data received for page {i}')
+                break
+            data.extend(partial_data)
+            if i < PAGE_COUNT-1:
+                time.sleep(randint(3,10))
+    except Exception as e:
+        logging.error(f'Exception at attempt {i}: {e!r}. Total entries retrieved: {len(data)}.')
+    else:
+        logging.debug(f'Data retrieved successfully, {len(data)} records.')
+    return data
 
-        headers = {'Content-Type': 'application/json',
-                   'Accept': 'application/json, text/plain, */*',
-                   'Referer': 'https://www.vdab.be/vindeenjob/vacatures?locatie=2550%20Kontich&afstand=30&locatieCode=375&sort=standaard&diplomaNiveau=D&arbeidscircuit=8&jobdomein=JOBCAT10&arbeidsduur=V&ervaring=4&arbeidsregime=D&taal=N_15',
-                   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15',
-                   'Vej-Key-Monitor': 'b277002f-e1fa-4fc5-868a-fdab633c3851'
-                  }
-        s.headers = headers
-        
-        data = []
-        
+
+def get_posting_details(data: list) -> dict:
+    
+    details = {}
+    post_count = len(data)
+    sess = create_session()
+    
+    for i, entry in enumerate(data):
+        entry_id = entry['id']['id']
+        logging.debug(f'Retrieving details for post ID {entry_id}...')
+        if entry_id in details:
+            logging.warning(f'Detail data for post ID {entry_id} already exists. This should not happen!')
+            continue
+
         try:
-            for i in range(PAGE_COUNT):
-                logging.debug(f'Requesting data ({i}/{PAGE_COUNT})...')
-                config_data['pagina'] = i
-                r = s.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek', 
-                           data=json.dumps(config_data))
-                r.raise_for_status()
-                partial_data = r.json()['resultaten']
-                if len(partial_data) == 0:
-                    logging.info(f'Bailing out early, no data received for page {i}')
-                    break
-                data.extend(partial_data)
-                if i < PAGE_COUNT-1:
-                    time.sleep(randint(3,10))
+            r = sess.get(f'{BASE_URL_REST}/{entry_id}')
+            r.raise_for_status()
+            details[entry_id] = r.json()
+            if i < post_count-1:
+                time.sleep(randint(3,10))
         except Exception as e:
-            logging.error(f'Exception at attempt {i}: {e!r}. Total entries retrieved: {len(data)}.')
-        else:
-            logging.debug(f'Data retrieved successfully, {len(data)} records.')
-        return data
+            logging.error(f'Exception while retrieving details for post ID {entry_id}: {e!r}.')
+    
+    logging.debug(f'Retrieved {len(details)} detail record(s).')
+    return details
 
 
-def generate_feed(data: list, output_file: Path|str) -> None:
+def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
 
     fg = FeedGenerator()
     run_timestamp = datetime.now(timezone.utc)
@@ -76,21 +106,28 @@ def generate_feed(data: list, output_file: Path|str) -> None:
             fe.published(entry['eerstePublicatieDatum'])
             fe.updated(entry['laatsteWijzigingDatum'])
 
+            detail_data = details.get(entry_id)
+
             # Build the entry content
             doc, tag, text, line = Doc().ttl()
-            with tag('ul'):
-                line('li', entry['vacaturefunctie']['naam'])
-                line('li', f'Bedrijf: {entry['vacatureBedrijfsnaam']} ({entry['leverancier']['type'].lower()})')
-                line('li', f'Locatie: {entry['tewerkstellingsLocatieRegioOfAdres'].title()}')
-                line('li', f'Type: {entry['vacaturefunctie']['arbeidscircuitLijn']}')
+            with tag('p'):
+                with tag('ul'):
+                    line('li', entry['vacaturefunctie']['naam'])
+                    line('li', f'Bedrijf: {entry['vacatureBedrijfsnaam']} ({entry['leverancier']['type'].lower()})')
+                    line('li', f'Locatie: {entry['tewerkstellingsLocatieRegioOfAdres'].title()}')
+                    line('li', f'Type: {entry['vacaturefunctie']['arbeidscircuitLijn']}')
+            
+            if detail_data is not None:
+                line('h3', 'Functieomschrijving')
+                doc.asis(detail_data['functie']['omschrijving']['html'])
+                line('h3', 'Profiel')
+                doc.asis(detail_data['profiel']['vereisteKwalificaties']['html'])
+                line('h3', 'Aanbod')
+                doc.asis(detail_data['profiel']['aanbod']['aanbodEnVoordelen']['html'])
+            
             fe.description(doc.getvalue())
-            # Add a logo if available
-            try:
-                fe.enclosure(entry['opmaak']['logo'], type='image/jpeg')
-            except Exception:
-                pass
         except Exception as e:
-            logging.error(f'Failed to generate entry for id {entry_id}: {e!r}')
+            logging.error(f'Failed to generate entry for post ID {entry_id}: {e!r}')
 
     logging.info(f'Writing to {output_file}...')
     fg.rss_file(output_file)
@@ -100,8 +137,10 @@ def generate_feed(data: list, output_file: Path|str) -> None:
 def main(config_file: Path|str, output_file: Path|str) -> None:
     logging.info('Retrieving data...')
     data = get_date(config_file)
+    logging.info('Retrieving posting details...')
+    details = get_posting_details(data)
     logging.info('Building RSS feed...')
-    generate_feed(data, output_file)
+    generate_feed(data, details, output_file)
     logging.info('Done!')
 
 

@@ -2,7 +2,7 @@ name: Generate RSS Feed
 
 on:
   schedule:
-    - cron: '0 8-22 * * *'
+    - cron: '0 8-22/2 * * *'
   workflow_call:
   workflow_dispatch:
 
@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate RSS feed
         run: |
-          python main.py $OUTPUT_FILE $CONFIG_FILE
+          python main.py -v $OUTPUT_FILE $CONFIG_FILE
 
       - name: Commit RSS feed
         run: |
