@@ -1,0 +1,36 @@
+name: Generate RSS Feed
+
+on:
+  schedule:
+    - cron: '0 8-22 * * *'
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    
+    env:
+      CONFIG_FILE: config.json
+      OUTPUT_FILE: rss.xml
+      
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13' 
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate RSS feed
+        run: |
+          python mcr_to_rss.py $OUTPUT_FILE $CONFIG_FILE
+
+      - name: Commit RSS feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -f feeds/*.xml
+          git diff-index --quiet HEAD || git commit -m "Update RSS feeds"
+          git push
