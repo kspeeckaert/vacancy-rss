@@ -118,12 +118,21 @@ def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
                     line('li', f'Type: {entry['vacaturefunctie']['arbeidscircuitLijn']}')
             
             if detail_data is not None:
-                line('h3', 'Functieomschrijving')
-                doc.asis(detail_data['functie']['omschrijving']['html'])
-                line('h3', 'Profiel')
-                doc.asis(detail_data['profiel']['vereisteKwalificaties']['html'])
-                line('h3', 'Aanbod')
-                doc.asis(detail_data['profiel']['aanbod']['aanbodEnVoordelen']['html'])
+                try:
+                    line('h3', 'Functieomschrijving')
+                    doc.asis(detail_data['functie']['omschrijving']['html'])
+                except Exception:
+                    pass
+                try:
+                    line('h3', 'Profiel')
+                    doc.asis(detail_data['profiel']['vereisteKwalificaties']['html'])
+                except Exception:
+                    pass
+                try:
+                    line('h3', 'Aanbod')
+                    doc.asis(detail_data['profiel']['aanbod']['aanbodEnVoordelen']['html'])
+                except Exception:
+                    pass
             
             fe.description(doc.getvalue())
         except Exception as e:
