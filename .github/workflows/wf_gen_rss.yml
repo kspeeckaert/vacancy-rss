@@ -12,7 +12,8 @@ jobs:
     
     env:
       CONFIG_FILE: config.json
-      OUTPUT_FILE: rss.xml
+      OUTPUT_FILE: atom.xml
+      PAGE_COUNT: 20
       
     steps:
       - uses: actions/checkout@v4
@@ -25,7 +26,7 @@ jobs:
 
       - name: Generate RSS feed
         run: |
-          python main.py -v $OUTPUT_FILE $CONFIG_FILE
+          python main.py -d -p $PAGE_COUNT -v $OUTPUT_FILE $CONFIG_FILE
 
       - name: Commit RSS feed
         run: |

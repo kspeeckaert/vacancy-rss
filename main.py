@@ -15,6 +15,7 @@ from yattag import Doc
 BASE_URL = 'https://www.vdab.be/vindeenjob/vacatures'
 BASE_URL_REST = 'https://www.vdab.be/rest/vindeenjob/v4/vacatures'
 PAGE_COUNT = 20
+FEED_ID = 'e2590d85-368a-4ef9-863c-931baa40fcec'
 
 
 def create_session() -> requests.Session:
@@ -29,7 +30,7 @@ def create_session() -> requests.Session:
     return sess
 
 
-def get_date(config_file: Path|str) -> list:
+def get_data(config_file: Path|str, page_count: int) -> list:
     
     logging.debug('Reading configuration file...')
     with open(config_file) as f:
@@ -39,8 +40,8 @@ def get_date(config_file: Path|str) -> list:
     sess = create_session()
     
     try:
-        for i in range(PAGE_COUNT):
-            logging.debug(f'Requesting data ({i}/{PAGE_COUNT})...')
+        for i in range(page_count):
+            logging.debug(f'Requesting data ({i}/{page_count})...')
             config_data['pagina'] = i
             r = sess.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek', 
                           data=json.dumps(config_data))
@@ -50,7 +51,7 @@ def get_date(config_file: Path|str) -> list:
                 logging.info(f'Bailing out early, no data received for page {i}')
                 break
             data.extend(partial_data)
-            if i < PAGE_COUNT-1:
+            if i < page_count-1:
                 time.sleep(randint(3,10))
     except Exception as e:
         logging.error(f'Exception at attempt {i}: {e!r}. Total entries retrieved: {len(data)}.')
@@ -90,8 +91,8 @@ def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
     fg = FeedGenerator()
     run_timestamp = datetime.now(timezone.utc)
     fg.title('VDAB – Zoek een job')
+    fg.id(FEED_ID)
     fg.link(href='https://www.vdab.be', rel='alternate')
-    fg.description('Vind een job in de grootste jobdatabank van Vlaanderen. Snel en gemakkelijk.')
     fg.lastBuildDate(run_timestamp)
     fg.updated(run_timestamp)
     
@@ -101,7 +102,7 @@ def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
         try:
             fe.title(f'{entry['vacaturefunctie']['naam']} ({entry['vacatureBedrijfsnaam']})')
             link = f'{BASE_URL}/{entry_id}'
-            fe.guid(link, permalink=True)
+            fe.id(link)
             fe.link(href=link)
             fe.published(entry['eerstePublicatieDatum'])
             fe.updated(entry['laatsteWijzigingDatum'])
@@ -133,20 +134,23 @@ def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
                 except Exception:
                     pass
             
-            fe.description(doc.getvalue())
+            fe.content(doc.getvalue(), type='html')
         except Exception as e:
             logging.error(f'Failed to generate entry for post ID {entry_id}: {e!r}')
 
     logging.info(f'Writing to {output_file}...')
-    fg.rss_file(output_file)
+    fg.atom_file(output_file, pretty=True)
     logging.info(f'RSS feed saved.')
 
 
-def main(config_file: Path|str, output_file: Path|str) -> None:
+def main(config_file: Path|str, output_file: Path|str, page_count: int, fetch_details: bool=False) -> None:
     logging.info('Retrieving data...')
-    data = get_date(config_file)
-    logging.info('Retrieving posting details...')
-    details = get_posting_details(data)
+    data = get_data(config_file, page_count)
+    if fetch_details:
+        logging.info('Retrieving posting details...')
+        details = get_posting_details(data)
+    else:
+        details = {}
     logging.info('Building RSS feed...')
     generate_feed(data, details, output_file)
     logging.info('Done!')
@@ -156,6 +160,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate RSS feeds for VDAB jobs.')
     parser.add_argument('output_file', help='Filename to write the RSS feed to')
     parser.add_argument('config_file', help='Filename containing the request configuration')
+    parser.add_argument('-p', '--page_count', default=PAGE_COUNT, type=int)
+    parser.add_argument('-d', '--details', action='store_true', help='Enable job details')
     parser.add_argument('-v', '--verbose', action='store_true', help='Enable debug logging')
     
     args = parser.parse_args()
@@ -172,4 +178,7 @@ if __name__ == "__main__":
         logging.error(f'File not found: {config_file}')
         exit(1)
 
-    main(args.config_file, args.output_file)
+    main(config_file=args.config_file, 
+         output_file=args.output_file, 
+         page_count=args.page_count, 
+         fetch_details=args.details)
