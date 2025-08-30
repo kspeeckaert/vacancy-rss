@@ -1,4 +1,4 @@
-name: Generate VDAB feed
+name: Generate editx feed
 
 on:
   schedule:
