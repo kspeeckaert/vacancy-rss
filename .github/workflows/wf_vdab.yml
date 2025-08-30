@@ -1,4 +1,4 @@
-name: Generate RSS Feed
+name: Generate VDAB feed
 
 on:
   schedule:
@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      CONFIG_FILE: config.json
-      OUTPUT_FILE: atom.xml
+      CONFIG_FILE: config/vdab.json
+      OUTPUT_FILE: feeds/vdab.xml
       PAGE_COUNT: 20
       
     steps:
@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate RSS feed
         run: |
-          python main.py -d -p $PAGE_COUNT -v $OUTPUT_FILE $CONFIG_FILE
+          python vdab.py -d -p $PAGE_COUNT -v $OUTPUT_FILE $CONFIG_FILE
 
       - name: Commit RSS feed
         run: |

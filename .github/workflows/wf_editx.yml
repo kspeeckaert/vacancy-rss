@@ -1,0 +1,37 @@
+name: Generate VDAB feed
+
+on:
+  schedule:
+    - cron: '0 4-22/2 * * *'
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    
+    env:
+      CONFIG_FILE: config/editx.json
+      OUTPUT_FILE: feeds/editx.xml
+      PAGE_COUNT: 20
+      
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13' 
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate RSS feed
+        run: |
+          python editx.py -v -d $OUTPUT_FILE $CONFIG_FILE
+
+      - name: Commit RSS feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -f $OUTPUT_FILE
+          git diff-index --quiet HEAD || git commit -m "Update RSS feeds"
+          git push
