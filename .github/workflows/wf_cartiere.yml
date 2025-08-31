@@ -2,6 +2,7 @@ name: Generate Cartiere feed
 
 on:
   workflow_call:
+  workflow_dispatch:
 
 jobs:
   generate-rss:

@@ -2,7 +2,8 @@ name: Generate editx feed
 
 on:
   workflow_call:
-
+  workflow_dispatch:
+  
 jobs:
   generate-rss:
     runs-on: ubuntu-latest
