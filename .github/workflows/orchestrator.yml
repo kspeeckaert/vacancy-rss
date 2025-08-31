@@ -1,0 +1,15 @@
+name: Orchestrator
+
+on:
+  schedule:
+    - cron: '0 4-22/2 * * *'
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  call-vdab:
+    uses: ./.github/workflows/wf_vdab.yml
+  call-editx:
+    uses: ./.github/workflows/wf_editx.yml
+  call-cartiere:
+    uses: ./.github/workflows/wf_cartiere.yml

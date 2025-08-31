@@ -1,10 +1,7 @@
 name: Generate editx feed
 
 on:
-  schedule:
-    - cron: '0 4-22/2 * * *'
   workflow_call:
-  workflow_dispatch:
 
 jobs:
   generate-rss:
@@ -33,5 +30,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -f $OUTPUT_FILE
-          git diff-index --quiet HEAD || git commit -m "Update RSS feeds"
+          git diff-index --quiet HEAD || git commit -m "Update editx RSS feed"
           git push

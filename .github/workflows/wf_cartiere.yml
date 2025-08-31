@@ -1,4 +1,4 @@
-name: Generate VDAB feed
+name: Generate Cartiere feed
 
 on:
   workflow_call:
@@ -8,9 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      CONFIG_FILE: config/vdab.json
-      OUTPUT_FILE: feeds/vdab.xml
-      PAGE_COUNT: 20
+      OUTPUT_FILE: feeds/cartiere.xml
       
     steps:
       - uses: actions/checkout@v4
@@ -23,12 +21,12 @@ jobs:
 
       - name: Generate RSS feed
         run: |
-          python vdab.py -d -p $PAGE_COUNT -v $OUTPUT_FILE $CONFIG_FILE
+          python cartiere.py -v $OUTPUT_FILE
 
       - name: Commit RSS feed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -f $OUTPUT_FILE
-          git diff-index --quiet HEAD || git commit -m "Update VDAB RSS feed"
+          git diff-index --quiet HEAD || git commit -m "Update Cartiere RSS feed"
           git push
