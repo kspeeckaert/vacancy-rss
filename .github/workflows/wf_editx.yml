@@ -3,7 +3,7 @@ name: Generate editx feed
 on:
   workflow_call:
   workflow_dispatch:
-  
+
 jobs:
   generate-rss:
     runs-on: ubuntu-latest
@@ -32,4 +32,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git add -f $OUTPUT_FILE
           git diff-index --quiet HEAD || git commit -m "Update editx RSS feed"
+          git pull --rebase origin main
           git push
