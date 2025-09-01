@@ -2,40 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-01T08:51:19.932784+00:00</updated>
+  <updated>2025-09-01T10:44:05.610656+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69414814</id>
-    <title>.NET Developer (More2B)</title>
-    <updated>2025-08-18T09:26:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: More2B (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Westmeerbeek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor mijn klant in Hulshout zijn we op zoek naar een .NET Developer:&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als .NET ontwikkelaar weet je dat software nooit stilstaat.&lt;/p&gt; 
-&lt;p&gt;Samen met je collega's sta je mee in voor de technische realisatie en ondersteuning van de producten.&lt;/p&gt; 
-&lt;p&gt;Je zal ontwikkelen met de nieuwste Microsoft .Net technologieën en krijgt de kans om mee te denken bij de ontwikkeling van nieuwe toepassingen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Je ontwikkelt software voor openbare besturen (steden en gemeentes).&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je bent een gedreven 
-&lt;span&gt;.NET&lt;/span&gt;-professional met een uitstekende technologische kennis;&lt;/li&gt; 
-&lt;li&gt;Je bent vertrouwd met het 
-&lt;span&gt; .NET framework, .NET Core&lt;/span&gt;, 
-&lt;span&gt;WPF, REST/SOAP webservices&lt;/span&gt; en 
-&lt;span&gt; C#&lt;/span&gt;;&lt;/li&gt; 
-&lt;li&gt;Kennis van 
-&lt;span&gt;SQL&lt;/span&gt; en 
-&lt;span&gt; Entity Framework&lt;/span&gt; is een troef;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Visual Studio, Azure DevOps en GIT&lt;/span&gt; zijn je favoriete speeltuin;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Unittesten&lt;/span&gt; is geen loze belofte voor jou en je weet dat je binnen het 
-&lt;span&gt;SCRUM&lt;/span&gt; proces het beste van jezelf kan&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Een uitdagende functie in een stabiele en financieel gezonde onderneming.&lt;/p&gt; 
-&lt;p&gt;Geen files!&lt;/p&gt; 
-&lt;p&gt;Een goede balans tussen thuiswerk en aanwezigheid op het hippe kantoor.&lt;/p&gt; 
-&lt;p&gt;Naast een mooi salaris, kan je rekenen op extralagele voordelen, waaronder een bedrijfswagen.&lt;/p&gt; 
-&lt;p&gt;Uiteraard ook toffe collega's in een agile werkomgeving.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69414814"/>
-    <published>2024-09-04T10:45:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71290853</id>
     <title>Information Security Engineer (EXPERIS BELGIUM)</title>
@@ -106,7 +75,7 @@ Voldoet deze functie aan jouw verwachtingen? Solliciteer dan rechtstreeks via de
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71738138</id>
     <title>Product Owner (Compusearch)</title>
-    <updated>2025-08-25T07:42:37+00:00</updated>
+    <updated>2025-09-01T10:38:09+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Compusearch (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Dit bedrijf is op zoek naar een ervaren product owner. Je gaat er deel uitmaken van een dynamische en sterk groeiende organisatie met veel expertise en knowhow, waar mensen centraal staan.&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;Locatie&lt;/strong&gt;: Antwerpen, vlot bereikbaar via het openbaar vervoer en met de fiets.&lt;/p&gt; 
 &lt;p&gt;Functieomschrijving&lt;/p&gt; 
@@ -4021,5 +3990,13 @@ Join a highly skilled technology team driving innovation in one of Europe's most
 &lt;p dir="ltr"&gt;&lt;span&gt;Marktconforme beloning: Een aantrekkelijk salarispakket (incl. interessante commissie structuur, maaltijdcheques, verzekeringen, wagen,...). &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71826740"/>
     <published>2025-08-29T16:01:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71835374</id>
+    <title>Senior Data Engineer  (Visser &amp; Van Baars)</title>
+    <updated>2025-09-01T11:54:03+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Vacature: Medior/Senior Data Engineer (Azure/Databricks) - Regio Antwerpen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ben jij een ervaren Data Engineer met een passie voor Azure en Databricks?&lt;/p&gt;&lt;p&gt;Werk je graag in een omgeving waar je écht impact maakt op het volledige datalandschap?&lt;/p&gt;&lt;p&gt;Voor een internationale organisatie in de regio Antwerpen zijn wij op zoek naar een medior of senior Data Engineer die ownership durft nemen en meebouwt aan een schaalbaar en toekomstgericht dataplatform.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Over de organisatie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Onze klant is een internationaal actieve organisatie met vestigingen in België, Nederland en Duitsland. Met zo'n 1000 medewerkers werken ze in een decentrale structuur, waarin lokale teams veel autonomie hebben.&lt;/p&gt;&lt;p&gt;De focus ligt o.a. op het optimaliseren van care-processen, business development, sales en marketingcommunicatie. Data speelt hierbij een steeds belangrijkere rol.&lt;/p&gt;&lt;p&gt;Het betreft een &lt;strong&gt;vaste aanwerving&lt;/strong&gt; op &lt;strong&gt;medior tot senior niveau&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technische omgeving&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;De organisatie bouwt aan een modern datawarehouse in &lt;strong&gt;Azure&lt;/strong&gt; in combinatie met &lt;strong&gt;Databricks&lt;/strong&gt; (en Microsoft Fabric). Je werkt nauw samen met de Data Analysts (Power BI) en andere stakeholders uit het business- en IT-domein.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stack &amp;amp; tools&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Azure Data Factory&lt;/strong&gt; (must)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Databricks&lt;/strong&gt; (must)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;SQL Server&lt;/strong&gt; (voor het metadata framework)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;SQL&lt;/strong&gt; (must)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Python / PySpark&lt;/strong&gt; (voor data-transformaties)&lt;/li&gt;&lt;li&gt;Kennis van het bouwen van integraties tussen systemen (via ADF en Databricks)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Wat ga je doen?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Data Engineer ben je verantwoordelijk voor de &lt;strong&gt;end-to-end ontwikkeling en het beheer van het datalake&lt;/strong&gt;. Je takenpakket omvat onder andere:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integreren van nieuwe bronsystemen&lt;/li&gt;&lt;li&gt;Bouwen en onderhouden van datastromen &amp;amp; integraties&lt;/li&gt;&lt;li&gt;Uitbreiden van het datalake en ontwikkelen van nieuwe inzichten/metrics&lt;/li&gt;&lt;li&gt;Troubleshooting van pipelines &amp;amp; monitoring via alerts&lt;/li&gt;&lt;li&gt;Beheren van change requests (via formeel goedkeuringsproces)&lt;/li&gt;&lt;li&gt;Samenwerken met Data Analysts &amp;amp; andere IT-teams&lt;/li&gt;&lt;li&gt;Scripts en transformaties schrijven met SQL en Python/PySpark&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We zoeken een Data Engineer die stevig in zijn of haar schoenen staat en zelfstandig beslissingen durft nemen. Je schakelt vlot tussen technische details en businessbehoeften.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-haves&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimaal 3 jaar ervaring als Data Engineer&lt;/li&gt;&lt;li&gt;Kennis van Azure Data Factory &amp;amp; Databricks&lt;/li&gt;&lt;li&gt;Sterke kennis van SQL en Python / PySpark&lt;/li&gt;&lt;li&gt;Ervaring met het bouwen van datastromen en systeemintegraties&lt;/li&gt;&lt;li&gt;Je spreekt en schrijft &lt;strong&gt;vloeiend Nederlands&lt;/strong&gt; (essentieel)&lt;/li&gt;&lt;li&gt;Sterke communicatieve vaardigheden en ervaring met stakeholdermanagement&lt;/li&gt;&lt;li&gt;&lt;p&gt;Flexibel en kan goed omgaan met een complexe, decentrale organisatiecontext&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Vast contract&lt;/strong&gt; bij de klant&lt;/li&gt;&lt;li&gt;Marktconform brutoloon (te bespreken op basis van ervaring)&lt;/li&gt;&lt;li&gt;40u/week (optie tot 4/5de of 4,5/5de bespreekbaar)&lt;/li&gt;&lt;li&gt;Verwachting: ook bij 4/5de beschikbaar blijven indien nodig (stand-by)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Werkomgeving &amp;amp; locatie&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt;: gemiddeld 2,5 dagen op kantoor (regio Antwerpen), 2,5 dagen remote&lt;/li&gt;&lt;li&gt;Sporadisch reizen naar Düsseldorf kan onderdeel zijn van de rol&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Interesse?&lt;/strong&gt;&lt;br&gt;Stuur ons jouw cv en een korte motivatie. Wij nemen contact met je op om de verdere mogelijkheden te bespreken.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71835374"/>
+    <published>2025-09-01T11:54:03+00:00</published>
   </entry>
 </feed>
