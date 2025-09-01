@@ -2,28 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-01T10:44:05.610656+00:00</updated>
+  <updated>2025-09-01T12:59:52.594450+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71290853</id>
-    <title>Information Security Engineer (EXPERIS BELGIUM)</title>
-    <updated>2025-06-12T11:36:13+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: EXPERIS BELGIUM (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Bornem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Information Security Engineer krijg je de &lt;strong&gt;verantwoordelijkheid over de operationele aspecten van de informatieveiligheid&lt;/strong&gt;. Jouw takenpakket bestaat uit een aantal gevarieerde activiteiten: &lt;p&gt;
-- Verder uitwerken van een &lt;strong&gt;veiligheidsframework&lt;/strong&gt; dat alle producten en processen in de organisatie omvat&lt;p&gt;
-- &lt;strong&gt;Systemen beschermen&lt;/strong&gt; tegen potentiële bedreigingen&lt;p&gt;
-- &lt;strong&gt;Configureren en optimaliseren van securitymaatregelen&lt;/strong&gt; binnen Ms Azure (Identity &amp; Access Management, threat detection &amp; monitoring)&lt;p&gt;
-- Toezien op de naleving van &lt;strong&gt;GDPR regelgeving&lt;/strong&gt;&lt;p&gt;
-- Dragen van innovatie op vlak van veiligheid en privacy&lt;p&gt;
-- Leidende rol opnemen inzake het behalen en behouden van de &lt;strong&gt;ISO 27001&lt;/strong&gt; &lt;strong&gt;certificering&lt;/strong&gt;&lt;p&gt;
-- Uitvoeren van &lt;strong&gt;security audits &lt;/strong&gt;en &lt;strong&gt;risicoanalyses&lt;/strong&gt;&lt;p&gt;
-- Periodieke &lt;strong&gt;security test &lt;/strong&gt;uitvoeren&lt;p&gt;
-- Opzetten van &lt;strong&gt;vulnerability assessments&lt;/strong&gt; en &lt;strong&gt;penetration tests&lt;/strong&gt;&lt;p&gt;
-- In samenwerking met developers en devops &lt;strong&gt;secure coding&lt;/strong&gt; en best practices implementeren&lt;h3&gt;Profiel&lt;/h3&gt;Als Information Security Engineer ben je minimaal in het bezit van een &lt;strong&gt;bachelor in IT&lt;/strong&gt; aangevuld met enkele jaren &lt;strong&gt;relevante werkervaring&lt;/strong&gt; (&amp;gt; 5 jaar) in een vergelijkbare rol.  Daarnaast heb je een solide kennis van &lt;strong&gt;Azure security, ISO 27001, GDPR, security tests, incident response processen&lt;/strong&gt;, etc. Je bent tevens communicatief vaardig in het &lt;strong&gt;Nederlands &lt;/strong&gt;en &lt;strong&gt;Engels&lt;/strong&gt;. Tot slot heb je een proactieve en hands-on ingesteldheid en ben je in staat veiligheid te verankeren in de organisatie.&lt;h3&gt;Aanbod&lt;/h3&gt;Als Information Security Engineer mag je rekenen op uitgebreide &lt;strong&gt;trainingen &lt;/strong&gt;en &lt;strong&gt;opleidingen &lt;/strong&gt;om jezelf te ontplooien op professioneel vlak. Daarnaast kan je genieten van een &lt;strong&gt;competitieve verloning&lt;/strong&gt; met een &lt;strong&gt;uitgebreid pakket aan extralegale voordelen&lt;/strong&gt;. Tot slot kom je terecht in een scale-up omgeving en kan je&lt;strong&gt; full remote&lt;/strong&gt; werken in &lt;strong&gt;glijdende uren&lt;/strong&gt;. &lt;p&gt;
-Voldoet deze functie aan jouw verwachtingen? Solliciteer dan rechtstreeks via de website of contacteer Matthias Kegels op het nummer +32 (0)4 76 35 74 35 of via matthias.kegels@experis.be.</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71290853"/>
-    <published>2025-06-12T11:36:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71495081</id>
     <title>ICT System Engineer | Bedrijfswagen (Kwery)</title>
@@ -3998,5 +3979,68 @@ Join a highly skilled technology team driving innovation in one of Europe's most
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Vacature: Medior/Senior Data Engineer (Azure/Databricks) - Regio Antwerpen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ben jij een ervaren Data Engineer met een passie voor Azure en Databricks?&lt;/p&gt;&lt;p&gt;Werk je graag in een omgeving waar je écht impact maakt op het volledige datalandschap?&lt;/p&gt;&lt;p&gt;Voor een internationale organisatie in de regio Antwerpen zijn wij op zoek naar een medior of senior Data Engineer die ownership durft nemen en meebouwt aan een schaalbaar en toekomstgericht dataplatform.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Over de organisatie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Onze klant is een internationaal actieve organisatie met vestigingen in België, Nederland en Duitsland. Met zo'n 1000 medewerkers werken ze in een decentrale structuur, waarin lokale teams veel autonomie hebben.&lt;/p&gt;&lt;p&gt;De focus ligt o.a. op het optimaliseren van care-processen, business development, sales en marketingcommunicatie. Data speelt hierbij een steeds belangrijkere rol.&lt;/p&gt;&lt;p&gt;Het betreft een &lt;strong&gt;vaste aanwerving&lt;/strong&gt; op &lt;strong&gt;medior tot senior niveau&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technische omgeving&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;De organisatie bouwt aan een modern datawarehouse in &lt;strong&gt;Azure&lt;/strong&gt; in combinatie met &lt;strong&gt;Databricks&lt;/strong&gt; (en Microsoft Fabric). Je werkt nauw samen met de Data Analysts (Power BI) en andere stakeholders uit het business- en IT-domein.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stack &amp;amp; tools&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Azure Data Factory&lt;/strong&gt; (must)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Databricks&lt;/strong&gt; (must)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;SQL Server&lt;/strong&gt; (voor het metadata framework)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;SQL&lt;/strong&gt; (must)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Python / PySpark&lt;/strong&gt; (voor data-transformaties)&lt;/li&gt;&lt;li&gt;Kennis van het bouwen van integraties tussen systemen (via ADF en Databricks)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Wat ga je doen?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Data Engineer ben je verantwoordelijk voor de &lt;strong&gt;end-to-end ontwikkeling en het beheer van het datalake&lt;/strong&gt;. Je takenpakket omvat onder andere:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integreren van nieuwe bronsystemen&lt;/li&gt;&lt;li&gt;Bouwen en onderhouden van datastromen &amp;amp; integraties&lt;/li&gt;&lt;li&gt;Uitbreiden van het datalake en ontwikkelen van nieuwe inzichten/metrics&lt;/li&gt;&lt;li&gt;Troubleshooting van pipelines &amp;amp; monitoring via alerts&lt;/li&gt;&lt;li&gt;Beheren van change requests (via formeel goedkeuringsproces)&lt;/li&gt;&lt;li&gt;Samenwerken met Data Analysts &amp;amp; andere IT-teams&lt;/li&gt;&lt;li&gt;Scripts en transformaties schrijven met SQL en Python/PySpark&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We zoeken een Data Engineer die stevig in zijn of haar schoenen staat en zelfstandig beslissingen durft nemen. Je schakelt vlot tussen technische details en businessbehoeften.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-haves&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimaal 3 jaar ervaring als Data Engineer&lt;/li&gt;&lt;li&gt;Kennis van Azure Data Factory &amp;amp; Databricks&lt;/li&gt;&lt;li&gt;Sterke kennis van SQL en Python / PySpark&lt;/li&gt;&lt;li&gt;Ervaring met het bouwen van datastromen en systeemintegraties&lt;/li&gt;&lt;li&gt;Je spreekt en schrijft &lt;strong&gt;vloeiend Nederlands&lt;/strong&gt; (essentieel)&lt;/li&gt;&lt;li&gt;Sterke communicatieve vaardigheden en ervaring met stakeholdermanagement&lt;/li&gt;&lt;li&gt;&lt;p&gt;Flexibel en kan goed omgaan met een complexe, decentrale organisatiecontext&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Vast contract&lt;/strong&gt; bij de klant&lt;/li&gt;&lt;li&gt;Marktconform brutoloon (te bespreken op basis van ervaring)&lt;/li&gt;&lt;li&gt;40u/week (optie tot 4/5de of 4,5/5de bespreekbaar)&lt;/li&gt;&lt;li&gt;Verwachting: ook bij 4/5de beschikbaar blijven indien nodig (stand-by)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Werkomgeving &amp;amp; locatie&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt;: gemiddeld 2,5 dagen op kantoor (regio Antwerpen), 2,5 dagen remote&lt;/li&gt;&lt;li&gt;Sporadisch reizen naar Düsseldorf kan onderdeel zijn van de rol&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Interesse?&lt;/strong&gt;&lt;br&gt;Stuur ons jouw cv en een korte motivatie. Wij nemen contact met je op om de verdere mogelijkheden te bespreken.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71835374"/>
     <published>2025-09-01T11:54:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71836862</id>
+    <title>Bedrijfsjurist/ Legal Counsel (iO)</title>
+    <updated>2025-09-01T14:04:40+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: iO (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-pm-slice="1 1 []"&gt;&lt;span&gt;Ben jij klaar voor een dynamische carrière waarin je jouw juridische expertise volop kunt inzetten in een internationale organisatie als iO? &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Bij iO ben jij de juridische spil in ons ambitieuze digital agency. Samen met je Belgische en Nederlandse collega's zorg jij ervoor dat alles juridisch op rolletjes loopt. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat je mag verwachten:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Het &lt;/span&gt;&lt;strong&gt;&lt;span&gt;beoordelen en opstellen van diverse contracten&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, waaronder commerciële contracten, NDA’s, DPA’s en vaststellingsovereenkomsten; &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;span&gt;(Als dit nog nieuwe onderwerpen voor je zijn dan kan dit een hele mooie verbreding van je kennis bieden.) &lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je duikt in uitdagende &lt;/span&gt;&lt;strong&gt;&lt;span&gt;contractonderhandelingen&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; zowel met klanten als leveranciers; &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Fungeren als &lt;/span&gt;&lt;strong&gt;&lt;span&gt;strategische sparringspartner voor de business&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, waarbij je een zorgvuldige balans vindt tussen juridische- en commerciële belangen en de risico's; &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je &lt;/span&gt;&lt;strong&gt;&lt;span&gt;adviseert en begeleidt afdelingen bij het ontwikkelen en implementeren van diverse templates en interne beleidsdocumenten&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, zoals policies en commerciële contracten etc.;  &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Het &lt;/span&gt;&lt;strong&gt;&lt;span&gt;actief vergroten van juridisch bewustzijn binnen de organisatie&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; door middel van kennisdeling, presentaties, FAQ’s, etc.; &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Collega's en klanten van iO weten dat ze altijd bij jou terechtkunnen voor allerhande juridische vragen. &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;span&gt;Daarnaast werk je nauw samen met onze teams van HR, finance en procurement, en ondersteun je hen bij uiteenlopende juridische vraagstukken. Samen bewaken jullie de algemene compliance van onze bedrijvengroep en trekken jullie samen aan de kar in het nemen van beslissingen bij juridische geschillen. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Heb je ook nog kennis van &lt;/span&gt;&lt;strong&gt;&lt;span&gt;IT-recht, privacy en security wetgeving?&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Dan zijn we helemaal enthousiast! &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span&gt;Legal Counsel bij iO? Heel uitdagend dus! Kan je niet alle verwachtingen afvinken, maar heb je hierin wel interesse?&lt;/span&gt;&lt;/em&gt;&lt;span&gt; Bij iO staat jouw groei centraal. Je werkt aan interessante projecten in kleine teams en krijgt de &lt;/span&gt;&lt;strong&gt;&lt;span&gt;vrijheid om je eigen groeipad vorm te geven&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;. Daarnaast zijn er volop mogelijkheden om deel te nemen aan of zelf opleidingen, conferenties en workshops te organiseren. De sfeer binnen het Legal team is professioneel, gedreven en door het relatief kleine team heb je korte lijnen om onderling te sparren over juridische vraagstukken. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Ben je klaar om jouw juridische carrière een nieuwe impuls te geven? Sluit je aan bij iO en bouw mee aan de toekomst van digitaal!&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Daarom ben jij de perfecte Legal Counsel&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je hebt minimaal &lt;/span&gt;&lt;span&gt;&lt;span&gt;2-4 jaar juridische ervaring&lt;/span&gt;&lt;/span&gt;&lt;span&gt; in het bedrijfsleven of bij een advocatenkantoor achter de rug, dit zou een mooie volgende stap in jouw carriere kunnen zijn&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je bent een &lt;/span&gt;&lt;span&gt;&lt;span&gt;digital native&lt;/span&gt;&lt;/span&gt;&lt;span&gt; en voelt de IT-, marketing- en communicatiesector moeiteloos aan&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je bent flexibel, analytisch en pragmatisch en doet er alles aan om kwaliteit af te leveren. Keer op keer&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Regelgevingen en wetteksten vertaal jij moeiteloos in concrete adviezen en actiepunten&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je hebt ervaring met &lt;/span&gt;&lt;span&gt;&lt;span&gt;contractenrecht&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Affiniteit met arbeidsrecht, ondernemingsrecht en privacy wetgeving zijn een plus&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Je werkt voornamelijk op campus Antwerpen, maar het schrikt je niet af om je collega’s van Gent, Herentals, Eindhoven,… sporadisch te bezoeken&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Bij iO kom je terecht in een internationale organisatie. Het is dus vanzelfsprekend dat je &lt;/span&gt;&lt;span&gt;&lt;span&gt;Nederlands&lt;/span&gt;&lt;/span&gt;&lt;span&gt; en Engels spreekt&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;32 vakantiedagen&lt;/p&gt; 
+&lt;p&gt;Op basis van een 40-urige werkweek heb je 20 vakantiedagen en 12 ADV-dagen.&lt;/p&gt; 
+&lt;p&gt;Mobiliteit &amp;amp; eindejaarspremie&lt;/p&gt; 
+&lt;p&gt;Na 6 maanden in dienst kun je bij iO rekenen op een eindejaarspremie. En op mobiliteitsvlak bieden we verschillende mogelijkheden, passend bij jouw job of voorkeur.&lt;/p&gt; 
+&lt;p&gt;Hospitalisatieverzekering&lt;/p&gt; 
+&lt;p&gt;Heb je eens iets voor? Dan is extra stress rond kosten het laatste wat je kunt gebruiken. Iedereen geniet bij ons van een hospitalisatieverzekering bij Axa.&lt;/p&gt; 
+&lt;p&gt;Hybride werken&lt;/p&gt; 
+&lt;p&gt;Een goede werk-privébalans is essentieel. Samen met je team maak je afspraken over wanneer én waar je werkt.&lt;/p&gt; 
+&lt;p&gt;Gezonde snacks &amp;amp; lunch&lt;/p&gt; 
+&lt;p&gt;Op elke iO campus pak je de hele dag een gezond tussendoortje en lunch je voor een kleine vergoeding gezond én gevarieerd.&lt;/p&gt; 
+&lt;p&gt;Persoonlijk ontwikkelbudget&lt;/p&gt; 
+&lt;p&gt;Je krijgt elk jaar € 3.000,- om jezelf te ontwikkelen, in je vak of als persoon, met trainingen, events of cursussen.&lt;/p&gt; 
+&lt;p&gt;Samen vieren&lt;/p&gt; 
+&lt;p&gt;Als we iets te vieren hebben, dan doen we het goed! Het partyteam op jouw campus staat op z'n tijd dan ook garant voor de leukste (thema)feestjes.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71836862"/>
+    <published>2025-09-01T14:04:40+00:00</published>
   </entry>
 </feed>
