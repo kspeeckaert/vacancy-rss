@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-02T20:42:29.718064+00:00</updated>
+  <updated>2025-09-02T22:38:20.921986+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1605,6 +1605,30 @@
     <published>2025-05-23T08:22:03+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71180751</id>
+    <title>IT Support Engineer (LGA IT)</title>
+    <updated>2025-06-21T07:58:33+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Takenpakket:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Verantwoordelijk voor het &lt;strong&gt;beheer, onderhoud&lt;/strong&gt; en de &lt;strong&gt;optimalisatie&lt;/strong&gt; van &lt;strong&gt;complexe IT-infrastructuren&lt;/strong&gt; bij klanten.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Oplossen&lt;/strong&gt; van &lt;strong&gt;uitdagende incidenten&lt;/strong&gt; en structurele problemen op &lt;strong&gt;3de lijnsniveau,&lt;/strong&gt; inclusief diepgaande root cause-analyses.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Adviseren&lt;/strong&gt; van &lt;strong&gt;klanten&lt;/strong&gt; rond high-level IT-architectuur, netwerkbeveiliging en infrastructuuroplossingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technisch aanspreekpunt&lt;/strong&gt; bij projectimplementaties en migratietrajecten.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kennisdeling en coaching&lt;/strong&gt; van collega&amp;rsquo;s binnen het technische team.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;Profiel:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Heeft een &lt;strong&gt;diepgaande technische achtergrond&lt;/strong&gt; en &lt;strong&gt;minimum vijf jaar&lt;/strong&gt; aantoonbare &lt;strong&gt;ervaring&lt;/strong&gt; in &lt;strong&gt;3rd line support&lt;/strong&gt; of gelijkaardige infrastructuurrollen.&lt;/li&gt;&lt;li&gt;Is zeer &lt;strong&gt;vertrouwd met&lt;/strong&gt; Windows Server omgevingen, Microsoft 365, virtualisatie (Hyper-V/VMware), netwerken, firewalls (zoals Fortinet), en back-upoplossingen.&lt;/li&gt;&lt;li&gt;Werkt &lt;strong&gt;autonoom&lt;/strong&gt; en &lt;strong&gt;effici&amp;euml;nt&lt;/strong&gt; binnen kritieke omgevingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Communiceert professioneel&lt;/strong&gt; &lt;strong&gt;met klanten&lt;/strong&gt; en weet technische complexiteit om te zetten in duidelijke oplossingen.&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;Aanbod:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Een functie voor &lt;strong&gt;doorgewinterde IT&lt;/strong&gt;&lt;strong&gt;&amp;rsquo;ers&lt;/strong&gt; die willen werken op technisch niveau, met ruimte voor expertise en initiatief.&lt;/li&gt;
+&lt;li&gt;De kans om je te &lt;strong&gt;verdiepen in uitdagende omgevingen&lt;/strong&gt; bij &lt;strong&gt;verschillende klanten&lt;/strong&gt; en &lt;strong&gt;sectoren.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continue opleidingsmogelijkheden en ondersteuning&lt;/strong&gt; bij het behalen van extra certificeringen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Competitieve verloning&lt;/strong&gt; aangevuld met &lt;strong&gt;diverse extralegale voordelen.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Gebruik van een volledig uitgeruste &lt;strong&gt;firmawagen&lt;/strong&gt; met &lt;strong&gt;tankkaart&lt;/strong&gt; voor professioneel gebruik.&lt;/li&gt;
+&lt;li&gt;Mogelijkheid tot &lt;strong&gt;hybride werken&lt;/strong&gt; en &lt;strong&gt;flexibiliteit&lt;/strong&gt; in &lt;strong&gt;werkuren.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Een &lt;strong&gt;hecht team&lt;/strong&gt; met technische collega&amp;rsquo;s die inhoudelijke sparring mogelijk maken.&lt;/li&gt;
+&lt;li&gt;Een &lt;strong&gt;stabiele werkgever&lt;/strong&gt; met focus op kwaliteit, persoonlijke aanpak en technologische innovatie.&lt;/li&gt;
+&lt;/ul&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71180751"/>
+    <published>2025-05-27T09:27:15+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71186395</id>
     <title>Senior Python Developer-Topkans Startup (LGA IT)</title>
     <updated>2025-06-06T11:53:45+00:00</updated>
@@ -1632,30 +1656,6 @@
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71186395"/>
     <published>2025-05-27T13:42:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71180751</id>
-    <title>IT Support Engineer (LGA IT)</title>
-    <updated>2025-06-21T07:58:33+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Takenpakket:&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Verantwoordelijk voor het &lt;strong&gt;beheer, onderhoud&lt;/strong&gt; en de &lt;strong&gt;optimalisatie&lt;/strong&gt; van &lt;strong&gt;complexe IT-infrastructuren&lt;/strong&gt; bij klanten.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Oplossen&lt;/strong&gt; van &lt;strong&gt;uitdagende incidenten&lt;/strong&gt; en structurele problemen op &lt;strong&gt;3de lijnsniveau,&lt;/strong&gt; inclusief diepgaande root cause-analyses.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Adviseren&lt;/strong&gt; van &lt;strong&gt;klanten&lt;/strong&gt; rond high-level IT-architectuur, netwerkbeveiliging en infrastructuuroplossingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technisch aanspreekpunt&lt;/strong&gt; bij projectimplementaties en migratietrajecten.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kennisdeling en coaching&lt;/strong&gt; van collega&amp;rsquo;s binnen het technische team.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
-     &lt;p&gt;Profiel:&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Heeft een &lt;strong&gt;diepgaande technische achtergrond&lt;/strong&gt; en &lt;strong&gt;minimum vijf jaar&lt;/strong&gt; aantoonbare &lt;strong&gt;ervaring&lt;/strong&gt; in &lt;strong&gt;3rd line support&lt;/strong&gt; of gelijkaardige infrastructuurrollen.&lt;/li&gt;&lt;li&gt;Is zeer &lt;strong&gt;vertrouwd met&lt;/strong&gt; Windows Server omgevingen, Microsoft 365, virtualisatie (Hyper-V/VMware), netwerken, firewalls (zoals Fortinet), en back-upoplossingen.&lt;/li&gt;&lt;li&gt;Werkt &lt;strong&gt;autonoom&lt;/strong&gt; en &lt;strong&gt;effici&amp;euml;nt&lt;/strong&gt; binnen kritieke omgevingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Communiceert professioneel&lt;/strong&gt; &lt;strong&gt;met klanten&lt;/strong&gt; en weet technische complexiteit om te zetten in duidelijke oplossingen.&lt;/li&gt;&lt;/ul&gt;
-      &lt;h3&gt;Aanbod&lt;/h3&gt;
-       &lt;p&gt;Aanbod:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Een functie voor &lt;strong&gt;doorgewinterde IT&lt;/strong&gt;&lt;strong&gt;&amp;rsquo;ers&lt;/strong&gt; die willen werken op technisch niveau, met ruimte voor expertise en initiatief.&lt;/li&gt;
-&lt;li&gt;De kans om je te &lt;strong&gt;verdiepen in uitdagende omgevingen&lt;/strong&gt; bij &lt;strong&gt;verschillende klanten&lt;/strong&gt; en &lt;strong&gt;sectoren.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Continue opleidingsmogelijkheden en ondersteuning&lt;/strong&gt; bij het behalen van extra certificeringen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Competitieve verloning&lt;/strong&gt; aangevuld met &lt;strong&gt;diverse extralegale voordelen.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Gebruik van een volledig uitgeruste &lt;strong&gt;firmawagen&lt;/strong&gt; met &lt;strong&gt;tankkaart&lt;/strong&gt; voor professioneel gebruik.&lt;/li&gt;
-&lt;li&gt;Mogelijkheid tot &lt;strong&gt;hybride werken&lt;/strong&gt; en &lt;strong&gt;flexibiliteit&lt;/strong&gt; in &lt;strong&gt;werkuren.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Een &lt;strong&gt;hecht team&lt;/strong&gt; met technische collega&amp;rsquo;s die inhoudelijke sparring mogelijk maken.&lt;/li&gt;
-&lt;li&gt;Een &lt;strong&gt;stabiele werkgever&lt;/strong&gt; met focus op kwaliteit, persoonlijke aanpak en technologische innovatie.&lt;/li&gt;
-&lt;/ul&gt;
-      </content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71180751"/>
-    <published>2025-05-27T09:27:15+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71223258</id>
