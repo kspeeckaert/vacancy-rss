@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-02T08:26:51.862089+00:00</updated>
+  <updated>2025-09-02T10:22:48.990876+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -42,6 +42,38 @@ Bekijk onze website www.cartiere.be voor meer BI, data &amp; AI vacatures.&lt;/s
     <category term="Management"/>
     <category term="Data Engineering"/>
     <published>2025-08-21T14:57:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-analist-marketing/</id>
+    <title>Data Analist (Marketing) </title>
+    <updated>2025-08-20T06:01:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-20 07:01:31+00:00, last change 2025-08-20 06:01:31+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-20 07:01:31+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
+Deze organisatie is een toonaangevende speler in projectontwikkeling en kiest bewust voor een andere aanpak. Ze creëren geen losse bouwprojecten, maar complete woonomgevingen waar duurzaamheid, leefbaarheid en sociale samenhang centraal staan. Hun visie: buurten ontwikkelen waar mensen zich thuis voelen, elkaar ontmoeten en samen leven.&lt;br /&gt;
+Om die ambitie kracht bij te zetten, speelt data een sleutelrol. Het is de motor achter betere beslissingen, efficiëntere processen en toekomstgerichte keuzes. Daarom zoeken ze een Data Analist die het belang van data actief mee uitdraagt en zo mee bouwt aan duurzame buurten met blijvende impact.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br /&gt;
+Als Data Analist ben jij de brug tussen data en business. Je ondersteunt marketing en sales met inzichten die laten zien wat echt werkt, zodat zij onderbouwde keuzes kunnen maken. Je neemt ownership over dashboards en analyses, maar gaat verder dan dat: je legt verbanden, signaleert kansen en denkt mee op strategisch niveau.&lt;br /&gt;
+Je bent dus niet iemand die enkel rapporten oplevert, maar een trekker die de organisatie vooruithelpt en het verkoopproces slimmer maakt. Vandaag is de informatie nog sterk versnipperd. Jij krijgt de verantwoordelijkheid om dit te centraliseren in één krachtig dashboard dat de hele business vooruitbrengt.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br /&gt;
+•&amp;nbsp;&amp;nbsp; &amp;nbsp;Sterke kennis van Power BI, ETL en stermodellering.&lt;br /&gt;
+•&amp;nbsp;&amp;nbsp; &amp;nbsp;Ervaring met CRM-systemen (Salesforce/HubSpot) vormen een plus.&lt;br /&gt;
+•&amp;nbsp;&amp;nbsp; &amp;nbsp;Python en marketingkennis zijn extra troeven.&lt;br /&gt;
+•&amp;nbsp;&amp;nbsp; &amp;nbsp;Je bent assertief, kritisch en communicatief sterk.&lt;br /&gt;
+•&amp;nbsp;&amp;nbsp; &amp;nbsp;Je bent een echte teamspeler die vlot schakelt met stakeholders.&lt;br /&gt;
+•&amp;nbsp;&amp;nbsp; &amp;nbsp;Je spreekt vloeiend in Nederlands.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br /&gt;
+Je stapt in bij een dynamische en ondernemende organisatie die de stabiliteit en waarden van een familiebedrijf combineert met de innovatiekracht van een marktleider. In deze functie krijg je de kans om van nul iets op te bouwen en een sleutelrol te spelen in de datagedreven groei van de lokale kantoren.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Herken jij jou in deze functie?&amp;nbsp;&lt;br /&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br /&gt;
+Bekijk onze website www.cartiere.be voor meer BI, data &amp;amp; AI vacatures.&lt;/strong&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-analist-marketing/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-08-20T07:01:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-steward/</id>
