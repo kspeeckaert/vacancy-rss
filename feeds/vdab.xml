@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-03T08:47:01.863153+00:00</updated>
+  <updated>2025-09-03T10:43:50.550195+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71603456</id>
-    <title>.Net Expert (Kingfisher IT)</title>
-    <updated>2025-08-29T13:45:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Dendermonde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je bent verantwoordelijk voor het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen en juniors te coachen.&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in .Net / C# ontwikkeling&lt;/li&gt;&lt;li&gt;Je houdt van technische uitdagingen en wil blijven bijleren en bent analytisch ingesteld&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71603456"/>
-    <published>2025-07-28T15:01:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71603445</id>
     <title>.Net Software Architect (Kingfisher IT)</title>
@@ -4042,5 +4034,67 @@ Join a highly skilled technology team driving innovation in one of Europe's most
 &lt;p dir="ltr"&gt;&lt;span&gt;Marktconforme beloning: Een aantrekkelijk salarispakket (incl. interessante commissie structuur, maaltijdcheques, verzekeringen, wagen,...). &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71845059"/>
     <published>2025-09-02T12:37:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71852608</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2025-09-03T10:50:59+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
+&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXion-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
+&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
+&lt;span&gt;data warehouses&lt;/span&gt; naar de 
+&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van 
+&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de 
+&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in 
+&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid. &lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie. &lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71852608"/>
+    <published>2025-09-03T10:50:59+00:00</published>
   </entry>
 </feed>
