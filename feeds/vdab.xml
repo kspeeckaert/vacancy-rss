@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-03T14:43:58.644002+00:00</updated>
+  <updated>2025-09-03T16:46:38.876047+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71668005</id>
-    <title>Java/TypeScript Software Engineer (Kingfisher IT)</title>
-    <updated>2025-08-29T13:47:15+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je bent verantwoordelijk voor het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen en juniors te coachen.&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in Java&lt;/li&gt;&lt;li&gt;Kennis van een JavaScript framework: Angular, React, Vue...&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71668005"/>
-    <published>2025-08-06T18:00:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71715793</id>
     <title>IT Systeembeheer Coördinator (Kwery)</title>
@@ -4053,6 +4045,53 @@ Join a highly skilled technology team driving innovation in one of Europe's most
 &lt;p&gt;- Groepsverzekering&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71855090"/>
     <published>2025-09-03T15:10:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71855983</id>
+    <title>Full stack developer (Gentis)</title>
+    <updated>2025-09-03T16:30:38+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Gentis (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-start="337" data-end="530"&gt;Voor een internationale organisatie zoeken we een ervaren Full Stack Developer die een sleutelrol speelt in de ontwikkeling en architectuur van complexe softwareoplossingen.&lt;/p&gt; 
+&lt;p data-start="532" data-end="559"&gt;&lt;strong data-start="532" data-end="557"&gt;Verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="560" data-end="886"&gt; 
+&lt;li data-start="560" data-end="634"&gt; 
+&lt;p data-start="562" data-end="634"&gt;Ontwerpen en ontwikkelen van schaalbare en onderhoudbare toepassingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="635" data-end="699"&gt; 
+&lt;p data-start="637" data-end="699"&gt;Bouwen van microservices en bijdragen aan systeemintegratie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="700" data-end="768"&gt; 
+&lt;p data-start="702" data-end="768"&gt;Meedenken over de systeemarchitectuur en best practices bewaken.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="769" data-end="829"&gt; 
+&lt;p data-start="771" data-end="829"&gt;Mentoring en code reviews voor minder ervaren collega’s.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="830" data-end="886"&gt; 
+&lt;p data-start="832" data-end="886"&gt;Verkennen en implementeren van nieuwe technologieën.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-start="888" data-end="901"&gt;&lt;strong data-start="888" data-end="899"&gt;Profiel&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="902" data-end="1320"&gt; 
+&lt;li data-start="902" data-end="956"&gt; 
+&lt;p data-start="904" data-end="956"&gt;Minimaal 5 jaar ervaring als Full Stack Developer.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="957" data-end="1037"&gt; 
+&lt;p data-start="959" data-end="1037"&gt;Grondige kennis van moderne frameworks en databases (o.a. .NET, SQL, React).&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1038" data-end="1145"&gt; 
+&lt;p data-start="1040" data-end="1145"&gt;Ervaring met architecturale concepten zoals event-driven design, domain-driven design en microservices.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1146" data-end="1194"&gt; 
+&lt;p data-start="1148" data-end="1194"&gt;Kennis van messaging frameworks is een plus.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1195" data-end="1250"&gt; 
+&lt;p data-start="1197" data-end="1250"&gt;Sterke communicatieve en samenwerkingsvaardigheden.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1251" data-end="1320"&gt; 
+&lt;p data-start="1253" data-end="1320"&gt;Bachelor of Master in Informatica of gelijkwaardig door ervaring.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-start="1322" data-end="1338"&gt;&lt;strong data-start="1322" data-end="1336"&gt;Wij bieden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="1339" data-end="1603"&gt; 
+&lt;li data-start="1339" data-end="1409"&gt; 
+&lt;p data-start="1341" data-end="1409"&gt;Een uitdagende functie binnen een internationaal actieve omgeving.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1410" data-end="1476"&gt; 
+&lt;p data-start="1412" data-end="1476"&gt;Projecten met focus op kwaliteit, innovatie en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1477" data-end="1534"&gt; 
+&lt;p data-start="1479" data-end="1534"&gt;Samenwerking in een professioneel en collegiaal team.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1535" data-end="1603"&gt; 
+&lt;p data-start="1537" data-end="1603"&gt;Ruimte voor eigen inbreng, verantwoordelijkheid en kennisdeling.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;.net, SQL en react &lt;/p&gt; 
+&lt;p&gt;Particular Nservicebus is een grote plus &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Job is ook beschikbaar voor freelancers&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71855983"/>
+    <published>2025-09-03T16:30:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71852608</id>
