@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-04T20:43:19.187918+00:00</updated>
+  <updated>2025-09-04T22:41:54.079852+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71784542</id>
+    <title>Business &amp; Functional Analyst (Hays)</title>
+    <updated>2025-08-25T10:41:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Hays (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;IT Business Analyst | Grote Logistieke Speler | Innovatief Bedrijf | Uitdagend | Competitief salaris + wagen |&lt;/p&gt;&lt;p&gt;Over de organisatie &lt;/p&gt;Voor onze klant, één van de grootste Europese logistieke dienstverleners gevestigd in Wilrijk, is Hays Technology op zoek naar een Functioneel Analist. Onze klant biedt een uitdagende functie aan binnen een dynamische omgeving. Ze ontwikkelen en implementeren hun eigen IT-applicaties en systemen om hun klanten en eindgebruikers te ondersteunen. Ze streven naar continue optimalisatie en bieden uitstekende ondersteuning aan hun gebruikers.&lt;br&gt;&lt;p&gt;Jouw nieuwe functie &lt;br /&gt; &lt;/p&gt;Als functioneel analist vorm je de schakel tussen business en IT. Je analyseert de behoeften en problemen van klanten en eindgebruikers, en vertaalt deze naar haalbare oplossingen. Je helpt bij het opstellen en verfijnen van het product backlog, specificeert user stories en acceptatiecriteria, en test en documenteert de geleverde functionaliteiten.&lt;br&gt;Je leidt workshops zoals event storming sessies en refinement meetings, maakt ontwerpen en mockups in Figma, en verwerkt informatie in Azure DevOps. Als onderdeel van het ontwikkelingsteam werk je nauw samen met de Product Owner, Scrum Master en de andere Business Analist om de scope, kwaliteit en planning van het product te optimaliseren. Je neemt deel aan agile ceremonies zoals sprint planning, demo/review, dagelijkse stand-ups en sprint retrospectives.&lt;br&gt;&lt;p&gt;&lt;br /&gt;Jouw Takenpakket:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Helpen en ondersteunen van de product owner, Scrum Master en andere stakeholders bij het verduidelijken en gedetailleerd beschrijven van hun verzoeken. Definieer de flow om van de "As is" naar de "To be" situatie te evolueren. Deze verzoeken omzetten in user stories.&lt;/li&gt;&lt;li&gt;Het uitleggen van de user stories aan het scrum-team, het helpen van het team wanneer iets niet duidelijk is of wanneer er vragen zijn.&lt;/li&gt;&lt;li&gt;Het begeleiden van het applicatie-supportteam zodat zij de nieuwe functionaliteit begrijpen en eindgebruikersdocumentatie kunnen maken.&lt;/li&gt;&lt;li&gt;Ervoor zorgen dat functionaliteit gebruikt kan worden wanneer deze in productie gaat.&lt;/li&gt;&lt;li&gt;Het begeleiden en/of organiseren van Business Acceptance Tests wanneer nodig (bijvoorbeeld bij grotere projecten).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Jouw profiel &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een hogere opleiding (minimaal Bachelor niveau) en minimaal 5 jaar ervaring&lt;/li&gt;&lt;li&gt;Ervaring in de logistieke sector is een pluspunt.&lt;/li&gt;&lt;li&gt;Als medewerker combineer je creativiteit met een positieve, eindgebruikersvriendelijke en kwaliteitsgerichte mentaliteit.&lt;/li&gt;&lt;li&gt;Je hebt uitstekende communicatie- en analytische vaardigheden.&lt;/li&gt;&lt;li&gt;Kennis van Engels en Nederlands is vereist.&lt;/li&gt;&lt;li&gt;Ervaring in Agile / Scrum.&lt;/li&gt;&lt;li&gt;Ervaring met UML, Word, Excel, PowerPoint, Visio, Figma, Figjam, Visual Paradigm, …&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De arbeidsvoorwaarden &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een uitdagende functie binnen een groeiend bedrijf&lt;/li&gt;&lt;li&gt;Mogelijkheden tot persoonlijke ontwikkeling en groei&lt;/li&gt;&lt;li&gt;Een competitief salarispakket met extralegale voordelen (bedrijfswagen)&lt;/li&gt;&lt;li&gt;Een dynamische en collegiale werkomgeving&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;Solliciteer direct op deze vacature &lt;br /&gt; &lt;br /&gt;Heb je interesse in deze job? Solliciteer dan snel online en stuur ons je cv, of bel ons op voor meer informatie.&lt;br /&gt; &lt;br /&gt;Is deze job niet helemaal wat je zoekt, maar ben je wel op zoek naar een nieuwe functie? Aarzel niet om ons te contacteren voor een vertrouwelijk gesprek over je carrièremogelijkheden.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71784542"/>
+    <published>2025-08-25T10:41:23+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71785344</id>
     <title>E-Commerce &amp; Software Specialist (Hays)</title>
@@ -1533,35 +1541,6 @@
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71180751"/>
     <published>2025-05-27T09:27:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71186395</id>
-    <title>Senior Python Developer-Topkans Startup (LGA IT)</title>
-    <updated>2025-06-06T11:53:45+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw takenpakket:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Technische aansturing van migratieprojecten: van initi&amp;euml;le analyse tot effectieve implementatie van gemoderniseerde systemen.&lt;/li&gt;&lt;li&gt;Actieve betrokkenheid bij het ontwerp en de bouw van nieuwe modulaire softwarecomponenten, interfaces en integraties.&lt;/li&gt;&lt;li&gt;Coaching en kennisdeling binnen het ontwikkelteam om technische groei te verzekeren.&lt;/li&gt;&lt;li&gt;Samenwerking met dataspecialisten om innovatieve oplossingen rond AI en machine learning te integreren in bestaande toepassingen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
-     &lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Minstens 7 jaar ervaring in professionele Python-ontwikkeling&lt;/li&gt;&lt;li&gt;Ervaring met softwaremigraties, architectuur en coaching&lt;/li&gt;&lt;li&gt;Brede kennis van webtechnologie, API&amp;rsquo;s, data-analyse en moderne integraties&lt;/li&gt;&lt;/ul&gt;
-      &lt;h3&gt;Aanbod&lt;/h3&gt;
-       &lt;p class="p1"&gt;&lt;strong&gt;Wat je via LGA IT mag verwachten:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="ul1"&gt;
-&lt;li class="li2"&gt;Een uitdagende en verantwoordelijke functie in een organisatie met maatschappelijke relevantie.&lt;/li&gt;
-&lt;li class="li2"&gt;Een stimulerende werkomgeving waar jouw technische kennis en visie volop benut en gewaardeerd worden.&lt;/li&gt;
-&lt;li class="li2"&gt;Hoogwaardige bedrijfswagen (type SUV) met volledig pakket: brandstof, onderhoud en verzekering inbegrepen.&lt;/li&gt;
-&lt;li class="li2"&gt;Flexibele werkmogelijkheden met passende thuiswerkvergoeding en maandelijkse onkostenvergoeding.&lt;/li&gt;
-&lt;li class="li2"&gt;Moderne tools: laptop, smartphone inclusief abonnement.&lt;/li&gt;
-&lt;li class="li2"&gt;Aantrekkelijke verloning aangevuld met maaltijdcheques.&lt;/li&gt;
-&lt;li class="li2"&gt;Fulltime tewerkstelling met extra ADV-verlofdagen.&lt;/li&gt;
-&lt;li class="li2"&gt;Solide extra-legale voordelen waaronder hospitalisatie- en groepsverzekering.&lt;/li&gt;
-&lt;li class="li2"&gt;Professionele werksfeer met korte communicatielijnen en ruimte om initiatief te nemen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class="p2" style="text-align: center;"&gt;Solliciteer exclusief via LGA IT&lt;br /&gt;Stuur je cv of LinkedIn-profiel naar Younes Marouan via &lt;strong&gt;younes@lga.jobs&lt;/strong&gt; of bel discreet op &lt;strong&gt;09 352 01 06&lt;/strong&gt;.&lt;br /&gt;&lt;strong&gt;Discretie verzekerd.&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="p4" style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="p5"&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p class="p4"&gt;&amp;nbsp;&lt;/p&gt;
-      </content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71186395"/>
-    <published>2025-05-27T13:42:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71223258</id>
