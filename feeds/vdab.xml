@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-05T10:42:43.409420+00:00</updated>
+  <updated>2025-09-05T12:58:40.484965+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71793278</id>
-    <title>Java Solutions Analyst (Kingfisher IT)</title>
-    <updated>2025-08-26T10:17:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een softwarebedrijf in het centrum van Antwerpen zijn we op zoek naar een Java Solutions Analyst. Het bedrijf heeft zelf, van scratch, een op maat gemaakte software ontwikkeld die internationaal wordt gebruikt. &lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Als Java Solutions Analyst kom je terecht in een Agile-omgeving binnen een hoog aangeschreven IT-team. Je overlegt met externe stakeholders om hun requirements te analyseren en vertaalt deze naar functionele oplossingen binnen de software. Daarbij optimaliseer je bestaande features op basis van hun noden of implementeer je nieuwe functionaliteiten.&lt;/p&gt;&lt;p&gt;Je werkt met Java en Spring Boot, en stelt API’s op om de software te integreren binnen applicatielandschap van klanten.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor in IT of gelijkwaardige ervaring.&lt;/li&gt;&lt;li&gt;Ervaring met analyse, development en/of communicatie is een sterke troef.&lt;/li&gt;&lt;li&gt;Je bent communicatief zeer sterk en gaat vlot in gesprek over technische behoeften.&lt;/li&gt;&lt;li&gt;Je hebt kennis van Java, Spring Boot en API-integraties.&lt;/li&gt;&lt;li&gt;Je spreekt vloeiend Nederlands en Engels.&lt;/li&gt;&lt;li&gt;Je bent analytisch ingesteld en denkt probleemoplossend.&lt;/li&gt;&lt;li&gt;Je combineert graag je technische expertise met je communicatieve vaardigheden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, aangevuld met nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques (€ 8)&lt;/li&gt;&lt;li&gt;Een uitgebreide hospitalisatieverzekering (inclusief ambulante zorgen)&lt;/li&gt;&lt;li&gt;Groepsverzekering&lt;/li&gt;&lt;li&gt;Flexibele mobiliteitsopties&lt;/li&gt;&lt;li&gt;Laptop, smartphone én abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen&lt;/li&gt;&lt;li&gt;Mogelijkheid tot 80% thuiswerk&lt;/li&gt;&lt;li&gt;Een vlot bereikbare locatie op slechts 5 minuten wandelen van station Antwerpen-Centraal&lt;/li&gt;&lt;li&gt;De kans om mee te bouwen aan internationaal gebruikte, op maat gemaakte software&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71793278"/>
-    <published>2025-08-26T10:17:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71811488</id>
     <title>Senior Azure BI &amp; Data Engineer (Datashift)</title>
@@ -1501,6 +1493,62 @@
 &lt;p&gt;&lt;span&gt;Bij Vlaanderen connect is een gezonde balans tussen werk en privé belangrijk: een werkweek van 38 uur, 28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). Verder werken wij met flexibele werkuren en bieden wij ook de mogelijkheid tot thuiswerken. &lt;/span&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71136321"/>
     <published>2025-05-23T08:22:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71121430</id>
+    <title>Sales Force Functional Lead - Teammanager met analytische en technische expertise (FCR MEDIA BELGIUM)</title>
+    <updated>2025-09-05T13:03:34+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: FCR MEDIA BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben jij een leider die graag inhoudelijk betrokken blijft? Combineer je moeiteloos &lt;strong&gt;visie, structuur én een hands-on aanpak&lt;/strong&gt;? Dan is deze rol jou op het lijf geschreven.&lt;/p&gt;
+
+&lt;p&gt;Als &lt;strong&gt;Salesforce Functional Lead&lt;/strong&gt; neem je de dagelijkse leiding over het Salesforce delivery team, bestaande uit product owners, analisten en testers en coördineer je dit met onze vaste partner voor ontwikkeling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Je combineert teammanagement met een hands-on rol:&lt;/strong&gt; je voert zelf analyses uit naar de beste technische oplossing, denkt mee over functionele vereisten en draagt actief bij aan de optimalisatie van processen en systemen. Je vertaalt de strategische visie van de organisatie naar concrete roadmaps en begeleidt je team bij de uitvoering ervan.&lt;/p&gt;
+
+&lt;p&gt;Je bent het aanspreekpunt voor business én technologie, en rapporteert rechtstreeks aan de Head of Technology &amp; Data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Aansturen, coachen en motiveren van een team van ongeveer 8&lt;strong&gt; &lt;/strong&gt;medewerkers en externe contractoren;&lt;/li&gt;
+	&lt;li&gt;Zelf meewerken aan de analyse en ontwerp van IT-oplossingen;&lt;/li&gt;
+	&lt;li&gt;Fungeren als eerste aanspreekpunt binnen je domein en actief beheren van issues en verbeterpunten;&lt;/li&gt;
+	&lt;li&gt;Zorgen voor een duidelijke prioritering, planning en opvolging van projecten, changes en incidenten, volgens een agile manier van werken;&lt;/li&gt;
+	&lt;li&gt;Vertalen van functionele noden naar heldere technische oplossingen volgens best practices, in overleg met interne stakeholders en externe partners;&lt;/li&gt;
+	&lt;li&gt;Werken aan de stabiliteit, schaalbaarheid en innovatie van de bestaande IT-oplossingen;&lt;/li&gt;
+	&lt;li&gt;Verantwoordelijkheid dragen voor volledige documentatie van de oplossingen;&lt;/li&gt;
+	&lt;li&gt;Regelmatig overleg en afstemming met de Head of Technology &amp; Data rond roadmap-uitvoering en teamstrategie;&lt;/li&gt;
+	&lt;li&gt;Begeleiden van teamleden in hun ontwikkeling via coaching, 1-op-1’s en feedbackmomenten.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+	&lt;li&gt;Je beschikt over een diploma van een professionele bachelor of master in een relevante richting (bv. Bedrijfsmanagement, Toegepaste Informatica, Handelswetenschappen, ...);&lt;/li&gt;
+	&lt;li&gt;Je spreekt en schrijft vloeiend Nederlands en Engels, Frans is een pluspunt;&lt;/li&gt;
+	&lt;li&gt;Je hebt minstens 3 jaar ervaring in een gelijkaardige functie met zowel leidinggevende als technische verantwoordelijkheden;&lt;/li&gt;
+	&lt;li&gt;Je bent sterk in analyseren, structureren en communiceren met zowel technische als niet-technische stakeholders;&lt;/li&gt;
+	&lt;li&gt;Je hebt ervaring met IT-projecten, functionele analyse en/of softwareontwikkeling;&lt;/li&gt;
+	&lt;li&gt;Je hebt kennis van het Salesforce platform, bij voorkeur van Sales Cloud, Service Cloud, CPQ en Billing. Certificeringen zijn een pluspunt;&lt;/li&gt;
+	&lt;li&gt;Je bent vertrouwd met Agile/Scrum of andere softwareontwikkelmethodologieën;&lt;/li&gt;
+	&lt;li&gt;Je bent oplossingsgericht, ondernemend en hebt een groot verantwoordelijkheidsgevoel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+	&lt;li&gt;Een uitdagende rol met veel afwisseling en impact;&lt;/li&gt;
+	&lt;li&gt;Een centrale positie in een team dat werkt op het snijvlak van business en technologie;&lt;/li&gt;
+	&lt;li&gt;Ruimte voor initiatief en professionele groei ;&lt;/li&gt;
+	&lt;li&gt;Werken in een moderne technologische omgeving, met focus op cloud software, in samenwerking met betrouwbare partners;&lt;/li&gt;
+	&lt;li&gt;Een aantrekkelijk &amp; competitief salarispakket incl. 13de maand, smartphone, bedrijfswagen,  bonussysteem, hospitalisatie - en ambulante zorgverzekering, pensioenplan, vakantiegeld aan 100% (i.p.v. de wettelijke 92%), ecocheques, 8€ maaltijdcheques.&lt;/li&gt;
+	&lt;li&gt;Ondergrondse parking, afgesloten fietsenstalling en douches.&lt;/li&gt;
+	&lt;li&gt;Glijdende werkuren.&lt;/li&gt;
+	&lt;li&gt;Een hybride werkmodel met mogelijkheid tot thuiswerk na je inwerkperiode.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71121430"/>
+    <published>2025-05-23T00:56:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71180751</id>
@@ -3305,29 +3353,6 @@ Strategische bijdrage
     <published>2025-08-20T09:30:23+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71757364</id>
-    <title>Business Analist IT (Mechelen) (ELMOS EXPERT)</title>
-    <updated>2025-08-29T09:02:15+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ELMOS EXPERT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een grootschalig B2B-transformatieprogramma binnen de technologiesector zoeken we een ervaren Business Analyst met een sterke focus op Field Service processen en Salesforce-oplossingen.&lt;/p&gt; 
-&lt;p&gt;Je maakt deel uit van een multidisciplinair team dat een meerjarige change roadmap uitrolt, gericht op het moderniseren van serviceprocessen en het implementeren van standaard Salesforce Field Service-functionaliteiten. In deze rol vertaal je strategische doelstellingen naar haalbare, digitale oplossingen en werk je nauw samen met business stakeholders, product owners en externe partners.&lt;/p&gt; 
-&lt;p&gt;Je werkt binnen een mature Agile context en wordt actief betrokken in impactanalyses, blueprinting-sessies en het begeleiden van stakeholders richting out-of-the-box oplossingen. &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;· Minimaal 5 jaar ervaring als business analist of in een vergelijkbare rol&lt;/p&gt; 
-&lt;p&gt;· Ervaring met servicegerichte omgevingen&lt;/p&gt; 
-&lt;p&gt;· Inzicht in Field Service processen (onderhoud, on-site support, vervanging van componenten)&lt;/p&gt; 
-&lt;p&gt;· Bekend met Salesforce Field Service of vergelijkbare tools&lt;/p&gt; 
-&lt;p&gt;· Ervaring met Salesforce Communications Cloud of soortgelijke platformen&lt;/p&gt; 
-&lt;p&gt;· Bekend met ITIL/ITSM-frameworks&lt;/p&gt; 
-&lt;p&gt;· Ervaring binnen B2B-omgevingen en grootschalige transformatieprogramma’s&lt;/p&gt; 
-&lt;p&gt;· Vertrouwd met Agile werken, samenwerking met externe partners&lt;/p&gt; 
-&lt;p&gt;· Sterke skills in analyse, communicatie en stakeholdermanagement&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Impactvolle rol binnen een strategisch veranderprogramma dat de richting bepaalt voor de toekomst van B2B-dienstverlening.&lt;/li&gt; 
-&lt;li&gt;Multidisciplinair team met een sterk inhoudelijke focus én ruimte voor eigen inbreng.&lt;/li&gt; 
-&lt;li&gt;Hybride werkmodel: (Maandag vast op kantoor (regio Mechelen) + Extra dag op kantoor afhankelijk van projectnoden&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid tot af en toe extra on-site aanwezigheid tijdens change momenten&lt;/li&gt; 
-&lt;li&gt;Mooi loon aangevuld met extralegale voordelen.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71757364"/>
-    <published>2025-08-20T16:23:07+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71767525</id>
     <title>Senior Functioneel Analist (Kingfisher Recruitment)</title>
     <updated>2025-08-21T16:51:30+00:00</updated>
@@ -3903,6 +3928,14 @@ Join a highly skilled technology team driving innovation in one of Europe's most
 &lt;p dir="ltr"&gt;&lt;span&gt;Marktconforme beloning: Een aantrekkelijk salarispakket (incl. interessante commissie structuur, maaltijdcheques, verzekeringen, wagen,...). &lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71845059"/>
     <published>2025-09-02T12:37:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71841637</id>
+    <title>SAP Consultant | 50% remote (Kwery)</title>
+    <updated>2025-09-05T14:28:48+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wijnegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Onze partner is een dienstverlener met meerdere vestigingen in België en Nederland. Deze organisatie telt meer dan 400 medewerkers en ondersteunt haar klanten in hun digitale transformatie door het aanbieden van oplossingen op het vlak van ERP, cloud, security, en analytics. &lt;/p&gt;&lt;p dir="ltr"&gt;Je komt terecht in een kennisgedreven en familiale werkomgeving waar vakmanschap, samenwerking en klantgerichtheid centraal staan. Geen zin meer om als nummertje behandeld te worden? Dan vind je hier de omgeving die je zoekt! &lt;/p&gt;&lt;p dir="ltr"&gt;Momenteel zijn ze op zoek naar een SAP Consultant om het team te versterken!&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je analyseert en optimaliseert financiële bedrijfsprocessen bij klanten.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je implementeert en configureert SAP S/4HANA Finance &amp;amp; Controlling modules, inclusief FI, CO, productkosten, werkelijke kosten, materiaalgrootboek, planning en budgettering.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je begeleidt workshops en bepaalt de scope van de projecten &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je coacht junior collega's en deelt je kennis met veel plezier &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zet demo's op en ondersteunt verkoopactiviteiten &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;br /&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een bachelor- of masterdiploma met een economische of technische achtergrond, of gelijkwaardige ervaring.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Minimaal 5 jaar ervaring met SAP Finance &amp;amp; Controlling.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ervaring met S/4HANA-implementaties en kennis van Fiori.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Kennis van SAP BPC is een groot pluspunt.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een bruto maandsalaris dat kan variëren tussen de €3.500 - €5.500, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een premium bedrijfswagen die je helemaal zelf samenstelt. Je kiest bovendien uit premiummerken en geniet van een ongelimiteerde laadpas. Zo rijd jij zonder zorgen door heel het land.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een waaier aan extralegale voordelen zoals maaltijdcheques van €8 per gewerkte dag, hospitalisatie- en groepsverzekering volledig op kosten van de werkgever, een netto vergoeding en benefits @ work. Kleine extra's die schelen in jouw portemonnee. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bij deze organisatie bepaal jij zelf je koers. Je hebt de vrijheid om te kiezen met welke technologieën je aan de slag gaat. Of je nu wilt doorgroeien naar projectmanager, nieuwe modules wil leren of juist een echte expert wilt worden, de keuze ligt volledig bij jou!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Flexibiliteit troef, want jij kiest waar en wanneer je werkt. Naast je wekelijkse aanwezigheid bij de klant krijg je de vrijheid om te werken vanuit een prachtig kantoor te Wijnegem of vanuit jouw cosy home-office. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Genieten van zon, zee en strand of van de sneeuw doe je naar hartenlust dankzij jouw 32 vakantiedagen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot kom je terecht in een innovatieve en dynamische werkomgeving waar teamwork bevorderd wordt door teambuildings, sportactiviteiten, quizavonden en informele events. Hier heerst een vlakke structuur en warme sfeer, waar je geen nummer bent maar jouw stem echt telt!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71841637"/>
+    <published>2025-09-02T07:52:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71855090</id>
