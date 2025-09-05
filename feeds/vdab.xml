@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-05T12:58:40.484965+00:00</updated>
+  <updated>2025-09-05T14:41:06.838956+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71811488</id>
-    <title>Senior Azure BI &amp; Data Engineer (Datashift)</title>
-    <updated>2025-08-28T09:36:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Datashift (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Datashift is a fast-growing consultancy team with a focus on delivering solutions that answer business questions with data and facts. For one of our fastest growing practices, we are looking for a skilled &lt;strong&gt;Azure BI &amp;amp; Data Engineer&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Do you have at least&lt;strong&gt; 4 to 6 years of experience?&lt;/strong&gt; Do you love to work on projects and look at them from an end-to-end data perspective. Then we are delighted to receive your personal application and we’ll contact you for an interview and a (virtual) cup of coffee.&lt;/p&gt;&lt;strong&gt;Your responsibilities&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Leverage your Azure expertise to credibly translate customer needs into components and best practices within the Azure Data Platform.&lt;/li&gt;&lt;li&gt;Serve as the primary internal and external contact for specialized Azure expertise, with the opportunity to progress toward an Architect role.&lt;/li&gt;&lt;li&gt;Design and build data solutions within the Azure framework, making the trade-off between cost and maintainability.&lt;/li&gt;&lt;li&gt;You thrive on collaborating with colleagues and leverage your expertise to maximize your impact within our organization.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stay up to date with technical developments, particularly those related to Azure, and quickly identify new features that can add value to data solutions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Your qualifications&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;You have 4+ years of hands-on experience in the Microsoft BI ecosystem (Azure Data Factory, Azure Synapse Analytics, Databricks, Microsoft Fabric, Analysis Services en SQL Server Integration Services), preferably within an Azure cloud environment.&lt;/li&gt;&lt;li&gt;Demonstrated experience in building and optimizing ETL/ELT data pipelines and integrating data from diverse sources (also api’s).&lt;/li&gt;&lt;li&gt;Deep understanding of modern data architecture concepts, including Data Warehouses, the Kimball methodology, and Data Lakehouses, with hands-on experience and best practices in these areas.&lt;/li&gt;&lt;li&gt;&lt;p&gt;SQL is your Swiss army knife for data transformation, and you’re also well-versed in Python to tackle any data challenge that comes your way.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Our offer&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;A highly entrepreneurial team;&lt;/li&gt;&lt;li&gt;A no-nonsense working environment with a focus on high quality;&lt;/li&gt;&lt;li&gt;Excellent terms of employment (including company car, fuel card, meal vouchers &amp;amp; bonus);&lt;/li&gt;&lt;li&gt;Fringe benefits including continuous training that builds and extends professional, technical and management skills in all areas;&lt;/li&gt;&lt;li&gt;The opportunity to grow together with Datashift in terms of capabilities as well as financial benefits.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71811488"/>
-    <published>2025-08-28T09:36:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71824486</id>
     <title>Senior Software Engineer (Kingfisher IT)</title>
@@ -4184,5 +4176,106 @@ Join a highly skilled technology team driving innovation in one of Europe's most
 &lt;br /&gt; Je krijgt een aanstelling in een statutair ambt voor 100% ten vroegste vanaf 01-10-2025 en voor onbepaalde duur. &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71869941"/>
     <published>2025-09-05T10:22:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71874089</id>
+    <title>Account Expert / Business Analist (Randstad Digital)</title>
+    <updated>2025-09-05T15:18:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als &lt;b&gt;Account Expert / Business Analist&lt;/b&gt; ben je het centrale aanspreekpunt voor je klanten als het gaat om &lt;b&gt;IT-strategie, -roadmap en de opstart en opvolging van IT-projecten&lt;/b&gt;. Je beheert de relatie en fungeert als escalatiepunt.&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Je begeleidt klanten bij strategische en IT-vraagstukken.
+&lt;/li&gt;
+
+&lt;li&gt;Je stelt meerjarenplannen en IT-roadmaps op.
+&lt;/li&gt;
+
+&lt;li&gt;Je maakt overtuigende en realistische businesscases, van functionele oplossingen tot een praktische uitvoering.
+&lt;/li&gt;
+
+&lt;li&gt;Je bent verantwoordelijk voor de heldere rapportage van de projectvoortgang.
+&lt;/li&gt;
+
+&lt;li&gt;Je beheert meerdere projecten en cases tegelijkertijd.
+&lt;/li&gt;
+
+&lt;li&gt;Je bent het aanspreekpunt voor en onderhoudt de dialoog met alle stakeholders.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;b&gt;Opleiding en ervaring&lt;/b&gt;&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Een hogere opleiding (Master of Bachelor) met een technische, bedrijfseconomische of vergelijkbare achtergrond, of gelijkwaardig door ervaring.
+&lt;/li&gt;
+
+&lt;li&gt;Minimaal 5 jaar ervaring als diepgaand projectleider of businessanalist in een trekkende rol bij diverse ICT-projecten.
+&lt;/li&gt;
+
+&lt;li&gt;Minimaal 8 jaar ervaring met algemene bedrijfsvoering, toegepast op ICT.
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met het ontwikkelen en optimaliseren van bedrijfsprocessen (BPM).
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met het opstellen van user stories is een pluspunt.
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met het opmaken van roadmaps en businesscases is een pluspunt.
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met analyse tools en technieken is een pluspunt.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;b&gt;Vaardigheden en kennis&lt;/b&gt;&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Je bent in staat om te schakelen tussen de details en het overzicht te bewaren.
+&lt;/li&gt;
+
+&lt;li&gt;Je beschikt over uitstekende communicatieve en empathische vaardigheden en bent een flexibele teamspeler.
+&lt;/li&gt;
+
+&lt;li&gt;Je hebt de kennis van en ervaring met stakeholdermanagement.
+&lt;/li&gt;
+
+&lt;li&gt;Je kunt overtuigend en inspirerend presenteren voor het management.
+&lt;/li&gt;
+
+&lt;li&gt;Je hebt kennis van de verschillende facetten van projectmanagement (kosten, planning, coördinatie, schattingen).
+&lt;/li&gt;
+
+&lt;li&gt;Je hebt kennis van of ervaring met de analyse en begeleiding van integratie- en ontwikkelprojecten.
+&lt;/li&gt;
+
+&lt;li&gt;Je bent bedreven in Business Engineering en het opstellen van functionele oplossingen die aansluiten bij zowel de business als de technologie.
+&lt;/li&gt;
+
+&lt;li&gt;Je hebt een duidelijke visie op technologische ontwikkelingen binnen je vakgebied.
+&lt;/li&gt;
+
+&lt;li&gt;Je hebt goede kennis van MS Office-pakketten.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;b&gt;Taalvereiste&lt;/b&gt;&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Nederlands: CEFR-niveau C2 (moedertaalniveau).
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71874089"/>
+    <published>2025-09-05T15:18:04+00:00</published>
   </entry>
 </feed>
