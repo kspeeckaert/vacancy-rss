@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-05T20:44:00.659091+00:00</updated>
+  <updated>2025-09-05T22:39:57.245978+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1750,6 +1750,35 @@
     <published>2025-06-12T19:58:33+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71289904</id>
+    <title>Senior Python Developer (LGA IT)</title>
+    <updated>2025-06-12T10:23:08+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw takenpakket:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Technische aansturing van migratieprojecten: van initi&amp;euml;le analyse tot effectieve implementatie van gemoderniseerde systemen.&lt;/li&gt;&lt;li&gt;Actieve betrokkenheid bij het ontwerp en de bouw van nieuwe modulaire softwarecomponenten, interfaces en integraties.&lt;/li&gt;&lt;li&gt;Coaching en kennisdeling binnen het ontwikkelteam om technische groei te verzekeren.&lt;/li&gt;&lt;li&gt;Samenwerking met dataspecialisten om innovatieve oplossingen rond AI en machine learning te integreren in bestaande toepassingen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Minstens 7 jaar ervaring in professionele Python-ontwikkeling&lt;/li&gt;&lt;li&gt;Ervaring met softwaremigraties, architectuur en coaching&lt;/li&gt;&lt;li&gt;Brede kennis van webtechnologie, API&amp;rsquo;s, data-analyse en moderne integraties&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p class="p1"&gt;&lt;strong&gt;Wat je via LGA IT mag verwachten:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="ul1"&gt;
+&lt;li class="li2"&gt;Een uitdagende en verantwoordelijke functie in een organisatie met maatschappelijke relevantie.&lt;/li&gt;
+&lt;li class="li2"&gt;Een stimulerende werkomgeving waar jouw technische kennis en visie volop benut en gewaardeerd worden.&lt;/li&gt;
+&lt;li class="li2"&gt;Hoogwaardige bedrijfswagen (type SUV) met volledig pakket: brandstof, onderhoud en verzekering inbegrepen.&lt;/li&gt;
+&lt;li class="li2"&gt;Flexibele werkmogelijkheden met passende thuiswerkvergoeding en maandelijkse onkostenvergoeding.&lt;/li&gt;
+&lt;li class="li2"&gt;Moderne tools: laptop, smartphone inclusief abonnement.&lt;/li&gt;
+&lt;li class="li2"&gt;Aantrekkelijke verloning aangevuld met maaltijdcheques.&lt;/li&gt;
+&lt;li class="li2"&gt;Fulltime tewerkstelling met extra ADV-verlofdagen.&lt;/li&gt;
+&lt;li class="li2"&gt;Solide extra-legale voordelen waaronder hospitalisatie- en groepsverzekering.&lt;/li&gt;
+&lt;li class="li2"&gt;Professionele werksfeer met korte communicatielijnen en ruimte om initiatief te nemen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="p2" style="text-align: center;"&gt;Solliciteer exclusief via LGA IT&lt;br /&gt;Stuur je cv of LinkedIn-profiel naar Younes Marouan via &lt;strong&gt;younes@lga.jobs&lt;/strong&gt; of bel discreet op &lt;strong&gt;09 352 01 06&lt;/strong&gt;.&lt;br /&gt;&lt;strong&gt;Discretie verzekerd.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p4" style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p5"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p4"&gt;&amp;nbsp;&lt;/p&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71289904"/>
+    <published>2025-06-12T10:23:08+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71303781</id>
     <title>SAP FICO Consultant (Kwery)</title>
     <updated>2025-06-13T16:19:35+00:00</updated>
@@ -2631,17 +2660,9 @@ Regelmatige sociale activiteiten zoals barbecues, boottrips en teamuitjes&lt;p&g
     <published>2025-07-31T14:13:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71624462</id>
-    <title>Senior Full-Stack .Net Developer (Kwery)</title>
-    <updated>2025-07-31T10:40:33+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je ontwerpt en ontwikkelt schaalbare full-stack oplossingen in .NET en React, bouwt API's en externe koppelingen, en bewaakt codekwaliteit en architectuur via best practices.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je beheert en optimaliseert de hybride infrastructuur (private cloud &amp;amp; Azure), werkt aan Microsoft Fabric-integraties en zorgt voor veilige, compliant IT-processen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je ontwikkelt een technische roadmap in lijn met de bedrijfsstrategie, werkt nauw samen met andere teams en fungeert als aanspreekpunt voor management en externe IT-partners.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt reeds enkele jaren ervaring achter de rug als full-stack .Net developer. We mikken op een minimum van 6 jaar. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Hierdoor heb je een sterke kennis van .Net C#, SQL, en React. Verder heb je ervaring met cloudoplossingen in Microsoft Azure, API-ontwikkeling en CI/CD pipelines. Kennis van Microsoft Fabric is alvast mooi meegenomen!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief in het Nederlands en Engels, denk je graag mee na op hoger niveau over strategische keuzes en heb je een echte hands-on mentaliteit. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4.000 - €5.500, afhankelijk van je kennis en ervaring. Bovendien krijg je de kans om binnen deze organisatie door te groeien, zowel horizontaal als verticaal!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met ongelimiteerde laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een volledige pakket aan extralegale voordelen zoals maaltijdcheques, netto vergoeding, uitgebreide verzekeringen en een gsm abonnement. Ook een mooi opleidingsbudget zodat jouw ontwikkeling nooit stilstaat. Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een ideale work-life balance dankzij 2 thuiswerkdagen die je vrij kan kiezen en flexibele uren voor optimale efficiëntie. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;Ruimte voor eigen initiatief, met maximale autonomie in een cultuur die gebaseerd is op vertrouwen. Met de vrijheid om richting te geven aan technologie en te innoveren.&lt;br /&gt; &lt;/li&gt;&lt;li&gt;Tot slot kom je terecht in een warme onderneming met korte communicatielijnen, dat volop de kaart trekt van innovatie! &lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71624462"/>
-    <published>2025-07-31T10:40:33+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71624973</id>
     <title>Identity Security Architect (Cronos)</title>
-    <updated>2025-08-05T03:01:15+00:00</updated>
+    <updated>2025-09-06T00:01:19+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR MISSION&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Together we’ll shape client architectures, lead workshops, review complex requirements, and define security blueprints.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;As a IAM Architect at Upright Security, you will:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design secure identity architectures tailored to client environments.&lt;/li&gt;&lt;li&gt;Translate business requirements into clear, actionable technical solutions.&lt;/li&gt;&lt;li&gt;Work with modern identity platforms (e.g. Okta, Auth0, SailPoint).&lt;/li&gt;&lt;li&gt;Collaborate with internal teams and client stakeholders to drive successful outcomes.&lt;/li&gt;&lt;li&gt;Supporting our managed service ambitions and SaaS delivery model&lt;/li&gt;&lt;li&gt;Helping define technical reference architectures and reusable components&lt;/li&gt;&lt;li&gt;Stay up to date with industry tends and emerging technologies in the IAM space.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We’re looking for someone who combines deep technical knowledge with a strategic mindset, and thrives in a dynamic, collaborative environment.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You bring:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years of experience in IT Security or IAM/IGA&lt;/li&gt;&lt;li&gt;Strong grip on IAM principles: authentication, authorization, provisioning, federation, and more&lt;/li&gt;&lt;li&gt;Hands-on experience with platforms like Okta, Azure AD/EntraID, SailPoint, etc.&lt;/li&gt;&lt;li&gt;A solid architecture mindset – patterns, integration strategies, roadmap thinking&lt;/li&gt;&lt;li&gt;Familiarity with standards: OAuth 2.0, OpenID Connect, SAML, SCIM, LDAP&lt;/li&gt;&lt;li&gt;Strong communication skills in English; Dutch or French is a big plus&lt;/li&gt;&lt;li&gt;Bonus: Background in consulting or pre-sales&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;IAM&lt;/p&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;p&gt;IGA&lt;/p&gt;&lt;/li&gt;
@@ -2650,6 +2671,14 @@ Regelmatige sociale activiteiten zoals barbecues, boottrips en teamuitjes&lt;p&g
 &lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Our experienced team will happily adopt you in their midst during brainstorming &amp; design sessions – whether it is at the coffee machine, a meeting room, the customer’s offices or one of our favorite lunch locations. Warning: our drive is addictive!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We believe in flexibility – with structure. You’ll spend two days a week at our HQ in Kontich, collaborating face-to-face with your colleagues, and the other three days can be remote—wherever you work best.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71624973"/>
     <published>2025-07-31T11:31:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71624462</id>
+    <title>Senior Full-Stack .Net Developer (Kwery)</title>
+    <updated>2025-07-31T10:40:33+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je ontwerpt en ontwikkelt schaalbare full-stack oplossingen in .NET en React, bouwt API's en externe koppelingen, en bewaakt codekwaliteit en architectuur via best practices.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je beheert en optimaliseert de hybride infrastructuur (private cloud &amp;amp; Azure), werkt aan Microsoft Fabric-integraties en zorgt voor veilige, compliant IT-processen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je ontwikkelt een technische roadmap in lijn met de bedrijfsstrategie, werkt nauw samen met andere teams en fungeert als aanspreekpunt voor management en externe IT-partners.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt reeds enkele jaren ervaring achter de rug als full-stack .Net developer. We mikken op een minimum van 6 jaar. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Hierdoor heb je een sterke kennis van .Net C#, SQL, en React. Verder heb je ervaring met cloudoplossingen in Microsoft Azure, API-ontwikkeling en CI/CD pipelines. Kennis van Microsoft Fabric is alvast mooi meegenomen!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief in het Nederlands en Engels, denk je graag mee na op hoger niveau over strategische keuzes en heb je een echte hands-on mentaliteit. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4.000 - €5.500, afhankelijk van je kennis en ervaring. Bovendien krijg je de kans om binnen deze organisatie door te groeien, zowel horizontaal als verticaal!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met ongelimiteerde laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een volledige pakket aan extralegale voordelen zoals maaltijdcheques, netto vergoeding, uitgebreide verzekeringen en een gsm abonnement. Ook een mooi opleidingsbudget zodat jouw ontwikkeling nooit stilstaat. Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een ideale work-life balance dankzij 2 thuiswerkdagen die je vrij kan kiezen en flexibele uren voor optimale efficiëntie. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;Ruimte voor eigen initiatief, met maximale autonomie in een cultuur die gebaseerd is op vertrouwen. Met de vrijheid om richting te geven aan technologie en te innoveren.&lt;br /&gt; &lt;/li&gt;&lt;li&gt;Tot slot kom je terecht in een warme onderneming met korte communicatielijnen, dat volop de kaart trekt van innovatie! &lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71624462"/>
+    <published>2025-07-31T10:40:33+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71642936</id>
@@ -2830,109 +2859,6 @@ Regelmatige sociale activiteiten zoals barbecues, boottrips en teamuitjes&lt;p&g
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je bent verantwoordelijk voor het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen en juniors te coachen.&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in Java&lt;/li&gt;&lt;li&gt;Kennis van een JavaScript framework: Angular, React, Vue...&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br&gt;&lt;br/&gt;&lt;br/&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71667812"/>
     <published>2025-08-06T17:36:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71665450</id>
-    <title>ICT Talents - Senior Oracle APEX Developer (ICT Talents)</title>
-    <updated>2025-08-07T10:18:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ICT Talents (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Over de organisatie&lt;/strong&gt;&lt;/p&gt;
-
-Je werkt voor een organisatie die IT inzet om logistieke processen veilig en efficiënt te ondersteunen. De interne IT-afdeling bouwt applicaties die het werk van duizenden collega's en partners mogelijk maken. Binnen deze stabiele omgeving krijg je ruimte voor technische diepgang én functionele impact.&lt;p&gt;&lt;strong&gt;Over de functie&lt;/strong&gt;&lt;/p&gt;
-
-Als Senior Oracle APEX Developer ontwikkel je nieuwe toepassingen en optimaliseer je bestaande bedrijfsapplicaties. Je denkt mee over technische keuzes en bouwt mee aan een toekomstgerichte IT-infrastructuur. Samen met collega's zorg je voor veilige, stabiele en schaalbare oplossingen binnen een boeiend operationeel kader.&lt;p&gt;&lt;strong&gt;Jouw taken&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Ontwerpen en ontwikkelen van applicaties in Oracle APEX
-&lt;/li&gt;
-
-&lt;li&gt;Samenwerken met analisten en eindgebruikers om noden te vertalen naar oplossingen
-&lt;/li&gt;
-
-&lt;li&gt;Integreren van APEX-applicaties met interne en externe systemen
-&lt;/li&gt;
-
-&lt;li&gt;Bouwen van dashboards, rapporten en analysetools voor data-inzicht
-&lt;/li&gt;
-
-&lt;li&gt;Schrijven en onderhouden van efficiënte PL/SQL-code
-&lt;/li&gt;
-
-&lt;li&gt;Analyseren en oplossen van performanceproblemen en bugs
-&lt;/li&gt;
-
-&lt;li&gt;Toepassen van best practices en interne ontwikkelrichtlijnen
-&lt;/li&gt;
-
-&lt;li&gt;Ondersteunen van junior collega's binnen het team
-&lt;/li&gt;
-
-&lt;li&gt;Meewerken aan de succesvolle oplevering van IT-projecten
-&lt;/li&gt;
-
-&lt;li&gt;Opvolgen van evoluties binnen het Oracle APEX-ecosysteem
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-
-&lt;li&gt;Bachelor in Informatica of gelijkwaardig door ervaring
-&lt;/li&gt;
-
-&lt;li&gt;Minstens 5 jaar ervaring in een gelijkaardige functie
-&lt;/li&gt;
-
-&lt;li&gt;Grondige kennis van Oracle Database, APEX en PL/SQL
-&lt;/li&gt;
-
-&lt;li&gt;Ervaring met Oracle Forms is een plus
-&lt;/li&gt;
-
-&lt;li&gt;Basiskennis van HTML, CSS, JavaScript of JQuery is een meerwaarde
-&lt;/li&gt;
-
-&lt;li&gt;Sterk in analyse en probleemoplossend denken
-&lt;/li&gt;
-
-&lt;li&gt;Je werkt zelfstandig én functioneert goed in teamverband
-&lt;/li&gt;
-
-&lt;li&gt;Je communiceert helder met technische en niet-technische collega's
-&lt;/li&gt;
-
-&lt;li&gt;Je plant je werk efficiënt en bewaakt deadlines
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;
-
-Je stapt in de wonderlijke wereld van een groeiend IT-consultancybedrijf met een hart voor mensen. Verwacht geen koude IT-omgeving, maar eerder een gezellige, familiale sfeer waar jij als individu schittert als een eigenzinnige stukje code. Met al meer dan 15 jaar ervaring in onze rugzak, hebben we openheid, eerlijkheid en wederzijds respect tot kunst verheven. Bij ons geen 'one-shots', maar een duurzame relatie die langer meegaat dan een eindeloze loop in je code. Uiteraard voorzien we ook&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Een aantrekkelijk bruto maandloon tussen 4500 - 5500 euro
-&lt;/li&gt;
-
-&lt;li&gt;Maaltijdcheques
-&lt;/li&gt;
-
-&lt;li&gt;Een maandelijkse netto vergoeding
-&lt;/li&gt;
-
-&lt;li&gt;Bedrijfswagen &amp; tankkaart
-&lt;/li&gt;
-
-&lt;li&gt;GSM-abonnement
-&lt;/li&gt;
-
-&lt;li&gt;Hospitalisatieverzekering
-&lt;/li&gt;
-
-&lt;li&gt;Een informele werksfeer met ruimte voor eigen initiatief
-&lt;/li&gt;
-
-&lt;li&gt;Persoonlijke aandacht en begeleiding waardoor je de mogelijkheid hebt om jezelf te ontplooien, certificaten te halen en je -kennis te versterken
-&lt;/li&gt;
-
-&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71665450"/>
-    <published>2025-08-06T14:17:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71674995</id>
