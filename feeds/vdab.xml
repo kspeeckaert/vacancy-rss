@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-05T14:41:06.838956+00:00</updated>
+  <updated>2025-09-05T16:44:16.322868+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71824486</id>
-    <title>Senior Software Engineer (Kingfisher IT)</title>
-    <updated>2025-08-29T14:01:53+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Temse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Start bij deze Vlaamse tech scale-up waarvan hun eigen slimme software de ruggengraat vormt van een nichesector in België. Hier vind je geen logge structuren of eindeloze meetings, maar directe communicatielijnen, veel autonomie en ruimte voor echte technische finesse. Je werkt in team aan schaalbare applicaties die dagelijks het verschil maken. Als je op zoek bent naar betekenisvolle technologie zonder het corporate gedoe, dan is dit jouw plek.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je bouwt mee aan performante en gebruiksvriendelijke applicaties in .Net en Angular. Je ontwikkelt nieuwe features van A tot Z, met ruimte voor jouw technische inbreng en creativiteit in zowel front- als backend. Samen met het team denk je actief mee over architectuur, performance en schaalbaarheid. Daarnaast krijg je ownership over je projecten en ben je betrokken van idee tot release, met directe impact op duizenden gebruikers.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma in IT of gelijkaardig&lt;/li&gt;&lt;li&gt;Sterke werkervaring met .Net en Angular&lt;/li&gt;&lt;li&gt;Oplossingsgericht denkvermogen&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Start bij een warme omgeving waar je géén nummer bent en krijg:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Interessant brutoloon&lt;/li&gt;&lt;li&gt;Bedrijfswagen + laadkaart&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Groepsverzekering&lt;/li&gt;&lt;li&gt;Hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Internetvergoeding voor thuis&lt;/li&gt;&lt;li&gt;Smartphone + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk als je wil&lt;/li&gt;&lt;li&gt;Extern opleidingsbudget&lt;/li&gt;&lt;li&gt;Tot 31 vakantiedagen&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71824486"/>
-    <published>2025-08-29T14:01:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71855028</id>
     <title>Projectcoördinator Geodata &amp; ICT (KS Consulting Belgium)</title>
@@ -2590,6 +2582,14 @@ Regelmatige sociale activiteiten zoals barbecues, boottrips en teamuitjes&lt;p&g
 &lt;p&gt; &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71621432"/>
     <published>2025-07-30T17:31:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71623814</id>
+    <title>Senior .NET Developer (Spilberg)</title>
+    <updated>2025-09-05T17:07:18+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Spilberg (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Locatie:&lt;/strong&gt; Antwerpen&lt;/p&gt;&lt;p&gt;Voor een organisatie in de regio Antwerpen zijn we op zoek naar een ervaren .NET Developer om een klein, agile team te versterken dat moderne, cloud-native webapplicaties ontwikkelt. Geen legacy-monsters, maar kwaliteitsvolle code die écht impact maakt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat je gaat doen:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontwikkelen van schaalbare webapplicaties in .NET (C#, ASP.NET Web API, MVC)&lt;/li&gt;&lt;li&gt;Werken in een moderne Azure Kubernetes (AKS) omgeving&lt;/li&gt;&lt;li&gt;Meedenken tijdens technische analyses, inschattingen en verbetertrajecten&lt;/li&gt;&lt;li&gt;Junior developers begeleiden en bijspringen waar nodig&lt;/li&gt;&lt;li&gt;Intensief samenwerken met analisten, testers en architecten binnen sprints&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sterke ervaring met C#, .NET en ASP.NET&lt;/li&gt;&lt;li&gt;Goede kennis van HTML/CSS/JavaScript en frameworks zoals Angular of Vue.js&lt;/li&gt;&lt;li&gt;Bekend met Azure DevOps, containers en AKS&lt;/li&gt;&lt;li&gt;Je begrijpt principes als SOLID, DRY en KISS&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vloeiend in het Nederlands (vereist), Engels is een plus&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat je ervoor krijgt:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bedrijfswagen of mobiliteitsbudget&lt;/li&gt;&lt;li&gt;38 vakantiedagen per jaar&lt;/li&gt;&lt;li&gt;Maaltijdcheques, bonus, hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Interne en externe opleidingen, mentorschap en kennisdelingsmomenten&lt;/li&gt;&lt;li&gt;Een mensgerichte, leercultuur waar samenwerking en ontwikkeling centraal staan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;Interesse of iemand in je netwerk die hierbij past? Laat het me weten!&amp;nbsp;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71623814"/>
+    <published>2025-07-31T09:47:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71627647</id>
