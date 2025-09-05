@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-05T10:21:54.147243+00:00</updated>
+  <updated>2025-09-05T12:37:19.457643+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -298,39 +298,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</cont
     <published>2025-07-24T11:39:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/bi-expert-power-bi-python-zorgsector/</id>
-    <title>BI Expert (Power BI/Python) - zorgsector</title>
-    <updated>2025-07-29T07:44:57+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: 9900, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-08 13:09:12+00:00, last change 2025-07-29 07:44:57+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-08 13:09:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Een toonaangevend en modern bedrijf in de zorgsector is op zoek naar een BI Expert om het data en rapporteringsbeleid mee vorm te geven. Binnen deze organisatie staat gezondheid centraal, en speelt data een steeds belangrijkere strategische rol. De impact van jouw werk is niet alleen tastbaar, maar ook van groot belang voor patiënten, zorgprofessionals en het bredere zorgsysteem.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als BI Expert ondersteun je verschillende diensten binnen de organisatie. Je brengt de behoeften van uiteenlopende afdelingen in kaart, zoals zorgdata, HR, financiën, aankoop, apotheek en capaciteit. Op basis daarvan verzamel en modelleer je data, en vertaal je deze naar overzichtelijke dashboards die waardevolle inzichten bieden voor gefundeerde besluitvorming.&lt;br&gt;
-&lt;br&gt;
-Je werkt dataprojecten uit van a tot z: je voert analyses uit, verzamelt relevante data en ontwikkelt op maat gemaakte dashboards. Voor grote ETL-processen werk je samen met een externe partner, terwijl je kleinere ETL’s zelfstandig opzet en onderhoudt. Je organiseert workshops met stakeholders en weet technische informatie te vertalen naar begrijpelijke visualisaties en aanbevelingen. Je draagt actief bij aan diverse projecten, zoals het optimaliseren van medische data, voorraadbeheer van apotheekproducten, HR-dashboarding en FTE-monitoring.&lt;br&gt;
-&lt;br&gt;
-Hiervoor maak je gebruik van tools zoals SQL, SSIS, Python, Airflow en Docker voor ETL-processen, en Power BI, Cognos en SSAS voor visualisatie en rapportering.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br&gt;
-•    Je beschikt over een masterdiploma.&lt;br&gt;
-•    Je hebt bij voorkeur al een eerste werkervaring achter de rug als BI Analist.&lt;br&gt;
-•    Je hebt grondige kennis van SQL en ervaring met Power BI.&lt;br&gt;
-•    Je hebt een sterk analytisch denkvermogen en een passie voor data-analyse.&lt;br&gt;
-•    Je kan zelfstandig en autonoom werken, met oog voor detail en kwaliteit.&lt;br&gt;
-•    Ervaring in de zorg/medische sector is een plus. &lt;br&gt;
-•    Je communiceert vlot en professioneel in het Nederlands.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Deze organisatie biedt een mensgerichte werkomgeving met ruimte voor initiatief en groei. Je werkt hybride (2 dagen thuis) en krijgt toegang tot uitgebreide opleidingen en coaching. Je komt terecht in een warme, collegiale cultuur met aandacht voor welzijn, flexibiliteit en een goede werk-privébalans. Bovendien draag je rechtstreeks bij aan maatschappelijk relevante en duurzame zorg, waarmee je echt een verschil maakt.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Ben jij de BI Expert die ik zoek? &lt;br&gt;
-Stuur dan nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie. &lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/bi-expert-power-bi-python-zorgsector/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-07-08T13:09:12+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cartiere.be/jobs/data-analist-3/</id>
     <title>Data Analist</title>
     <updated>2025-07-24T16:15:04+00:00</updated>
@@ -400,44 +367,6 @@ Stuur nu jouw CV naar natacha@cartiere.be en bel 02/669.14.19 voor meer informat
     <category term="Technical Lead"/>
     <category term="Management"/>
     <published>2019-08-21T12:34:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/teamlead-zorgdata/</id>
-    <title>Teamlead Zorgdata </title>
-    <updated>2025-07-15T14:15:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-08 13:06:58+00:00, last change 2025-07-15 14:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-08 13:06:58+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Een toonaangevend en modern bedrijf in de zorgsector is op zoek naar een Teamlead Zorgdata om het departement Zorgdata aan te sturen. Binnen deze organisatie staat gezondheid centraal, en speelt data een steeds belangrijkere strategische rol.&lt;br&gt;
-In deze sleutelpositie verbind je data, mensen en processen met elkaar in een context die rechtstreeks bijdraagt aan kwalitatieve en correcte zorgverlening. De impact van jouw werk is niet alleen tastbaar, maar ook van groot belang voor patiënten, zorgprofessionals en het bredere zorgsysteem.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-In deze rol ben je verantwoordelijk voor de strategische aansturing van een team dat zich toelegt op de codering van medische data. Je focust op het verhogen van de efficiëntie en het versterken van een positieve teamsfeer, waarin open communicatie en samenwerking centraal staan. Je brengt structuur door duidelijke werkafspraken en een doordachte planning te implementeren.&lt;br&gt;
-&lt;br&gt;
-Als coach en motivator ondersteun je je teamleden, stimuleer je samenwerking en bewaak je belangrijke deadlines richting externe partners. Daarnaast zorg je voor een correcte vertaling van zorgdata naar bruikbare en heldere rapportering.&lt;br&gt;
-&lt;br&gt;
-Je beschikt over performantiegegevens die je toelaten om snel inzicht te krijgen in de werking van het team en gericht impact te realiseren. In deze functie werk je nauw samen met andere departementen en maak je deel uit van het bredere managementteam.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je beschikt over een masterdiploma.
-	&lt;li&gt;Je hebt leidinggevende ervaring, bij voorkeur in een datagedreven omgeving.
-	&lt;li&gt;Je hebt relevante ervaring binnen de medische of zorgsector.
-	&lt;li&gt;Je weet hoe je teams motiveert, aanstuurt en laat groeien.
-	&lt;li&gt;Je bent communicatief sterk, assertief en werkt op een gestructureerde en planmatige manier.
-	&lt;li&gt;Je spreekt vloeiend Nederlands.
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Deze organisatie biedt een mensgerichte werkomgeving met ruimte voor initiatief en groei. Je werkt hybride (2 dagen thuis) en krijgt toegang tot uitgebreide opleidingen en coaching. Je komt terecht in een warme, collegiale cultuur met aandacht voor welzijn, flexibiliteit en een goede werk-privébalans. Bovendien draag je rechtstreeks bij aan maatschappelijk relevante en duurzame zorg, waarmee je echt een verschil maakt.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Ben jij de Teamlead die ik zoek? &lt;br&gt;
-Stuur dan nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie. &lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/teamlead-zorgdata/"/>
-    <category term="Management"/>
-    <published>2025-07-08T13:06:58+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/senior-bi-consultant/</id>
