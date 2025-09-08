@@ -2,25 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-08T06:53:07.519045+00:00</updated>
+  <updated>2025-09-08T08:48:24.532298+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71793278</id>
-    <title>Java Solutions Analyst (Kingfisher IT)</title>
-    <updated>2025-08-26T10:17:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een softwarebedrijf in het centrum van Antwerpen zijn we op zoek naar een Java Solutions Analyst. Het bedrijf heeft zelf, van scratch, een op maat gemaakte software ontwikkeld die internationaal wordt gebruikt. &lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Als Java Solutions Analyst kom je terecht in een Agile-omgeving binnen een hoog aangeschreven IT-team. Je overlegt met externe stakeholders om hun requirements te analyseren en vertaalt deze naar functionele oplossingen binnen de software. Daarbij optimaliseer je bestaande features op basis van hun noden of implementeer je nieuwe functionaliteiten.&lt;/p&gt;&lt;p&gt;Je werkt met Java en Spring Boot, en stelt API’s op om de software te integreren binnen applicatielandschap van klanten.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor in IT of gelijkwaardige ervaring.&lt;/li&gt;&lt;li&gt;Ervaring met analyse, development en/of communicatie is een sterke troef.&lt;/li&gt;&lt;li&gt;Je bent communicatief zeer sterk en gaat vlot in gesprek over technische behoeften.&lt;/li&gt;&lt;li&gt;Je hebt kennis van Java, Spring Boot en API-integraties.&lt;/li&gt;&lt;li&gt;Je spreekt vloeiend Nederlands en Engels.&lt;/li&gt;&lt;li&gt;Je bent analytisch ingesteld en denkt probleemoplossend.&lt;/li&gt;&lt;li&gt;Je combineert graag je technische expertise met je communicatieve vaardigheden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, aangevuld met nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques (€ 8)&lt;/li&gt;&lt;li&gt;Een uitgebreide hospitalisatieverzekering (inclusief ambulante zorgen)&lt;/li&gt;&lt;li&gt;Groepsverzekering&lt;/li&gt;&lt;li&gt;Flexibele mobiliteitsopties&lt;/li&gt;&lt;li&gt;Laptop, smartphone én abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen&lt;/li&gt;&lt;li&gt;Mogelijkheid tot 80% thuiswerk&lt;/li&gt;&lt;li&gt;Een vlot bereikbare locatie op slechts 5 minuten wandelen van station Antwerpen-Centraal&lt;/li&gt;&lt;li&gt;De kans om mee te bouwen aan internationaal gebruikte, op maat gemaakte software&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71793278"/>
-    <published>2025-08-26T10:17:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71811488</id>
-    <title>Senior Azure BI &amp; Data Engineer (Datashift)</title>
-    <updated>2025-08-28T09:36:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Datashift (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Datashift is a fast-growing consultancy team with a focus on delivering solutions that answer business questions with data and facts. For one of our fastest growing practices, we are looking for a skilled &lt;strong&gt;Azure BI &amp;amp; Data Engineer&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Do you have at least&lt;strong&gt; 4 to 6 years of experience?&lt;/strong&gt; Do you love to work on projects and look at them from an end-to-end data perspective. Then we are delighted to receive your personal application and we’ll contact you for an interview and a (virtual) cup of coffee.&lt;/p&gt;&lt;strong&gt;Your responsibilities&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Leverage your Azure expertise to credibly translate customer needs into components and best practices within the Azure Data Platform.&lt;/li&gt;&lt;li&gt;Serve as the primary internal and external contact for specialized Azure expertise, with the opportunity to progress toward an Architect role.&lt;/li&gt;&lt;li&gt;Design and build data solutions within the Azure framework, making the trade-off between cost and maintainability.&lt;/li&gt;&lt;li&gt;You thrive on collaborating with colleagues and leverage your expertise to maximize your impact within our organization.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stay up to date with technical developments, particularly those related to Azure, and quickly identify new features that can add value to data solutions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Your qualifications&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;You have 4+ years of hands-on experience in the Microsoft BI ecosystem (Azure Data Factory, Azure Synapse Analytics, Databricks, Microsoft Fabric, Analysis Services en SQL Server Integration Services), preferably within an Azure cloud environment.&lt;/li&gt;&lt;li&gt;Demonstrated experience in building and optimizing ETL/ELT data pipelines and integrating data from diverse sources (also api’s).&lt;/li&gt;&lt;li&gt;Deep understanding of modern data architecture concepts, including Data Warehouses, the Kimball methodology, and Data Lakehouses, with hands-on experience and best practices in these areas.&lt;/li&gt;&lt;li&gt;&lt;p&gt;SQL is your Swiss army knife for data transformation, and you’re also well-versed in Python to tackle any data challenge that comes your way.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Our offer&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;A highly entrepreneurial team;&lt;/li&gt;&lt;li&gt;A no-nonsense working environment with a focus on high quality;&lt;/li&gt;&lt;li&gt;Excellent terms of employment (including company car, fuel card, meal vouchers &amp;amp; bonus);&lt;/li&gt;&lt;li&gt;Fringe benefits including continuous training that builds and extends professional, technical and management skills in all areas;&lt;/li&gt;&lt;li&gt;The opportunity to grow together with Datashift in terms of capabilities as well as financial benefits.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71811488"/>
-    <published>2025-08-28T09:36:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71824486</id>
     <title>Senior Software Engineer (Kingfisher IT)</title>
@@ -1132,66 +1116,6 @@
 &lt;li&gt;Een goed salaris en/of bedrijfswagen&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/70834702"/>
     <published>2025-04-09T21:37:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/70837083</id>
-    <title>Ervaren Projectleider voor ICT Infrastructuurprojecten (Wonen in Vlaanderen) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2025-08-11T09:33:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Inleiding&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Voor het Agentschap Wonen in Vlaanderen zijn we op zoek naar een ervaren ICT projectleider. Je wordt verantwoordelijk voor het correct en tijdig opleveren van één of enkele projecten, afhankelijk van de noden op een bepaald moment.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Waar kom je terecht? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Wonen in Vlaanderen is het Vlaamse agentschap dat instaat voor het optimaal organiseren van wonen in het Vlaamse gewest. Wij willen – samen met onze partners – kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen mogelijk maken voor alle inwoners van Vlaanderen, en dit voor zowel de Vlaamse woonmarkt in het algemeen als voor sociale woningen in het bijzonder. Onze cultuur wordt gekenmerkt door samenwerken, kwaliteit, eigen initiatief, klantgerichtheid en integriteit.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Ons agentschap bestaat uit een 500-tal medewerkers verspreid over 6 vestigingen in de verschillende provincies. Jouw standplaats zal Brussel zijn, en meer bepaald de site van Tour &amp;amp; Taxis in de buurt van het Noordstation (al kan je ook veel van thuis uit werken).&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jij wordt een medewerker van de ICT-dienst, en meer bepaald van het team ‘Infrastructuur &amp;amp; Operations’, waar je typisch een (of enkele) grote(re) ICT infrastructuurprojecten coördineert waarin niet alleen interne ICT-ers maar typisch ook verschillende externe partijen betrokken zijn. De ICT-dienst is een 80-tal personen groot, waarvan 12 personen in het team ‘Infrastructuur &amp;amp; operations’; heel wat taken zijn echter ook uitbesteed aan ICT dienstenbedrijven.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat zal je moeten doen? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je neemt binnen de ICT-dienst de rol van infrastructuurprojectleider (projectcoördinator) op voor één of meer doorgaans technische ICT-projecten. Onder “project” verstaan we een eenmalig initiatief van beperkte duur (typisch 3 tot 12 maanden) met duidelijke scope en timing. Je bent typisch end-to-end verantwoordelijk voor het ICT-project (inclusief aspecten zoals communicatie, opleiding en change management indien nodig). Als projectleider wordt je waar nodig ondersteund door technische experten, ICT architecten en/of een testcoördinator.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je projecten situeren zich meestal in een technische ICT-context, maar doorkruisen soms ook software development projecten, waar je dan ook goed dient mee af te stemmen. Aangezien we een aantal ICT-diensten uitbesteed hebben, we gebruik maken van gemeenschappelijke technische bouwstenen binnen de Vlaamse overheid en we ook nauw samenwerken met de sector voor sociaal wonen en met lokale besturen, dien je dikwijls ook nauw samen te werken met externe partijen (leveranciers, Digitaal Vlaanderen, 
-&lt;span&gt; &lt;/span&gt;andere entiteiten binnen de Vlaamse overheid, woonmaatschappijen, …) om je projecten tot een goed einde te brengen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als projectleider zorg je voor de tijdige en correcte oplevering van je projecten. Dit behelst uiteraard de typische project management taken en verantwoordelijkheden zoals voorbereiden en plannen van projecten en coördineren van de uitvoering ervan, risicobeheer, kwaliteitsbeheer, rapportering, stakeholder management, budgetopvolging, aansturen leveranciers, etc.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je rapporteert hiërarchisch aan het diensthoofd ICT en – voor grote projecten – functioneel aan een projectstuurgroep. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Naar wie zijn wij op zoek? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;We zijn op zoek naar iemand met een gedegen ervaring als projectleider. Je hebt ervaring met complexe opdrachten, met een diversiteit aan stakeholders, doelgroepen en hun (soms tegengestelde) behoeften, en dit in een technische ICT-context. Wat is verder van belang?&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je hebt 
-&lt;span style="text-decoration: underline;"&gt;minimaal&lt;/span&gt; 5 jaar ervaring met het coördineren van kleinere én grotere, meer complexe projecten (met een doorlooptijd van 3 tot 18 maanden en budgetten van enkele 100-en K€ tot enkele M€) met een belangrijke technische ICT-component.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je bent goed vertrouwd met het toepassen van en gecertificeerd in minstens één projectmethodologie, bij voorkeur PRINCE2.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je hebt niet noodzakelijk ervaring in een technische ICT-rol, maar hebt zeker een grondige algemene kennis van ICT-technologie en -jargon (o.a. rond netwerk- en datacenterbeheer, ICT service management, data(base) management, private en public cloud computing, …) die je toelaat vlot met verschillende technische ICT-experten te communiceren – zowel systeemingenieurs en netwerkbeheerders als software engineers en ICT architecten.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je hebt een goede algemene kennis van methoden en technieken van softwareontwikkeling en -testing in een agile omgeving – volgens methoden zoals Scrum en SAFe.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je communiceert met verschillende doelgroepen en stakeholders op een professionele, eerlijke en open manier. Je hebt een verbindende en heldere communicatiestijl waardoor je een team kan aansturen, motiveren en een duidelijke richting geven, maar ook een gerespecteerde gesprekspartner bent met stakeholders op alle niveaus.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je bent een problem solver en een goede onderhandelaar; je lost eventuele conflicten rond tegengestelde belangen op een constructieve manier op.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Jij bent een enthousiaste, flexibele teamspeler die de samenwerking binnen de entiteit, werkgroepen en of projectgroepen kan stimuleren en motiveren. Het duidelijk stellen van een visie en die ook uitdragen is jou niet vreemd. Je durft ook de nodige beslissingen te nemen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring binnen de Vlaamse overheid is een pluspunt (maar geen noodzaak).&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Werken via Vlaanderen Connect. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je wordt tewerkgesteld via Vlaanderen Connect, de ICT strategische dienstverlener van de Vlaamse overheid. Bij Vlaanderen Connect. wordt je voor onbepaalde duur ter beschikking gesteld aan 
-&lt;strong&gt;Wonen in Vlaanderen&lt;/strong&gt;, hierbij ontvang je een contract van onbepaalde duur. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Werken voor Vlaanderen Connect betekent werken in een organisatie met boeiende en uitdagende IT functies én de mogelijkheid om mee je schouders te zetten in het uitbouwen van een digitaal en slagkrachtig Vlaanderen. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Verder biedt werken voor Vlaanderen Connect tal van voordelen. Je werkt bij entiteiten van de Vlaamse overheid of bij lokale besturen voor lange termijn. Zo kan je meewerken
-&lt;span&gt; &lt;/span&gt;aan een digitale en slagkrachtige overheid, voor burgers en ondernemers. Daarnaast kan je doorgroeien en jezelf ontwikkelen door het enorme potentieel aan uitdagende functies via Vlaanderen Connect bij de Vlaamse overheid en de lokale besturen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat kunnen wij jou bieden? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen Connect biedt een contract van onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een opleidingsbudget &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Mogelijkheid tot kinderopvang tijdens alle schoolvakanties aan een voordelig tarief. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Bij Vlaanderen Connect is een gezonde balans tussen werk en privé belangrijk: een werkweek van 38 uur, 28 dagen vakantie en extra wettelijke feestdagen (11/07, 02/11 en 15/11). Verder werken wij met flexibele werkuren en bieden wij ook de mogelijkheid tot thuiswerken.&lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/70837083"/>
-    <published>2025-04-10T09:43:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70895241</id>
@@ -3040,6 +2964,14 @@ Binnen deze rol werk je op het snijvlak van strategie, IT en operationele proces
     <published>2025-08-13T16:18:46+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71708117</id>
+    <title>Lead .NET Developer &amp;#8211; Moderne stack, impactvolle projecten, 2d onsite (Spilberg)</title>
+    <updated>2025-09-08T09:09:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Spilberg (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;br&gt;We zoeken geen unicorn. We zoeken "gewoon" een sterke .NET developer die technisch zijn of haar mannetje staat, graag ownership neemt en het verschil wil maken in een team waar de dingen volop in beweging zijn. Iemand die niet achterover leunt tot iemand anders het oplost, maar zelf zegt: "Geef hier, ik regel dat wel.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Wat je gaat doen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je bent de technische lead in een team van 10 à 12 mensen (mix van interne en externe devs).&lt;/li&gt;&lt;li&gt;Je codeert mee, reviewt, coacht, en vooral: je tilt het team naar een hoger niveau.&lt;/li&gt;&lt;li&gt;Je krijgt geen afgelijnd pad. Je maakt dat pad mee.&lt;/li&gt;&lt;li&gt;Je werkt mee aan projecten die ertoe doen: slimme energie-oplossingen, migraties naar Azure, interne B2B-tools, en meer.&lt;/li&gt;&lt;li&gt;Je spart met de PO, de Scrum Master, andere tech leads - en zorgt dat wat we bouwen technisch stevig staat.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Onze stack&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;.NET Core&lt;/li&gt;&lt;li&gt;Azure (App Services, Functions, DevOps Pipelines...)&lt;/li&gt;&lt;li&gt;DXP&lt;/li&gt;&lt;li&gt;CI/CD&lt;/li&gt;&lt;li&gt;Agile/Scrum (echte sprints, geen keukentafel-agile)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Over het bedrijf&lt;/strong&gt;&lt;br&gt;We houden het anoniem voor nu, maar weet dit:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je komt terecht in een bedrijf dat écht inzet op duurzame energie. Geen loze beloftes, wel impact.&lt;/li&gt;&lt;li&gt;IT is hier geen cost center, maar een motor voor groei en vernieuwing.&lt;/li&gt;&lt;li&gt;Je werkt samen met collega's die én hun werk serieus nemen, én zichzelf niet te serieus.&lt;/li&gt;&lt;li&gt;De cultuur is open, menselijk en gericht op samenwerken.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat we verwachten&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kent .NET Core als je broekzak en hebt ervaring met Azure.&lt;/li&gt;&lt;li&gt;Je hebt ervaring als lead of senior developer die naturally overneemt wanneer het nodig is.&lt;/li&gt;&lt;li&gt;Je weet wat clean code betekent, en nog belangrijker: je past het toe.&lt;/li&gt;&lt;li&gt;Je geeft en ontvangt feedback zonder drama.&lt;/li&gt;&lt;li&gt;Je denkt in oplossingen, niet in excuses.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Afwachten tot iemand anders beslist? Niet jouw stijl.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat je krijgt&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een vast contract met een aantrekkelijk verloningspakket&lt;/li&gt;&lt;li&gt;2 dagen per week in Mechelen, de rest remote&lt;/li&gt;&lt;li&gt;Veel vrijheid, weinig micromanagement&lt;/li&gt;&lt;li&gt;De kans om écht impact te maken binnen een groeiende IT-organisatie&lt;/li&gt;&lt;li&gt;Projecten die technisch uitdagend zijn én maatschappelijke waarde hebben&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;Klaar om impact te maken in een omgeving waar je technisch ownership kan nemen en waar je werk ertoe doet? Laat iets van je horen. Geen motivatiebrief nodig - stuur gewoon je CV, GitHub of wat je ook maar wil delen. Wij zijn benieuwd.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71708117"/>
+    <published>2025-08-13T09:00:54+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71707986</id>
     <title>DATA Manager (Compusearch)</title>
     <updated>2025-08-13T08:42:48+00:00</updated>
@@ -3490,7 +3422,7 @@ Join a highly skilled technology team driving innovation in one of Europe's most
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71802737</id>
     <title>Senior Business Intelligence Data Analyst (SQUARE CITY)</title>
-    <updated>2025-08-27T09:39:20+00:00</updated>
+    <updated>2025-09-08T08:56:29+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SQUARE CITY (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Verwacht het onverwachte voor jouw talent! &lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Square City werkt als trusted advisor voor profielen in office, logistiek, supply chain &amp;amp; engineering. &lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Wij bieden expertise, dialoog en continuïteit om als selectiepartner de juiste match te vinden voor onze klanten en kandidaten. Door ons uitgebreid netwerk van professionals en de persoonlijke benadering van onze consultants mag je rekenen op een kwalitatieve, duurzame en transparante samenwerking.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; 
 &lt;p&gt;We zijn op zoek naar een gemotiveerde 
 &lt;strong&gt; Senior Business Intelligence Data Analyst &lt;/strong&gt;bij een toonaangevende logistieke speler in Antwerpen. Als Business Intelligence Data Analyst ben je de motor achter heldere inzichten en slimme beslissingen. Je vertaalt complexe commerciële, operationele en financiële data naar duidelijke analyses, dashboards en acties. Afhankelijk van je ervaring, krijg je meer verantwoordelijkheid in coaching, innovatie en strategische projecten.&lt;/p&gt; 
@@ -3999,6 +3931,110 @@ Join a highly skilled technology team driving innovation in one of Europe's most
     <published>2025-09-05T11:07:13+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71875128</id>
+    <title>Talents4You - Senior Sales Administrator Telecom (ictjob.be)</title>
+    <updated>2025-09-08T10:18:13+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Wil je deel uitmaken van een toonaangevende speler in communicatieservices in België en een sleutelrol spelen in de samenwerking met een grote telecomoperator? Wij zoeken een ervaren Senior Sales Administrator om ons team te versterken en commerciële groei te ondersteunen bij strategische projecten.&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;
+Voorbereiden en structureren van commerciële presentaties, offertes en professionele documenten&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Zorgen voor de juistheid en actualisering van CRM-gegevens en commerciële documentatie&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Coördineren van interne goedkeuringsprocessen en commerciële validatie&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Beheren van aanbestedingen (RFP, RFQ, tenders) van A tot Z, met focus op conformiteit, kwaliteit en deadlines&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Onderhouden en ontwikkelen van de offertedatabase (templates, referenties, prijstabellen)&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Fungeren als schakel tussen Sales-, technische en juridische teams bij de voorbereiding van aanbiedingen&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;
+Minimaal 5 jaar ervaring in salesadministratie of Sales operations (bij voorkeur in een grootzakelijke omgeving)&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Ervaring in Telecom of communicatiediensten is een sterke troef&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Uitstekende organisatorische vaardigheden en het vermogen om meerdere prioriteiten tegelijk te beheren&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Vlotte beheersing van Nederlands, Frans en Engels (vereist)&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Zeer goede kennis van PowerPoint, Word, Excel en CRM-tools (Pipedrive is een pluspunt)&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Gestructureerd, zelfstandig, betrouwbaar en oplossingsgericht, met interesse in technische onderwerpen&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;
+Een strategische rol binnen een dynamisch en samenwerkend team&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+De kans om bij te dragen aan grootschalige projecten met een belangrijke telecomoperator&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een stimulerende omgeving waar expertise, innovatie en professionaliteit centraal staan&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71875128"/>
+    <published>2025-09-05T16:18:03+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71869941</id>
     <title>Network &amp; security engineer – 100% (AP Hogeschool Antwerpen)</title>
     <updated>2025-09-05T10:48:16+00:00</updated>
@@ -4154,5 +4190,13 @@ Join a highly skilled technology team driving innovation in one of Europe's most
 &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71874089"/>
     <published>2025-09-05T15:18:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71884172</id>
+    <title>Senior Network Manager (Pauwels Consulting)</title>
+    <updated>2025-09-08T09:14:27+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Pauwels Consulting (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Do you want to make an impact in a mission-critical environment where connectivity and reliability are key? We’re hiring a &lt;strong&gt;Senior Network Manager&lt;/strong&gt; to lead our network team, shape the roadmap, and ensure best-in-class connectivity for a complex, always-on organization.&lt;/p&gt;&lt;p&gt;This is a role where leadership, technical depth, and strategic thinking all come together.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lead &amp;amp; grow the team – coach, inspire, and develop network engineers; set objectives and run evaluations.&lt;/li&gt;&lt;li&gt;Own the network landscape – define standards, drive innovation, and ensure the network evolves with business needs.&lt;/li&gt;&lt;li&gt;Guarantee reliability &amp;amp; performance – oversee LAN, Wi-Fi, WAN, routing, switching, and monitoring to deliver a gold-standard user experience.&lt;/li&gt;&lt;li&gt;Strengthen network security – implement NAC, VPN, endpoint security, PKI, and IPAM; support vulnerability assessments and traffic monitoring.&lt;/li&gt;&lt;li&gt;Act as escalation point – handle complex incidents, coordinate with vendors, and provide senior-level support for connectivity issues.&lt;/li&gt;&lt;li&gt;Safeguard continuity – develop and test disaster recovery plans; keep documentation and SOPs up to date.&lt;/li&gt;&lt;li&gt;Manage projects &amp;amp; budgets – identify risks, set mitigation plans, and secure investments needed to achieve outcomes.&lt;/li&gt;&lt;li&gt;Collaborate across teams – align with architects, service managers, providers, and internal stakeholders.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What are we looking for?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;8+ years&lt;/strong&gt; of experience in large, business-critical networks, including &lt;strong&gt;team and project leadership&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Bachelor’s degree in IT (or equivalent experience).&lt;/li&gt;&lt;li&gt;Expertise across &lt;strong&gt;LAN, Wi-Fi, WAN, VXLAN, EVPN, SDN, routing &amp;amp; switching&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Experience with &lt;strong&gt;HPE Aruba (incl. core switching, ClearPass)&lt;/strong&gt;, &lt;strong&gt;F5 (LTM, APM, ASM)&lt;/strong&gt;, firewalls, WAF, proxy, NAC, VPN, and IPAM tools (e.g. EfficientIP).&lt;/li&gt;&lt;li&gt;Strong communication skills in &lt;strong&gt;Dutch &amp;amp; English&lt;/strong&gt; (French is a plus).&lt;/li&gt;&lt;li&gt;A customer-focused mindset, stress resilience, flexibility, and the ability to explain complex concepts clearly.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bonus points for &lt;strong&gt;optical (WDM)&lt;/strong&gt; or &lt;strong&gt;Atlassian tools (Jira, Confluence)&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What do we offer?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Location: Brussels area (hybrid)&lt;/p&gt;&lt;p&gt;Contract: Permanent or Freelance, full-time&lt;/p&gt;&lt;p&gt;Start date: ASAP, flexible with notice periods, long duration&lt;/p&gt;&lt;p&gt;Languages: &lt;strong&gt;Dutch &amp;amp; English&lt;/strong&gt; (French is a plus)&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71884172"/>
+    <published>2025-09-08T09:14:27+00:00</published>
   </entry>
 </feed>
