@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-08T12:40:17.920305+00:00</updated>
+  <updated>2025-09-08T14:21:53.484631+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -434,67 +434,6 @@ Je maakt deel uit van een mensgerichte organisatie waar samenwerking en innovati
     <link href="https://www.cartiere.be/jobs/senior-data-engineer/"/>
     <category term="Data Engineering"/>
     <published>2025-06-30T13:34:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineering-manager/</id>
-    <title>Data Engineering Manager</title>
-    <updated>2025-06-23T15:54:01+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Excelsiorlaan 4b, 1930, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-04-29 11:20:21+00:00, last change 2025-06-23 15:54:01+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-04-29 11:20:21+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;div style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;
-&lt;p style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;strong&gt;Oost-Vlaanderen - 2 dagen thuiswerk - freelance of in vast dienstverband&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
-Deze toonaangevende consultancyorganisatie is actief in diverse sectoren en verschillende Europese landen. Naast hun sterke expertise in business &amp;amp; finance zijn ze uitgegroeid tot een gevestigde waarde binnen data &amp;amp; analytics. Vandaag zetten ze volop in op de uitbouw van een Microsoft Fabric competence center. Om het huidige datateam te versterken, zijn ze op zoek naar een Data Engineering Manager.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br /&gt;
-Als Data Engineering Manager speel je een sleutelrol in de verdere ontwikkeling van het data engineering team. Je werkt nauw samen met de Data Analytics Manager en combineert technisch leiderschap met teamcoaching.&lt;br /&gt;
-&lt;br /&gt;
-Je verantwoordelijkheden:&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je bouwt het team verder uit, coacht medewerkers, zet groeipaden uit en zorgt ervoor dat ieders sterktes optimaal worden ingezet.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je ontwikkelt en optimaliseert moderne data-architecturen binnen de Microsoft stack (Azure, Fabric, Databricks, enz.).&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je analyseert klantbehoeften, bedenkt slimme oplossingen en waakt over een kwalitatieve implementatie.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je bouwt en onderhoudt data lakes, data warehouses, pipelines en ETL-processen in een Azure-omgeving.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je blijft op de hoogte van technologische evoluties en implementeert verbeteringen waar nodig.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;br /&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br /&gt;
-Ze kijken&amp;nbsp;uit naar&amp;nbsp;een dynamische en no-nonsense collega met energie, ambitie en zelfvertrouwen. De organisatie is actiegericht, schakelt snel en werkt in een vlakke structuur zonder politieke spelletjes. Je bent een natuurlijke leider met strategisch inzicht en sterke communicatieve vaardigheden.&lt;br /&gt;
-&lt;br /&gt;
-Wat breng je mee?&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Minstens 5 jaar ervaring als data engineer of in een vergelijkbare technische functie in een consultancy&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Grondige kennis van Azure-tools zoals Databricks, Synapse Analytics en Fabric&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Sterke skills in Python, PySpark en SQL&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je denkt oplossingsgericht en vertaalt complexe uitdagingen naar haalbare oplossingen&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je hebt leiderschapspotentieel en het vermogen om een team te laten groeien&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je communiceert vlot in het Nederlands én Engels&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;br /&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je krijgt de kans om door te groeien naar een managementrol, terwijl je jouw technische expertise blijft benutten en ontwikkelen.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je werk is zichtbaar én van betekenis: je krijgt de ruimte om je stempel te drukken en mee een nieuw departement uit te bouwen.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Je komt terecht in een organisatie met een sterke cultuur en hoge medewerkerstevredenheid.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Geen hiërarchie, geen interne politiek, wél een team dat samenwerkt aan gedeeld succes.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Werk mee aan de uitbouw van een gloednieuw Microsoft Fabric competence center.&lt;/li&gt;
-	&lt;li style="margin: 24.0pt 0.0cm 10.0pt;"&gt;Hybride werken: 3 dagen op kantoor, 2 dagen thuis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;br /&gt;
-&lt;strong&gt;Ben jij de manager die we zoeken?&lt;br /&gt;
-Stuur dan nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br /&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp;amp; data-vacatures.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-engineering-manager/"/>
-    <category term="Management"/>
-    <category term="Data Engineering"/>
-    <published>2025-04-29T11:20:21+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/junior-data-steward/</id>
