@@ -2,24 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-10T12:58:55.236275+00:00</updated>
+  <updated>2025-09-10T14:42:19.270046+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69512290</id>
-    <title>.NET Developer (Cronos)</title>
-    <updated>2025-08-30T00:01:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ben jij wie we zoeken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Master in de Computerwetenschappen, of gelijkgesteld door ervaring.&lt;/li&gt;&lt;li&gt;Je kan minstens 4 jaar relevante werkervaring op tafel leggen.&lt;/li&gt;&lt;li&gt;Je zet graag je schouders onder integratieprojecten.&lt;/li&gt;&lt;li&gt;Je bent een Full stack .NET Developer (.NET Core) in hart, nieren en vingertoppen.&lt;/li&gt;&lt;li&gt;Terminologie zoals SOLID, DDD, TDD, CQRS, Event driven, Unit Testing is jou niet onbekend.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met één of ander JavaScript framework (Angular, React, …)&lt;/li&gt;&lt;li&gt;Je gelooft in Microsoft Azure Cloud en je wil je hierin verder verdiepen.&lt;/li&gt;&lt;li&gt;Je spreekt Nederlands en een mondje Engels.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice-to-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kan al eens lachen en jezelf relativeren.&lt;/li&gt;&lt;li&gt;Je inspireert teamleden met je expertise en inzet.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;SOLID&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;TDD&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;DDD&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;CQRS&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom wil je bij Narato werken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In ruil voor je tomeloze inzet, krijg je van ons:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;een competitief loonpakket met interessante nettovergoedingen (o.a. wagen met tankkaart, hospitalisatie- en groepsverzekering, maaltijdcheques)&lt;/li&gt;&lt;li&gt;ruim voldoende vakantiedagen&lt;/li&gt;&lt;li&gt;een kans om bij te leren en te groeien via opleidingstrajecten&lt;/li&gt;&lt;li&gt;teamgenoten waarop je kan rekenen&lt;/li&gt;&lt;li&gt;een regelmatige dosis ontspanning&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69512290"/>
-    <published>2024-09-20T09:43:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69796723</id>
     <title>Security Consultant (Cronos)</title>
@@ -3951,6 +3936,14 @@ De opdracht bestaat uit 2 delen:&lt;br /&gt;
 &lt;strong&gt;droomproject&lt;/strong&gt;!&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71907101"/>
     <published>2025-09-10T11:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71909806</id>
+    <title>Functioneel Analist - BI Analist (Visser &amp; Van Baars)</title>
+    <updated>2025-09-10T15:08:45+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Functioneel Analist / BI Analist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Locatie:&lt;/strong&gt; Regio Vlaanderen&lt;br&gt;&lt;strong&gt;Dienstverband:&lt;/strong&gt; Vast contract&lt;br&gt;&lt;strong&gt;Expertise:&lt;/strong&gt; SQL - Power BI - Business Analyse&lt;/p&gt;&lt;p&gt;Voor een &lt;strong&gt;internationale en financieel sterke organisatie&lt;/strong&gt; die volop in groei zit, zijn we op zoek naar een &lt;strong&gt;Functioneel Analist / BI Analist&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;In deze rol werk je op het snijvlak van business, data en technologie en vertaal je de operationele en strategische noden naar concrete &lt;strong&gt;BI- en datasolutions&lt;/strong&gt; die impact hebben op efficiëntie, optimalisatie en duurzame bedrijfsvoering.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw rol&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyseren en verzamelen van rapporteringsbehoeften vanuit verschillende departementen (operations, sales, finance, IT).&lt;/li&gt;&lt;li&gt;Vertalen van business requirements naar functionele analyses en duidelijke user stories.&lt;/li&gt;&lt;li&gt;Bouwen van dashboards en datamodellen in &lt;strong&gt;Power BI&lt;/strong&gt;, ondersteund door SQL-query's.&lt;/li&gt;&lt;li&gt;Identificeren en implementeren van verbeteringsmogelijkheden in processen en data-analyse.&lt;/li&gt;&lt;li&gt;Nauwe samenwerking met de BI &amp;amp; Data teams en andere business analisten om strategische waarde te creëren.&lt;/li&gt;&lt;li&gt;Volledige opvolging van BI-projecten, inclusief testing, implementatie en change management.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of masterdiploma of gelijkwaardig door ervaring.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;strong&gt;SQL en Power BI&lt;/strong&gt; is een must.&lt;/li&gt;&lt;li&gt;Kennis van datakwaliteit, modellering, data management en rapportage.&lt;/li&gt;&lt;li&gt;Ervaring met Agile/Scrum is een plus.&lt;/li&gt;&lt;li&gt;Analytisch, communicatief en in staat bruggen te slaan tussen business en IT.&lt;/li&gt;&lt;li&gt;Vlotte kennis van &lt;strong&gt;Nederlands en Engels&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bereid om zich &lt;strong&gt;op lange termijn te engageren&lt;/strong&gt; binnen een stabiele en internationale werkomgeving.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat wordt geboden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een uitdagende rol binnen een &lt;strong&gt;internationaal, financieel sterk en groeiend bedrijf&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Impactvolle projecten in een datagedreven omgeving.&lt;/li&gt;&lt;li&gt;Ruimte voor initiatief, innovatie en persoonlijke ontwikkeling.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;3 dagen thuiswerk&lt;/strong&gt; mogelijk na de inwerkperiode.&lt;/li&gt;&lt;li&gt;Aantrekkelijk salaris- en voordelenpakket in lijn met ervaring.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;/p&gt;&lt;p&gt;Solliciteer nu of neem contact op voor meer informatie!&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71909806"/>
+    <published>2025-09-10T15:08:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71906897</id>
