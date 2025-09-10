@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-10T08:47:59.587771+00:00</updated>
+  <updated>2025-09-10T10:44:29.864604+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69512290</id>
+    <title>.NET Developer (Cronos)</title>
+    <updated>2025-08-30T00:01:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ben jij wie we zoeken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Master in de Computerwetenschappen, of gelijkgesteld door ervaring.&lt;/li&gt;&lt;li&gt;Je kan minstens 4 jaar relevante werkervaring op tafel leggen.&lt;/li&gt;&lt;li&gt;Je zet graag je schouders onder integratieprojecten.&lt;/li&gt;&lt;li&gt;Je bent een Full stack .NET Developer (.NET Core) in hart, nieren en vingertoppen.&lt;/li&gt;&lt;li&gt;Terminologie zoals SOLID, DDD, TDD, CQRS, Event driven, Unit Testing is jou niet onbekend.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met één of ander JavaScript framework (Angular, React, …)&lt;/li&gt;&lt;li&gt;Je gelooft in Microsoft Azure Cloud en je wil je hierin verder verdiepen.&lt;/li&gt;&lt;li&gt;Je spreekt Nederlands en een mondje Engels.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice-to-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kan al eens lachen en jezelf relativeren.&lt;/li&gt;&lt;li&gt;Je inspireert teamleden met je expertise en inzet.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;SOLID&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;TDD&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;DDD&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;CQRS&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom wil je bij Narato werken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In ruil voor je tomeloze inzet, krijg je van ons:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;een competitief loonpakket met interessante nettovergoedingen (o.a. wagen met tankkaart, hospitalisatie- en groepsverzekering, maaltijdcheques)&lt;/li&gt;&lt;li&gt;ruim voldoende vakantiedagen&lt;/li&gt;&lt;li&gt;een kans om bij te leren en te groeien via opleidingstrajecten&lt;/li&gt;&lt;li&gt;teamgenoten waarop je kan rekenen&lt;/li&gt;&lt;li&gt;een regelmatige dosis ontspanning&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69512290"/>
+    <published>2024-09-20T09:43:25+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69796723</id>
     <title>Security Consultant (Cronos)</title>
@@ -892,63 +907,6 @@
     <published>2025-06-05T14:51:57+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71262159</id>
-    <title>Functioneel Analist Regio Antwerpen (UniPartners IT - Services NV)</title>
-    <updated>2025-08-14T14:16:10+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: UniPartners IT - Services NV (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Jouw functie?&lt;/p&gt; 
-&lt;p&gt;Als Functioneel Analist ondersteun je in software development en de implementatie van projecten en vorm je de schakel tussen business en IT:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;In continu overleg met de business capteer je de requirements en documenteert deze gebruikmakend van de BPMN standaard.&lt;/li&gt; 
-&lt;li&gt;Je bent verantwoordelijk voor het analyseren van de noden van de business die je vertaalt in functionele analyses en/of user stories.&lt;/li&gt; 
-&lt;li&gt;Je durft de business uit te dagen en behoudt het overzicht.&lt;/li&gt; 
-&lt;li&gt;Je controleert testresultaten en geeft ondersteuning bij de uitvoering van acceptatie-testen om de kwaliteit van de ontwikkelde applicatie(s) te toetsen.&lt;/li&gt; 
-&lt;li&gt;Je biedt ondersteuning bij het implementeren van de nieuwe/aangepaste software.&lt;/li&gt; 
-&lt;li&gt;Je adviseert de business over mogelijke procesverbeteringen en over de kwaliteit van gebruikte tools.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wat verwachten we van jou?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je hebt minstens vijf jaar relevante werkervaring achter de rug.&lt;/li&gt; 
-&lt;li&gt;Je hebt een vloeiende kennis Nederlands en Engels. Kennis Frans is een stevige troef.&lt;/li&gt; 
-&lt;li&gt;Je hebt sterke communicatieve vaardigheden en werkt graag klantgericht.&lt;/li&gt; 
-&lt;li&gt;Je hebt een sterke analytische geest en kan probleemoplossend denken.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Grondige kennis van of ervaring in minstens één van de volgende domeinen:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;BPMN&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Confluence&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Data Flows&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Jira&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Scrum / Agile&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;UML&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;User Stories&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Visual Studio&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Wireframing&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Story mapping&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Product Backlog&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Product owner&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Kennis van volgende domeinen is een sterke plus:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Microsoft Visual Studio&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Prince2&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voor wat hoort wat!&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;UniPartners aanbod:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een bediendencontract van onbepaalde duur&lt;/li&gt; 
-&lt;li&gt;Een aantrekkelijk salaris, een netto bureauvergoeding, ecocheques twv €250&lt;/li&gt; 
-&lt;li&gt;Een groeps- en hospitalisatieverzekering zonder eigen bijdrage&lt;/li&gt; 
-&lt;li&gt;Een uitgebreid mobiliteits- en cafetariaplan&lt;/li&gt; 
-&lt;li&gt;Hybride en flexibel werken&lt;/li&gt; 
-&lt;li&gt;Een betrokken en waarderende werkgever in een vlakke organisatie&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Wat werken bij UniPartners extra leuk maakt:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;strong&gt;Ondersteuning en begeleiding&lt;/strong&gt; in je loopbaan via de Competence Center Coaches en je HR verantwoordelijke.&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;Opleidingen en groeimogelijkheden&lt;/strong&gt; (met onder andere een opleidingsbudget van €2500, - elk jaar opnieuw).&lt;/li&gt; 
-&lt;li&gt;Een goede 
-&lt;strong&gt;work-life balans&lt;/strong&gt; waarbij je de mogelijkheid krijgt om enkele dagen van thuis uit te werken.&lt;/li&gt; 
-&lt;li&gt;Je geniet mee van veel 
-&lt;strong&gt;leuke evenementen &lt;/strong&gt;(drinks, teambuildings, personeelsfeest en nog veel meer).&lt;/li&gt; 
-&lt;li&gt;Jij maakt zelf mee de keuze voor jouw 
-&lt;strong&gt;droomproject&lt;/strong&gt;!&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71262159"/>
-    <published>2025-06-06T16:14:20+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71290853</id>
     <title>Information Security Engineer (EXPERIS BELGIUM)</title>
     <updated>2025-06-12T11:36:13+00:00</updated>
@@ -1698,38 +1656,6 @@ Regelmatige sociale activiteiten zoals barbecues, boottrips en teamuitjes&lt;p&g
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Digital transformation is the cornerstone of Sopra Steria’s commitment to innovation and collaboration. It’s what brings businesses up to the present and secures them for the future. It’s how we align our tech and business goals to keep pace with emerging tech trends and best practices. To do so, you’ll need a forward-thinking, long-view, adaptable mindset to go with your problem solving and analytical skills. Proficiency in cloud computing, data analytics, cybersecurity, and AI skills all help us to collaborate in the business ecosystem to manage digital projects and make adoption of new tech simple and beneficial.&lt;/p&gt;&lt;p&gt;Our Architects have the vision and leadership skills to make daring IT decisions that can make digital transformation a reality. Your ability to collaborate across teams and departments and your flexibility to adopt new technologies will help you enhance system performance, scalability, and security. Fulfil your software vision at Sopra Steria and align it with our business development goals. As a Sopra Steria Architect, you’ll have successful projects in your portfolio that can demonstrate your excellent problem-solving skills and commitment to continuous learning.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Small context :&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;From the start, you will be immersed in our company culture and way of working, understanding all the capabilities we use to serve our clients in their digital transformation journey. You will work closely with the Sopra Steria teams to provide strategic architectural guidance that helps our transportation clients navigate their transition challenges across the digital themes mentioned above.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Your role as Senior Digital Transformation Architect – Transportation "required" :&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand like no other the architectural landscape and digital challenges of our transportation customers. Moreover, you are capable and driven to help them design and implement transformative digital solutions while actively growing our advisory agency.&lt;/li&gt;&lt;li&gt;You master core business processes in the transportation market and can seamlessly bridge the gap between business needs and technological solutions. You will:&lt;/li&gt;&lt;li&gt;Design and architect digital transformation initiatives for railway and public transportation operators&lt;/li&gt;&lt;li&gt;Lead business framing and solution architecture for key digital themes such as: Transformation Consulting, Cybersecurity, Data, Applications &amp;amp; Integrations, Cloud &amp;amp; Infrastructure&lt;/li&gt;&lt;li&gt;Develop enterprise architecture blueprints that align IT direction with business objectives&lt;/li&gt;&lt;li&gt;Create and implement innovative architectural strategies to increase our market share in the Transportation sector, with a focus on digital transformation.&lt;/li&gt;&lt;li&gt;You will be encouraged and expected to bring innovative architectural thinking, challenge the status quo, and drive growth, both with our customers and within Sopra Steria.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Your profile as Senior Digital Transformation Architect – Transportation "required" :&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Higher degree in IT, Computer Science, Engineering, or a related field&lt;/li&gt;&lt;li&gt;&lt;strong&gt;10+ years of IT architecture experience, with 5+ years in digital transformation for the Transportation sector "REQUIRED"&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Proven track record in large-scale digital transformation initiatives.&lt;/li&gt;&lt;li&gt;Strong understanding of enterprise architecture frameworks and digital themes (Transformation Consulting, Cybersecurity, Data, Applications &amp;amp; Integrations, Cloud &amp;amp; Infrastructure).&lt;/li&gt;&lt;li&gt;Fluent in French and English – Dutch is a plus&lt;/li&gt;&lt;li&gt;Excellent communication skills, able to articulate complex concepts to diverse stakeholders.&lt;/li&gt;&lt;li&gt;Strategic mindset with the ability to bridge business strategy and technical implementation.&lt;/li&gt;&lt;li&gt;Passion for innovative technology solutions in transportation.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Entrepreneurial spirit with a focus on growth and business development&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Proposal&lt;/p&gt;&lt;p&gt;Our employees are known for making bold choices and delivering results. Work among high-level professionals at the forefront of corporate software solutions and innovation at Europe’s Leading Digital Service Provider.&lt;/p&gt;&lt;p&gt;Sopra Steria is implementing the tools of the future today at the world’s largest businesses across industry and financial services. By being bold together, our professionals are changing how business is done.&lt;/p&gt;&lt;p&gt;Ready to take the next step? We’re here to support you all the way and we are looking forward to you application! Pending a successful application, we’ll be in touch with further steps in the application process.&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71547775"/>
     <published>2025-07-17T13:14:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71559913</id>
-    <title>IT Azure Senior Data Engineer (STG Schrauwen)</title>
-    <updated>2025-08-11T16:35:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: STG Schrauwen (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Herentals&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben jij een ervaren Data Engineer die helemaal thuis is in Azure? Wil je je technische kennis inzetten om echt impact te maken binnen een modern en groeiend bedrijf? Dan hebben wij dé uitdaging voor jou!&lt;/p&gt; 
-&lt;p&gt;Bij ons werk je aan innovatieve data-oplossingen die de basis vormen voor een vlotte dienstverlening aan onze klanten. Je komt terecht in een hecht IT-team en speelt een sleutelrol in onze digitale transformatie.&lt;/p&gt; 
-&lt;p&gt;💼 Wat ga je precies doen?&lt;/p&gt; 
-&lt;p&gt;Je maakt deel uit van het Data &amp;amp; AI team en werkt aan het bouwen, onderhouden en optimaliseren van ons Azure Data Lake. Jouw focus ligt op het verwerken en structureren van data, zodat onze teams slimme, datagedreven beslissingen kunnen nemen.&lt;/p&gt; 
-&lt;p&gt;Wat je zoal doet:&lt;/p&gt; 
-&lt;p&gt;🔗 Integraties bouwen: Je koppelt systemen via API’s, ODBC, Event Hubs en sFTP. 🛠️ Datapijplijnen bouwen: Je ontwikkelt robuuste ETL/ELT-processen met Azure Data Factory &amp;amp; Databricks. 🏗️ Werken in lagen: Je past de medaillonarchitectuur toe met bronzen, zilveren en gouden datalagen (Delta, Parquet, JSON). 📊 Slim modelleren: Je bouwt sterschema’s en werkt met Slowly Changing Dimensions (SCD) voor maximale analytische kracht. 🔐 Datagovernance en security: Je zorgt voor een veilige en goed beheerde omgeving met RBAC en Unity Catalog. ⚡ Performance tuning: Je optimaliseert code, pipelines en queries en zet CI/CD-processen op in Azure DevOps. 🤝 Samenwerken: Je werkt nauw samen met data scientists, business stakeholders én collega’s van ons moederbedrijf BME.&lt;/p&gt; 
-&lt;p&gt;Kortom: jij bent de drijvende kracht achter onze moderne data-omgeving&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
-&lt;p&gt;✅ Je hebt minstens 5 jaar ervaring als Azure Data Engineer ✅ Je bent technisch sterk en hebt kennis van:&lt;/p&gt; 
-&lt;p&gt;Azure Data Factory, Databricks, Azure Storage&lt;/p&gt; 
-&lt;p&gt;SQL, Python, dataformaten zoals Parquet en JSON&lt;/p&gt; 
-&lt;p&gt;Modelleren met sterschema’s en SCD&lt;/p&gt; 
-&lt;p&gt;Databeheer rond AI/ML in Databricks is een plus ✅ Je hebt een bachelor in IT of Informatica ✅ Je bent Microsoft Azure Data Engineer Associate gecertificeerd ✅ Je communiceert vlot in Nederlands en Engels (Frans is een plus) ✅ Je bent analytisch, klantgericht, en altijd op zoek naar manieren om dingen beter te maken&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;b&gt;Bedrijfsinfo&lt;/b&gt;&lt;br&gt;&lt;p&gt;Je komt terecht in een solide organisatie, onderdeel van Building Materials Europe (BME) – een toonaangevende speler in bouwmaterialen in Europa.&lt;/p&gt; 
-&lt;p&gt;Met meer dan 14.000 collega’s op ruim 920 locaties in 8 landen, zetten we volop in op duurzaamheid, innovatie en digitalisering. Samen bouwen we aan de toekomst van onze klanten én medewerkers.&lt;/p&gt; 
-&lt;p&gt;Together we build – betrouwbaar, dichtbij, toonaangevend en duurzaam.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Wat mag jij van ons verwachten?&lt;/p&gt; 
-&lt;p&gt;Bij ons geen standaard IT-job, maar een rol waarin je kunt groeien, vernieuwen en écht iets kunt betekenen. Je krijgt:&lt;/p&gt; 
-&lt;p&gt;✔️ Een voltijdse job met veel autonomie en ruimte voor initiatief ✔️ Een aantrekkelijk loonpakket met:&lt;/p&gt; 
-&lt;ul&gt; 
- &lt;li&gt;Elektrische bedrijfswagen + laadpas + laadpaal&lt;/li&gt; 
- &lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt; 
- &lt;li&gt;Hospitalisatieverzekering&lt;/li&gt; 
- &lt;li&gt;Personeelskorting&lt;/li&gt; 
- &lt;li&gt;Eindejaarspremie&lt;/li&gt; 
- &lt;li&gt;Toegang tot Benefits @ Work met tal van kortingen&lt;/li&gt; 
-&lt;/ul&gt; 
-&lt;p&gt;🏡 Hybride werken: Je werkt 2 dagen per week van thuis 🕒 40-urenweek met 12 extra ADV-dagen 🏢 Locatie: ons moderne en verkeersvrije hoofdkantoor in Herentals 👥 Een topteam waar kennis delen, collegialiteit en innovatie centraal staan 📚 Doorlopende opleidingen om helemaal mee te blijven met de nieuwste technologieën&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71559913"/>
-    <published>2025-07-18T15:51:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71568372</id>
@@ -3393,68 +3319,6 @@ Join a highly skilled technology team driving innovation in one of Europe's most
     <published>2025-09-03T16:30:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71852608</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2025-09-03T10:50:59+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXion-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid. &lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie. &lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71852608"/>
-    <published>2025-09-03T10:50:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71863930</id>
     <title>Data Reporting Expert (KS Consulting Belgium)</title>
     <updated>2025-09-04T18:02:14+00:00</updated>
@@ -4030,5 +3894,124 @@ De opdracht bestaat uit 2 delen:&lt;br /&gt;
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Port of Antwerp-Bruges (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Zin om mee de architecturale richtlijnen en standaarden te definiëren, bewaken en handhaven bij Nxtport?&lt;/span&gt;&lt;/p&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;p&gt;&lt;span&gt;Vanuit Solution Architecture &amp;amp; Governance neem je de verantwoordelijk voor het definiëren, bewaken en handhaven van architecturale richtlijnen en standaarden binnen de organisatie. Deze rol fungeert als “gatekeeper” voor solution designs en zorgt voor alignment met de bredere enterprise- en domeinarchitectuur.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Kerntaken en verantwoordelijkheden:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Architecturale governance:&lt;/strong&gt; Ontwikkelen en handhaven van architecturale principes, richtlijnen en standaarden.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Cross-team alignment:&lt;/strong&gt; Samenwerken met productteams om architecturale keuzes af te stemmen en duplicatie of technische schuld te vermijden.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Solution design:&lt;/strong&gt; Ontwerpen van technische oplossingen op basis van business requirements, architecturale richtlijnen en technologische mogelijkheden.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Technische review en goedkeuring:&lt;/strong&gt; Beoordelen van solution designs en technische implementaties op conformiteit met de architectuurvisie.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Stakeholder communicatie:&lt;/strong&gt; Fungeren als brug tussen Business stakeholders, product owners, development teams, security, en infrastructuur.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Roadmap en strategie:&lt;/strong&gt; Bijdragen aan de lange termijn technologie-roadmap en strategische keuzes.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Je werkt nauw samen met:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Product Owners &amp;amp; Business Analysts&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Technical Architects en Technical Leads&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Software development teams&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Security en Infrastructure teams&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;KPI’s en succescriteria:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Consistentie en herbruikbaarheid van architecturale componenten&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Vermindering van technical Debt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Tevredenheid van development teams over architecturale ondersteuning&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Aantal goedgekeurde designs zonder herontwerp&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;ul type="disc"&gt;&lt;li&gt;&lt;span&gt;Minimaal 5 jaar ervaring als solution architect of in een vergelijkbare technische leiderschapsrol&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Diepgaande kennis van moderne softwarearchitectuur (cloud-native, microservices, API-first, etc.)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met architecturale governance en het werken in een scaled agile omgeving&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Sterke communicatieve vaardigheden en stakeholdermanagement&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met enterprise architectuur frameworks (zoals TOGAF, SAFe, etc.) is een plus&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Je hebt ervaring met Azure stack, Cloud development, C# .net, Blazor, Domain-Driven Design, Test-Driven Development&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met Infrastructure as Code (vb Terraform) is een bonus alsook met werken in Agile /Scrum teams met tools als Jira of Azure Boards&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Nederlands is een vereiste, Engels een pluspunt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;Durf, verbinding en eenvoud…&amp;nbsp; Dat zijn waarden waar jij je helemaal in kan vinden.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Ons aanbod&lt;/strong&gt;&lt;p&gt;&lt;span&gt;Werken bij&amp;nbsp;&lt;/span&gt;&lt;span&gt;Nxtport&lt;/span&gt;&lt;span&gt; betekent bijdragen aan de digitale toekomst van een wereldhaven. Je wordt deel van een dynamisch en gedreven team waar samenwerking centraal staan. Je kunt rekenen op een veelzijdige functie met impact en ruimte voor initiatief. Daarnaast bieden wij jou een aantrekkelijk salaris, aangevuld met een uitgebreid pakket extralegale voordelen (waaronder de mogelijkheid tot een bedrijfswagen, maaltijd- en ecocheques, hospitalisatieverzekering voor jou en je gezin, gsm, laptop, een hybride werkomgeving,…). NxtPort heeft 2 operationele werkplekken: het Havenhuis (Zaha Hadidplein 1, 2030 Antwerpen) en the Beacon (Sint-Pietersvliet 7, 2000 Antwerpen).&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Je werkt in een hybride omgeving waarbij 2 dagen onsite en de andere dagen remote van thuis uit&lt;/span&gt;&lt;/p&gt;&lt;strong&gt;Interesse?&lt;/strong&gt;&lt;p&gt;&lt;span&gt;Heb je interesse voor deze vacature, bezorg ons dan zo snel mogelijk je CV en motivatiebrief via de knop ‘solliciteer’.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We sluiten de vacature af zodra we een geschikte kandidaat gevonden hebben.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Meer informatie over het&amp;nbsp;&lt;/span&gt;&lt;span&gt;selectieproces&lt;/span&gt;&lt;span&gt;&amp;nbsp;en&amp;nbsp;&lt;/span&gt;&lt;span&gt;onze waarden&lt;/span&gt;&lt;span&gt;&amp;nbsp;vind je op onze jobsite.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Iedereen welkom bij Port of Antwerp-Bruges. We geloven in de kracht van verschil en diversiteit, één met de wereld rondom ons.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71893670"/>
     <published>2025-09-09T08:43:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71907101</id>
+    <title>Functioneel Analist Regio Antwerpen (UNIPARTNERS CONSULTANCY)</title>
+    <updated>2025-09-10T11:55:43+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: UNIPARTNERS CONSULTANCY (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Jouw functie?&lt;/p&gt; 
+&lt;p&gt;Als Functioneel Analist ondersteun je in software development en de implementatie van projecten en vorm je de schakel tussen business en IT:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;In continu overleg met de business capteer je de requirements en documenteert deze gebruikmakend van de BPMN standaard.&lt;/li&gt; 
+&lt;li&gt;Je bent verantwoordelijk voor het analyseren van de noden van de business die je vertaalt in functionele analyses en/of user stories.&lt;/li&gt; 
+&lt;li&gt;Je durft de business uit te dagen en behoudt het overzicht.&lt;/li&gt; 
+&lt;li&gt;Je controleert testresultaten en geeft ondersteuning bij de uitvoering van acceptatie-testen om de kwaliteit van de ontwikkelde applicatie(s) te toetsen.&lt;/li&gt; 
+&lt;li&gt;Je biedt ondersteuning bij het implementeren van de nieuwe/aangepaste software.&lt;/li&gt; 
+&lt;li&gt;Je adviseert de business over mogelijke procesverbeteringen en over de kwaliteit van gebruikte tools.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wat verwachten we van jou?&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt minstens vijf jaar relevante werkervaring achter de rug.&lt;/li&gt; 
+&lt;li&gt;Je hebt een vloeiende kennis Nederlands en Engels. Kennis Frans is een stevige troef.&lt;/li&gt; 
+&lt;li&gt;Je hebt sterke communicatieve vaardigheden en werkt graag klantgericht.&lt;/li&gt; 
+&lt;li&gt;Je hebt een sterke analytische geest en kan probleemoplossend denken.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Grondige kennis van of ervaring in minstens één van de volgende domeinen:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;BPMN&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Confluence&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Data Flows&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Jira&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Scrum / Agile&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;UML&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;User Stories&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Visual Studio&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Wireframing&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Story mapping&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Product Backlog&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Product owner&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Kennis van volgende domeinen is een sterke plus:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Microsoft Visual Studio&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Prince2&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voor wat hoort wat!&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;UniPartners aanbod:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een bediendencontract van onbepaalde duur&lt;/li&gt; 
+&lt;li&gt;Een aantrekkelijk salaris, een netto bureauvergoeding, ecocheques twv €250&lt;/li&gt; 
+&lt;li&gt;Een groeps- en hospitalisatieverzekering zonder eigen bijdrage&lt;/li&gt; 
+&lt;li&gt;Een uitgebreid mobiliteits- en cafetariaplan&lt;/li&gt; 
+&lt;li&gt;Hybride en flexibel werken&lt;/li&gt; 
+&lt;li&gt;Een betrokken en waarderende werkgever in een vlakke organisatie&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Wat werken bij UniPartners extra leuk maakt:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Ondersteuning en begeleiding&lt;/strong&gt; in je loopbaan via de Competence Center Coaches en je HR verantwoordelijke.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Opleidingen en groeimogelijkheden&lt;/strong&gt; (met onder andere een opleidingsbudget van €2500, - elk jaar opnieuw).&lt;/li&gt; 
+&lt;li&gt;Een goede 
+&lt;strong&gt;work-life balans&lt;/strong&gt; waarbij je de mogelijkheid krijgt om enkele dagen van thuis uit te werken.&lt;/li&gt; 
+&lt;li&gt;Je geniet mee van veel 
+&lt;strong&gt;leuke evenementen &lt;/strong&gt;(drinks, teambuildings, personeelsfeest en nog veel meer).&lt;/li&gt; 
+&lt;li&gt;Jij maakt zelf mee de keuze voor jouw 
+&lt;strong&gt;droomproject&lt;/strong&gt;!&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71907101"/>
+    <published>2025-09-10T11:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71906897</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2025-09-10T11:41:20+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
+&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXion-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
+&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
+&lt;span&gt;data warehouses&lt;/span&gt; naar de 
+&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van 
+&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de 
+&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in 
+&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71906897"/>
+    <published>2025-09-10T11:41:20+00:00</published>
   </entry>
 </feed>
