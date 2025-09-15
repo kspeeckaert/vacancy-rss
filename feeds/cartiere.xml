@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-15T08:27:14.706447+00:00</updated>
+  <updated>2025-09-15T10:22:09.163591+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -721,58 +721,6 @@ Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer inform
     <link href="https://www.cartiere.be/jobs/python-developer-2/"/>
     <category term="Data Engineering"/>
     <published>2025-04-09T09:57:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/ai-developer/</id>
-    <title>AI Developer</title>
-    <updated>2025-03-19T13:14:50+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-03-19 14:14:50+00:00, last change 2025-03-19 13:14:50+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-03-19 14:14:50+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Deze sterke en innovatieve onderneming is pionier in zijn sector. Met hun hoofdkantoor in Limburg en verschillende vestigingen in België biedt dit bedrijf diensten aan in verschillende disciplines. Innovatie stata centraal in hun strategie: AI en data worden slim ingezet om processen te verbeteren en mensen te ondersteunen om hun organisatie meer data gedreven te maken. Hiervoor kijken ze uit naar een Senior AI Developer die mee aan deze projecten kan werken.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-Als Senior AI Developer neem je de technische leiding over het AI-luik binnen het innovatieteam. Je begeleidt AI-projecten van idee tot implementatie. Je speelt een sleutelrol bij het ontwerpen van Proof of Concepts, bouwen en uitrollen van slimme toepassingen die inspelen op strategische doelstellingen. Daarnaast coach je twee junior AI Developers en draag je actief bij aan hun groei.&lt;br&gt;
-&lt;br&gt;
-Jouw verantwoordelijkheden:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Ontwikkelen van innovatieve AI-oplossingen (PoC &amp; productieklaar).&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Integratie van AI-modellen met bestaande systemen en platforms.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Evaluatie en toepassing van low-code en no-code AI-tools.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Continu optimaliseren van bestaande toepassingen.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Mee bepalen van de technische strategie en projectrichting.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Coachen en begeleiden van junior collega’s binnen het AI-team.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Voorbeelden van lopende en toekomstige projecten:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Een chatbot die HR-vragen beantwoordt op basis van interne documentatie.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Een AI-gebaseerde planner die personeel optimaal inroostert.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Automatisatie van repetitieve taken binnen diverse bedrijfsunits.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Conversational AI voor klantenservice via webplatformen.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt minstens 3 jaar ervaring met AI, bij voorkeur 5 jaar.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Sterke kennis van Python, Azure OpenAI en C#.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Kennis van Power BI is een plus.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent vertrouwd met AI en hebt ervaring in het maken van PoC’s.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief (Nederlandstalig) en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
-Je werkt aan innovatieve AI-projecten met directe impact op de business, terwijl je volop kansen krijgt om je AI-expertise verder te ontwikkelen. Dankzij flexibele werkuren en twee thuiswerkdagen per week geniet je van een gezonde work-life balance. Daarnaast kom je terecht in een moderne en dynamische werkomgeving met een ondersteunend team.&lt;br&gt;
-&lt;br&gt;
-Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.05 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI- en data vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/ai-developer/"/>
-    <category term="AI &amp; ML Engineer"/>
-    <published>2025-03-19T14:14:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-ai-expert/</id>
