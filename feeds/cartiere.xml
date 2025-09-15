@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-15T14:22:11.454914+00:00</updated>
+  <updated>2025-09-15T16:24:16.320157+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -458,41 +458,6 @@ Je maakt deel uit van een mensgerichte organisatie waar samenwerking en innovati
     <link href="https://www.cartiere.be/jobs/senior-data-engineer/"/>
     <category term="Data Engineering"/>
     <published>2025-06-30T13:34:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/junior-data-steward/</id>
-    <title>(Junior) Data Steward</title>
-    <updated>2025-06-13T07:22:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-06-13 08:22:22+00:00, last change 2025-06-13 07:22:22+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-06-13 08:22:22+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
-Deze internationale productieomgeving, met het hoofdkantoor in Gent, wordt gedragen door een jong en dynamisch team dat het kloppend hart vormt van innovatie, R&amp;amp;D en strategische groei. Je komt terecht in een ambitieuze en snelgroeiende organisatie met een open, no-nonsense cultuur, een sterke focus op kwaliteit en veel ruimte voor initiatief. Samenwerking, experimenteren en het vieren van successen staan hier centraal.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br /&gt;
-Als (Junior) Data Steward ben je verantwoordelijk voor het beheren en optimaliseren van gegevens in SAP voor een productiesite, waarbij je start met ondersteuning van de grootste locatie en op termijn mogelijk zelf een site beheert, bijvoorbeeld in Canada. Je werkt nauw samen in een internationaal team. Je taken omvatten administratief werk zoals databeheer en -controle in SAP, het uitvoeren van kwaliteitscontroles, en het verwerken van Excel-bestanden. Daarnaast onderzoek je incidenten, analyseer je processen en denk je kritisch mee over verbeteringen, waarbij je steeds de impact op andere processen afweegt. Je onderhoudt intensieve communicatie met nationale en internationale stakeholders, beantwoordt vragen, beoordeelt aanvragen en adviseert bij complexe beslissingen. De rol bestaat uit 60% administratief werk en 40% communicatie en analyse, met pieken in werkdruk aan het einde en begin van elke maand.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je beschikt over een hoger diploma (bachelor of master).&lt;/li&gt;
-	&lt;li&gt;Je hebt minstens een eerste relevante werkervaring achter de rug.&lt;/li&gt;
-	&lt;li&gt;Ervaring in een productieomgeving of in de voedingssector is een sterke troef.&lt;/li&gt;
-	&lt;li&gt;Je kan vlot werken met Excel. Kennis van SAP is mooi meegenomen, maar geen vereiste.&lt;/li&gt;
-	&lt;li&gt;Je bent positief ingesteld en wil samen met het bedrijf vooruit en meegroeien.&lt;/li&gt;
-	&lt;li&gt;Je werkt graag in teamverband.&lt;/li&gt;
-	&lt;li&gt;Je bent leergierig en staat open om nieuwe zaken snel op te pikken.&lt;/li&gt;
-	&lt;li&gt;Je werkt proactief.&lt;/li&gt;
-	&lt;li&gt;Je drukt je vlot uit in het Nederlands en Engels, wat belangrijk is binnen onze internationale context.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br /&gt;
-Je komt terecht in een snelgroeiende organisatie waar je de unieke kans krijgt om vanaf de basis mee te bouwen aan een datagedreven toekomst. Je werkt in een omgeving met een sterke teamspirit, waar initiatief wordt aangemoedigd en je de vrijheid krijgt om je rol zelf vorm te geven en actief mee te bouwen aan je eigen carrièrepad.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Herken jij jezelf in deze functie?&amp;nbsp;&lt;br /&gt;
-Stuur nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br /&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;br /&gt;
-&amp;nbsp;</content>
-    <link href="https://www.cartiere.be/jobs/junior-data-steward/"/>
-    <category term="Data Quality"/>
-    <category term="Data Steward"/>
-    <published>2025-06-13T08:22:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-consultant/</id>
