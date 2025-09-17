@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-17T12:38:35.573201+00:00</updated>
+  <updated>2025-09-17T14:20:00.499156+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/business-intelligence-team-lead/</id>
+    <title>Business Intelligence Team lead </title>
+    <updated>2025-09-17T13:24:51+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-05-15 10:15:04+00:00, last change 2025-09-17 13:24:51+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-05-15 10:15:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Voor een toonaangevend internationaal bedrijf dat actief is in de productiesector kijken we uit naar een BI Teamlead met een expertise in Azure en Power BI met een kennis of interesse in SAP BW/4 HANA. Het bedrijf produceert materiaal voor toepassingen voor zowel in residentiële als industriële omgevingen.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+In deze rol combineer je technische expertise met leiderschap. Je stuurt een klein BI-team van twee collega’s aan en blijft zelf hands-on actief met moderne Microsoft-technologieën zoals Azure Data Factory, Databricks en Power BI. Je ontwikkelt en onderhoudt data-oplossingen, bouwt geavanceerde dashboards en ondersteunt key users bij hun rapporteringen. Daarnaast vertaal je businessbehoeften naar concrete oplossingen en werk je intensief samen met stakeholders op alle niveaus, van lokale controllers tot het management. Je speelt een sleutelrol in de verdere uitbouw van de hybride BI-architectuur, waarin SAP BW/4 HANA en Azure gecombineerd worden, en draagt actief bij aan de toekomstige BI-strategie van de organisatie.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Minstens 5 jaar relevante ervaring in BI.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Sterke kennis van Azure Data Factory, Databricks en Power BI.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Ervaring met SAP BW/4 HANA is een grote plus.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Analytisch, communicatief en ervaren in stakeholdermanagement.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Leiderschap combineren met een hands-on mentaliteit.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Vloeiend in Engels.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+Een uitdagende rol waarin je leiderschap combineert met technische expertise. Je werkt in een internationale omgeving met focus op innovatie en duurzaamheid. De kans om impact te maken op de toekomstige BI-strategie en -architectuur. Daarnaast heb je een aantrekkelijk salaris en bijkomende voordelen.&lt;br&gt;
+&lt;br&gt;
+Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/business-intelligence-team-lead/"/>
+    <category term="BI/Data Analyst"/>
+    <category term="Technical Lead"/>
+    <category term="BI/Data Architect"/>
+    <category term="Management"/>
+    <category term="Data Engineering"/>
+    <published>2025-05-15T10:15:04+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
     <title>Data Engineer</title>
@@ -253,6 +288,37 @@ Bekijk onze website www.cartiere.be voor meer BI, data &amp;amp; AI vacatures.&l
     <link href="https://www.cartiere.be/jobs/data-analist-marketing/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-08-20T07:01:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/sap-bw-4-hana-power-bi-analyst/</id>
+    <title>SAP BW/4 HANA - Power BI Analyst </title>
+    <updated>2025-08-19T06:58:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sint-Denijs-Westrem, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-19 07:58:57+00:00, last change 2025-08-19 06:58:57+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-19 07:58:57+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Voor een toonaangevend internationaal bedrijf dat actief is in de productiesector kijken we uit naar een SAP BW/4 HANA profiel met een expertise in SAP BW/4 HANA en kennis van Power BI. Het bedrijf produceert materiaal voor toepassingen voor zowel in residentiële als industriële omgevingen.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als SAP BW/4 HANA neem je een sleutelpositie in binnen het datalandschap. Je beheert en ontwikkelt SAP BW/4 HANA en ondersteunt de business met rapportering in Power BI. Je analyseert en verhelpt storingen, monitort databronnen en zorgt voor een vlotte doorstroming van data. Daarnaast bouw je nieuwe databronnen, datastructuren en rapportages en ontwikkel je dashboards en KPI’s in Power BI. Je ondersteunt key users, vertaalt business requirements naar concrete oplossingen en rapporteert over datakwaliteit en verbeterpunten. Ook bewaak je de data governance zodat informatie betrouwbaar en consistent gebruikt wordt. Je werkt intensief samen met teams uit o.a. consolidatie, sales, purchasing, productie en management, waarbij je je tijd ongeveer 30% aan businessanalyse en 70% aan technische taken besteedt.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Minstens 3 jaar ervaring met SAP BW/4 HANA.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Kennis van Power BI en ervaring in het bouwen van rapporten/dashboards.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Communicatief sterk, met ervaring in stakeholdermanagement.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Flexibel en in staat om snel te schakelen tussen prioriteiten.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Vloeiend in Engels (mondeling en schriftelijk).&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+Een internationale werkomgeving met een duidelijke focus op innovatie en duurzaamheid. Je hebt een zichtbare en impactvolle rol binnen de organisatie met afwisselend werk met een mix van technische uitdagingen en businessanalyse. Je werkt samen met diverse teams en management en hebt een aantrekkelijk loonpakket met bijkomende voordelen.&lt;br&gt;
+&lt;br&gt;
+Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/sap-bw-4-hana-power-bi-analyst/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-08-19T07:58:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-steward/</id>
@@ -522,42 +588,6 @@ PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
     <category term="BI/Data Analyst"/>
     <category term="Data Engineering"/>
     <published>2025-06-03T14:30:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/business-intelligence-team-lead/</id>
-    <title>Business Intelligence Team lead </title>
-    <updated>2025-05-15T09:15:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-05-15 10:15:04+00:00, last change 2025-05-15 09:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-05-15 10:15:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Voor een toonaangevend internationaal bedrijf dat actief is in de productiesector kijken we uit naar een Technical Teamlead met een expertise in Azure en kennis van SAPBW4HANA of de ambitie om hierin bij te leren. Het bedrijf produceert materiaal voor toepassingen voor zowel in residentiële als industriële omgevingen. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Technical Teamlead combineer je technische expertise met een coachende rol. Je bent verantwoordelijk voor de dagelijkse aansturing en ondersteuning van twee teamleden, maar blijft zelf voor het grootste deel van je tijd hands-on actief binnen het BI-domein. In deze functie krijg je de kans om van A tot Z te werken. Je bent enerzijds verantwoordelijk voor het ontwikkelen en onderhouden van data-oplossingen in Azure Data Factory, Databricks en SQL. Anderzijds ga je zelf ook geavanceerde dashbaords bouwen in Power BI en onderhoudt je ook nauw contact met de business om hun noden te begrijpen en deze te vertalen naar data requirements. Daarnaast speel je een belangrijke rol in het verder uitbouwen van de BI strategie van dit bedrijf. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je hebt minimum 5 jaar hands-on ervaring.
-	&lt;li&gt;Je hebt diepgaande kennis van de Microsoft stack zoals Azure Data Factory, Databricks en Power BI. 
-	&lt;li&gt;Je beschikt over kennis van SAP BW4HANA of hebt interesse om hierover bij te leren. 
-	&lt;li&gt;Je beschikt over een goede kennis van SQL. 
-	&lt;li&gt;Je bent goed in probleemoplossend denken en bent analytisch heel sterk. 
-	&lt;li&gt;Je bent communicatief sterk en sterk in stakeholdermanagement.  
-	&lt;li&gt;Je spreekt vloeiend Engels. 
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een organisatie met sterke groeiplannen en een duidelijke toekomstvisie. In deze rol krijg je veel autonomie en verantwoordelijkheid, en werk je aan projecten van A tot Z. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/business-intelligence-team-lead/"/>
-    <category term="BI/Data Analyst"/>
-    <category term="BI/Data Architect"/>
-    <category term="Data Engineering"/>
-    <published>2025-05-15T10:15:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/senior-data-engineer-3/</id>
