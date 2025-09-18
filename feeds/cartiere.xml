@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-18T12:37:11.488540+00:00</updated>
+  <updated>2025-09-18T14:21:08.668213+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-analist/</id>
+    <title>Data Analist</title>
+    <updated>2025-09-18T12:40:15+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Lokeren, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-09-18 13:40:15+00:00, last change 2025-09-18 12:40:15+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-09-18 13:40:15+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Dit bedrijf is een internationaal opererende groep gespecialiseerde in specifieke oplossingen voor de bouwsector. Ze hebben een uitgebreid productportfolio met een sterke marktpositie in Europa. Innovatie en een klantgerichte aanpak staan bij hen centraal. Ze beschikken reeds over een sterke robuuste architectuur maar er is nog werk op vlak van uitbreiding en rapportering. Om dit project mee te ondersteunen kijken ze uit naar een hands-on Data Analist.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+In deze rol vertaal je de noden van de business naar concrete data-oplossingen. Je ontsluit data uit verschillende ERP-systemen en structureert deze in de silver- en gold-layers om zo een uniforme basis te creëren. Vanuit die basis bouw, onderhoud en test je Power BI-rapporten, waarbij je de data valideert en zorgt dat de rapportages de juiste inzichten opleveren.&lt;br&gt;
+&lt;br&gt;
+Je werkt met bestaande PySpark-notebooks die je aanpast en optimaliseert voor performantie, en je past het semantisch model en measures aan bij nieuwe domeinen. Daarnaast ondersteun je de automatisatie van rapportdistributie via Power Automate en monitor je dagelijks de bestaande rapporten. Tot slot coach je de internationale hubs in het gebruik van de centrale dataomgeving en help je hen om meer eigenaarschap te nemen.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt minstens 3 jaar werkervaring.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Jij hebt bij voorkeur ervaring als data engineer of data analist.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt sterke kennis van SQL en Power BI (rapportering, analyses, datamodellering, semantisch model en DAX measures).&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief sterk.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent zelfstandig en flexibel ingesteld, je weet van aanpakken.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je ben Nederlandstalig en vloeiend in het Engels.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+Werken bij dit bedrijf geeft jouw toegang en extra ervaring in de nieuwste technologieën zoals Microsoft Fabric en Power BI. Je hebt de mogelijkheid om op internationaal niveau te werken binnen een dynamische omgeving. Gezien het internationale karakter heb je de mogelijkheid om af en toe te reizen naar de andere internationale sites.&lt;br&gt;
+&lt;br&gt;
+Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. www.cartiere.beBekijk onze website www.cartiere.be voor meer BI- en data vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <category term="Data Engineering"/>
+    <published>2025-09-18T13:40:15+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/business-intelligence-team-lead/</id>
     <title>Business Intelligence Team lead </title>
