@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-19T12:37:58.240654+00:00</updated>
+  <updated>2025-09-19T14:21:08.067396+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1323,6 +1323,47 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</cont
     <link href="https://www.cartiere.be/jobs/data-engineer-consultant/"/>
     <category term="Data Engineering"/>
     <published>2024-05-23T14:31:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineering-lead/</id>
+    <title>Data Engineering Lead</title>
+    <updated>2024-05-22T08:29:34+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: , 3500, Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-05-22 09:29:34+00:00, last change 2024-05-22 08:29:34+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-05-22 09:29:34+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit bedrijf in Limburg is een kleine KMO, en een van de belangrijkste spelers binnen hun sector in België. Hun focus ligt op het aanbieden van betrouwbare diensten, met nadruk op de klantervaring. Ze zien zichzelf als een technologiebedrijf met een focus op technische excellentie, wat blijkt uit hun data-driven aanpak. Ze zijn op zoek naar een Data Engineering Lead om hun kleine, maar ervaren team te begeleiden. Je zal rechtstreeks rapporteren aan de CTO.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Jouw verantwoordelijkheden omvatten drie belangrijke gebieden: leiderschap, data-engineering en het oplossen van business vraagstukken. Als Data Engineering Lead krijg je de kans om de datastrategie uit te denken, de roadmap te ontwikkelen en een team te leiden. Bovendien blijf je technisch betrokken, waardoor je takenpakket gevarieerd blijft. Kortom: 
+&lt;ul&gt;
+	&lt;li&gt;Je leidt een klein team van data engineers, je implementeert een visie en coacht jouw teamleden. Je voert evaluatiegesprekken en ondersteunt hun ontwikkeling.
+	&lt;li&gt;Je ontwikkelt en implementeert een data-strategie, definieert de toekomstige behoeften en stelt een roadmap op.
+	&lt;li&gt;Je bent verantwoordelijk voor de data-architectuur en je zorgt voor een solide en efficiënte infrastructuur.
+	&lt;li&gt;Je beheert de data-omgevingen (voornamelijk Postgres met DBT, maar ook BigQuery en Spark op Databricks). Je spoort fouten op en lost ze op.
+	&lt;li&gt;Je begrijpt volledige operationele datamodellen en transformeert deze naar data structuren geschikt voor rapportage en analyse.
+	&lt;li&gt;Je ondersteunt data-analisten door hen te voorzien van gemakkelijke, toegankelijke en begrijpelijke data. Het insights team maakt de visualisaties in Tableau. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minstens 4 jaar werkervaring in data engineering.
+	&lt;li&gt;Je bezit soft skills die belangrijk zijn voor een people manager.
+	&lt;li&gt;Sterke kennis van SQL. Kennis van Python en Tableau vormen een plus.
+	&lt;li&gt;Je bent vertrouwd met concepten zoals CI/CD, agile en refactoring, SQL en relationele databases (Postgres, ETL, DBT).
+	&lt;li&gt;Je kunt pragmatisch handelen en je hebt oog voor eenvoud. 
+	&lt;li&gt;Je hebt interesse in AI-ontwikkelingen.
+	&lt;li&gt;Je hebt een sterke kennis van het Engels; kennis van Nederlands is een plus.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je werkt in een moderne kantooromgeving met de beste collega&amp;apos;s uit diverse achtergronden. Ze stimuleren maximaal persoonlijke ontwikkeling en ideeën en bekijken graag de zaken vanuit een originele, niet voor de hand liggende invalshoek, waarbij het ook eens wat ‘gekker’ mag. Het is een warm en financieel gezond bedrijf met veel samenwerking. Het bedrijf waardeert hard werken, maar ook het recht op ontkoppeling. Daarnaast kun je ongeveer drie dagen per week thuiswerken en is er een wagen voorzien in het loonpakket.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Ben jij de Data Engineering Lead die wij zoeken? &lt;br&gt;
+Stuur dan nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. &lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/data-engineering-lead/"/>
+    <category term="Data Engineering"/>
+    <published>2024-05-22T09:29:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/analytics-engineer/</id>
