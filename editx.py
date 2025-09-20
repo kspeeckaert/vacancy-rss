@@ -4,6 +4,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 from random import randint
 import time
+import math
 import requests
 from requests.exceptions import HTTPError
 from feedgen.feed import FeedGenerator
@@ -45,8 +46,8 @@ def get_data(config_file: Path|str) -> list:
         data = raw_data['jobs']
 
         if (total := int(raw_data['total'])) > (count := int(raw_data['count'])):
-            page_count = total % count
-            logging.debug(f'Total count is {total}, need to issue another {page_count-1} requests to fetch all data.')
+            page_count = math.ceil(total / count)
+            logging.debug(f'Total count is {total}, need to issue another {page_count-1} request(s) to fetch all data.')
             # We already had to retrieve page 0 to figure this out,
             # so the iterations need to start from 1
             for i in range(1,page_count):
