@@ -2,28 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-23T20:43:05.962246+00:00</updated>
+  <updated>2025-09-23T22:41:31.998362+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68378773</id>
-    <title>Freelance IT'ers (Cronos)</title>
-    <updated>2025-09-16T00:02:48+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben je een freelance consultant? Klaar voor een nieuwe uitdaging? &lt;/p&gt;&lt;p&gt;Of wil je je netwerk uitbouwen en als IT professional op de hoogte blijven van interessante opdrachten? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fieldside levert enterprise en technologische oplossingen én de daarbij horende consultancy diensten. Wij detacheren specialisten, voeren volledige ICT-projecten uit en nemen de volledige outsourcing van IT-diensten voor onze rekening. Wij kunnen rekenen op een solide klantportfolio voor wie we in directe lijn een brede variëteit aan opdrachten uitvoeren. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Om continuïteit en flexibiliteit te kunnen garanderen, om aan alle staffing behoeften te voldoen en om aan de vraag naar specifieke, additionele expertise in te willigen werkt Fieldside met freelancers. &lt;/p&gt;&lt;p&gt;Onze freelance pool is een belangrijke troef om tegemoet te komen aan de behoeften van onze klanten! &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn permanent op zoek naar enthousiaste en ervaren IT’ers om interessante opdrachten uit te voeren. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn op zoek naar:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Automation Engineers&lt;/li&gt;&lt;li&gt;Network Engineers&lt;/li&gt;&lt;li&gt;System Engineers&lt;/li&gt;&lt;li&gt;DevOps Engineers&lt;/li&gt;&lt;li&gt;Fullstack Java developers&lt;/li&gt;&lt;li&gt;Frontend developers&lt;/li&gt;&lt;li&gt;Cloud Engineers&lt;/li&gt;&lt;li&gt;Cloud Solution Architecten&lt;/li&gt;&lt;li&gt;Projectmanagers&lt;/li&gt;&lt;li&gt;Business Analisten&lt;/li&gt;&lt;li&gt;Functioneel Analisten&lt;/li&gt;&lt;li&gt;Oracle DBA'ers&lt;/li&gt;&lt;li&gt;Postgres DBA&lt;/li&gt;&lt;li&gt;Oracle PL/SQL en developers&lt;/li&gt;&lt;li&gt;Oracle APEX developers&lt;/li&gt;&lt;li&gt;BI Architecten&lt;/li&gt;&lt;li&gt;BI Consultants&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;html&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;php&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;product design&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;program management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;engineering&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68378773"/>
-    <published>2024-02-23T14:52:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68398050</id>
     <title>Freelance Solution Architect (Cronos)</title>
@@ -4146,5 +4127,118 @@ Uiterste sollicitatiedatum: zo snel mogelijk&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&g
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Michael Page International (Belgium) (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Our client is based in Antwerp.&lt;/p&gt;&lt;p&gt;As a Software Expert Supply Chain / Logistics for our client, you will be in charge of the following responsibilities :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Be responsible of the solutions used in Supply Chain / Logistics and determine a strategy for the evolution of these products !&lt;/li&gt;&lt;li&gt;Software customization and implementation of optimization to improve the efficiency of logistics operations.&lt;/li&gt;&lt;li&gt;Collaborate with various departments to understand needs and requirements and translate them into technical solutions.&lt;/li&gt;&lt;li&gt;Testing various solutions to ensure they meet these operational requirements.&lt;/li&gt;&lt;li&gt;Monitor the performance of implemented software and implement improvements where necessary.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Documenting existing software and processes as well as their evolution's.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;The ideal candidate for this Software Expert Supply Chain / Logistics position would have the following skills :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Degree in Engineering or Master's degree in Computer Science, Mathematics or Logistics or a related field, or equivalent through experience.&lt;/li&gt;&lt;li&gt;At least 5 years of experience in developing and implementing software solutions, preferably in a logistics environment.&lt;/li&gt;&lt;li&gt;Fluency in Dutch and English.&lt;/li&gt;&lt;li&gt;Experiences with Logivations ideally.&lt;/li&gt;&lt;li&gt;Experience with data analysis and the use of analytical tools.&lt;/li&gt;&lt;li&gt;Excellent problem-solving skills and attention to detail.&lt;/li&gt;&lt;li&gt;Good communication skills and the ability to work effectively in a team.&lt;/li&gt;&lt;li&gt;Knowledge of programming languages ​​such as Python, Java or C++ is a plus.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Offer&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lot of possibilities to develop new projects&lt;/li&gt;&lt;li&gt;Growing company and long term strategy in place&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72017619"/>
     <published>2025-09-23T08:27:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72022058</id>
+    <title>ERP Application Owner (M/V/X) (ictjob.be)</title>
+    <updated>2025-09-23T14:18:17+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;b&gt;Functie&lt;/b&gt;&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Als ERP Application Owner ben je de schakel tussen business, technologie en externe ICT-partners. Onze ERP-applicatie is een essentiële component binnen ons applicatielandschap en waarvoor we nu een nieuw project gaan opstarten om deze vervangen. Naast jouw primaire verantwoordelijkheden fungeer je als backup voor de Instore Application Owner.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Op termijn kan je potentieel extra verantwoordelijkheden krijgen.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Analyse en optimalisatie&lt;/b&gt;&lt;br /&gt;
+
+Als verantwoordelijke voor onze ERP applicaties analyseer je onze huidige ERP-oplossingen en identificeer je verbeterpunten om processen efficiënter en klantgerichter te maken. Je waarborgt de beschikbaarheid en betrouwbaarheid van data in de systemen die jij beheert.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Projectmanagement&lt;/b&gt;&lt;br /&gt;
+
+De vervanging en modernisering van ons huidig ERP systeem zal een kerntaak zijn.&lt;br /&gt;
+
+Je beheert projecten van begin tot eind, van planning tot implementatie, en zorgt voor tijdige oplevering binnen budget. Hiervoor werk je nauw samen met interne teams en externe partners om onze ICT-oplossingen continu te verbeteren. Je zorgt voor een soepele implementatie van wijzigingen.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Support&lt;/b&gt;&lt;br /&gt;
+
+Je ondersteunt eindgebruikers en stimuleert de adoptie en integratie van nieuwe systemen en processen. Je volgt operationele issues op en duikt zelf in de systemen om oorzaken te achterhalen.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Het team&lt;/b&gt;&lt;br /&gt;
+
+Je komt terecht in een team van 5 ICT-collega's en neemt bij afwezigheid elkaars taken over. Je rapporteert aan de ICT-manager en je werkt nauw samen met en ben je backup voor de Instore Application Owner.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt; &lt;/b&gt;&lt;br /&gt;
+
+&lt;b&gt;Profiel&lt;/b&gt;&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Voor de rol van ERP Application Owner zoeken we eerder een hands-on business analist dan een technische IT'er.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Jij:&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;hebt ervaring in projectmanagement en coördinatie van externe partners
+&lt;/li&gt;
+
+&lt;li&gt;hebt ervaring in het beheren van ERP-oplossingen
+&lt;/li&gt;
+
+&lt;li&gt;bent sterk in plannen, organiseren en communiceren
+&lt;/li&gt;
+
+&lt;li&gt;weet van aanpakken en hebt een sterk analytisch vermogen
+&lt;/li&gt;
+
+&lt;li&gt;vloeiende kennis van Nederlands en voldoende kennis van Frans
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+Heb je bovendien al kennis van retail, dan is dat een sterk pluspunt.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Aanbod&lt;/b&gt;&lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Een mooi salaris, aangevuld met extralegale voordelen zoals groeps- en hospitalisatieverzekering, maaltijdcheques, firmawagen,...
+&lt;/li&gt;
+
+&lt;li&gt;Flexibele werkuren en 1 dag thuiswerk per week na de inloopperiode, in overleg met het team.
+&lt;/li&gt;
+
+&lt;li&gt;Een hecht team met veel ruimte voor initiatief en eigen inbreng.
+&lt;/li&gt;
+
+&lt;li&gt;Een moderne werkomgeving en 30% personeelskorting op al onze producten
+&lt;/li&gt;
+
+&lt;li&gt;Je goed voelen in een moderne en ontspannen werkomgeving bij een gezond en stabiel Belgisch modebedrijf.
+&lt;/li&gt;
+
+&lt;li&gt;De kans om écht impact te maken binnen een sterke Belgische retailorganisatie.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+Klaar om jouw talenten in te zetten binnen een inspirerende fashion-en retailomgeving?&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Stuur ons dus snel jouw cv via de sollicitatiebutton en wij nemen zo snel mogelijk contact met jou op.&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72022058"/>
+    <published>2025-09-23T14:18:17+00:00</published>
   </entry>
 </feed>
