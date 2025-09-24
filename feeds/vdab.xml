@@ -2,28 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-24T10:44:02.219431+00:00</updated>
+  <updated>2025-09-24T13:00:02.565507+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68378773</id>
-    <title>Freelance IT'ers (Cronos)</title>
-    <updated>2025-09-16T00:02:48+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben je een freelance consultant? Klaar voor een nieuwe uitdaging? &lt;/p&gt;&lt;p&gt;Of wil je je netwerk uitbouwen en als IT professional op de hoogte blijven van interessante opdrachten? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fieldside levert enterprise en technologische oplossingen én de daarbij horende consultancy diensten. Wij detacheren specialisten, voeren volledige ICT-projecten uit en nemen de volledige outsourcing van IT-diensten voor onze rekening. Wij kunnen rekenen op een solide klantportfolio voor wie we in directe lijn een brede variëteit aan opdrachten uitvoeren. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Om continuïteit en flexibiliteit te kunnen garanderen, om aan alle staffing behoeften te voldoen en om aan de vraag naar specifieke, additionele expertise in te willigen werkt Fieldside met freelancers. &lt;/p&gt;&lt;p&gt;Onze freelance pool is een belangrijke troef om tegemoet te komen aan de behoeften van onze klanten! &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn permanent op zoek naar enthousiaste en ervaren IT’ers om interessante opdrachten uit te voeren. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn op zoek naar:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Automation Engineers&lt;/li&gt;&lt;li&gt;Network Engineers&lt;/li&gt;&lt;li&gt;System Engineers&lt;/li&gt;&lt;li&gt;DevOps Engineers&lt;/li&gt;&lt;li&gt;Fullstack Java developers&lt;/li&gt;&lt;li&gt;Frontend developers&lt;/li&gt;&lt;li&gt;Cloud Engineers&lt;/li&gt;&lt;li&gt;Cloud Solution Architecten&lt;/li&gt;&lt;li&gt;Projectmanagers&lt;/li&gt;&lt;li&gt;Business Analisten&lt;/li&gt;&lt;li&gt;Functioneel Analisten&lt;/li&gt;&lt;li&gt;Oracle DBA'ers&lt;/li&gt;&lt;li&gt;Postgres DBA&lt;/li&gt;&lt;li&gt;Oracle PL/SQL en developers&lt;/li&gt;&lt;li&gt;Oracle APEX developers&lt;/li&gt;&lt;li&gt;BI Architecten&lt;/li&gt;&lt;li&gt;BI Consultants&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;html&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;php&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;product design&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;program management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;engineering&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68378773"/>
-    <published>2024-02-23T14:52:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68398050</id>
     <title>Freelance Solution Architect (Cronos)</title>
@@ -4249,5 +4230,13 @@ Klaar om jouw talenten in te zetten binnen een inspirerende fashion-en retailomg
 Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogelijk contact met jou op.</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72022058"/>
     <published>2025-09-23T14:18:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72031567</id>
+    <title>BI &amp; Functional Analyst (Visser &amp; Van Baars)</title>
+    <updated>2025-09-24T12:49:07+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Regio Antwerpen | Vast contract | Hybride werk mogelijk&lt;/p&gt;&lt;p&gt;Voor een internationale en financieel sterke organisatie in de logistieke sector zoeken we een &lt;strong&gt;IT Business Analyst&lt;/strong&gt; die bruggen kan slaan tussen business en IT, en mee wil bouwen aan impactvolle oplossingen in een dynamische, datagedreven omgeving.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw rol&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyseren en documenteren van businessbehoeften en vertalen naar duidelijke IT-oplossingen.&lt;/li&gt;&lt;li&gt;Opstellen van user stories, functionele requirements en procesflows.&lt;/li&gt;&lt;li&gt;Begeleiden van workshops en sessies met stakeholders om noden helder te krijgen.&lt;/li&gt;&lt;li&gt;Werken met tools zoals Azure DevOps en Figma om requirements te structureren en visualiseren.&lt;/li&gt;&lt;li&gt;Nauwe samenwerking met ontwikkelteams en business analisten om oplossingen uit te werken en te testen.&lt;/li&gt;&lt;li&gt;Ondersteunen van change management en zorgen voor correcte documentatie.&lt;br&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in ICT, business of gelijkwaardig door ervaring.&lt;/li&gt;&lt;li&gt;Ervaring als business analist binnen IT- of data-omgevingen.&lt;/li&gt;&lt;li&gt;Kennis van agile/scrum, backlogbeheer, user stories en mockups.&lt;/li&gt;&lt;li&gt;Ervaring met tools als Azure DevOps, UML/Visio en Figma is een plus.&lt;/li&gt;&lt;li&gt;Sterk analytisch, communicatief en in staat bruggen te bouwen tussen business en IT.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vlotte kennis van Nederlands en Engels.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een rol binnen een internationaal en stabiel bedrijf met sterke groeiperspectieven.&lt;/li&gt;&lt;li&gt;Impactvolle projecten die direct bijdragen aan de verdere digitalisering van de organisatie.&lt;/li&gt;&lt;li&gt;Hybride werkmodel met ruimte voor thuiswerk.&lt;/li&gt;&lt;li&gt;Een aantrekkelijk salaris- en voordelenpakket met extralegale voordelen.&lt;/li&gt;&lt;li&gt;Een omgeving waar initiatief gewaardeerd wordt en je op lange termijn kan meegroeien.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Stuur me een berichtje voor meer info of een vrijblijvende kennismaking!&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72031567"/>
+    <published>2025-09-24T12:49:07+00:00</published>
   </entry>
 </feed>
