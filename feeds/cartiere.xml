@@ -2,9 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-24T14:19:51.744452+00:00</updated>
+  <updated>2025-09-24T16:26:15.404600+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/</id>
+    <title>Medior/Senior Data Visualisatie Consultant</title>
+    <updated>2025-09-24T14:23:44+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Bosstraat 69, 3560, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-05-22 09:34:20+00:00, last change 2025-09-24 14:23:44+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-05-22 09:34:20+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit data-, BI- en AI-projecthuis werkt op een toolagnostische manier. Ze volgen nauwlettend de marktontwikkelingen en integreren de meest gebruikte technologieën. Dit biedt jou als data visualisatie consultant de vrijheid om verschillende technologieën te leren en toe te passen. Het zacht en menselijk bedrijf investeert volop in haar medewerkers door middel van opleidingen, trainingen en coaching. Carrièreplannen worden samen met jou opgesteld en er heerst een teamgerichte sfeer. Dit mensgerichte bedrijf biedt geen ruimte voor competitie en luistert echt naar jou. Voor iemand die zich wil ontwikkelen, liggen hier alle kansen. Het team is zeer communicatief en heeft een sterke focus op business.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in de Data Visualisatie Unit, waar de nadruk ligt op rapportage en dashboarding onder de slogan "More than visualisations." De focus verschuift steeds meer naar storytelling door visuele verhalen te integreren in websites via Power BI. Het team bestaat uit ongeveer 15 medewerkers en zoekt experts die op de hoogte zijn van de nieuwste trends en ontwikkelingen in het vakgebied. De belangrijkste tools die ze gebruiken zijn Power BI en Tableau, terwijl Qlik en Spotfire minder vaak worden ingezet.&lt;br&gt;
+&lt;br&gt;
+Je helpt graag klanten om inzicht te krijgen in hun structuren en zorgt voor verdere optimalisaties en automatiseringen. Als data visualisatie consultant heb je dagelijks contact met zowel zakelijke als technische stakeholders, waarbij je jouw analytisch denkvermogen gebruikt om de juiste datamodellen op te zetten. Je geniet ervan om een expertrol op je te nemen en klanten te adviseren.&lt;br&gt;
+Daarnaast geef je trainingen in Power BI, ondersteun je klanten bij het opzetten van een BI-omgeving, werk je mee aan blueprints en zorg je ervoor dat best practices worden toegepast, zoals het opzetten van workspaces en apps, het waarborgen van security, het hanteren van naming conventions en het implementeren van deployment-strategieën.&lt;br&gt;
+&lt;br&gt;
+Als Senior Consultant ga je gaan nadenken op een hoger niveau en juniors begeleiden op projecten. Je bent ook het aanspreekpunt van de klant en neemt een deeltje project management op jou. Kortom, jij behoudt het helicopter zicht over de projecten. Je zal zelf ook nog rapporten maken, maar zal instaan voor de complexere zaken bij de projecten. Je hebt ook de mogelijkheid om Competence Center Lead te worden.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je bent in het bezig van een bachelor of een master diploma. 
+	&lt;li&gt;Je hebt minimaal 3 jaar relevante ervaring in datavisualisatie. Bij voorkeur binnen consultancy.
+	&lt;li&gt;Je hebt uitstekende kennis van Power BI en DAX.
+	&lt;li&gt;Je hebt ervaring met SQL en data¬modellering (zoals sterschema’s).
+	&lt;li&gt;Je bent vertrouwd met best practices en platform governance.
+	&lt;li&gt;Je hebt inzicht in moderne concepten zoals Microsoft Fabric en data warehousing.
+	&lt;li&gt;Je bent op de hoogte van de nieuwste trends en evoluties in het vakgebied.
+	&lt;li&gt;Je bent communicatief, gedreven, vriendelijk, kritisch en een teamplayer. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Als Data Visualisatie Consultant maak je deel uit van een hechte gemeenschap van deskundige experts en betrokken collega’s. Een gezonde werk-privébalans en een plezierige werksfeer zorgen voor een aangename omgeving. Daarnaast is er een flexibele thuiswerkregeling. Je ontvangt een aantrekkelijk salarispakket met extra legale voordelen en incentives, en krijgt dagelijks de kans om jezelf verder te ontwikkelen. Wie ondernemend is, zal zich hier helemaal op zijn plek voelen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Klaar om jouw carrière een boost te geven? &lt;br&gt;
+Stuur dan nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2024-05-22T09:34:20+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/application-specialist/</id>
     <title>Application Specialist</title>
@@ -35,6 +72,55 @@ Visit our website www.cartiere.be for more BI, data, AI and ML-opportunities.&lt
     <link href="https://www.cartiere.be/jobs/application-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-09-23T07:53:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/analytics-ai-data-engineer/</id>
+    <title>Analytics &amp; AI Data Engineer</title>
+    <updated>2025-09-22T14:13:33+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Corda Campus (building 5), Kempische Steenweg 309 box 1, 3500, Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-09-22 15:13:33+00:00, last change 2025-09-22 14:13:33+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-09-22 15:13:33+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit bedrijf in Limburg is een kleine KMO, en een van de belangrijkste spelers binnen hun sector in België. Hun focus ligt op het aanbieden van betrouwbare diensten, met nadruk op de klantervaring. Ze zien zichzelf als een technologiebedrijf met een focus op technische excellentie, wat blijkt uit hun data-driven aanpak. Ze zijn op zoek naar een Data Engineer om hun kleine, maar ervaren team te versterken. Als Data Engineer werk je zowel operationeel als projectmatig. Je combineert dagelijkse operationele checks met het bijdragen aan strategische projecten. Het team rapporteert direct aan de CTO.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Je zal verantwoordelijk zijn voor de volgende zaken:
+&lt;ul&gt;
+	&lt;li&gt;Data pipelines onderhouden en bouwen.
+	&lt;li&gt;Jij bouwt mee aan een solide fundament waarop toekomstige projecten kunnen draaien.
+	&lt;li&gt;Je ondersteunt bij het opzetten van het nieuwe datalake en bij de migratie van batch-processen naar real-time dataverwerking.
+	&lt;li&gt;Je leest Python-code in, bouwt en onderhoudt DBT-modellen en stuurt deze aan vanuit Airflow.
+	&lt;li&gt;Je werkt samen met analisten om businessvragen te vertalen naar robuuste datastructuren en oplossingen.
+	&lt;li&gt;Samen met het team werk je aan (generatieve) AI-projecten en API’s, waarbij je meedenkt over build vs. buy en de technische implementatie.
+	&lt;li&gt;Je draagt bij aan het creëren van kant-en-klare datasets en een data-architectuur die self-service analytics mogelijk maakt, zodat het team proactiever kan werken.
+	&lt;li&gt;Je ondersteunt bij de keuze en implementatie van een event streaming platform voor klantgedrag en andere real-time data.
+	&lt;li&gt;Je hebt inspraak in de evolutie van onze data-architectuur, de technologieën die ze kiezen en de integratie van AI.
+	&lt;li&gt;Ongeveer 25% van je tijd besteed je aan het upgraden/moderniseren van de data stack en experimenteren met nieuwe technologieën.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over een masterdiploma.
+	&lt;li&gt;Je hebt minimaal 3 jaar ervaring in data engineering.
+	&lt;li&gt;Je hebt sterke kennis van een cloudplatform en van SQL, Python of een andere programmeertaal.
+	&lt;li&gt;Kennis van AWS en DBT is een plus.
+	&lt;li&gt;Een softwareachtergrond is een mooie meerwaarde: je brengt een stukje software engineering in data engineering.
+	&lt;li&gt;Je hebt een goed begrip van datawarehouses.
+	&lt;li&gt;Je hebt interesse in data-architectuur en interesse en/of ervaring met AI-projecten en moderne datastacks.
+	&lt;li&gt;Je bent communicatief sterk en kunt out-of-the-box denken.
+	&lt;li&gt;Je bent een teamspeler en kunt ook op een informele manier communiceren.
+	&lt;li&gt;Je kunt structuur en orde scheppen in je werk.
+	&lt;li&gt;Je hebt een sterke kennis van Engels; kennis van Nederlands is een plus.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je werkt in een moderne kantooromgeving met de beste collega&amp;apos;s uit diverse achtergronden. Ze stimuleren maximaal persoonlijke ontwikkeling en ideeën en bekijken graag de zaken vanuit een originele, niet voor de hand liggende invalshoek, waarbij het ook eens wat ‘gekker’ mag. Het is een warm en financieel gezond bedrijf met veel samenwerking. Het bedrijf waardeert hard werken, maar ook het recht op ontkoppeling. Er is veel ruimte voor opleidingen en het behalen van certificaten. Daarnaast kun je ongeveer drie dagen per week thuiswerken en is er een wagen voorzien in het loonpakket.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Ben jij de Analytics &amp; AI Data Engineer die wij zoeken? &lt;br&gt;
+Stuur dan nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. &lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/analytics-ai-data-engineer/"/>
+    <category term="Data Engineering"/>
+    <published>2025-09-22T15:13:33+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-analist/</id>
@@ -1128,41 +1214,6 @@ Bekijk onze website www.cartiere.be voor meer BI-vacatures.&lt;/strong&gt;&lt;br
     <link href="https://www.cartiere.be/jobs/bi-expert-2/"/>
     <category term="BI/Data Analyst"/>
     <published>2024-06-10T09:16:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-visualisatie-consultant/</id>
-    <title>Data Visualisatie Consultant</title>
-    <updated>2024-11-27T09:56:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Bosstraat 69, 3560, Lummen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-05-22 09:34:20+00:00, last change 2024-11-27 09:56:51+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-05-22 09:34:20+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Dit bedrijf bestaat al enkele jaren en gaan sinds 2020 op een toolagnostische manier te werk. Hun specialisatie ligt vooral binnen data engineering, data analyse en AI. Ze volgen sterk de marktontwikkelingen en integreren de meest gebruikte technologieën. Hun consultants zijn flexibel en kunnen werken met diverse tools zonder vast te zitten aan één technologie. Allen zijn ze zeer communicatief en business gericht ingesteld.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Je zal terechtkomen in de Data Visualisatie Unit. Hierbij ligt de focus op rapportering en dashboarding met de slogan "More than visualisations." Ze leggen steeds meer nadruk op storytelling, bijvoorbeeld door visuele verhalen te integreren in websites via Power BI. Als medior/ senior data visualisatie expert. Het data visualisatie team bestaat ongeveer uit 15 werknemers. Ze kijken uit naar experts die op de hoogte zijn van de nieuwste trends en evoluties in het vakgebied. De tools die ze voornamelijk gebruiken zijn Power BI en Tableau (Qlik en Spotfire in mindere mate).&lt;br&gt;
-&lt;br&gt;
-Je helpt graag klanten inzichten ontwikkelen in hun structuren en je zorgt voor verdere optimalisaties en automatisaties. Als data analist spreekt het voor zich dat je dagdagelijks contact hebt met zowel business als technische stakeholders, waarbij je jouw analytisch denkvermogen gebruikt om juiste data modellen neer te zetten. Je houdt ervan om een experten rol op jou te nemen en klanten te adviseren. Tenslotte schrikt een diversiteit van projecten en verschillende omgevingen jou niet af en hou je van bijleren om bij te blijven met de nieuwste trends en technologieën binnen jouw domein.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je bezit minimaal 2/3 jaar relevante ervaring in data visualisatie.
-	&lt;li&gt;Je hebt een sterke kennis van Power BI.
-	&lt;li&gt;Je bezit sterke communicatieve vaardigheden. 
-	&lt;li&gt;Je hebt een passie voor data visualisatie, storytelling en klantcontact.
-	&lt;li&gt;Je bent ambitieus zonder arrogantie.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een opgeving die toolagnostisch te werk gaat. Jijzelf krijgt de vrijheid om diverse technologieën aan te leren en te switchen op eender welk moment. Ze investeren maximaal in hun medewerkers door opleiding, training en coaching. Carrièreplannen worden samen met jou opgesteld en er is een teamgerichte sfeer. Ze zijn een zacht menselijk bedrijf waar er geen ruimte is voor competitie en er echt naar jou wordt geluisterd. Iemand die echt wil ontwikkelen, krijgt hier alle kansen.&lt;br&gt;
-&lt;br&gt;
-Je komt als BI data analist terecht in een hechte community van expert collega’s. Een gezonde work/life balans en een hoge dosis fun zorgen voor een aangename omgeving.&lt;br&gt;
-Daar bovenop ontvang je een mooi salarispakket en krijg je een pakket extralegale voordelen, incentives en kan je jezelf elke dag verder ontwikkelen.&lt;br&gt;
-&lt;br&gt;
-Klaar om jouw carrière een boost te geven? &lt;br&gt;
-Stuur dan nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/data-visualisatie-consultant/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2024-05-22T09:34:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/trusted-ai-manager/</id>
