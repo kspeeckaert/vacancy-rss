@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-09-26T06:49:44.319396+00:00</updated>
+  <updated>2025-09-26T08:48:24.294918+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68368870</id>
+    <title>Data solution architect (Cronos)</title>
+    <updated>2025-09-16T00:02:53+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;What would you do?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In your role as a Data Solution Architect you create the overall technical vision for a Data Warehouse solution aligned with the organisation’s strategy. You design, describe, and manage the technical data solution. You are the connection between business and the proposed technical solution, outlining each of the phases and requirements required to make it work. As a Data Solution Architect, you are able to analyse the existing environment and available technologies in order to define and provide the best solution for the data related problem and create an overall strategic technical vision.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In addition, your are responsible for monitoring the implementation and keeping stakeholders updated and informed on the progress.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Who are you?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand the needs of the customer and can easily handle complex data environments.&lt;/li&gt;&lt;li&gt;You are focused on collaboration, innovation and continuous improvement.&lt;/li&gt;&lt;li&gt;You are able to communicate new features and benefits to all involved stakeholders&lt;/li&gt;&lt;li&gt;You are able to provide technical leadership to a team throughout the project lifecycle&lt;/li&gt;&lt;li&gt;You are able to clearly document and share best practice knowledge for new solutions&lt;/li&gt;&lt;li&gt;You have strong communication skills and always strive for the best solution.&lt;/li&gt;&lt;li&gt;You are fluent in Dutch or French and have a strong knowledge of English.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;What about your technical skills?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge and hands-on experience with Data Warehouse environments&lt;/li&gt;&lt;li&gt;Providing recommendations and roadmaps for proposed solutions&lt;/li&gt;&lt;li&gt;Able to perform design, debug, and performance analysis on data solutions&lt;/li&gt;&lt;li&gt;Developing proof-of-concept projects to validate proposed solutions&lt;/li&gt;&lt;li&gt;Broad experience with solution designs for Data Warehouse environments&lt;/li&gt;&lt;li&gt;SQL querying holds no secrets&lt;/li&gt;&lt;li&gt;Insights in setting up ETL processes&lt;/li&gt;&lt;li&gt;Experience in data visualisation and reporting is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Oracle, Google BigQuery, Microsoft Azure or other data stores is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;data architectuur&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;data warehouse&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;etl&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;At Tripwire Solutions you will find yourself in an innovative and challenging work environment where our colleagues and customers are our main focus. Openness, transparency and trust are at the top of our list of corporate values. Room for initiative and entrepreneurship are in our DNA. You will join a team of experts with whom you can share knowledge and where you can inspire each other. During our knowledge-sharing sessions you will also regularly come into contact with the different teams.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;We have a lot to OFFER!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An attractive salary package with a company car and a fuel card;&lt;/li&gt;&lt;li&gt;An extensive package of benefits and discounts;&lt;/li&gt;&lt;li&gt;Numerous social events (short ski, family day / weekend, after-work drinks, …);&lt;/li&gt;&lt;li&gt;A personalised growth plan;&lt;/li&gt;&lt;li&gt;Various education options and trainings to develop yourself and become an expert.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68368870"/>
+    <published>2024-02-22T11:42:26+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68368886</id>
     <title>Data architect (Cronos)</title>
@@ -1554,45 +1567,6 @@
 &lt;p&gt; &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71621432"/>
     <published>2025-07-30T17:31:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71627647</id>
-    <title>Systeem en netwerk administrator (AUTAJON LABELS BELGIUM)</title>
-    <updated>2025-08-11T15:43:49+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: AUTAJON LABELS BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Instaan voor het goed functioneren, onderhoud en de beveiliging van IT-systemen, netwerken en telefonie.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Beheren van toegangen tot netwerken en systemen om de veiligheid van data en ICT-infrastructuur te garanderen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Uitvoeren van preventieve en corrigerende acties op systemen en apparatuur.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Actieve deelname aan projecten rond informatiesystemen en cybersecurity.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Verlenen van technische ondersteuning aan interne gebruikers (niveau 2/3).&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Beheren van tools voor IT-inventarisatie en -monitoring.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Opstellen van technische documentatie, procedures en gebruikersondersteuning.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je komt terecht in een dynamisch en mensgericht IT-team, in het hart van de technologische uitdagingen van de groep. Met de ondersteuning van een support desk technieker werk je mee aan de uitbouw van onze infrastructuur en neem je deel aan strategische projecten om de performantie, veiligheid en ontwikkeling van de IT- en telecominfrastructuur te waarborgen. Je bent het technisch aanspreekpunt voor jouw verantwoordelijkheidsdomein en werkt nauw samen met het IT-team van de groep.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Jouw werkterrein betreft 2 industriële productievestigingen te Wommelgem (150 computers) en Utrecht (90 computers). Je zal jezelf voor deze functie, ongeveer 1 keer per maand naar Utrecht moeten verplaatsen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Hogere opleiding in IT, met specialisatie in systemen en netwerken.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Aanzienlijke ervaring, liefst 5 jaar, in een gelijkaardige functie en liefst in een productieomgeving.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je werkt zelfstandig, adequaat, hebt een technologische kennis, beschikt over sterke analytische vaardigheden en bent proactief in het verbeteren van de beveiliging. Je hebt een teamgeest en klantgerichte instelling.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Talenkennis: Nederlands, Engels en operationeel Frans (leuke extra, geen must).&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Grondige kennis van de volgende technische omgevingen:&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt; 
-&lt;span lang="EN-US"&gt;Windows Server, Active Directory, TSE/RDS&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Virtualisatie: VMware, HyperV,Esxi &amp;amp; Vcenter&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Back-up: Veeam Backup&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Netwerken: TCP/IP, VLAN, DHCP, DNS, draadloos, Fortigate firewall&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;VoIP-telefonie&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Microsoft 365 (Outlook, Teams, SharePoint)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Powershell/Python&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Cyber security: Antivirus EDR,Bastion,Incident analysis,log reading, GDPR/ISO 27001/ ANSSI&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;AZURE/AWS&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Documenteren: procedures, schema’s, PRA&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Projecten beheren: migraties,upgrades,nieuwe systemen, ITIL, Agile,…&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Stap in een boeiende rol binnen een modern, groeiend en gezond bedrijf, waar een familiale en informele sfeer heerst.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je krijgt direct een vast contract van onbepaalde duur met een marktconform salaris, aangepast aan jouw ervaring.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Profiteer van een uitgebreid pakket aan extralegale voordelen, waaronder een bedrijfswagen, maaltijdcheques ter waarde van 6 euro, groepsverzekering, hospitalisatieverzekering, eco-cheques en bijkomende verlofdagen, inclusief 12 ADV dagen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je krijgt een uitgebreide on-the-job training en technische opleidingen om de fascinerende wereld van labels te ontdekken.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Flexibele werkuren zijn mogelijk met glijdende werktijden, maar we verwachten ook dat je collegiaal en flexibel bent om de dagelijkse dienstbezetting te waarborgen van 8u30 tot 17u.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71627647"/>
-    <published>2025-07-31T14:13:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71624462</id>
