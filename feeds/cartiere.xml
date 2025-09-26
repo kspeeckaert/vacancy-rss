@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-26T08:27:56.988571+00:00</updated>
+  <updated>2025-09-26T10:21:54.942539+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -369,44 +369,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.</content>
     <category term="Data Steward"/>
     <category term="Database Administrator"/>
     <published>2025-08-22T10:17:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/junior-practice-lead-data-engineering/</id>
-    <title>Junior Practice Lead - Data Engineering</title>
-    <updated>2025-08-21T13:57:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Vredesplein(SDB) 22/2, 9630, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-21 14:57:04+00:00, last change 2025-08-21 13:57:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-21 14:57:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Dit bedrijf is een innovatieve dataspecialist in Oost-Vlaanderen. Zij helpen KMO’s en groeiende organisaties die willen digitaliseren, maar niet beschikken over de budgetten van multinationals. Met CDO-as-a-Service, een rightshoring-model en een toolonafhankelijke aanpak maken ze datagedreven groei toegankelijk, betaalbaar en altijd op maat.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Practice Lead Data Engineer stuur je een team van consultants aan en volg je hun projecten en persoonlijke groei op. Je zorgt ervoor dat ze het beste uit zichzelf halen. Tegelijk blijf je zelf 50% van je tijd actief meebouwen aan projecten: je ontwerpt datamodellen en architecturen.  &lt;br&gt;
-Je neemt de leiding in technische trajecten, vertaalt complexe klantbehoeften naar slimme oplossingen. Met jouw kritische blik en onderbouwde beslissingen help je klanten vooruit, zonder één standaardoplossing op te dringen. &lt;br&gt;
-Kortom: je combineert technische expertise met leiderschap en de drive om consultants te coachen en te laten groeien.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je hebt zo’n 5 jaar ervaring in data engineering. 
-	&lt;li&gt;Je beschikt over een sterke kennis van Python en SQL. 
-	&lt;li&gt;Je werkt met een Cloudplatform (Azure, AWS of GCP). 
-	&lt;li&gt;De bereidheid om met andere platformen te leren werken (zoals Snowflake, BigQuery). 
-	&lt;li&gt;Ervaring met een datavisualisatietool is mooi meegenomen.
-	&lt;li&gt;Je hebt een kritische geest en je kan onderbouwde beslissingen nemen.
-	&lt;li&gt;Ervaring binnen consultancy is een pluspunt. 
-	&lt;li&gt;Je bent een echte people manager die collega’s kan laten groeien en een positieve cultuur mee uitbouwt.
-	&lt;li&gt;Je communiceert vlot in het Engels en Nederlands. Je beschikt over een basiskennis Frans of de bereidheid om dit bij te leren.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een dynamische en ondernemende organisatie waar jouw inbreng telt. Je krijgt snel verantwoordelijkheid, ruimte om jezelf te ontwikkelen en de kans om een eigen team vorm te geven. Dit is een unieke rol waarin je zowel inhoudelijk als strategisch impact maakt en je jouw eigen stempen drukt binnen een succesverhaal. &lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI, data &amp; AI vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/junior-practice-lead-data-engineering/"/>
-    <category term="Management"/>
-    <category term="Data Engineering"/>
-    <published>2025-08-21T14:57:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-analist-marketing/</id>
