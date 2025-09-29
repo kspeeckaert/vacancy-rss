@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-29T14:22:32.444300+00:00</updated>
+  <updated>2025-09-29T16:22:10.146832+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/snowflake-data-engineer-architect-industrial-manufacturing/</id>
+    <title>Snowflake Data Engineer/Architect - industrial/manufacturing</title>
+    <updated>2025-09-29T13:23:58+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-09-29 14:23:58+00:00, last change 2025-09-29 13:23:58+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-09-29 14:23:58+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Deze ambitieuze consultancy start-up, gespecialiseerd in de digitalisering van fabrieken, zoekt een Snowflake Data Engineer/Architect om hun team te versterken. Hun missie? Bedrijven klaarstomen voor de toekomst door de kracht van Data &amp; AI optimaal te benutten. Ze begeleiden klanten van begin tot eind bij de realisatie van innovatieve Data &amp; AI-oplossingen binnen industriële omgevingen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je ontwerpt, zet op en onderhoudt Snowflake-datawarehouses en integraties met Azure.
+	&lt;li&gt;Je koppelt diverse databronnen (industriële, logistieke, commerciële, financiële…) aan centrale data hubs.
+	&lt;li&gt;Je stelt een gedetailleerde data-architectuur en implementatieplan op.
+	&lt;li&gt;Je richt rollenbeheer, authenticatie en beveiligingsmaatregelen in en onderhoudt deze.
+	&lt;li&gt;Je werkt samen met IT, business en andere stakeholders om requirements te vertalen naar technische oplossingen.
+	&lt;li&gt;Je modelleert data en optimaliseert dataflows en -structuren.
+	&lt;li&gt;Je biedt technische ondersteuning en breidt bestaande platformen uit.
+	&lt;li&gt;Je helpt (eventueel en op termijn) mee Databricks-omgevingen op te zetten.
+&lt;/ul&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over een hoger diploma.
+	&lt;li&gt;Je hebt minimaal 3 à 5 jaar ervaring met data engineering/architecture.
+	&lt;li&gt;Je hebt grondige kennis van Snowflake en het opzetten van datawarehouses.
+	&lt;li&gt;Je hebt sterke SQL- en databasekennis.
+	&lt;li&gt;Kennis van Azure, Python, en Databricks. 
+	&lt;li&gt;Je hebt ervaring met authenticatie, rollenbeheer en beveiliging binnen dataomgevingen.
+	&lt;li&gt;Je hebt een sterke interesse in operationele processen binnen een fabrieksomgeving.
+	&lt;li&gt;Je bent vaardig in datamodellering en data-architectuur.
+	&lt;li&gt;Je beheerst de Engelse taal goed; kennis van Frans en Nederlands is een grote plus.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je krijgt de kans om mee te werken aan innovatieve projecten met een grote impact. Je ontwikkelt oplossingen die écht het verschil maken binnen de industrie.&lt;br&gt;
+Daarnaast stap je in een dynamische start-upomgeving waar je geniet van persoonlijke 1-op-1 begeleiding en volop mogelijkheden om je vaardigheden verder te ontwikkelen. Een steile leercurve staat hier centraal.&lt;br&gt;
+Bovendien kom je terecht in een hecht team, waar samenwerking en plezier op de werkvloer hand in hand gaan. En natuurlijk hoort daar een competitief salarispakket bij, inclusief bedrijfswagen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Is deze functie iets voor jou? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/snowflake-data-engineer-architect-industrial-manufacturing/"/>
+    <category term="BI/Data Architect"/>
+    <category term="Data Engineering"/>
+    <published>2025-09-29T14:23:58+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/</id>
     <title>Medior/Senior Data Visualisatie Consultant</title>
