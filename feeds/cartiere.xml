@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-09-30T14:21:57.209098+00:00</updated>
+  <updated>2025-09-30T16:25:52.260046+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -983,6 +983,39 @@ Stuur nu jouw CV naar yana@cartiere.be en bel&amp;nbsp;+32 3 369 33 06 voor meer
     <link href="https://www.cartiere.be/jobs/collibra-consultant/"/>
     <category term="Data Governance"/>
     <published>2022-06-10T08:49:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-architect/</id>
+    <title>Data Architect</title>
+    <updated>2025-01-13T09:07:12+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-01-13 10:07:12+00:00, last change 2025-01-13 09:07:12+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-01-13 10:07:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Data Architect - Freelance of payroll&lt;br&gt;
+&lt;br&gt;
+BEDRIJF:&lt;br&gt;
+Dit bedrijf is een internationaal opererende groep gespecialiseerde in specifieke oplossingen voor de bouwsector. Ze hebben een uitgebreid productportfolio met een sterke marktpositie in Europa. Innovatie en een klantgerichte aanpak staan bij hen centraal. Om hun dataomgeving en klantgerichte aanpak verder te optimaliseren heeft deze organisatie een gecentraliseerd DWH opgezet, waarmee data van verschillende sites samengebracht en geanalyseerd kan worden. Om dit project verder uit te breiden, kijken ze uit naar een Data Architect.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING&lt;br&gt;
+Als Data Architect beheer en bereid je het centrale DWH in Azure verder uit. De hoofdpilaren van de data infrastructuur zijn reeds opgezet, het is de bedoeling dat jij de databronnen van verschillende ERP-systemen verder uitbreidt. Je werkt nauw samen met de verschillende sites om de data uit te wisselen. Daarnaast ontwerp je ook dashboards en rapporten in Power BI die je automatiseert voor managementdoeleinden. Jij bent in de lead van dit project en zal ook het team verder uitbreiden.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt minstens 5 jaar werkervaring.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Jij hebt bij voorkeur ervaring als data engineer of data architect.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt kennis van SQL, Python, Azure en Power BI.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief sterk en hebt ervaring in het presenteren aan C-Level.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent zelfstandig en flexibel ingesteld.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een goede kennis van het Nederlands en het Engels.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+Werken bij dit bedrijf geeft jouw toegang en extra ervaring in de nieuwste technologieën zoals Microsoft Fabric en Power BI. Je hebt de mogelijkheid om op internationaal niveau te werken binnen een dynamische omgeving. Gezien het internationale karakter heb je de mogelijkheid om af en toe te reizen naar de andere internationale sites.&lt;br&gt;
+&lt;br&gt;
+Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI- en data vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-architect/"/>
+    <category term="BI/Data Architect"/>
+    <published>2025-01-13T10:07:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/business-recruiter/</id>
