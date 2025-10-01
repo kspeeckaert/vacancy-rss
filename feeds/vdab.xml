@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-01T08:48:27.777603+00:00</updated>
+  <updated>2025-10-01T10:43:52.404810+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2887,68 +2887,6 @@ Jouw opdracht:&lt;br /&gt;
     <published>2025-09-10T15:08:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71906897</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2025-09-10T11:41:20+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXion-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71906897"/>
-    <published>2025-09-10T11:41:20+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71925895</id>
     <title>Port of Antwerp Bruges - Solutions Architect (Port of Antwerp Bruges)</title>
     <updated>2025-09-12T09:18:09+00:00</updated>
@@ -3826,5 +3764,67 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Capgemini Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.&lt;/p&gt;&lt;p&gt;Are you looking for a new challenging role where you can have a positive impact on digital transformation journey's ?&lt;/p&gt;&lt;p&gt;Join Capgemini as a &lt;strong&gt;SAP Solution Architect&lt;/strong&gt;, and establish a long term relationship with our major customer, helping them optimizing their SAP transformation journeys.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CONTEXT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;As an &lt;strong&gt;End to End Solution Architec&lt;/strong&gt;t within Capgemini, your role is to &lt;strong&gt;help our clients in crafting, modelling and delivering a working end to end solution&lt;/strong&gt; within one or more business domains.&lt;/li&gt;&lt;li&gt;As a solution architect, you are &lt;strong&gt;involved in all aspects of an SAP project&lt;/strong&gt;. During the design phase, you take the lead in creating a &lt;strong&gt;vision &lt;/strong&gt;and a high-level &lt;strong&gt;solution&lt;/strong&gt;, as a playing field for the different functional teams. During the build phase, you closely align with the technical architects to &lt;strong&gt;deliver &lt;/strong&gt;a working solution, while &lt;strong&gt;monitoring &lt;/strong&gt;the functional teams so that everyone adheres to the overall vision and solution. During the prep of the Go Live and the Go Live itself, you take the lead in &lt;strong&gt;guiding &lt;/strong&gt;the client towards a &lt;strong&gt;successful transition &lt;/strong&gt;and a smooth start-up.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;You work in tandem with the project manager&lt;/strong&gt;, in a joint responsibility for the success of the project in scope, timeline and budget. You provide tactical input towards the steering committee, the delivery manager and the account manager. As part of the core team for a project or customer, you are the face of Capgemini and try to defend our interests, while delivering according to client expectations.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Your role is to drive excellence for our clients through innovative&lt;/strong&gt; (standard) SAP solutions crafting and strategic leadership and vision, optimizing performance and processes for sustainable business success.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;YOUR ROLE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Solution Design&lt;/strong&gt;: collaborate with cross-functional teams to craft, design and implement a new and effective SAP-based solution that aligns with business objectives and best practices, based on SAP’s on-premise and cloud portfolio of solutions.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Project Leadership&lt;/strong&gt;: work closely together with the project manager and lead the functional teams, overseeing the entire project lifecycle from a solution and delivery perspective, ensuring high quality delivery according to client expectations, but also timely and within budget.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;System Configuration&lt;/strong&gt;: keep in touch with the system and the latest SAP solutions and toolsets, in order to support our functional teams to configure and customize SAP to meet specific organizational requirements, ensuring seamless integration with existing systems and processes in or out of SAP; while sticking as close as possible to the standard of SAP&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Team Management&lt;/strong&gt;: manage and mentor consultants of various levels of expertise; providing guidance, training, and support to enhance their skills and contribute to project success&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Internal management and contributions&lt;/strong&gt;: As a senior colleague within Capgemini, you actively follow the latest developments, roadmaps, toolsets and strategic visions of SAP, and you actively share your findings within the Architecture Community and beyond.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;10+ years of SAP project experience in a line of business, a sector or a solution suite, with proven knowledge in a &lt;strong&gt;SAP solution design&lt;/strong&gt; and &lt;strong&gt;solution architect role&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Extensive knowledge of the latest &lt;strong&gt;SAP technology portfolio&lt;/strong&gt;, &lt;strong&gt;on-premise&lt;/strong&gt;, in the &lt;strong&gt;cloud (BTP, CALM,...) &lt;/strong&gt;and ecosystem for your domain of expertise, and how to apply them in a clean core approach&lt;/li&gt;&lt;li&gt;Knowledge of common non-SAP technologies that are used your domain of expertise, such as : GIS, Copperleaf, IoT, Field Service Management, transport management solutions, ServiceNow, integration platforms, automated warehouse management solutions, …&lt;/li&gt;&lt;li&gt;A collaborative spirit &amp;amp; customer-oriented attitude, being able to lead both internally and externally&lt;/li&gt;&lt;li&gt;Result-driven &amp;amp; focused on delivering quality, within the boundaries of a project and a contract&lt;/li&gt;&lt;li&gt;Fluency in &lt;strong&gt;Dutch &lt;/strong&gt;or &lt;strong&gt;French &lt;/strong&gt;is mandatory and professional working proficiency in &lt;strong&gt;English&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;#GetTheFutureYouWant&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Capgemini, we believe in diversity, equal opportunities, and a workplace where everyone feels valued. We take good care of people and help them make progress by assigning challenging projects and providing ample opportunities for personal growth and learning. We are looking for experienced professionals ready for their next career move.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;You'll join a dynamic and passionate group of consultants who have a strong focus on results. Strong believer in personal growth, offering room for creativity while encouraging a sense of responsibility and trust among team members. Being accessible to each other, a seamless collaboration and shared success in delivering innovative SAP solutions is ensured.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU’LL LOVE ABOUT WORKING HERE?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At Capgemini Belgium we offer flexibility in more than one way: next to our hybrid way of working, where we offer you can work 70% from home, we also offer our flex abroad program. With this program you can work up to 45 days abroad, this to maintain a good work-life balance;&lt;/li&gt;&lt;li&gt;Next to this we also offer following additional benefits:&lt;/li&gt;&lt;li&gt;Net expenses;&lt;/li&gt;&lt;li&gt;Company car or mobility budget (whatever works best for you);&lt;/li&gt;&lt;li&gt;Health insurance;&lt;/li&gt;&lt;li&gt;Meal vouchers;&lt;/li&gt;&lt;li&gt;Pension plan;&lt;/li&gt;&lt;li&gt;Eco vouchers from €250/year;&lt;/li&gt;&lt;li&gt;A flex plan where you can buy extra days off, update your insurance or buy home office supplies;&lt;/li&gt;&lt;li&gt;32 vacation days + Bank holidays.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About Capgemini&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Get the future you want - Apply NOW&lt;/strong&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72086356"/>
     <published>2025-10-01T09:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72087956</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2025-10-01T10:51:12+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
+&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXion-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
+&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
+&lt;span&gt;data warehouses&lt;/span&gt; naar de 
+&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van 
+&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de 
+&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in 
+&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72087956"/>
+    <published>2025-10-01T10:51:12+00:00</published>
   </entry>
 </feed>
