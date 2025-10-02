@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-02T08:25:59.007651+00:00</updated>
+  <updated>2025-10-02T10:22:20.481664+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1543,45 +1543,5 @@ Stuur nu jouw CV naar yana@cartiere.be en bel +32 3 369 33 06 voor meer informat
 </content>
     <link href="https://www.cartiere.be/jobs/machine-learning-lead/"/>
     <published>2023-12-21T08:27:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-analist-met-dwh-affiniteit/</id>
-    <title>Data Analist met DWH affiniteit</title>
-    <updated>2023-07-11T11:05:23+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Slachthuiskaai 28, 3500, Hasselt, Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2023-07-11 12:05:23+00:00, last change 2023-07-11 11:05:23+00:00&lt;/li&gt;&lt;li&gt;Valid until 2024-07-11 12:05:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p style="margin-bottom: 10.0pt;margin-left: 0.0cm;margin-right: 0.0cm;margin-top: 24.0pt;"&gt;BEDRIJF:&lt;br&gt;
-Deze onderneming, actief binnen de energiesector is de grootste in haar sector. Ze bieden energie oplossingen aan zowel particulieren als professionele klanten. Met 20 vestigingen in België en Luxemburg hebben ze een brede footprint in deze markt. Omdat de organisatie volop wil inzetten op data gedreven beslissingen zoekt deze onderneming naar een Data Analist die een data platform wil opzetten en van A-Z mee wil uitrollen.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-De rol van data analist bestaat uit vier grote delen:&lt;br&gt;
-&lt;br&gt;
-1. Het beheren van de databronnen en het bouwen van het datamodel.&lt;br&gt;
-Allereerst ben je verantwoordelijk voor het bepalen van de juiste interne en externe databronnen op basis van de vereisten van de data. Je schrijft ook de benodigde code om deze data op te halen, te structureren in een datamodel en te valideren. Daarnaast werk je samen met interne en externe partners aan het ontwerpen en optimaliseren van het ETL-proces.&lt;br&gt;
-&lt;br&gt;
-2. Report / KPI Management.&lt;br&gt;
-Ten tweede ben je verantwoordelijk voor het omzetten van de organisatiedata in impactvolle rapporten en inzichten. Deze rapporten en inzichten geven verklaringen en helpen bij het identificeren van mogelijkheden tot verbetering van de bedrijfsprocessen.&lt;br&gt;
-&lt;br&gt;
-3. Data Management &amp; Data Strategy.&lt;br&gt;
-Daarnaast speel je een cruciale rol in het installeren van een gecontroleerd en consistent data cleaning proces na een grondige analyse. Dit zorgt ervoor dat de gegevens betrouwbaar en bruikbaar zijn voor besluitvorming. Je levert advies op basis van jouw expertise en werk je samen met de directie aan het ontwikkelen en uitvoeren van een duurzame datastrategie. Je identificeert de databehoeften binnen de organisatie in lijn met de datastrategie, in samenwerking met de Digital &amp; Integration Director, CFO en het performance team.&lt;br&gt;
-&lt;br&gt;
-4. Innovation.&lt;br&gt;
-Met jouw gericht advies en kennis zorg je ervoor dat het datawarehouse/ lakehouse optimaal functioneert en je geeft gericht advies over het implementeren van innovatieve AI-oplossingen, zoals Machine Learning, Predictive Analytics, OCR en RPA. Dit draagt bij aan het creëren van meerwaarde binnen de organisatie.&lt;br&gt;
-&lt;br&gt;
-PROFIEL:&lt;br&gt;
-- Je bent hoger opgeleid.&lt;br&gt;
-- Je hebt een sterk analytisch denkvermogen.&lt;br&gt;
-- Je hebt ervaring met een DWH, voorkeur Azure Cloud omgeving (Data Factory, Databricks, Power BI).&lt;br&gt;
-- Je kan zelfstandig werken.&lt;br&gt;
-- De talen Nederlands en Engels vormen geen probleem voor jou.&lt;br&gt;
-&lt;br&gt;
-AANBOD:&lt;br&gt;
-Je krijgt de kans om de data omgeving mee vorm te geven en samen met het management team een data gedreven organisatie te bouwen. Je komt terecht in een leuk team met een familiale sfeer binnen een bedrijf met veel groeimogelijkheden. Ze bieden opleidingen aan zodat je ook op persoonlijk vlak jezelf kan blijven ontwikkelen.&lt;br&gt;
-&lt;br&gt;
-Herken jij jou in deze functie?&lt;br&gt;
-Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI-vacatures.&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-analist-met-dwh-affiniteit/"/>
-    <category term="Data Engineering"/>
-    <category term="DONT USE - Business Intelligence"/>
-    <published>2023-07-11T12:05:23+00:00</published>
   </entry>
 </feed>
