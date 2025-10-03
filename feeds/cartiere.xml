@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-03T10:21:46.322188+00:00</updated>
+  <updated>2025-10-03T12:37:14.267817+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -513,41 +513,6 @@ Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 0
     <link href="https://www.cartiere.be/jobs/data-steward/"/>
     <category term="Data Steward"/>
     <published>2025-08-06T08:01:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/python-developer/</id>
-    <title>Python Developer</title>
-    <updated>2025-08-05T07:32:11+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-05 08:32:11+00:00, last change 2025-08-05 07:32:11+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-05 08:32:11+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
-Dit bedrijf ontwikkelt een integratieplatform dat het mogelijk maakt om op een veilige en flexibele manier gegevens uit te wisselen tussen verschillende IT-systemen. De oplossing helpt organisaties efficiënter samenwerken, zelfs wanneer ze met verschillende technologieën of teams werken. Momenteel zijn we voor hen op zoek naar een Python Developer. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Je werkt aan de frontlinie van een ambitieus AI-initiatief. Samen met een team van interne developers en een externe AI-consultancy bouw je aan concrete toepassingen van gen AI binnen het integratieplatform van dit bedrijf. &lt;br&gt;
-Dit is geen klassieke uitvoerende job - je krijgt veel ownership over jouw projecten. Je werkt op basis van duidelijke werkpakketten waarin jij samen met het team doelstellingen vertaalt naar werkende software. Dat betekent: specificaties analyseren, technische keuzes maken, actief communiceren over voortgang en flexibel inspelen op nieuwe inzichten.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je beschikt over minimum drie jaar ervaring met Pyton (inclusief Pandas, NumPy of vergelijkbare libraries). 
-	&lt;li&gt;Je beschikt over een goeie basis in open source ecosystemen (ervaring met eigen side-projects = grote plus). 
-	&lt;li&gt;Ervaring met een cloudomgeving (AWS, GCP of Azure). 
-	&lt;li&gt;Kennis van containertechnologie (Docker), CI/CD, scripting (bash).
-	&lt;li&gt;Vertrouwd met API’s, microservices en SQL/PostgreSQL.
-	&lt;li&gt;Ervaring met of grote interesse in generatieve AI-tools (OpenAI, Anthropic, HuggingFace, etc.).
-	&lt;li&gt;Security-minded (o.a. netwerkbeveiliging, SQL injection, authenticatieconcepten).
-	&lt;li&gt;Begrip van NLP, ML-concepten, RAG of semantisch zoeken is een troef.
-	&lt;li&gt;Je spreekt vloeiend Engels. 
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je krijgt de kans om te werken in een heel innovatieve omgeving met enorm veel vrijheid. Je bouwt mee aan technologieën die door honderden klanten gebruikt worden en krijgt ownership over jouw werk. Daarnaast krijg je de kans om aan een super interessant AI project te werken die de organisatie tot een hoger niveau kan brengen. &lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/python-developer/"/>
-    <category term="AI &amp; ML Engineer"/>
-    <published>2025-08-05T08:32:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-analist-4/</id>
