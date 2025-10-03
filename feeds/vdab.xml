@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-03T10:42:35.782482+00:00</updated>
+  <updated>2025-10-03T12:58:10.477370+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2768,63 +2768,6 @@ Jouw opdracht:&lt;br /&gt;
     <published>2025-09-09T08:43:59+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71907101</id>
-    <title>Functioneel Analist Regio Antwerpen (UNIPARTNERS CONSULTANCY)</title>
-    <updated>2025-09-10T11:55:43+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: UNIPARTNERS CONSULTANCY (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Jouw functie?&lt;/p&gt; 
-&lt;p&gt;Als Functioneel Analist ondersteun je in software development en de implementatie van projecten en vorm je de schakel tussen business en IT:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;In continu overleg met de business capteer je de requirements en documenteert deze gebruikmakend van de BPMN standaard.&lt;/li&gt; 
-&lt;li&gt;Je bent verantwoordelijk voor het analyseren van de noden van de business die je vertaalt in functionele analyses en/of user stories.&lt;/li&gt; 
-&lt;li&gt;Je durft de business uit te dagen en behoudt het overzicht.&lt;/li&gt; 
-&lt;li&gt;Je controleert testresultaten en geeft ondersteuning bij de uitvoering van acceptatie-testen om de kwaliteit van de ontwikkelde applicatie(s) te toetsen.&lt;/li&gt; 
-&lt;li&gt;Je biedt ondersteuning bij het implementeren van de nieuwe/aangepaste software.&lt;/li&gt; 
-&lt;li&gt;Je adviseert de business over mogelijke procesverbeteringen en over de kwaliteit van gebruikte tools.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wat verwachten we van jou?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je hebt minstens vijf jaar relevante werkervaring achter de rug.&lt;/li&gt; 
-&lt;li&gt;Je hebt een vloeiende kennis Nederlands en Engels. Kennis Frans is een stevige troef.&lt;/li&gt; 
-&lt;li&gt;Je hebt sterke communicatieve vaardigheden en werkt graag klantgericht.&lt;/li&gt; 
-&lt;li&gt;Je hebt een sterke analytische geest en kan probleemoplossend denken.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Grondige kennis van of ervaring in minstens één van de volgende domeinen:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;BPMN&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Confluence&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Data Flows&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Jira&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Scrum / Agile&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;UML&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;User Stories&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Visual Studio&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Wireframing&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Story mapping&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Product Backlog&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Product owner&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Kennis van volgende domeinen is een sterke plus:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Microsoft Visual Studio&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Prince2&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voor wat hoort wat!&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;UniPartners aanbod:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een bediendencontract van onbepaalde duur&lt;/li&gt; 
-&lt;li&gt;Een aantrekkelijk salaris, een netto bureauvergoeding, ecocheques twv €250&lt;/li&gt; 
-&lt;li&gt;Een groeps- en hospitalisatieverzekering zonder eigen bijdrage&lt;/li&gt; 
-&lt;li&gt;Een uitgebreid mobiliteits- en cafetariaplan&lt;/li&gt; 
-&lt;li&gt;Hybride en flexibel werken&lt;/li&gt; 
-&lt;li&gt;Een betrokken en waarderende werkgever in een vlakke organisatie&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Wat werken bij UniPartners extra leuk maakt:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;strong&gt;Ondersteuning en begeleiding&lt;/strong&gt; in je loopbaan via de Competence Center Coaches en je HR verantwoordelijke.&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;Opleidingen en groeimogelijkheden&lt;/strong&gt; (met onder andere een opleidingsbudget van €2500, - elk jaar opnieuw).&lt;/li&gt; 
-&lt;li&gt;Een goede 
-&lt;strong&gt;work-life balans&lt;/strong&gt; waarbij je de mogelijkheid krijgt om enkele dagen van thuis uit te werken.&lt;/li&gt; 
-&lt;li&gt;Je geniet mee van veel 
-&lt;strong&gt;leuke evenementen &lt;/strong&gt;(drinks, teambuildings, personeelsfeest en nog veel meer).&lt;/li&gt; 
-&lt;li&gt;Jij maakt zelf mee de keuze voor jouw 
-&lt;strong&gt;droomproject&lt;/strong&gt;!&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71907101"/>
-    <published>2025-09-10T11:55:43+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71911352</id>
     <title>Product Owner DevSecOps Enablement (Spilberg)</title>
     <updated>2025-09-10T17:03:04+00:00</updated>
@@ -3768,5 +3711,62 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Capgemini Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.&lt;/p&gt;&lt;p&gt;Are you looking for a new challenging role where you can have a positive impact on digital transformation journey's ? Join us today as &lt;strong&gt;SAP Finance Solution Architect&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;YOUR ROLE&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a SAP Finance Solution Architect, you will take the &lt;strong&gt;lead &lt;/strong&gt;in &lt;strong&gt;designing&lt;/strong&gt; and &lt;strong&gt;delivering sustainable solutions &lt;/strong&gt;using the latest SAP technologies.&lt;/p&gt;&lt;p&gt;You will &lt;strong&gt;collaborate closely with customers&lt;/strong&gt;, stakeholders and technical teams to ensure a successful implementation within SAP.&lt;/p&gt;&lt;p&gt;You will partner with clients to understand their business objectives, processes, and requirements, and translate them into scalable and sustainable Finance solutions.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Develop comprehensive &lt;strong&gt;solution&lt;/strong&gt; &lt;strong&gt;designs&lt;/strong&gt;, &lt;strong&gt;architecture diagrams&lt;/strong&gt;, and &lt;strong&gt;technical design &lt;/strong&gt;documentation to &lt;strong&gt;guide&lt;/strong&gt; the &lt;strong&gt;implementation team&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Provide &lt;strong&gt;expert guidance &lt;/strong&gt;and recommendations on &lt;strong&gt;best practices&lt;/strong&gt;, &lt;strong&gt;configuration options&lt;/strong&gt;, and &lt;strong&gt;system integrations &lt;/strong&gt;to &lt;strong&gt;optimize &lt;/strong&gt;the functionality of Finance solutions.&lt;/li&gt;&lt;li&gt;Collaborate with project managers, business analysts, and technical teams to ensure successful project delivery within scope, timeline, and budget constraints.&lt;/li&gt;&lt;li&gt;Coach, train &amp;amp; support junior consultants in the process.&lt;/li&gt;&lt;li&gt;Stay updated on the latest Finance features, enhancements, and industry trends to continuously improve solution design and delivery capabilities.&lt;br&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;+15 years of experience in a financial environment and at least &lt;strong&gt;10 years in large SAP project implementation&lt;/strong&gt;s.&lt;/li&gt;&lt;li&gt;Proven experience as a &lt;strong&gt;SAP FICO Solution Architect with in depth knowledge of SAP FICO solution portfolio&lt;/strong&gt;, including the latest evolutions in S/4HANA:&lt;/li&gt;&lt;li&gt;Excellent understanding of &lt;strong&gt;internal &lt;/strong&gt;and &lt;strong&gt;external accounting&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Very good understanding of &lt;strong&gt;financial processes &lt;/strong&gt;and interaction with other operational processes within a business.&lt;/li&gt;&lt;li&gt;Thorough knowledge of &lt;strong&gt;Finance&lt;/strong&gt; &amp;amp; &lt;strong&gt;Controlling&lt;/strong&gt; &lt;strong&gt;SAP modules &lt;/strong&gt;(New GL, AA, AP, AR, CCA, PC, PS,….).&lt;/li&gt;&lt;li&gt;Knowledge of interaction between &lt;strong&gt;FICO &lt;/strong&gt;and other modules as MM, SD, PP, …&lt;/li&gt;&lt;li&gt;Able to analyze and solve issues in standard customization or specific SAP programs (ABAP).&lt;/li&gt;&lt;li&gt;Excellent communication and interpersonal skills, with the ability to effectively engage and influence clients, stakeholders, and manage project teams.&lt;/li&gt;&lt;li&gt;A collaborative spirit &amp;amp; customer-oriented attitude.&lt;/li&gt;&lt;li&gt;Customer oriented, result-driven &amp;amp; focused on delivering high quality.&lt;/li&gt;&lt;li&gt;Strong analytical and problem-solving skills, with a keen attention to detail and a focus on organization.&lt;/li&gt;&lt;li&gt;Willing to work on assignments in Belgium and potentially abroad&lt;/li&gt;&lt;li&gt;Professional working proficiency in English.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;WHAT WE OFFER&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Your career matters to us!&lt;/strong&gt; Because your goals and needs are constantly evolving, we offer visibility, leeway, and support to help you grow and progress in your career. This approach builds notably on our comprehensive competency framework, our personal development, training and career management programs, and our university innovative and business-focused learning curriculums.&lt;/p&gt;&lt;p&gt;We promote a &lt;strong&gt;culture of diversity&lt;/strong&gt;. We believe working with talented individuals from different backgrounds and points of view is a strategic advantage and an ongoing opportunity. Diversity enriches our creative solutions and adds value for our clients.&lt;/p&gt;&lt;p&gt;With the digital tech sector growing at a rapid pace and women significantly underrepresented in the industry, we are determined to inspire and recruit more women into technology and build diverse teams &lt;em&gt;that reflect the clients we serve&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;Our &lt;strong&gt;Shared values &lt;/strong&gt;have been at the heart of the group since our formation. They are &lt;strong&gt;honesty&lt;/strong&gt;, &lt;strong&gt;boldness&lt;/strong&gt;, &lt;strong&gt;trust&lt;/strong&gt;, &lt;strong&gt;freedom&lt;/strong&gt;, &lt;strong&gt;team spirit&lt;/strong&gt;, &lt;strong&gt;modesty&lt;/strong&gt; and &lt;strong&gt;fun&lt;/strong&gt;. These values influence the way we meet client needs while respecting the regulatory requirements of each country in which we operate, and the way we promote ethically sound practices within Capgemini and in our partnerships.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU’LL LOVE ABOUT WORKING HERE?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At Capgemini Belgium we offer flexibility in more than one way: next to our hybrid way of working, where we offer you can work 70% from home, we also offer our flex abroad program. With this program you can work up to 45 days abroad, this to maintain a good work-life balance;&lt;/li&gt;&lt;li&gt;Next to this we also offer following additional benefits:&lt;/li&gt;&lt;li&gt;Net expenses;&lt;/li&gt;&lt;li&gt;Company car or mobility budget (whatever works best for you);&lt;/li&gt;&lt;li&gt;Health insurance;&lt;/li&gt;&lt;li&gt;Meal vouchers;&lt;/li&gt;&lt;li&gt;Pension plan;&lt;/li&gt;&lt;li&gt;Eco vouchers from €250/year;&lt;/li&gt;&lt;li&gt;A flex plan where you can buy extra days off, update your insurance or buy home office supplies;&lt;/li&gt;&lt;li&gt;32 vacation days + Bank holidays.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About Capgemini&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2024 global revenues of €22.1 billion.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Get the future you want and Apply NOW | &lt;strong&gt;www.capgemini.com&lt;/strong&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72106930"/>
     <published>2025-10-03T07:49:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72111512</id>
+    <title>Functioneel Analist Regio Antwerpen (UNIPARTNERS CONSULTANCY)</title>
+    <updated>2025-10-03T14:28:16+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: UNIPARTNERS CONSULTANCY (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Jouw functie?&lt;/p&gt; 
+&lt;p&gt;Als Functioneel Analist ondersteun je in software development en de implementatie van projecten en vorm je de schakel tussen business en IT:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;In continu overleg met de business capteer je de requirements en documenteert deze gebruikmakend van de BPMN standaard.&lt;/li&gt; 
+&lt;li&gt;Je bent verantwoordelijk voor het analyseren van de noden van de business die je vertaalt in functionele analyses en/of user stories.&lt;/li&gt; 
+&lt;li&gt;Je durft de business uit te dagen en behoudt het overzicht.&lt;/li&gt; 
+&lt;li&gt;Je controleert testresultaten en geeft ondersteuning bij de uitvoering van acceptatie-testen om de kwaliteit van de ontwikkelde applicatie(s) te toetsen.&lt;/li&gt; 
+&lt;li&gt;Je biedt ondersteuning bij het implementeren van de nieuwe/aangepaste software.&lt;/li&gt; 
+&lt;li&gt;Je adviseert de business over mogelijke procesverbeteringen en over de kwaliteit van gebruikte tools.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wat verwachten we van jou?&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt minstens vijf jaar relevante werkervaring achter de rug.&lt;/li&gt; 
+&lt;li&gt;Je hebt een vloeiende kennis Nederlands en Engels. Kennis Frans is een stevige troef.&lt;/li&gt; 
+&lt;li&gt;Je hebt sterke communicatieve vaardigheden en werkt graag klantgericht.&lt;/li&gt; 
+&lt;li&gt;Je hebt een sterke analytische geest en kan probleemoplossend denken.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Grondige kennis van of ervaring in minstens één van de volgende domeinen:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;BPMN&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Confluence&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Data Flows&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Jira&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Scrum / Agile&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;UML&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;User Stories&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Visual Studio&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Wireframing&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Story mapping&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Product Backlog&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Product owner&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Kennis van volgende domeinen is een sterke plus:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Microsoft Visual Studio&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Prince2&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voor wat hoort wat!&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;UniPartners aanbod:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een bediendencontract van onbepaalde duur&lt;/li&gt; 
+&lt;li&gt;Een aantrekkelijk salaris, een netto bureauvergoeding, ecocheques twv €250&lt;/li&gt; 
+&lt;li&gt;Een groeps- en hospitalisatieverzekering zonder eigen bijdrage&lt;/li&gt; 
+&lt;li&gt;Een uitgebreid mobiliteits- en cafetariaplan&lt;/li&gt; 
+&lt;li&gt;Hybride en flexibel werken&lt;/li&gt; 
+&lt;li&gt;Een betrokken en waarderende werkgever in een vlakke organisatie&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Wat werken bij UniPartners extra leuk maakt:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Ondersteuning en begeleiding&lt;/strong&gt; in je loopbaan via de Competence Center Coaches en je HR verantwoordelijke.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Opleidingen en groeimogelijkheden&lt;/strong&gt; (met onder andere een opleidingsbudget van €2500, - elk jaar opnieuw).&lt;/li&gt; 
+&lt;li&gt;Een goede 
+&lt;strong&gt;work-life balans&lt;/strong&gt; waarbij je de mogelijkheid krijgt om enkele dagen van thuis uit te werken.&lt;/li&gt; 
+&lt;li&gt;Je geniet mee van veel 
+&lt;strong&gt;leuke evenementen &lt;/strong&gt;(drinks, teambuildings, personeelsfeest en nog veel meer).&lt;/li&gt; 
+&lt;li&gt;Jij maakt zelf mee de keuze voor jouw 
+&lt;strong&gt;droomproject&lt;/strong&gt;!&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72111512"/>
+    <published>2025-10-03T14:28:16+00:00</published>
   </entry>
 </feed>
