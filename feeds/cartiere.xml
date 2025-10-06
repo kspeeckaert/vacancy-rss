@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-06T14:21:05.030619+00:00</updated>
+  <updated>2025-10-06T16:25:36.764659+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1132,61 +1132,6 @@ Bekijk onze website www.cartiere.be voor meer BI, data, AI en ML-vacatures.&lt;/
     <link href="https://www.cartiere.be/jobs/data-scientist/"/>
     <category term="Data Science"/>
     <published>2024-09-03T08:14:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/bi-expert-2/</id>
-    <title>BI expert </title>
-    <updated>2024-11-27T09:56:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oude Baan 120, 9200, Dendermonde, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-06-10 09:16:04+00:00, last change 2024-11-27 09:56:51+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-06-10 09:16:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;    &lt;br&gt;
-Dit Belgische productiebedrijf is opgericht in 1935 en is sindsdien niet meer gestopt met groeien. Ze hebben momenteel 70 vestigingen in 20 landen wereldwijd. Het bedrijf zit in de productiesector en zet enorm hard in op duurzaamheid voor de toekomst van de planeet en om zo hun ecologische voetafdruk te verkleinen. Al hun producten zijn volledig recycleerbaar. Ondanks hun succes blijven ze hun familiale sfeer behouden en zetten ze enorm hard in op ondernemerschap binnen hun bedrijf. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als SAP BI expert ben jij samen met jouw 3 teamleden verantwoordelijk voor 3 taken. Enerzijds biedt je support aan de business. Als er bepaalde problemen zijn met het systeem, zal jij deze samen met jouw teamleden oplossen. Daarnaast ben je ook verantwoordelijk voor het beoordelen en plannen van veranderingen die worden aangevraagd door verschillende afdelingen binnen het bedrijf. Als laatste zijn er ook nog grote projecten waaraan jij een steentje bijdraagt. Dit omvat bijvoorbeeld het opzetten en analyseren van shipment flows van SAP naar BW. Je zal altijd nauw samenwerken met de business om hun noden te begrijpen en deze te vertalen naar duurzame dataoplossingen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je bent hoger opgeleid.
-	&lt;li&gt;Je hebt minimum 5 jaar ervaring met SAP BW. 
-	&lt;li&gt;Je hebt SAP 4 HANA ervaring.
-	&lt;li&gt;Je bent een kritische en analytische denker. Daarnaast kan je zelfstandig werken.
-	&lt;li&gt;Je bent communicatief sterk en je bent organisatorisch ingesteld.
-	&lt;li&gt;Je hebt een zeer goede kennis van het Nederlands en het Engels.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een internationale omgeving, waarbij het familiale karakter nog sterk aanwezig is. Het bedrijf vindt vooral het eindresultaat heel belangrijk, wat ervoor zorgt dat je als werknemer over heel wat flexibiliteit beschikt. Bijkomend zet het bedrijf sterk in op het welzijn van hun werknemers en een goede work-life balans. &lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie?&lt;br&gt;
-Stuur dan nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI-vacatures.BEDRIJF:&lt;/strong&gt;    &lt;br&gt;
-Dit Belgische productiebedrijf is opgericht in 1935 en is sindsdien niet meer gestopt met groeien. Ze hebben momenteel 70 vestigingen in 20 landen wereldwijd. Het bedrijf zit in de productiesector en zet enorm hard in op duurzaamheid voor de toekomst van de planeet en om zo hun ecologische voetafdruk te verkleinen. Al hun producten zijn volledig recycleerbaar. Ondanks hun succes blijven ze hun familiale sfeer behouden en zetten ze enorm hard in op ondernemerschap binnen hun bedrijf. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als SAP BI expert ben jij samen met jouw 3 teamleden verantwoordelijk voor 3 taken. Enerzijds biedt je support aan de business. Als er bepaalde problemen zijn met het systeem, zal jij deze samen met jouw teamleden oplossen. Daarnaast ben je ook verantwoordelijk voor het beoordelen en plannen van veranderingen die worden aangevraagd door verschillende afdelingen binnen het bedrijf. Als laatste zijn er ook nog grote projecten waaraan jij een steentje bijdraagt. Dit omvat bijvoorbeeld het opzetten en analyseren van shipment flows van SAP naar BW. Je zal altijd nauw samenwerken met de business om hun noden te begrijpen en deze te vertalen naar duurzame dataoplossingen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je bent hoger opgeleid.
-	&lt;li&gt;Je hebt minimum 5 jaar ervaring met SAP BW. 
-	&lt;li&gt;Je hebt SAP 4 HANA ervaring.
-	&lt;li&gt;Je bent een kritische en analytische denker. Daarnaast kan je zelfstandig werken.
-	&lt;li&gt;Je bent communicatief sterk en je bent organisatorisch ingesteld.
-	&lt;li&gt;Je hebt een zeer goede kennis van het Nederlands en het Engels.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een internationale omgeving, waarbij het familiale karakter nog sterk aanwezig is. Het bedrijf vindt vooral het eindresultaat heel belangrijk, wat ervoor zorgt dat je als werknemer over heel wat flexibiliteit beschikt. Bijkomend zet het bedrijf sterk in op het welzijn van hun werknemers en een goede work-life balans. &lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie?&lt;br&gt;
-Stuur dan nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI-vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/bi-expert-2/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2024-06-10T09:16:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/trusted-ai-manager/</id>
