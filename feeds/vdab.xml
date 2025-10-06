@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-06T06:51:15.527566+00:00</updated>
+  <updated>2025-10-06T08:48:15.258165+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1202,31 +1202,6 @@
     <published>2025-05-22T16:40:29+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71132503</id>
-    <title>Functional IT Analyst (FEBELCO)</title>
-    <updated>2025-07-31T16:35:52+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: FEBELCO (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Functional IT Analyst ben je verantwoordelijk voor het analyseren en documenteren van onze bedrijfsprocessen. Deze analyse werk je verder uit in functionele analyses en technische ontwerpen, waarmee je een cruciale rol speelt in verschillende softwareprojecten die aanzienlijk bijdragen aan het succes van ons bedrijf.&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je zorgt voor duidelijke procesbeschrijvingen die dienen als basis voor de ontwikkeling van geavanceerde software-oplossingen, gebruikmakend van de nieuwste technologieën. Daarnaast stel je concrete testplannen op en schrijf je functionele tests om ervoor te zorgen dat de applicaties perfect aansluiten bij de behoeften van onze interne gebruikers.&lt;/li&gt; 
-&lt;li&gt;Je bent verantwoordelijk voor het opstellen van gebruikershandleidingen en ondersteunt bij de training van eindgebruikers. Als ambassadeur van onze architecturale visie en standaarden draag je bij aan de ontwikkeling van ons nieuwe webgebaseerde ERP-systeem. &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Je rapporteert aan onze Software Development Manager.
-&lt;br /&gt;Sounds good? Lees dan zeker verder!&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minstens vijf jaar ervaring als functional IT analyst.&lt;/li&gt; 
-&lt;li&gt;Uitstekende analytische vaardigheden en probleemoplossend vermogen.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en vermogen om effectief te communiceren met verschillende belanghebbenden.&lt;/li&gt; 
-&lt;li&gt;Kennis van OO, UML, BPMN, Agile development en design patterns is een must. Heb je een achtergrond in .NET-programmatie? Dan is dat mooi meegenomen!&lt;/li&gt; 
-&lt;li&gt;Zeer goede kennis van het Nederlands en het Engels.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Een vast contract met competitief salarispakket in lijn met je ervaring en competenties, inclusief extralegale voordelen (13e maand, maaltijdcheques, hospitalisatieverzekering, bedrijfswagen, voordelenplatform).&lt;/li&gt; 
-&lt;li&gt;Een uitdagende jobinhoud waarbij vernieuwing, collegialiteit en een hands-on mentaliteit centraal staan.&lt;/li&gt; 
-&lt;li&gt;Een plaats binnen een dynamisch IT team met meer dan 35 aangename collega’s, die jou heel graag begeleiden en hun kennis met jou delen, zodat jullie samen nóg beter worden.&lt;/li&gt; 
-&lt;li&gt;Bovendien kom je terecht in een bedrijf waar de work-life balans deel is van het DNA en talent 
-&lt;span&gt;#vollebak&lt;/span&gt; kan doorgroeien. Met waardering door collega’s, veel afwisseling en wederzijds 
-&lt;span&gt;#vertrouwen&lt;/span&gt;. Want dat maakt ons 
-&lt;span&gt;#samensterk&lt;/span&gt;.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71132503"/>
-    <published>2025-05-22T16:34:57+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71163573</id>
     <title>Senior Software Engineer (Kingfisher Recruitment)</title>
     <updated>2025-10-01T15:03:44+00:00</updated>
@@ -1297,14 +1272,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: MERTENS ELECTRIFICATION- AND CONTROL SYSTEMS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Willebroek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;At M-ECS, we’re looking for a technically skilled and people-oriented Team Lead to guide our IoT software developers and actively contribute to smart solutions for electric and off-highway vehicles.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;You’ll lead a small team of developers and work hands-on in the development of our platform – ranging from embedded software to web applications. You’ll be involved in data collection, cloud solutions, front- and back-end development (Blazor, .NET, Python), and integrations with CAN-bus, MQTT, and other IoT protocols.&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Experience in software development with C# and/or Python&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt; Knowledge of cloud platforms like AWS or Azure&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;Understanding of embedded systems and IoT architectures&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt; Strong leadership skills and the drive to help people grow&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt; Affinity with high-tech machinery in sectors such as agriculture, offshore, or logistics&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Join a dynamic and collaborative team where you’ll have the opportunity to shape a fast-growing, ambitious company within an open and supportive culture with short communication lines.&lt;/span&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71347406"/>
     <published>2025-06-19T14:46:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71477292</id>
-    <title>SAP S/4 Finance Consultant (Kwery)</title>
-    <updated>2025-07-08T09:15:35+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Ranst&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Ben jij een ervaren SAP S/4 Finance Consultant en wil je jouw expertise inzetten binnen een kennisgedreven organisatie in de regio Ranst? In deze rol krijg je de kans om actief bij te dragen aan klantprojecten, innovatieve oplossingen te onderzoeken en samen te werken met een hecht team van specialisten. Je krijgt volop ruimte om je eigen carrière vorm te geven en te blijven groeien door middel van opleidingen en kennisdeling.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruitzien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;Je adviseert klanten over de meest geschikte SAP S/4 Finance oplossingen en verbeteringen voor hun business.&lt;/li&gt;&lt;li dir="ltr"&gt;Je bent betrokken bij voorverkoopactiviteiten, workshops en project-scoping.&lt;/li&gt;&lt;li dir="ltr"&gt;Je coacht en begeleidt meer junior collega's binnen het team.&lt;/li&gt;&lt;li dir="ltr"&gt;Je onderzoekt nieuwe oplossingen, zet demo's op en stimuleert kennisdeling.&lt;/li&gt;&lt;li dir="ltr"&gt;Je bouwt sterke relaties op met collega's uit verschillende teams en met klanten.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;Je beschikt over een bachelor- of masterdiploma met een economische of technische achtergrond, of gelijkwaardig door ervaring.&lt;/li&gt;&lt;li dir="ltr"&gt;Je hebt minimaal 5 jaar ervaring met SAP Finance &amp;amp; Controlling Consulting en S/4 implementaties.&lt;/li&gt;&lt;li dir="ltr"&gt;Je bent vloeiend in het Nederlands, zowel gesproken als geschreven.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Een zeer mooie maandverloning: €4000 - €7500 bruto / maand afhankelijk van jouw kennis en ervaring.&lt;/li&gt;&lt;li dir="ltr"&gt;Een hecht team met vaste collega's die je coachen en begeleiden.&lt;/li&gt;&lt;li dir="ltr"&gt;Aantrekkelijke bonusregeling.&lt;/li&gt;&lt;li dir="ltr"&gt;Flexibel werken: vanuit huis of op locatie, met flexibele uren.&lt;/li&gt;&lt;li dir="ltr"&gt;20 wettelijke vakantiedagen en 12 ADV-dagen.&lt;/li&gt;&lt;li dir="ltr"&gt;Faciliteiten om flexibel te werken, zoals een premium bedrijfswagen, laptop en gsm-budget.&lt;/li&gt;&lt;li dir="ltr"&gt;Uitgebreide mogelijkheden voor vakgerichte en soft skills trainingen.&lt;/li&gt;&lt;li dir="ltr"&gt;Een opleidingsbudget en toegang tot een Talent &amp;amp; Development-programma.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71477292"/>
-    <published>2025-07-08T09:15:35+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71484230</id>
