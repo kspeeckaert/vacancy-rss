@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-07T10:43:27.250358+00:00</updated>
+  <updated>2025-10-07T13:02:18.556639+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2305,14 +2305,6 @@ Strategische bijdrage
     <published>2025-09-02T07:52:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71855028</id>
-    <title>Projectcoördinator Geodata &amp; ICT (KS Consulting Belgium)</title>
-    <updated>2025-09-08T12:07:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als &lt;strong&gt;Projectcoördinator Geodata &amp;amp; ICT&lt;/strong&gt; ben je verantwoordelijk voor het organiseren, opvolgen en coördineren van projecten waarbij geografische informatie en informaticatoepassingen centraal staan. Je fungeert als schakel tussen de technische GIS-/IT-teams, interne stakeholders en externe partners. Je bewaakt de scope, planning en kwaliteit van de projecten en zorgt ervoor dat de oplossingen effectief aansluiten bij de noden van de organisatie of klant.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Coördineren van projecten op het snijvlak van geodata, GIS en ICT (zoals digitale kaarten, web-GIS, databanken of mobiliteitsapplicaties)&lt;/li&gt; &lt;li&gt;Opstellen van projectplannen, opvolgen van budgetten, deadlines en deliverables&lt;/li&gt; &lt;li&gt;Samenwerken met ontwikkelaars, GIS-specialisten, analisten en externe leveranciers&lt;/li&gt; &lt;li&gt;Begeleiden van datamigraties, implementaties of softwareontwikkelingen&lt;/li&gt; &lt;li&gt;Overleg met gebruikers, beleidsmakers en technische teams om vereisten scherp te stellen&lt;/li&gt; &lt;li&gt;Rapporteren over projectvoortgang aan interne en externe stakeholders&lt;/li&gt; &lt;li&gt;Bewaken van gegevenskwaliteit, standaarden en informatiebeveiliging (GDPR, INSPIRE, etc.)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Je beschikt over een bachelor of master in &lt;strong&gt;Geografie, Geomatica, ICT, Toegepaste Informatica&lt;/strong&gt; of een verwante richting&lt;/li&gt; &lt;li&gt;Je hebt kennis van &lt;strong&gt;GIS-systemen&lt;/strong&gt; (zoals QGIS, ArcGIS, Geoserver) en begrijpt hoe geodata worden gebruikt in softwaretoepassingen&lt;/li&gt; &lt;li&gt;Ervaring in &lt;strong&gt;projectwerking&lt;/strong&gt; of coördinatie is een pluspunt&lt;/li&gt; &lt;li&gt;Je communiceert vlot, werkt gestructureerd en hebt een sterk verantwoordelijkheidsgevoel&lt;/li&gt; &lt;li&gt;Interesse in open data, datastandaarden (GML, WMS/WFS, INSPIRE) of smart city-toepassingen is mooi meegenomen&lt;/li&gt; &lt;li&gt;Je spreekt vloeiend Nederlands; kennis van Frans en/of Engels is een meerwaarde&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Direct vast contract&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Een vooraanstaande rol waar je bijzonder veel expertise en ervaring kan opbouwen&lt;/li&gt; &lt;li&gt;Competitieve verloning met een mooi pakket extralegale voordelen, wagen is bespreekbaar&lt;/li&gt; &lt;li&gt;Flexibele uren, zowel op kantoor als thuis (2 dagen thuiswerk/week)&lt;/li&gt; &lt;li&gt;Keuze uit verschillende opties voor je woon-werkverplaatsingen&lt;/li&gt; &lt;li&gt;Een goede teamspirit dankzij de (team)activiteiten die inzetten op welzijn, cultuur, sport, duurzaamheid én feest!&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71855028"/>
-    <published>2025-09-03T14:53:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71864874</id>
     <title>Architect - IT Strategy (KS Consulting Belgium)</title>
     <updated>2025-09-04T17:59:46+00:00</updated>
@@ -2627,7 +2619,7 @@ Jouw opdracht:&lt;br /&gt;
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71925895</id>
     <title>Port of Antwerp Bruges - Solutions Architect (Port of Antwerp Bruges)</title>
-    <updated>2025-09-12T09:18:09+00:00</updated>
+    <updated>2025-10-07T12:19:06+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Port of Antwerp Bruges (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Zin om mee de architecturale richtlijnen en standaarden te definiëren, bewaken en handhaven bij NxtPort?&lt;p&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;/p&gt;
 
 Vanuit Solution Architecture &amp; Governance neem je de verantwoordelijk voor het definiëren, bewaken en handhaven van architecturale richtlijnen en standaarden binnen de organisatie. Deze rol fungeert als "gatekeeper" voor solution designs en zorgt voor alignment met de bredere enterprise- en domeinarchitectuur.&lt;br /&gt;
@@ -3689,6 +3681,68 @@ Op dit moment is er een opportuniteit voor een projectmanager die verantwoordeli
 &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72124934"/>
     <published>2025-10-06T12:19:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72136715</id>
+    <title>IT Applicatie Manager - Logistieke sector (Dtect)</title>
+    <updated>2025-10-07T13:26:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Dtect (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;Regio Haven van Antwerpen&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Dit
+&lt;strong&gt; Europees gekend bedrijf&lt;/strong&gt; combineert transport, opslag en gespecialiseerde activiteiten in de havenomgeving. Ze investeren sterk in digitalisering en willen het 
+&lt;strong&gt;IT Applicatie Management team&lt;/strong&gt; versterken met iemand die IT en operations met elkaar verbindt.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Hier krijg je de kans om je 
+&lt;strong&gt;IT technische kennis, communicatieve skills &lt;/strong&gt;en je 
+&lt;strong&gt;feeling voor het operationele&lt;/strong&gt; in de haven te combineren. Je krijgt verantwoordelijkheid om uitdagende projecten mee te trekken en zo 
+&lt;strong&gt;impact &lt;/strong&gt;te maken op de digitalisering en efficiëntie van de business.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span style="text-decoration: underline;"&gt;IT Applicatie Manager – Functie&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;Applicatiemanagement&lt;/strong&gt;: beheer van een 
+&lt;strong&gt;breed&lt;/strong&gt; 
+&lt;strong&gt;applicatieportfolio&lt;/strong&gt;, met een 
+&lt;span&gt;centrale kernapplicatie &lt;/span&gt;aangevuld met diverse 
+&lt;span&gt;kleinere maar essentiële toepassingen&lt;/span&gt;. Je zal de applicatienoden analyseren, incidenten oplossen en integraties uitwerken.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;Leveranciersmanagement&lt;/strong&gt;: jij bent het aanspreekpunt voor de leveranciers, dit houdt in het 
+&lt;strong&gt;onderhandelen &lt;/strong&gt;over 
+&lt;strong&gt;licenties&lt;/strong&gt; en 
+&lt;strong&gt;project&lt;/strong&gt;- en 
+&lt;strong&gt;budgetaflijning&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;Projectbeheer&lt;/strong&gt;: Begeleiden van applicatieve projecten en 
+&lt;span&gt;&lt;strong&gt;change&lt;/strong&gt; 
+&lt;strong&gt;management &lt;/strong&gt;&lt;/span&gt;om operationele processen efficiënter te maken.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;IT Applicatie Manager &lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;– Profiel&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Ervaring&lt;/strong&gt; in het afstemmen en onderhandelen met 
+&lt;strong&gt;leveranciers &lt;/strong&gt;is een 
+&lt;strong&gt;must&lt;/strong&gt;.&lt;/li&gt; 
+&lt;li&gt;Minimum 
+&lt;strong&gt;4 jaar ervaring&lt;/strong&gt; in het beheren van 
+&lt;strong&gt;meerdere applicaties &lt;/strong&gt;tegelijkertijd. Affiniteit met haven, bulk of containerlogistiek is een sterke troef.&lt;/li&gt; 
+&lt;li&gt;Je zal je verplaatsen tussen 
+&lt;strong&gt;Antwerpse&lt;/strong&gt; 
+&lt;strong&gt;sites&lt;/strong&gt;, waardoor een rijbewijs een must is.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatie vaardigheden in het 
+&lt;strong&gt;Nederlands &lt;/strong&gt;en Engels.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span style="text-decoration-line: underline;"&gt;IT Applicatie Manager – Aanbod&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Met een 
+&lt;strong&gt;bedrijfswagen &lt;/strong&gt;zal jij je comfortabel en kosteloos kunnen verplaatsen.&lt;/li&gt; 
+&lt;li&gt;Kom je liever sportief naar het werk? Er is een 
+&lt;strong&gt;fietsleaseplan &lt;/strong&gt;aanwezig!&lt;/li&gt; 
+&lt;li&gt;Je salaris wordt aangevuld met een 
+&lt;strong&gt;volledig&lt;/strong&gt; 
+&lt;strong&gt;pakket&lt;/strong&gt; 
+&lt;strong&gt;aan voordelen&lt;/strong&gt;, denk aan maaltijd- en ecocheques en een hospitalisatie- en groepsverzekering.&lt;/li&gt; 
+&lt;li&gt;Met 
+&lt;strong&gt;30 vakantiedagen &lt;/strong&gt;geniet je van een mooie balans tussen je werk- en privéleven.&lt;/li&gt; 
+&lt;li&gt;Je krijgt 
+&lt;strong&gt;gerichte opleidingen &lt;/strong&gt;rond de complexe business en de applicaties.&lt;/li&gt; 
+&lt;li&gt;Een gevarieerde job met veel 
+&lt;strong&gt;autonomie&lt;/strong&gt;, waarbij je zelf je agenda kan maken.&lt;/li&gt; 
+&lt;li&gt;Maak deel uit van een 
+&lt;strong&gt;team&lt;/strong&gt; 
+&lt;strong&gt;van ervaren&lt;/strong&gt; 
+&lt;strong&gt;Application&lt;/strong&gt; 
+&lt;strong&gt;Managers&lt;/strong&gt;, waarmee je maandelijkse 
+&lt;strong&gt;knowledge&lt;/strong&gt; 
+&lt;strong&gt;sharing sessies&lt;/strong&gt; deelt.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;br /&gt;&lt;em&gt;Deze vacature wordt beheerd door Amy Raeymakers van DTECT. Bij verdere vragen neem rechtstreeks contact op: amy@dtect.be.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72136715"/>
+    <published>2025-10-07T13:26:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72131883</id>
