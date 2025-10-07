@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-06T22:40:53.259286+00:00</updated>
+  <updated>2025-10-07T04:46:09.667270+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1495,7 +1495,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71624973</id>
     <title>Identity Security Architect (Cronos)</title>
-    <updated>2025-09-06T00:01:19+00:00</updated>
+    <updated>2025-10-07T00:00:24+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR MISSION&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Together we’ll shape client architectures, lead workshops, review complex requirements, and define security blueprints.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;As a IAM Architect at Upright Security, you will:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design secure identity architectures tailored to client environments.&lt;/li&gt;&lt;li&gt;Translate business requirements into clear, actionable technical solutions.&lt;/li&gt;&lt;li&gt;Work with modern identity platforms (e.g. Okta, Auth0, SailPoint).&lt;/li&gt;&lt;li&gt;Collaborate with internal teams and client stakeholders to drive successful outcomes.&lt;/li&gt;&lt;li&gt;Supporting our managed service ambitions and SaaS delivery model&lt;/li&gt;&lt;li&gt;Helping define technical reference architectures and reusable components&lt;/li&gt;&lt;li&gt;Stay up to date with industry tends and emerging technologies in the IAM space.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;We’re looking for someone who combines deep technical knowledge with a strategic mindset, and thrives in a dynamic, collaborative environment.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;You bring:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years of experience in IT Security or IAM/IGA&lt;/li&gt;&lt;li&gt;Strong grip on IAM principles: authentication, authorization, provisioning, federation, and more&lt;/li&gt;&lt;li&gt;Hands-on experience with platforms like Okta, Azure AD/EntraID, SailPoint, etc.&lt;/li&gt;&lt;li&gt;A solid architecture mindset – patterns, integration strategies, roadmap thinking&lt;/li&gt;&lt;li&gt;Familiarity with standards: OAuth 2.0, OpenID Connect, SAML, SCIM, LDAP&lt;/li&gt;&lt;li&gt;Strong communication skills in English; Dutch or French is a big plus&lt;/li&gt;&lt;li&gt;Bonus: Background in consulting or pre-sales&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;IAM&lt;/p&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;p&gt;IGA&lt;/p&gt;&lt;/li&gt;
