@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-09T06:50:56.375150+00:00</updated>
+  <updated>2025-10-09T08:46:51.154546+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2649,94 +2649,6 @@ Uiterste sollicitatiedatum: zo snel mogelijk&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&g
     <published>2025-09-12T09:08:41+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71934821</id>
-    <title>IT Support Engineer (KONVERT INTERIM)</title>
-    <updated>2025-09-12T09:22:30+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KONVERT INTERIM (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als IT Support Engineer ondersteun je ziekenhuizen en priv&amp;eacute;praktijken bij hun medische software en applicaties. Je combineert technische kennis met communicatieve skills en draagt zo bij aan betere zorg en effici&amp;euml;ntere workflows.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-start="507" data-end="588"&gt;
-&lt;p data-start="509" data-end="588"&gt;Behandelen en opvolgen van supporttickets van ziekenhuizen en priv&amp;eacute;praktijken&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="589" data-end="663"&gt;
-&lt;p data-start="591" data-end="663"&gt;Installeren en integreren van diverse applicaties (eigen en 3rd party)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="664" data-end="727"&gt;
-&lt;p data-start="666" data-end="727"&gt;Advies geven bij aanbestedingsdossiers over de beste setups&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="728" data-end="787"&gt;
-&lt;p data-start="730" data-end="787"&gt;Meewerken aan projecten en vertalen naar data workflows&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="788" data-end="840"&gt;
-&lt;p data-start="790" data-end="840"&gt;Ondersteunen van collega&amp;rsquo;s bij overflow en calls&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="841" data-end="921"&gt;
-&lt;p data-start="843" data-end="921"&gt;2e lijn support bieden aan klanten, inclusief on-site interventies (Benelux)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-start="942" data-end="993"&gt;
-&lt;p data-start="944" data-end="993"&gt;Je hebt enkele jaren ervaring in een IT-functie&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="994" data-end="1058"&gt;
-&lt;p data-start="996" data-end="1058"&gt;Je bent analytisch, oplossingsgericht en communicatief sterk&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1059" data-end="1110"&gt;
-&lt;p data-start="1061" data-end="1110"&gt;Je spreekt en schrijft vlot Nederlands en Frans&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1111" data-end="1180"&gt;
-&lt;p data-start="1113" data-end="1180"&gt;Je hebt kennis van scripting en SQL (HL7/Dicom/Mirth is een plus)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1181" data-end="1243"&gt;
-&lt;p data-start="1183" data-end="1243"&gt;Een diploma ICT/Informatica&amp;nbsp;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1244" data-end="1329"&gt;
-&lt;p data-start="1246" data-end="1329"&gt;Je kan zelfstandig werken, prioriteiten stellen en flexibel inspelen op situaties&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1330" data-end="1381"&gt;
-&lt;p data-start="1332" data-end="1381"&gt;Bereidheid tot wachtdiensten (1 week per maand)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1382" data-end="1446"&gt;
-&lt;p data-start="1384" data-end="1446"&gt;Bereid om regelmatig op verplaatsing te werken in de Benelux&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li data-start="1477" data-end="1558"&gt;
-&lt;p data-start="1479" data-end="1558"&gt;Een uitdagende job in een groeiende en innovatieve &lt;strong data-start="1530" data-end="1556"&gt;Healthcare IT-omgeving&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1559" data-end="1628"&gt;
-&lt;p data-start="1561" data-end="1628"&gt;Een contract van onbepaalde duur met een aantrekkelijk loonpakket&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1629" data-end="1832"&gt;
-&lt;p data-start="1631" data-end="1655"&gt;Extralegale voordelen:&lt;/p&gt;
-&lt;ul data-start="1658" data-end="1832"&gt;
-&lt;li data-start="1658" data-end="1690"&gt;
-&lt;p data-start="1660" data-end="1690"&gt;Bedrijfswagen, GSM en laptop&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1693" data-end="1721"&gt;
-&lt;p data-start="1695" data-end="1721"&gt;Maaltijdcheques (&amp;euro;8/dag)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1724" data-end="1789"&gt;
-&lt;p data-start="1726" data-end="1789"&gt;Groeps- en hospitalisatieverzekering (incl. ambulante zorgen)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1792" data-end="1832"&gt;
-&lt;p data-start="1794" data-end="1832"&gt;15 ADV-dagen + anci&amp;euml;nniteitsvakantie&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li data-start="1833" data-end="1903"&gt;
-&lt;p data-start="1835" data-end="1903"&gt;Mogelijkheid tot hybride werken: thuis, op kantoor &amp;eacute;n bij de klant&lt;/p&gt;
-&lt;/li&gt;
-&lt;li data-start="1904" data-end="1956"&gt;
-&lt;p data-start="1906" data-end="1956"&gt;Veel ruimte voor opleiding en persoonlijke groei&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71934821"/>
-    <published>2025-09-12T09:02:53+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71935102</id>
     <title>Teamlead System Engineer (On IT!)</title>
     <updated>2025-09-12T09:33:21+00:00</updated>
@@ -3557,5 +3469,190 @@ Op dit moment is er een opportuniteit voor een projectmanager die verantwoordeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: DELA Uitvaartspecialist (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Zin in niet &lt;em&gt;zomaar &lt;/em&gt;een job maar wel om écht zinvol werk aan te gaan met mensen? Dat kan… bij DELA! Hoe wij dat doen? Wel, op onze manier, &lt;strong&gt;de DELA-manier&lt;/strong&gt;. Al meer dan 80 jaar &lt;strong&gt;luisteren &lt;/strong&gt;wij, zorgen we voor &lt;strong&gt;raad en daad&lt;/strong&gt; &amp; geven wij die &lt;strong&gt;warme professionele houvast&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Of het nu gaat over een uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf: mensen &lt;strong&gt;ontzorgen in één van de moeilijkste momenten&lt;/strong&gt;&lt;strong&gt;van hun leven&lt;/strong&gt;. Dat is wat onze job &lt;strong&gt;zinvol &lt;/strong&gt;maakt en ons de energie geeft om er altijd te staan als &lt;strong&gt;één team&lt;/strong&gt;.&lt;br/&gt;  Ter uitbreiding van het Data Delivery team in Antwerpen, zoeken we een Senior Microsoft Data Engineer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior Microsoft Data Engineer speel je een sleutelrol in het ontwerpen, bouwen en optimaliseren van ons dataplatform in de Microsoft Azure-omgeving. Je coördineert mee de samenwerking met onze externe partner (Cloubis), zet technische richtlijnen uit en vertaalt complexe brondata naar betrouwbare, schaalbare data-oplossingen die onze business vooruit helpen. Daarbij ben je zowel technisch expert als coach voor je collega’s.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je zorgt voor het &lt;strong&gt;ontwerpen en implementeren van robuuste data pipelines&lt;/strong&gt; met Azure Data Factory, DBT, Synapse en Databricks.&lt;/li&gt;&lt;li&gt;Je borgt de kwaliteit en veiligheid van data door het toepassen van data governance, lineage en security in lijn met wet- en regelgeving (o.a. GDPR).&lt;/li&gt;&lt;li&gt;Je beoordeelt en optimaliseert prestaties, betrouwbaarheid en schaalbaarheid van data-oplossingen.&lt;/li&gt;&lt;li&gt;Je draagt bij aan het modelleren van data in moderne datawarehouse-architecturen (medallion, lakehouse) en denkt in termen van &lt;em&gt;data als product&lt;/em&gt;.&lt;/li&gt;&lt;li&gt;Je zorgt ervoor dat er heldere &lt;strong&gt;data contracts&lt;/strong&gt; zijn met de business, inclusief afspraken over levering, foutenafhandeling en toegangsrechten.&lt;/li&gt;&lt;li&gt;Je fungeert als &lt;strong&gt;tech lead&lt;/strong&gt; binnen projecten, begeleidt collega’s en werkt nauw samen met data-analisten en business stakeholders.&lt;/li&gt;&lt;li&gt;Je beheert CI/CD-processen voor data pipelines via Azure DevOps.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Volgende troeven zoeken we in jou:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt minstens 10 jaar ervaring als Data Engineer, waarvan minstens 2 jaar met Microsoft Azure.&lt;/li&gt;&lt;li&gt;Je hebt diepgaande kennis van Azure Data Factory, Azure Synapse, Azure SQL, Databricks, DBT en Power BI.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met programmeertalen zoals SQL en Python.&lt;/li&gt;&lt;li&gt;Je hebt kennis van data governance, lineage, security en compliance in gereguleerde sectoren.&lt;/li&gt;&lt;li&gt;Je communiceert helder met zowel technische als niet-technische stakeholders en kan overtuigend argumenteren.&lt;/li&gt;&lt;li&gt;Je bent een teamplayer met coachende vaardigheden en een kritische mindset.&lt;/li&gt;&lt;li&gt;Ervaring met Agile/Scrum-werkwijzen is een pluspunt.&lt;/li&gt;&lt;li&gt;Kennis van data contracts en data product thinking is een grote meerwaarde.&lt;/li&gt;&lt;li&gt;Je spreekt vloeiend Engels en hebt basiskennis van Nederlands of Frans.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Wat bieden wij jou&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DELA werd voor de 4e keer bekroond als &lt;strong&gt;World Class Workplace&lt;/strong&gt; dankzij onze focus op duurzaamheid, leiderschap en persoonlijke ontwikkeling.&lt;/li&gt;&lt;li&gt;Je krijgt alle kansen om te groeien, met een persoonlijk &lt;strong&gt;groeiplan &lt;/strong&gt;en een ruim opleidingsaanbod via onze &lt;strong&gt;DELA Academy&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;waarden-gedreven organisatie&lt;/strong&gt; waar integriteit, betrokkenheid en ondernemerschap centraal staan.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;sterke coöperatieve cultuur &lt;/strong&gt;waarin we collega’s met diverse achtergronden verwelkomen en samenwerken als één team.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;competitief salaris in lijn met jouw ervaring&lt;/strong&gt; en een uitgebreid pakket extralegale voordelen.&lt;/li&gt;&lt;li&gt;Toegang tot DELA’s flexplan met opties zoals extra verlofdagen en fietsleasing, plus een flexibel thuiswerkbeleid.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ben jij klaar voor een uitdagende en betekenisvolle job bij DELA?&lt;br/&gt; &lt;strong&gt;Solliciteer online&lt;/strong&gt; en wij kijken ernaar uit om jou te ontmoeten!&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72146090"/>
     <published>2025-10-08T13:23:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72154925</id>
+    <title>System Engineer (On IT)</title>
+    <updated>2025-10-09T09:37:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Malle&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ad-hoc interventies &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Uitvoeren van snelle en doelgerichte interventies bij klanten (bv vervangen en configureren van switches en firewalls)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Oplossen van dringende storingen en technische incidenten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Zorgen voor een vlotte terugkoppeling en documentatie na afloop&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Projectmatige opdrachten &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Een of meerdere dagen bij eenzelfde klant voor grotere opdrachten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Installeren en vervangen van meerdere werkplekken (bijvoorbeeld 10+ pc’s)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Vernieuwen en configureren van volledige installaties van switches en netwerkapparatuur&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ondersteunen bij de inrichting en vernieuwing van server rooms&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Nauw samenwerken met een van onze interne gespecialiseerde Competence Centers bij grotere projecten (Cloud, Modern Workplace, Networking)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Adviserende rol &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;In gesprek gaan met klanten om hun IT-behoeften in kaart te brengen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Signaleren van verbeterpunten en aanbevelen van oplossingen vanuit een helikopterview&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Klanten helpen hun IT-infrastructuur strategisch af te stemmen op hun bedrijfsdoelstellingen&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Algemene verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Optreden als aanspreekpunt voor technische vragen van klanten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Documenteren en rapporteren van interventies en projectresultaten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Proactief bijdragen aan kennisdeling en samenwerking binnen het team&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Meedenken over innovatie en verdere professionalisering van IT-diensten&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Technische kennis&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Brede kennis van 
+&lt;strong&gt;IT-infrastructuur&lt;/strong&gt; en 
+&lt;strong&gt;netwerktechnologieën&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met 
+&lt;strong&gt;switching&lt;/strong&gt;, 
+&lt;strong&gt;firewalls&lt;/strong&gt; en 
+&lt;strong&gt;migraties&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Grondige kennis van 
+&lt;strong&gt;Microsoft-technologieën&lt;/strong&gt; en 
+&lt;strong&gt;Azure&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met hardware van 
+&lt;strong&gt;HP&lt;/strong&gt; en 
+&lt;strong&gt;Dell&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Een relevante 
+&lt;strong&gt;firewall-certificatie&lt;/strong&gt; (of bereidheid dit te behalen)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Ervaring&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Meerdere jaren werkervaring binnen een 
+&lt;strong&gt;Managed Service Provider-omgeving&lt;/strong&gt; &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met zowel ad-hoc interventies als projectmatige opdrachten&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Talenkennis&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Nederlands&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: uitstekende beheersing in woord en geschrift&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Engels&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: professioneel bruikbaar voor klanten en documentatie&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Frans&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: een mooi pluspunt&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Persoonlijke vaardigheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Zelfstandig kunnen werken en verantwoordelijkheid nemen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Maturiteit en professionele uitstraling bij klantbezoeken&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Basiskennis van 
+&lt;strong&gt;projectmanagement&lt;/strong&gt; om interventies gestructureerd aan te pakken&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Sterke communicatievaardigheden: je kan complexe IT-vraagstukken helder uitleggen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;Flexibele mindset en probleemoplossend vermogen&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt;Ontvang 
+&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Verzekering:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Technische uitrusting:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; Laptop, een telefoonbudget en abonnement&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Verlof:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; Geniet van 32 vakantiedagen per jaar&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Professionele ontwikkeling:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; &lt;/span&gt;&lt;span lang="NL"&gt;Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72154925"/>
+    <published>2025-10-09T09:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72154907</id>
+    <title>System Engineer (On IT)</title>
+    <updated>2025-10-09T09:36:07+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ad-hoc interventies &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Uitvoeren van snelle en doelgerichte interventies bij klanten (bv vervangen en configureren van switches en firewalls)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Oplossen van dringende storingen en technische incidenten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Zorgen voor een vlotte terugkoppeling en documentatie na afloop&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Projectmatige opdrachten &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Een of meerdere dagen bij eenzelfde klant voor grotere opdrachten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Installeren en vervangen van meerdere werkplekken (bijvoorbeeld 10+ pc’s)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Vernieuwen en configureren van volledige installaties van switches en netwerkapparatuur&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ondersteunen bij de inrichting en vernieuwing van server rooms&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Nauw samenwerken met een van onze interne gespecialiseerde Competence Centers bij grotere projecten (Cloud, Modern Workplace, Networking)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Adviserende rol &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;In gesprek gaan met klanten om hun IT-behoeften in kaart te brengen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Signaleren van verbeterpunten en aanbevelen van oplossingen vanuit een helikopterview&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Klanten helpen hun IT-infrastructuur strategisch af te stemmen op hun bedrijfsdoelstellingen&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Algemene verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Optreden als aanspreekpunt voor technische vragen van klanten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Documenteren en rapporteren van interventies en projectresultaten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Proactief bijdragen aan kennisdeling en samenwerking binnen het team&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Meedenken over innovatie en verdere professionalisering van IT-diensten&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Technische kennis&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Brede kennis van 
+&lt;strong&gt;IT-infrastructuur&lt;/strong&gt; en 
+&lt;strong&gt;netwerktechnologieën&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met 
+&lt;strong&gt;switching&lt;/strong&gt;, 
+&lt;strong&gt;firewalls&lt;/strong&gt; en 
+&lt;strong&gt;migraties&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Grondige kennis van 
+&lt;strong&gt;Microsoft-technologieën&lt;/strong&gt; en 
+&lt;strong&gt;Azure&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met hardware van 
+&lt;strong&gt;HP&lt;/strong&gt; en 
+&lt;strong&gt;Dell&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Een relevante 
+&lt;strong&gt;firewall-certificatie&lt;/strong&gt; (of bereidheid dit te behalen)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Ervaring&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Meerdere jaren werkervaring binnen een 
+&lt;strong&gt;Managed Service Provider-omgeving&lt;/strong&gt; &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met zowel ad-hoc interventies als projectmatige opdrachten&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Talenkennis&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Nederlands&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: uitstekende beheersing in woord en geschrift&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Engels&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: professioneel bruikbaar voor klanten en documentatie&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Frans&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: een mooi pluspunt&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Persoonlijke vaardigheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Zelfstandig kunnen werken en verantwoordelijkheid nemen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Maturiteit en professionele uitstraling bij klantbezoeken&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Basiskennis van 
+&lt;strong&gt;projectmanagement&lt;/strong&gt; om interventies gestructureerd aan te pakken&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="NL"&gt;Sterke communicatievaardigheden: je kan complexe IT-vraagstukken helder uitleggen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;Flexibele mindset en probleemoplossend vermogen&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt;Ontvang 
+&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Verzekering:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Technische uitrusting:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; Laptop, een telefoonbudget en abonnement&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Verlof:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; Geniet van 32 vakantiedagen per jaar&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Professionele ontwikkeling:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; &lt;/span&gt;&lt;span lang="NL"&gt;Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72154907"/>
+    <published>2025-10-09T09:36:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72154765</id>
+    <title>Senior Remote System Engineer (IT1)</title>
+    <updated>2025-10-09T09:25:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: IT1 (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Baasrode&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als senior remote system engineer maak je deel uit van een technisch team en functioneert als de brug tussen het helpdeskteam en de field engineers.&lt;/p&gt; 
+&lt;p&gt;Je zet jouw expertise en maturiteit in om de meer uitdagende tickets op te lossen én helpt jouw collega helpdeskmedewerkers naar een volgend niveau.&lt;/p&gt; 
+&lt;p&gt;Hoe ziet jouw dag eruit?&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je staat in voor de het oplossen van 3rd line tickets betreffende implementatie, configuratie, optimalisatie en het beheer van (middel)grote ICT infrastructuren.&lt;/li&gt; 
+&lt;li&gt;Je werkt samen met de 1st line en 2nd line system &amp;amp; network engineers.&lt;/li&gt; 
+&lt;li&gt;Je functioneert als belangrijke filter &amp;amp; brug tussen de helpdesk &amp;amp; field engineers.&lt;/li&gt; 
+&lt;li&gt;Je zal verworven kennis en skills op een overtuigende en didactisch verantwoorde manier kunnen overbrengen aan collega’s.&lt;/li&gt; 
+&lt;li&gt;Je werkt hoofdzakelijk vanop afstand (thuis of op kantoor bij IT1 te Dendermonde)&lt;/li&gt; 
+&lt;li&gt;Je rapporteert rechtstreeks aan de Technical Teamleader.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je genoot een hogere opleiding of gelijkgesteld door ervaring.&lt;/li&gt; 
+&lt;li&gt;Je beschikt over min. 5 jaar relevante ervaring in een Windows infrastructuuromgeving: VMWare, Hyper-V, HPE infrastructuur (servers, opslag, netwerken).&lt;/li&gt; 
+&lt;li&gt;Je beschikt over ruime ervaring met netwerk- en security gerelateerde producten.&lt;/li&gt; 
+&lt;li&gt;Beschikken over actuele Microsoft certificaten is belangrijk.&lt;/li&gt; 
+&lt;li&gt;Je bent bereid binnen de 12 maanden na aanwerving een in onderling overleg bepaald certificatietraject te doorlopen.&lt;/li&gt; 
+&lt;li&gt;Je bent zelfzeker en zelfstandig ingesteld.&lt;/li&gt; 
+&lt;li&gt;Je bent flexibel en bent niet op zoek naar een 9-5 job.&lt;/li&gt; 
+&lt;li&gt;Je bent bereid in een stand-by beurtrol systeem te fungeren.&lt;/li&gt; 
+&lt;li&gt;Talenkennis: Nederlands – Engels, (kennis van het Frans is een pluspunt).&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Een boeiende job in een dynamisch en financieel gezond bedrijf in expansie met aangename en gedreven collega’s.&lt;/li&gt; 
+&lt;li&gt;Permanente upgrading van eigen vakkennis dmv zelfstudie, interne en externe opleidingen.&lt;/li&gt; 
+&lt;li&gt;Ruime doorgroeimogelijkheden binnen het helpdeskteam, als systeem-network engineer, security specialist, expert consultant,…&lt;/li&gt; 
+&lt;li&gt;“IT1 Blueprint” trajecten om in beperkt team (sales, tech, project) te specialiseren in een specifiek oplossingsdomein (werkposten, cloudservices, networking,…).&lt;/li&gt; 
+&lt;li&gt;Een competitief salaris in overeenstemming met je kennis, ervaring en certificaten aangevuld met extralegale voordelen en een bedrijfswagen.&lt;/li&gt; 
+&lt;li&gt;Je wordt door collega’s beloond, en kan ook zelf bonussen toekennen via het IT1 microbonussysteem;&lt;/li&gt; 
+&lt;li&gt;Deelname in het groepsbonussyteem op basis van behaalde bedrijfsresultaten.&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72154765"/>
+    <published>2025-10-09T09:25:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72154492</id>
+    <title>Business Data Analyst  (Visser &amp; Van Baars)</title>
+    <updated>2025-10-09T08:28:21+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Over het bedrijf&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Voor onze klant, een organisatie die een sleutelrol speelt binnen de Antwerpse haven en bedrijven ondersteunt in hun dagelijkse werking rond planning, veiligheid en personeelsbeheer, zijn wij op zoek naar een Business Data Analyst.&lt;/p&gt;&lt;p&gt;In deze functie help je de organisatie om beslissingen meer data-gedreven te maken en inzichten om te zetten in concrete, impactvolle adviezen. Je wordt deel van een klein strategisch team dat rechtstreeks samenwerkt met de directie - waardoor jouw analyses echte invloed hebben op beleid en operationele keuzes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw functie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Business Data Analyst bouw je mee aan een data-gedreven organisatie. Je verzamelt en analyseert gegevens, signaleert trends en vertaalt die naar heldere inzichten. Je werkt rond thema's zoals personeelsplanning, veiligheid en operationele efficiëntie.&lt;/p&gt;&lt;p&gt;Concreet:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je structureert en valideert data en maakt dashboards en rapporten.&lt;/li&gt;&lt;li&gt;Je voert analyses uit en ondersteunt de directie bij strategische beslissingen.&lt;/li&gt;&lt;li&gt;Je werkt samen met IT en business om data correct te interpreteren.&lt;/li&gt;&lt;li&gt;Je brengt cijfers tot leven met duidelijke verhalen en aanbevelingen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een masterdiploma of gelijkwaardige ervaring in data-analyse of BI.&lt;/li&gt;&lt;li&gt;Je kan overweg met SQL en BI-tools (kennis van Snowflake of dbt is een plus).&lt;/li&gt;&lt;li&gt;Je werkt analytisch, gestructureerd en nauwkeurig.&lt;/li&gt;&lt;li&gt;Je denkt strategisch, communiceert vlot en durft onderbouwde standpunten innemen.&lt;/li&gt;&lt;li&gt;Je neemt initiatief en haalt energie uit het ontdekken van patronen en inzichten.&lt;/li&gt;&lt;li&gt;Je kan al een mooie ervaring neerleggen in een soortgelijke functie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Affiniteit met de haven of logistieke context is mooi meegenomen, maar geen vereiste.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Het aanbod&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Je krijgt de kans om een sleutelrol op te nemen in een organisatie met maatschappelijke impact, waar jouw analyses écht richting geven aan beslissingen. Je werkt voltijds (38u/week) in een hybride model, met drie dagen op kantoor in Antwerpen en twee dagen van thuis uit.&lt;/p&gt;&lt;p&gt;Daarvoor mag je rekenen op een aantrekkelijk verloningspakket, aangevuld met een elektrische bedrijfswagen, maaltijdcheques, een jaarlijkse bonus van 30% tot 55% van je maandloon, en een uitgebreide groeps- en hospitalisatieverzekering. Je geniet bovendien van 30 vakantiedagen en de flexibiliteit om je werk efficiënt te plannen. De organisatie investeert sterk in persoonlijke groei en ontwikkeling. Zo krijg je de ruimte om je expertise verder uit te bouwen via opleidingsdagen en gerichte trainingen, afgestemd op jouw interesses en ambities.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72154492"/>
+    <published>2025-10-09T08:28:21+00:00</published>
   </entry>
 </feed>
