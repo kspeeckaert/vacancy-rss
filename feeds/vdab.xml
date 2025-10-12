@@ -2,95 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-11T22:39:48.135758+00:00</updated>
+  <updated>2025-10-12T04:44:27.083119+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/66303162</id>
-    <title>Senior data engineer (Dept. Onderwijs en Vorming) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2025-08-11T09:34:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Het departement 
-&lt;strong&gt;Onderwijs en Vorming&lt;/strong&gt; is op zoek naar een 
-&lt;strong&gt;Data Engineer&lt;/strong&gt; ter versterking van het team bij de migratie en verdere uitbouw van het centrale dataplatform. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform te vernieuwen en verder uit te breiden. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Als Senior Data Engineer zal je meewerken aan de volgende opdrachten: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Schrijven van ETL-code om data te transformeren.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Opzetten van het rechtenmodel van een dataproduct.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Documenteren van de end-to-end oplossing&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Ondersteuning leveren bij problemen, performance issues, …&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Meedenken aan procesverbeteringen en -optimalisaties.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Begeleiden van het data engineers team&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;We zijn op zoek naar een kandidaat met 
-&lt;strong&gt;minstens 7 jaar ervaring&lt;/strong&gt; als Data of Analytics Engineer. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Nederlandstalig op Europees CEFR-niveau C2&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Hogere opleiding (Master of Bachelor) met technische/engineering of bedrijfseconomische achtergrond of gelijkwaardig door ervaring&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Algemene kennis van basisconcepten data warehouse, data mesh, data integratie (ETL), rapportering &amp;amp; analyse (BI), databanken en metadata&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van data load en refresh strategieën&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een goed  begrip hebben van hoe datasets performant gemaakt kunnen worden&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een goed  begrip hebben van continuous integration en continuous delivery (CI/CD)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring met projectgericht werken in een agile data omgeving&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een ‘security &amp;amp; privacy’ first mindset &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Volgende technische competenties zijn belangrijk: &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in het schrijven van complexe SQL-queries (joins, aggregaties, views, …)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in het koppelen van databronnen en het opzetten van data pipelines (Airflow)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in data transformatie (DBT)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring met Git als versiebeheertool (codebeoordeling door middel van pull-verzoeken)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in het opstellen test scenario`s en het uitvoeren van test scripts&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van gedistribueerde query engines (Presto, Trino, Starburst, …)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van het beheer van metatadata (Apache Atlas)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van het opzetten van kolom, rij of object gebaseerde rechtenstructuren (Apache Ranger)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vaardigheden hebben in Spark, Python en/of Java gebaseerde talen om complexere gegevenstransformaties of -ontsluiting uit te voeren (Optioneel)&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat jij van ons mag verwachten&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen Connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met:&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● 28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11).&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een mobiliteitsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een hospitalisatieverzekering (je kan gezinsleden aansluiten)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een groepsverzekering&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een opleidingsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een laptop&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een smartphone met abonnementsformule&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Flexibele werkuren&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Mogelijkheid tot kinderopvang tijdens alle schoolvakanties aan een voordelig tarief&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;4 redenen om bij Vlaanderen Connect te werken!&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Je hebt een zichtbare impact op de samenleving.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Op je straat, je gemeente, je regio. Op de toekomst van 6,5 miljoen mensen die er wonen, leven en werken. Op bedrijven, verenigingen en scholen. Op het welzijn van mens, dier en natuur. Op de wereld die Vlaanderen heet.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;strong&gt;Je gaat in elk project voor kwaliteit en resultaat.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Aan uitdagende projecten geen tekort. Bovendien kan je rekenen op de nieuwste technologieën zoals. En krijg je de nodige tijd en middelen om te experimenteren en te slagen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Je floreert tussen digitale experten.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Doe er nieuwe kennis op en verdiep je. Botvier en deel je talenten, expertise en ervaringen. Neem je verantwoordelijkheid. En wij, wij begeleiden en ondersteunen je om je ambities waar te maken, waar die ook liggen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Je voelt je welkom en gewaardeerd.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Naar waarde geschat voor wat je al gedaan had nog voor je naar ons kwam. En voor wat je nog voor jezelf en de samenleving kunt en wilt betekenen. In erkenning en verloning. Als professional en als mens.&lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/66303162"/>
-    <published>2023-03-03T16:07:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
     <title>Senior DevOps architect (Cronos)</title>
@@ -2395,6 +2309,144 @@ Strategische bijdrage
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Functioneel Analist / BI Analist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Locatie:&lt;/strong&gt; Regio Vlaanderen&lt;br&gt;&lt;strong&gt;Dienstverband:&lt;/strong&gt; Vast contract&lt;br&gt;&lt;strong&gt;Expertise:&lt;/strong&gt; SQL - Power BI - Business Analyse&lt;/p&gt;&lt;p&gt;Voor een &lt;strong&gt;internationale en financieel sterke organisatie&lt;/strong&gt; die volop in groei zit, zijn we op zoek naar een &lt;strong&gt;Functioneel Analist / BI Analist&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;In deze rol werk je op het snijvlak van business, data en technologie en vertaal je de operationele en strategische noden naar concrete &lt;strong&gt;BI- en datasolutions&lt;/strong&gt; die impact hebben op efficiëntie, optimalisatie en duurzame bedrijfsvoering.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw rol&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyseren en verzamelen van rapporteringsbehoeften vanuit verschillende departementen (operations, sales, finance, IT).&lt;/li&gt;&lt;li&gt;Vertalen van business requirements naar functionele analyses en duidelijke user stories.&lt;/li&gt;&lt;li&gt;Bouwen van dashboards en datamodellen in &lt;strong&gt;Power BI&lt;/strong&gt;, ondersteund door SQL-query's.&lt;/li&gt;&lt;li&gt;Identificeren en implementeren van verbeteringsmogelijkheden in processen en data-analyse.&lt;/li&gt;&lt;li&gt;Nauwe samenwerking met de BI &amp;amp; Data teams en andere business analisten om strategische waarde te creëren.&lt;/li&gt;&lt;li&gt;Volledige opvolging van BI-projecten, inclusief testing, implementatie en change management.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of masterdiploma of gelijkwaardig door ervaring.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;strong&gt;SQL en Power BI&lt;/strong&gt; is een must.&lt;/li&gt;&lt;li&gt;Kennis van datakwaliteit, modellering, data management en rapportage.&lt;/li&gt;&lt;li&gt;Ervaring met Agile/Scrum is een plus.&lt;/li&gt;&lt;li&gt;Analytisch, communicatief en in staat bruggen te slaan tussen business en IT.&lt;/li&gt;&lt;li&gt;Vlotte kennis van &lt;strong&gt;Nederlands en Engels&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Bereid om zich &lt;strong&gt;op lange termijn te engageren&lt;/strong&gt; binnen een stabiele en internationale werkomgeving.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat wordt geboden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een uitdagende rol binnen een &lt;strong&gt;internationaal, financieel sterk en groeiend bedrijf&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Impactvolle projecten in een datagedreven omgeving.&lt;/li&gt;&lt;li&gt;Ruimte voor initiatief, innovatie en persoonlijke ontwikkeling.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;3 dagen thuiswerk&lt;/strong&gt; mogelijk na de inwerkperiode.&lt;/li&gt;&lt;li&gt;Aantrekkelijk salaris- en voordelenpakket in lijn met ervaring.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;/p&gt;&lt;p&gt;Solliciteer nu of neem contact op voor meer informatie!&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71909806"/>
     <published>2025-09-10T15:08:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71925895</id>
+    <title>Port of Antwerp Bruges - Solutions Architect (Port of Antwerp Bruges)</title>
+    <updated>2025-10-12T01:18:01+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Port of Antwerp Bruges (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Zin om mee de architecturale richtlijnen en standaarden te definiëren, bewaken en handhaven bij NxtPort?&lt;p&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;/p&gt;
+
+Vanuit Solution Architecture &amp; Governance neem je de verantwoordelijk voor het definiëren, bewaken en handhaven van architecturale richtlijnen en standaarden binnen de organisatie. Deze rol fungeert als "gatekeeper" voor solution designs en zorgt voor alignment met de bredere enterprise- en domeinarchitectuur.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Kerntaken en verantwoordelijkheden:&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Architecturale governance: Ontwikkelen en handhaven van architecturale principes, richtlijnen en standaarden.
+&lt;/li&gt;
+
+&lt;li&gt;Cross-team alignment: Samenwerken met productteams om architecturale keuzes af te stemmen en duplicatie of technische schuld te vermijden.
+&lt;/li&gt;
+
+&lt;li&gt;Solution design: Ontwerpen van technische oplossingen op basis van business requirements, architecturale richtlijnen en technologische mogelijkheden.
+&lt;/li&gt;
+
+&lt;li&gt;Technische review en goedkeuring: Beoordelen van solution designs en technische implementaties op conformiteit met de architectuurvisie.
+&lt;/li&gt;
+
+&lt;li&gt;Stakeholder communicatie: Fungeren als brug tussen Business stakeholders, product owners, development teams, security, en infrastructuur.
+&lt;/li&gt;
+
+&lt;li&gt;Roadmap en strategie: Bijdragen aan de lange termijn technologie-roadmap en strategische keuzes.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+Je werkt nauw samen met&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Product Owners &amp; Business Analysts
+&lt;/li&gt;
+
+&lt;li&gt;Technical Architects en Technical Leads
+&lt;/li&gt;
+
+&lt;li&gt;Software development teams
+&lt;/li&gt;
+
+&lt;li&gt;Security en Infrastructure teams
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+KPI's en succescriteria&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Consistentie en herbruikbaarheid van architecturale componenten
+&lt;/li&gt;
+
+&lt;li&gt;Vermindering van technical Debt
+&lt;/li&gt;
+
+&lt;li&gt;Tevredenheid van development teams over architecturale ondersteuning
+&lt;/li&gt;
+
+&lt;li&gt;Aantal goedgekeurde designs zonder herontwerp
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+Je werkt in een hybride omgeving waarbij 2 dagen onsite en de andere dagen remote van thuis uit&lt;p&gt;&lt;strong&gt;Interesse? ga meteen aan de slag!&lt;/strong&gt;&lt;/p&gt;
+
+Heb je interesse voor deze vacature, bezorg ons dan zo snel mogelijk je CV en motivatiebrief via de knop 'solliciteer'.&lt;br /&gt;
+
+We sluiten de vacature af zodra we een geschikte kandidaat gevonden hebben.&lt;br /&gt;
+
+Meer informatie over het selectieproces en onze waarden vind je op onze jobsite.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Iedereen welkom bij port of Antwerp-Bruges. We geloven in de kracht van verschil en diversiteit, één met de wereld rondom ons.&lt;br /&gt;
+
+Uiterste sollicitatiedatum: zo snel mogelijk&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;Minimaal 5 jaar ervaring als Solution Architect of in een vergelijkbare technische leiderschapsrol
+&lt;/li&gt;
+
+&lt;li&gt;Diepgaande kennis van moderne softwarearchitectuur (cloud-native, MicroServices, API-first, etc.)
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met architecturale governance en het werken in een scaled agile omgeving
+&lt;/li&gt;
+
+&lt;li&gt;Sterke communicatieve vaardigheden en stakeholdermanagement
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met enterprise architectuur frameworks (zoals Togaf, SAFe, etc.) is een plus
+&lt;/li&gt;
+
+&lt;li&gt;Je hebt ervaring met Azure stack, Cloud development, C# .NET, Blazor, Domain-Driven Design, Test-Driven Development
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring met Infrastructure as Code (vb TerraForm) is een bonus alsook met werken in Agile /Scrum teams met tools als Jira of Azure Boards
+&lt;/li&gt;
+
+&lt;li&gt;Nederlands is een vereiste, Engels een pluspunt
+&lt;/li&gt;
+
+&lt;li&gt;Durf, verbinding en eenvoud...  Dat zijn waarden waar jij je helemaal in kan vinden.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;Werken bij NxtPort betekent bijdragen aan de digitale toekomst van een wereldhaven.
+&lt;/li&gt;
+
+&lt;li&gt;Je wordt deel van een dynamisch en gedreven team waar samenwerking centraal staan.
+&lt;/li&gt;
+
+&lt;li&gt;Je kunt rekenen op een veelzijdige functie met impact en ruimte voor initiatief.
+&lt;/li&gt;
+
+&lt;li&gt;Daarnaast bieden wij jou een aantrekkelijk salaris, aangevuld met een uitgebreid pakket extralegale voordelen (waaronder de mogelijkheid tot een bedrijfswagen, maaltijd- en ecocheques, hospitalisatieverzekering voor jou en je gezin, GSM, laptop, een hybride werkomgeving,...).
+&lt;/li&gt;
+
+&lt;li&gt;NxtPort heeft 2 operationele werkplekken: het Havenhuis (Zaha Hadidplein 1, 2030 Antwerpen) en the Beacon (Sint-Pietersvliet 7, 2000 Antwerpen).
+&lt;/li&gt;
+
+&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71925895"/>
+    <published>2025-09-11T16:18:06+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71931419</id>
