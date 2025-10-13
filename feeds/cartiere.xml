@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-13T10:24:33.229514+00:00</updated>
+  <updated>2025-10-13T12:38:04.929108+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -212,41 +212,6 @@ Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/stron
     <published>2025-09-22T15:13:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/business-intelligence-team-lead/</id>
-    <title>Business Intelligence Team lead </title>
-    <updated>2025-09-17T13:24:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-05-15 10:15:04+00:00, last change 2025-09-17 13:24:51+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-05-15 10:15:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Voor een toonaangevend internationaal bedrijf dat actief is in de productiesector kijken we uit naar een BI Teamlead met een expertise in Azure en Power BI met een kennis of interesse in SAP BW/4 HANA. Het bedrijf produceert materiaal voor toepassingen voor zowel in residentiële als industriële omgevingen.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-In deze rol combineer je technische expertise met leiderschap. Je stuurt een klein BI-team van twee collega’s aan en blijft zelf hands-on actief met moderne Microsoft-technologieën zoals Azure Data Factory, Databricks en Power BI. Je ontwikkelt en onderhoudt data-oplossingen, bouwt geavanceerde dashboards en ondersteunt key users bij hun rapporteringen. Daarnaast vertaal je businessbehoeften naar concrete oplossingen en werk je intensief samen met stakeholders op alle niveaus, van lokale controllers tot het management. Je speelt een sleutelrol in de verdere uitbouw van de hybride BI-architectuur, waarin SAP BW/4 HANA en Azure gecombineerd worden, en draagt actief bij aan de toekomstige BI-strategie van de organisatie.&lt;br&gt;
-&lt;br&gt;
-PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Minstens 5 jaar relevante ervaring in BI.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Sterke kennis van Azure Data Factory, Databricks en Power BI.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Ervaring met SAP BW/4 HANA is een grote plus.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Analytisch, communicatief en ervaren in stakeholdermanagement.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Leiderschap combineren met een hands-on mentaliteit.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Vloeiend in Engels.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
-Een uitdagende rol waarin je leiderschap combineert met technische expertise. Je werkt in een internationale omgeving met focus op innovatie en duurzaamheid. De kans om impact te maken op de toekomstige BI-strategie en -architectuur. Daarnaast heb je een aantrekkelijk salaris en bijkomende voordelen.&lt;br&gt;
-&lt;br&gt;
-Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/business-intelligence-team-lead/"/>
-    <category term="BI/Data Analyst"/>
-    <category term="Technical Lead"/>
-    <category term="BI/Data Architect"/>
-    <category term="Management"/>
-    <category term="Data Engineering"/>
-    <published>2025-05-15T10:15:04+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
     <title>Data Engineer</title>
     <updated>2025-09-10T09:19:13+00:00</updated>
@@ -397,37 +362,6 @@ Bekijk onze website www.cartiere.be voor meer BI, data &amp;amp; AI vacatures.&l
     <published>2025-08-20T07:01:31+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/sap-bw-4-hana-power-bi-analyst/</id>
-    <title>SAP BW/4 HANA - Power BI Analyst </title>
-    <updated>2025-08-19T06:58:57+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sint-Denijs-Westrem, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-19 07:58:57+00:00, last change 2025-08-19 06:58:57+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-19 07:58:57+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Voor een toonaangevend internationaal bedrijf dat actief is in de productiesector kijken we uit naar een SAP BW/4 HANA profiel met een expertise in SAP BW/4 HANA en kennis van Power BI. Het bedrijf produceert materiaal voor toepassingen voor zowel in residentiële als industriële omgevingen.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-Als SAP BW/4 HANA neem je een sleutelpositie in binnen het datalandschap. Je beheert en ontwikkelt SAP BW/4 HANA en ondersteunt de business met rapportering in Power BI. Je analyseert en verhelpt storingen, monitort databronnen en zorgt voor een vlotte doorstroming van data. Daarnaast bouw je nieuwe databronnen, datastructuren en rapportages en ontwikkel je dashboards en KPI’s in Power BI. Je ondersteunt key users, vertaalt business requirements naar concrete oplossingen en rapporteert over datakwaliteit en verbeterpunten. Ook bewaak je de data governance zodat informatie betrouwbaar en consistent gebruikt wordt. Je werkt intensief samen met teams uit o.a. consolidatie, sales, purchasing, productie en management, waarbij je je tijd ongeveer 30% aan businessanalyse en 70% aan technische taken besteedt.&lt;br&gt;
-&lt;br&gt;
-PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Minstens 3 jaar ervaring met SAP BW/4 HANA.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Kennis van Power BI en ervaring in het bouwen van rapporten/dashboards.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Communicatief sterk, met ervaring in stakeholdermanagement.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Flexibel en in staat om snel te schakelen tussen prioriteiten.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Vloeiend in Engels (mondeling en schriftelijk).&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
-Een internationale werkomgeving met een duidelijke focus op innovatie en duurzaamheid. Je hebt een zichtbare en impactvolle rol binnen de organisatie met afwisselend werk met een mix van technische uitdagingen en businessanalyse. Je werkt samen met diverse teams en management en hebt een aantrekkelijk loonpakket met bijkomende voordelen.&lt;br&gt;
-&lt;br&gt;
-Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/sap-bw-4-hana-power-bi-analyst/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-08-19T07:58:57+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cartiere.be/jobs/data-steward/</id>
     <title>Data Steward</title>
     <updated>2025-08-06T07:01:17+00:00</updated>
@@ -465,73 +399,6 @@ Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 0
     <published>2025-08-06T08:01:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/data-analist-4/</id>
-    <title>Data Analist </title>
-    <updated>2025-07-31T15:13:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-24 11:39:29+00:00, last change 2025-07-31 15:13:46+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-24 11:39:29+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Dit familiebedrijf, actief binnen de voedingsindustrie, bestaat al meer dan 30 jaar. Ze beheren het volledige proces van productie en logistiek tot verkoop via eigen winkel. Door deze verticale integratie beschikken ze over een rijk en divers datalandschap. Met een moderne, duurzame infrastructuur en een duidelijke focus op lokale producten en kwaliteit, vormt technologie een cruciale pijler in hun groeiambities. Het bedrijf zet dan ook volop in op hun data en hiervoor zijn ze momenteel op zoek naar een Data Analist.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-In deze rol werk je niet aan de zijlijn van de business, maar er middenin. Je krijgt toegang tot de volledige keten van een Belgische organisatie die alles zelf aanstuurt: van productie tot winkel. Dat zorgt voor rijke, diverse data en evenveel strategische vraagstukken.&lt;br&gt;
-Als Data Analist zet je ruwe data om in inzichten die richting geven. Via heldere Power BI-rapporten help je teams om beter geïnformeerde beslissingen te nemen. Je werkt nauw samen met collega’s uit productie, verkoop, HR, finance, …. Je analyseert hun noden, stelt de juiste vragen en helpt hen om sterker datagedreven te werken.&lt;br&gt;
-Je krijgt ook een actieve rol in de migratie naar Power BI: je denkt mee over de opbouw van het nieuwe rapporteringslandschap en helpt ad-hoc vragen structureren tot herbruikbare inzichten.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br&gt;
-•    Je beschikt over een diploma hoger onderwijs. &lt;br&gt;
-•    Je hebt 2 à 3 jaar ervaring met Power BI. &lt;br&gt;
-•    Ervaring met SQL is een mooie plus. &lt;br&gt;
-•    Je bent communicatief sterk. &lt;br&gt;
-•    Je kan kritisch nadenken en durft de business te challengen. &lt;br&gt;
-•    Je werkt zelfstandig, neemt initiatief en denkt proactief mee over verbeteringen.&lt;br&gt;
-•    Je beschikt over een sterk analytisch vermogen en werkt nauwkeurig.&lt;br&gt;
-•    Je spreekt vloeiend Nederlands. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je krijgt de kans om met rijke en gevarieerde data te werken, snel verantwoordelijkheid op te nemen en écht impact te maken. Initiatief wordt aangemoedigd en er is ruimte voor eigen inbreng. Daarnaast heerst er een warme, mensgerichte werksfeer met aandacht voor work-life balance én werk je in een filevrije omgeving.&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/data-analist-4/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-07-24T11:39:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-governance-lead/</id>
-    <title>Data Governance Lead</title>
-    <updated>2025-07-24T16:15:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oude Brusselsestraat 14, 2800, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2019-08-21 12:34:02+00:00, last change 2025-07-24 16:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2020-08-21 12:34:02+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;DATA GOVERNANCE LEAD - Antwerpen&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Bedrijf:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Dit bedrijf heeft een zeer sterke ondernemerscultuur. Met een no-nonsense aanpak helpen ze klanten om hun data in kaart te brengen en deze data te gebruiken als sturend element in het nemen van beslissingen. Met meer dan 120 medewerkers gedreven in het data gebeuren kom je terecht in een dynamisch team dat samen één blok vormt. Verantwoordelijkheid nemen en meedenken met het bedrijf is een must!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Jobomschrijving: &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;Als Data Governance lead begrijp je perfect de klant zijn uitdagingen en ben je in staat deze te vertalen naar duidelijke data policies. Je ontwerpt een data governance oplossing en adviseert klanten in het opzetten van data omgevingen en teams. Daarnaast realiseer je use cases zoals data repository, rapportering structuren of data lineage. Je leidt de data governance oplossing (inclusief de markt analyse, het opvolgen van partnerships, het opbouwen van kennis, etc).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Profiel:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;- Je hebt een Master in economie, burgerlijk ingenieur of information management&lt;br /&gt;
-- Je bent reeds 5 jaar aan de slag als consultant of service gedreven omgevingen&lt;br /&gt;
-- Jouw ervaring in Collibra wordt als pluspunt aanzien&lt;br /&gt;
-- Als teamspeler denk je mee in een snelle omgeving&lt;br /&gt;
-- Je bezit leiderschap vaardigheden&lt;br /&gt;
-- Je bent communicatief vaardig en klantgericht.&lt;br /&gt;
-- Je spreekt vloeiend Nederlands en/of Frans met een goede kennis van het Engels.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Aanbod:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
-&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;In deze no-nonsense werkomgeving kom je terecht in een team van gedreven ondernemers met een duidelijke focus op kwaliteit. Naast een mooi salarispakket krijg je de mogelijkheid om je verder te ontwikkelen op technisch, management en professioneel niveau.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;Denk jij dat deze uitdaging iets voor jou is?&lt;br /&gt;
-Stuur nu jouw CV naar natacha@cartiere.be en bel 02/669.14.19 voor meer informatie.&lt;/span&gt;&lt;br /&gt;
-&lt;span style="color:black"&gt;Bekijk onze website www.cartiere.be voor meer BI, data, AI en ML-vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-governance-lead/"/>
-    <category term="Data Governance"/>
-    <category term="Technical Lead"/>
-    <category term="Management"/>
-    <published>2019-08-21T12:34:02+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cartiere.be/jobs/data-analist-3/</id>
     <title>Data Analist</title>
     <updated>2025-07-24T16:15:04+00:00</updated>
@@ -567,6 +434,40 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;</content>
     <link href="https://www.cartiere.be/jobs/data-analist-3/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-07-18T15:16:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-governance-lead/</id>
+    <title>Data Governance Lead</title>
+    <updated>2025-07-24T16:15:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oude Brusselsestraat 14, 2800, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2019-08-21 12:34:02+00:00, last change 2025-07-24 16:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2020-08-21 12:34:02+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;DATA GOVERNANCE LEAD - Antwerpen&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Bedrijf:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Dit bedrijf heeft een zeer sterke ondernemerscultuur. Met een no-nonsense aanpak helpen ze klanten om hun data in kaart te brengen en deze data te gebruiken als sturend element in het nemen van beslissingen. Met meer dan 120 medewerkers gedreven in het data gebeuren kom je terecht in een dynamisch team dat samen één blok vormt. Verantwoordelijkheid nemen en meedenken met het bedrijf is een must!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Jobomschrijving: &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;Als Data Governance lead begrijp je perfect de klant zijn uitdagingen en ben je in staat deze te vertalen naar duidelijke data policies. Je ontwerpt een data governance oplossing en adviseert klanten in het opzetten van data omgevingen en teams. Daarnaast realiseer je use cases zoals data repository, rapportering structuren of data lineage. Je leidt de data governance oplossing (inclusief de markt analyse, het opvolgen van partnerships, het opbouwen van kennis, etc).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Profiel:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;- Je hebt een Master in economie, burgerlijk ingenieur of information management&lt;br /&gt;
+- Je bent reeds 5 jaar aan de slag als consultant of service gedreven omgevingen&lt;br /&gt;
+- Jouw ervaring in Collibra wordt als pluspunt aanzien&lt;br /&gt;
+- Als teamspeler denk je mee in een snelle omgeving&lt;br /&gt;
+- Je bezit leiderschap vaardigheden&lt;br /&gt;
+- Je bent communicatief vaardig en klantgericht.&lt;br /&gt;
+- Je spreekt vloeiend Nederlands en/of Frans met een goede kennis van het Engels.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Aanbod:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;In deze no-nonsense werkomgeving kom je terecht in een team van gedreven ondernemers met een duidelijke focus op kwaliteit. Naast een mooi salarispakket krijg je de mogelijkheid om je verder te ontwikkelen op technisch, management en professioneel niveau.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;Denk jij dat deze uitdaging iets voor jou is?&lt;br /&gt;
+Stuur nu jouw CV naar natacha@cartiere.be en bel 02/669.14.19 voor meer informatie.&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color:black"&gt;Bekijk onze website www.cartiere.be voor meer BI, data, AI en ML-vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-governance-lead/"/>
+    <category term="Data Governance"/>
+    <category term="Technical Lead"/>
+    <category term="Management"/>
+    <published>2019-08-21T12:34:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/senior-data-engineer/</id>
