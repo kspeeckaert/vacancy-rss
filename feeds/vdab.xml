@@ -2,138 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-13T06:53:27.506259+00:00</updated>
+  <updated>2025-10-13T08:49:48.915936+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/66303162</id>
-    <title>Senior data engineer (Dept. Onderwijs en Vorming) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2025-10-13T07:47:33+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Het departement 
-&lt;strong&gt;Onderwijs en Vorming&lt;/strong&gt; is op zoek naar een 
-&lt;strong&gt;Data Engineer&lt;/strong&gt; ter versterking van het team bij de migratie en verdere uitbouw van het centrale dataplatform. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als Data Engineer zal het jouw taak zijn om voor het beleidsdomein data te verzamelen, te organiseren, te ontsluiten en deze beschikbaar te maken voor de verschillende teams van Data Analisten binnen de organisatie. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je zal een belangrijke rol spelen in een uitgebreide portfolio aan projecten die gepland staan om het bestaande dataplatform te vernieuwen en verder uit te breiden. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Wil jij jouw expertise inzetten om het Vlaamse onderwijs te versterken en onze onderwijsinstellingen nog beter te kunnen dienen, dan ben jij misschien wel de geschikte kandidaat!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Als Senior Data Engineer zal je meewerken aan de volgende opdrachten: &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Analyseren van de gevraagde requirements voor een dataproduct en vertalen naar een concrete oplossing.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Evalueren van de technische haalbaarheid, beheersbaarheid en kostefficiëntie van een dataproduct en voorstellen van verbeteringen hieromtrent.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Inschattingen maken van de benodigde tijd en ondersteuning geven bij het opstellen van planningen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Koppelen van databronnen (databases, API`s, …) aan het dataplatform en opzetten van datapipelines met behulp van gestandaardiseerde bouwstenen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Schrijven van ETL-code om data te transformeren.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Schrijven van complexe SQL-queries (joins, aggregaties, views, …) om de gewenste datasets voor dataproducten te creëren.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Opzetten van het rechtenmodel van een dataproduct.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Testen en valideren van dataproducten om de kwaliteit en integriteit te borgen en testbevindingen oplossen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Documenteren van de end-to-end oplossing&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Ondersteuning leveren bij problemen, performance issues, …&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;· &lt;/span&gt;&lt;span&gt;Meedenken aan procesverbeteringen en -optimalisaties.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Begeleiden van het data engineers team&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;We zijn op zoek naar een kandidaat met 
-&lt;strong&gt;minstens 7 jaar ervaring&lt;/strong&gt; als Data of Analytics Engineer. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Nederlandstalig op Europees CEFR-niveau C2&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Hogere opleiding (Master of Bachelor) met technische/engineering of bedrijfseconomische achtergrond of gelijkwaardig door ervaring&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Algemene kennis van basisconcepten data warehouse, data mesh, data integratie (ETL), rapportering &amp;amp; analyse (BI), databanken en metadata&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van data load en refresh strategieën&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een goed  begrip hebben van hoe datasets performant gemaakt kunnen worden&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een goed  begrip hebben van continuous integration en continuous delivery (CI/CD)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring met projectgericht werken in een agile data omgeving&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een ‘security &amp;amp; privacy’ first mindset &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Volgende technische competenties zijn belangrijk: &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in het schrijven van complexe SQL-queries (joins, aggregaties, views, …)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in het koppelen van databronnen en het opzetten van data pipelines (Airflow)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in data transformatie (DBT)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring met Git als versiebeheertool (codebeoordeling door middel van pull-verzoeken)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in het opstellen test scenario`s en het uitvoeren van test scripts&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van gedistribueerde query engines (Presto, Trino, Starburst, …)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van het beheer van metatadata (Apache Atlas)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;·
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Kennis van het opzetten van kolom, rij of object gebaseerde rechtenstructuren (Apache Ranger)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vaardigheden hebben in Spark, Python en/of Java gebaseerde talen om complexere gegevenstransformaties of -ontsluiting uit te voeren (Optioneel)&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat jij van ons mag verwachten&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen Connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met:&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● 28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11).&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een mobiliteitsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een hospitalisatieverzekering (je kan gezinsleden aansluiten)&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een groepsverzekering&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een opleidingsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een laptop&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Een smartphone met abonnementsformule&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Flexibele werkuren&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;● Mogelijkheid tot kinderopvang tijdens alle schoolvakanties aan een voordelig tarief&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;4 redenen om bij Vlaanderen Connect te werken!&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Je hebt een zichtbare impact op de samenleving.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Op je straat, je gemeente, je regio. Op de toekomst van 6,5 miljoen mensen die er wonen, leven en werken. Op bedrijven, verenigingen en scholen. Op het welzijn van mens, dier en natuur. Op de wereld die Vlaanderen heet.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;strong&gt;Je gaat in elk project voor kwaliteit en resultaat.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Aan uitdagende projecten geen tekort. Bovendien kan je rekenen op de nieuwste technologieën zoals. En krijg je de nodige tijd en middelen om te experimenteren en te slagen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Je floreert tussen digitale experten.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Doe er nieuwe kennis op en verdiep je. Botvier en deel je talenten, expertise en ervaringen. Neem je verantwoordelijkheid. En wij, wij begeleiden en ondersteunen je om je ambities waar te maken, waar die ook liggen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Je voelt je welkom en gewaardeerd.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Naar waarde geschat voor wat je al gedaan had nog voor je naar ons kwam. En voor wat je nog voor jezelf en de samenleving kunt en wilt betekenen. In erkenning en verloning. Als professional en als mens.&lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/66303162"/>
-    <published>2023-03-03T16:07:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
-    <title>Senior DevOps architect (Cronos)</title>
-    <updated>2025-09-16T00:00:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
-    <published>2024-02-07T14:09:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
-    <title>Product Owner APEX software factory (Cronos)</title>
-    <updated>2025-09-16T00:01:08+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als leider van ons development team speel je een cruciale rol in het succes van onze projecten.&lt;/p&gt;&lt;p&gt;Jij bent verantwoordelijk voor het opstellen van planningen, het aansturen van het team en het zorgen voor effectieve communicatie, zowel intern als met onze klanten.&lt;/p&gt;&lt;p&gt;Met jouw sterke people management skills en gedegen ervaring in het leiden van diverse projecten, ben je in staat om het beste uit je team te halen en aan de klantverwachtingen te voldoen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wat maakt deze rol zo interessant?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gevarieerde projecten: Je krijgt de kans om te werken aan uitdagende en innovatieve projecten binnen de APEX Software Factory. Dit stelt je in staat om voortdurend out-of-the-box te denken en creatief aan de slag te gaan.&lt;/li&gt;&lt;li&gt;Impact en verantwoordelijkheid: Als Product Owner ben je de spil tussen het team en de klant. Jouw beslissingen en leiderschap hebben directe invloed op de kwaliteit en het succes van onze softwareoplossingen. Je krijgt de verantwoordelijkheid om het verschil te maken en de groei van ons team te stimuleren.&lt;/li&gt;&lt;li&gt;Werken met een toegewijd team: Bij Contribute geloven we in de kracht van teamwork. Je zal samenwerken met een getalenteerd en gedreven development team. Samen zorgen jullie voor baanbrekende oplossingen en stellen jullie de klanttevredenheid centraal.&lt;/li&gt;&lt;li&gt;Professionele groei en ondersteuning: We investeren in onze medewerkers en bieden volop mogelijkheden voor professionele groei. Je hebt toegang tot trainingen, workshops en coaching om je leiderschapsvaardigheden verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw technische bagage&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gedegen ervaring als Product Owner&lt;/li&gt;&lt;li&gt;Naast agile ben je ook bekend met andere methodologieën zoals bv waterfall, PMI, Prince2,…&lt;/li&gt;&lt;li&gt;Ervaring met low code projecten is een plus maar geen must!&lt;/li&gt;&lt;li&gt;Bewezen trackrecord in het succesvol simultaan leiden van diverse projecten&lt;/li&gt;&lt;li&gt;Uitstekende planning- en organisatorische vaardigheden.&lt;/li&gt;&lt;li&gt;Sterke people management skills en ervaring in het aansturen en motiveren van een development team&lt;/li&gt;&lt;li&gt;Je bent vlot in NL/ENG, F is een pluspunt&lt;/li&gt;&lt;li&gt;Jira/Confluence heeft weinig tot geen geheimen voor jou&lt;/li&gt;&lt;li&gt;Je hebt ervaring met werken binnen een support model (SLA, flow, verschillende support lijnen,…)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;oracle&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;apex&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;product owner&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;agile&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;project manager&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;low code&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;planning&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;organisatie&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jira&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;confluence&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Ons aanbod&lt;/p&gt;&lt;p&gt;Bij Contribute kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA.&lt;/p&gt;&lt;p&gt;Je komt terecht in een team van ervaren developers met wie je kennis kan delen en waar je elkaar kan inspireren. Je staat eveneens in nauw contact met onze technische teams bij wie je ook kan terugvallen op hun expertise wanneer dat nodig is. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact en krijg je beter inzichten in de technologieën en oplossingen waar we mee werken.&lt;/p&gt;&lt;p&gt;We nemen de tijd om, op basis van een persoonlijk groeiplan, jouw evolutie te faciliteren in de richting die je zelf mee bepaalt. Verschillende gesprekken doorheen het jaar zorgen dat dit groeiplan leeft en aangepast wordt waar nodig.&lt;/p&gt;&lt;p&gt;Op de verschillende social events (shortski, familiedag/weekend, afterwork drinks,…) vormen we ook na de uren een hecht team en leer je je collega’s ook op een andere manier kennen!&lt;/p&gt;&lt;p&gt;En last but not least bieden we een competitief salarispakket, een uitgebreid pakket aan voordelen en kortingen en uiteraard een stel gepassioneerde toffe collega’s.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68298342"/>
-    <published>2024-02-08T13:51:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68307168</id>
     <title>Solution architect (Cronos)</title>
@@ -3855,5 +3726,68 @@ Op dit moment is er een opportuniteit voor een projectmanager die verantwoordeli
 &lt;br /&gt;● An attractive salary with lots of extra benefits&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72169474"/>
     <published>2025-10-10T14:57:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72178188</id>
+    <title>Change &amp; Project Manager (HEADHUNTER.Vlaanderen)</title>
+    <updated>2025-10-13T08:59:32+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: HEADHUNTER.Vlaanderen (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Onze klant is een internationale onderneming dewelke gespecialiseerd is in het herstellen en vervangen van autoruiten voor alle types voertuigen. Met een focus op kwaliteit, snelheid en klanttevredenheid is het bedrijf uitgegroeid tot een vaste waarde in de sector van autoglas. Zowel voor particuliere klanten als professionele partners biedt deze organisatie oplossingen op maat, van sterreparaties tot volledige ruitvervangingen, en dit steeds met aandacht voor veiligheid en vakmanschap.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Wij zoeken een analytische, communicatief sterke en technisch onderlegde professional die complexe IT- en veranderprojecten weet te vertalen naar efficiënte oplossingen. In deze rol ben je een cruciale schakel bij de implementatie en migratie van Salesforce binnen onze organisatie en begeleid je stakeholders door het volledige veranderproces.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Microsoft Dynamics 365 Business Central 
+&lt;em&gt; Migratie &amp;amp; Implementatie&lt;/em&gt;&lt;/em&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Ontwerpen, plannen en begeleiden van 
+&lt;span&gt;Microsoft&lt;/span&gt;-implementaties afgestemd op de bedrijfsbehoeften.&lt;/li&gt; 
+&lt;li&gt;Configureren van tools en workflows om een naadloze operationele integratie te garanderen.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-start="938" data-end="972"&gt;&lt;em data-start="938" data-end="970"&gt;Verander- en Projectmanagement&lt;/em&gt;&lt;/p&gt; 
+&lt;ul data-start="973" data-end="1234"&gt; 
+&lt;li data-start="973" data-end="1077"&gt; 
+&lt;p data-start="975" data-end="1077"&gt;Leiden van migratieprojecten binnen vastgestelde tijdslijnen, budgetten en kwaliteitsdoelstellingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1078" data-end="1143"&gt; 
+&lt;p data-start="1080" data-end="1143"&gt;Stakeholdercommunicatie faciliteren en verwachtingen managen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1144" data-end="1234"&gt; 
+&lt;p data-start="1146" data-end="1234"&gt;Organiseren van trainingen en gebruikers ondersteunen bij adoptie van nieuwe systemen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-start="1236" data-end="1265"&gt;&lt;em data-start="1236" data-end="1263"&gt;Documentatie &amp;amp; Rapportage&lt;/em&gt;&lt;/p&gt; 
+&lt;ul data-start="1266" data-end="1404"&gt; 
+&lt;li data-start="1266" data-end="1318"&gt; 
+&lt;p data-start="1268" data-end="1318"&gt;Opstellen van proces- en wijzigingsdocumentatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1319" data-end="1404"&gt; 
+&lt;p data-start="1321" data-end="1404"&gt;Regelmatig rapporteren aan het senior management over de voortgang en resultaten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Bachelor in IT, bedrijfskunde of gelijkwaardig door ervaring.&lt;/li&gt; 
+&lt;li&gt;Vloeiend in Nederlands, Frans en Engels (mondeling én schriftelijk).&lt;/li&gt; 
+&lt;li&gt;Kennis van Microsoft 365 (Excel, Word, PowerPoint), ERP- en CRM-systemen.&lt;/li&gt; 
+&lt;li&gt;Bekend met Jira of andere projectmanagementtools.&lt;/li&gt; 
+&lt;li&gt;Inzicht in IT-systemen, datamigratie en cloudoplossingen.&lt;/li&gt; 
+&lt;li&gt;Sterk in communicatie, organisatie en stakeholdermanagement.&lt;/li&gt; 
+&lt;li&gt;Analytisch, detailgericht en veerkrachtig onder druk.&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Hoofkantoor: Hasselt (aanwezigheid op kantoor vereist)&lt;/li&gt; 
+&lt;li&gt;Bereidheid om te reizen binnen België en Luxemburg&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li data-start="2005" data-end="2078"&gt; 
+&lt;p data-start="2007" data-end="2078"&gt;Een veelzijdige rol binnen een dynamische en internationale omgeving.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="2079" data-end="2150"&gt; 
+&lt;p data-start="2081" data-end="2150"&gt;Samenwerking met multidisciplinaire teams in binnen- en buitenland.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="2151" data-end="2215"&gt; 
+&lt;p data-start="2153" data-end="2215"&gt;Ruimte voor opleiding, certificering en professionele groei.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="2216" data-end="2279"&gt; 
+&lt;p data-start="2218" data-end="2279"&gt;Marktconform salaris met aantrekkelijke arbeidsvoorwaarden.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72178188"/>
+    <published>2025-10-13T08:59:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72178119</id>
+    <title>Network engineer - EMEA role (30% travel) (iStorm)</title>
+    <updated>2025-10-13T08:50:38+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: iStorm (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wijgmaal&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Are you an experienced &lt;strong&gt;Network Administrator&lt;/strong&gt; who thrives in complex enterprise environments?&lt;br&gt;Do you have expertise in &lt;strong&gt;firewalls, routing, switching, and cloud networking&lt;/strong&gt;, and are you looking for a role that combines both &lt;strong&gt;strategic&lt;/strong&gt; and &lt;strong&gt;hands-on&lt;/strong&gt; responsibilities?&lt;/p&gt;&lt;p&gt;&lt;br&gt;Then we have an exciting opportunity for you.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In this role, you will share responsibility for managing and further developing the entire network architecture. You will work on both &lt;strong&gt;operational management&lt;/strong&gt; and &lt;strong&gt;strategic planning&lt;/strong&gt;, acting as a key player in projects, optimizations, and international collaborations.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design, implement, and maintain the overall network architecture, aligned with current operations and future growth.&lt;/li&gt;&lt;li&gt;Develop roadmaps for network infrastructure in line with business objectives.&lt;/li&gt;&lt;li&gt;Lead or participate in network projects (planning, execution, and follow-up).&lt;/li&gt;&lt;li&gt;Monitor and optimize network performance to ensure maximum availability and scalability.&lt;/li&gt;&lt;li&gt;Configure, manage, and maintain switches, routers, firewalls, wireless networks, and SD-WAN.&lt;/li&gt;&lt;li&gt;Perform upgrades, patches, and changes according to IT change management processes.&lt;/li&gt;&lt;li&gt;Document configurations, network diagrams, and procedures.&lt;/li&gt;&lt;li&gt;Collaborate with internal teams and external vendors to implement new solutions.&lt;/li&gt;&lt;li&gt;Act as an escalation point for complex network issues and provide support to colleagues.&lt;/li&gt;&lt;li&gt;Coach and share knowledge with other team members.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ensure compliance with internal security policies and relevant standards.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor’s degree in IT or equivalent through experience.&lt;/li&gt;&lt;li&gt;At least &lt;strong&gt;5 years of experience&lt;/strong&gt; managing enterprise networks.&lt;/li&gt;&lt;li&gt;Strong knowledge of &lt;strong&gt;switching, routing, wireless, SD-WAN,&lt;/strong&gt; and &lt;strong&gt;next-gen firewalls&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Solid hands-on experience with &lt;strong&gt;Palo Alto Firewalls, Panorama, and Prisma&lt;/strong&gt; is a major asset.&lt;/li&gt;&lt;li&gt;Strong knowledge of &lt;strong&gt;Microsoft 365 and Azure&lt;/strong&gt; is highly desired.&lt;/li&gt;&lt;li&gt;Experience with &lt;strong&gt;network security, segmentation,&lt;/strong&gt; and &lt;strong&gt;disaster recovery solutions&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Familiarity with &lt;strong&gt;IP telephony&lt;/strong&gt; (preferably Avaya or cloud-based systems) is a plus.&lt;/li&gt;&lt;li&gt;Strong project coordination skills and ability to collaborate with stakeholders.&lt;/li&gt;&lt;li&gt;Excellent verbal and written communication skills.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; A good level of &lt;strong&gt;English&lt;/strong&gt; is a &lt;strong&gt;must&lt;/strong&gt;; knowledge of &lt;strong&gt;Dutch and/or French&lt;/strong&gt; is a &lt;strong&gt;nice plus&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Willingness to travel up to &lt;strong&gt;30% within the EMEA region&lt;/strong&gt; for site support, projects, trainings, and vendor meetings.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Proposal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging role with significant responsibility and the freedom to leverage your expertise.&lt;/li&gt;&lt;li&gt;The opportunity to gain international experience and lead impactful projects.&lt;/li&gt;&lt;li&gt;A competitive salary with an attractive package of fringe benefits, including:&lt;/li&gt;&lt;li&gt;Company car&lt;/li&gt;&lt;li&gt;Net expense allowance&lt;/li&gt;&lt;li&gt;Meal vouchers&lt;/li&gt;&lt;li&gt;Eco vouchers&lt;/li&gt;&lt;li&gt;Pension plan&lt;/li&gt;&lt;li&gt;Insurance plan&lt;/li&gt;&lt;li&gt;31 days of annual leave&lt;/li&gt;&lt;li&gt;Hybrid working arrangements&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A dynamic working environment with a strong focus on &lt;strong&gt;security, innovation, and growth&lt;/strong&gt;.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72178119"/>
+    <published>2025-10-13T08:50:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72178241</id>
+    <title>Data Engineer (Sogeti Belgium)</title>
+    <updated>2025-10-13T09:02:03+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sogeti Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Capgemini Data &amp;amp; AI is looking for people who tame data in such a way that the most complex data can be easily interpreted. We are looking for a Data Engineer to help our clients in their digital transformations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;YOUR ROLE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integrate, transform and consolidate data from various structured and unstructured data systems&lt;/li&gt;&lt;li&gt;Ensure data pipelines and data stores are high-performing, efficient, organized, and reliable, given a set of business requirements and constraints&lt;/li&gt;&lt;li&gt;Create and design data models&lt;/li&gt;&lt;li&gt;&lt;p&gt;Translate functional requirements into a scalable, fit-for-use technical design&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;One more more leading Data platforms Azure, Databricks, Snowflake, Google Cloud Platform and it's infra and CI/CD context&lt;/li&gt;&lt;li&gt;Microsoft Fabric, Azure Data Factory, Synapse, Azure SQL database, Azure Devops, Azure Analysis Services, ...&lt;/li&gt;&lt;li&gt;Databricks&lt;/li&gt;&lt;li&gt;Snowflake, Snowpipe, Snowflake Native Apps, ...&lt;/li&gt;&lt;li&gt;Keen understanding of Data Modeling methodologies (Kimball, Data Vault 2.0)&lt;/li&gt;&lt;li&gt;Knowledge of Lakehouse principles and medallion architecture&lt;/li&gt;&lt;li&gt;Expert knowledge of SQL and T-SQL or DBT&lt;/li&gt;&lt;li&gt;Fluent in Dutch with professional working proficiency in English&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Relevant certificates&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;DP-203 Data Engineering on Microsoft Azure&lt;br&gt;• &amp;nbsp; &amp;nbsp;Snowpro core/advanced&lt;br&gt;• &amp;nbsp; &amp;nbsp;Databricks Lakehouse Professional&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU’LL LOVE ABOUT WORKING HERE?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Capgemini Belgium we offer flexibility in more than one way next to our hybrid way of working, where we offer you can work 70% from home, we also offer our flex abroad program. With this program you can work up to 45 days abroad, this to maintain a good work-life balance.&lt;br&gt;Next to this we also offer following additional benefits&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;Net expenses&lt;br&gt;• &amp;nbsp; &amp;nbsp;Company car or mobility budget (whatever works best for you)&lt;br&gt;• &amp;nbsp; &amp;nbsp;Health insurance&lt;br&gt;• &amp;nbsp; &amp;nbsp;Meal vouchers&lt;br&gt;• &amp;nbsp; &amp;nbsp;Pension plan&lt;br&gt;• &amp;nbsp; &amp;nbsp;Eco vouchers from €250/year.&lt;br&gt;• &amp;nbsp; &amp;nbsp;A flex plan where you can buy extra days off, update your insurance or buy home office supplies.&lt;br&gt;• &amp;nbsp; &amp;nbsp;32 vacation days.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72178241"/>
+    <published>2025-10-13T09:02:03+00:00</published>
   </entry>
 </feed>
