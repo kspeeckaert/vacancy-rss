@@ -2,52 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-14T06:53:12.686102+00:00</updated>
+  <updated>2025-10-14T08:49:54.451984+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
-    <title>Senior DevOps architect (Cronos)</title>
-    <updated>2025-09-16T00:00:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
-    <published>2024-02-07T14:09:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
-    <title>Product Owner APEX software factory (Cronos)</title>
-    <updated>2025-09-16T00:01:08+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als leider van ons development team speel je een cruciale rol in het succes van onze projecten.&lt;/p&gt;&lt;p&gt;Jij bent verantwoordelijk voor het opstellen van planningen, het aansturen van het team en het zorgen voor effectieve communicatie, zowel intern als met onze klanten.&lt;/p&gt;&lt;p&gt;Met jouw sterke people management skills en gedegen ervaring in het leiden van diverse projecten, ben je in staat om het beste uit je team te halen en aan de klantverwachtingen te voldoen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wat maakt deze rol zo interessant?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gevarieerde projecten: Je krijgt de kans om te werken aan uitdagende en innovatieve projecten binnen de APEX Software Factory. Dit stelt je in staat om voortdurend out-of-the-box te denken en creatief aan de slag te gaan.&lt;/li&gt;&lt;li&gt;Impact en verantwoordelijkheid: Als Product Owner ben je de spil tussen het team en de klant. Jouw beslissingen en leiderschap hebben directe invloed op de kwaliteit en het succes van onze softwareoplossingen. Je krijgt de verantwoordelijkheid om het verschil te maken en de groei van ons team te stimuleren.&lt;/li&gt;&lt;li&gt;Werken met een toegewijd team: Bij Contribute geloven we in de kracht van teamwork. Je zal samenwerken met een getalenteerd en gedreven development team. Samen zorgen jullie voor baanbrekende oplossingen en stellen jullie de klanttevredenheid centraal.&lt;/li&gt;&lt;li&gt;Professionele groei en ondersteuning: We investeren in onze medewerkers en bieden volop mogelijkheden voor professionele groei. Je hebt toegang tot trainingen, workshops en coaching om je leiderschapsvaardigheden verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw technische bagage&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gedegen ervaring als Product Owner&lt;/li&gt;&lt;li&gt;Naast agile ben je ook bekend met andere methodologieën zoals bv waterfall, PMI, Prince2,…&lt;/li&gt;&lt;li&gt;Ervaring met low code projecten is een plus maar geen must!&lt;/li&gt;&lt;li&gt;Bewezen trackrecord in het succesvol simultaan leiden van diverse projecten&lt;/li&gt;&lt;li&gt;Uitstekende planning- en organisatorische vaardigheden.&lt;/li&gt;&lt;li&gt;Sterke people management skills en ervaring in het aansturen en motiveren van een development team&lt;/li&gt;&lt;li&gt;Je bent vlot in NL/ENG, F is een pluspunt&lt;/li&gt;&lt;li&gt;Jira/Confluence heeft weinig tot geen geheimen voor jou&lt;/li&gt;&lt;li&gt;Je hebt ervaring met werken binnen een support model (SLA, flow, verschillende support lijnen,…)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;oracle&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;apex&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;product owner&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;agile&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;project manager&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;low code&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;planning&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;organisatie&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jira&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;confluence&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Ons aanbod&lt;/p&gt;&lt;p&gt;Bij Contribute kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA.&lt;/p&gt;&lt;p&gt;Je komt terecht in een team van ervaren developers met wie je kennis kan delen en waar je elkaar kan inspireren. Je staat eveneens in nauw contact met onze technische teams bij wie je ook kan terugvallen op hun expertise wanneer dat nodig is. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact en krijg je beter inzichten in de technologieën en oplossingen waar we mee werken.&lt;/p&gt;&lt;p&gt;We nemen de tijd om, op basis van een persoonlijk groeiplan, jouw evolutie te faciliteren in de richting die je zelf mee bepaalt. Verschillende gesprekken doorheen het jaar zorgen dat dit groeiplan leeft en aangepast wordt waar nodig.&lt;/p&gt;&lt;p&gt;Op de verschillende social events (shortski, familiedag/weekend, afterwork drinks,…) vormen we ook na de uren een hecht team en leer je je collega’s ook op een andere manier kennen!&lt;/p&gt;&lt;p&gt;En last but not least bieden we een competitief salarispakket, een uitgebreid pakket aan voordelen en kortingen en uiteraard een stel gepassioneerde toffe collega’s.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68298342"/>
-    <published>2024-02-08T13:51:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68307168</id>
     <title>Solution architect (Cronos)</title>
@@ -3735,90 +3692,100 @@ Op dit moment is er een opportuniteit voor een projectmanager die verantwoordeli
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72179889</id>
-    <title>Lead Infrastructure Engineer (ictjob.be)</title>
-    <updated>2025-10-13T11:18:42+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Puurs-Sint-Amands&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;D-NETWORK is looking for a Lead Infrastructure Engineer for a big industrial actor based in Puurs/Antwerpen. Permanent recruitment, &lt;b&gt;CDI contract&lt;/b&gt;, internal function - no freelancer for this role.&lt;br /&gt;
+    <title>D-Network.eu - Lead Infrastructure Engineer (ictjob.be)</title>
+    <updated>2025-10-14T09:18:06+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Puurs-Sint-Amands&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;D-Network is looking for a Lead Infrastructure Engineer for a big industrial actor based in Puurs/Antwerpen. Permanent recruitment, CDI contract, internal function - no freelancer for this role.&lt;br /&gt;
 
-&lt;b&gt;Dutch Speaker + fluent in English (French is a plus).&lt;/b&gt;&lt;br /&gt;
+Dutch speaker + fluent in english (french is a plus).&lt;p&gt;&lt;strong&gt;Your responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
 
- &lt;br /&gt;
-
- &lt;br /&gt;
-
-&lt;b&gt;Your responsibilities:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;You act as the primary contact for infrastructure incidents and projects in Puurs, and when needed, other Belgian sites,
+&lt;li&gt;You act as the primary contact for infrastructure incidents and projects in Puurs, and when needed, other Belgian sites
 &lt;/li&gt;
 
-&lt;li&gt;You install, configure, and maintain servers, networks, storage, firewalls, Wi-Fi, backups, and IT facility components (UPS, racks, cabling, cooling),
+&lt;li&gt;You install, configure, and maintain servers, networks, Storage, Firewalls, Wi-Fi, backups, and IT facility components (UPS, racks, cabling, cooling)
 &lt;/li&gt;
 
-&lt;li&gt;You monitor infrastructure performance daily, conduct risk assessments, and define mitigation strategies to ensure stability,
+&lt;li&gt;You monitor infrastructure performance daily, conduct risk assessments, and define mitigation strategies to ensure stability
 &lt;/li&gt;
 
-&lt;li&gt;You design infrastructure solutions aligned with enterprise standards and liaise with Automation teams on OT-related infrastructure,
+&lt;li&gt;You design infrastructure solutions aligned with enterprise standards and liaise with Automation teams on OT-related infrastructure
 &lt;/li&gt;
 
-&lt;li&gt;You work with the HUB-based Senior System Administrator to maintain high availability, disaster recovery, and business continuity,
+&lt;li&gt;You work with the Hub-based Senior System Administrator to maintain high availability, disaster recovery, and business continuity
 &lt;/li&gt;
 
-&lt;li&gt;You lead infrastructure projects (network upgrades, datacenter modernization, hybrid cloud) and coordinate vendor activities with minimal downtime,
+&lt;li&gt;You lead infrastructure projects (network upgrades, DataCenter modernization, hybrid cloud) and coordinate vendor activities with minimal downtime
 &lt;/li&gt;
 
-&lt;li&gt;You maintain accurate technical documentation, disaster recovery plans, and support compliance efforts, including NIS2 requirements,
+&lt;li&gt;You maintain accurate technical documentation, disaster recovery plans, and support compliance efforts, including NIS2 requirements
 &lt;/li&gt;
 
-&lt;li&gt;You contribute to long-term IT strategy, define multi-year roadmaps and budgets, and support datacenter modernization and consolidation,
+&lt;li&gt;You contribute to long-term IT strategy, define multi-year roadmaps and budgets, and support DataCenter modernization and consolidation
 &lt;/li&gt;
 
-&lt;li&gt;You collaborate with Cyber Security, SecOps, and business managers to align on security, compliance, and trusted IT support.
+&lt;li&gt;You collaborate with Cyber Security, SecOps, and business managers to align on security, compliance, and trusted IT support
 &lt;/li&gt;
 
-&lt;/ul&gt;
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
 
- &lt;br /&gt;
-
-&lt;b&gt;Profile:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;You have a Bachelor's or Master's degree in computer science, IT Infrastructure, or equivalent by experience,
+&lt;li&gt;You have a Bachelor's or Master's degree in computer science, IT Infrastructure, or equivalent by experience
 &lt;/li&gt;
 
-&lt;li&gt;You have &gt;10 years of professional experience in IT infrastructure management,
+&lt;li&gt;You have &gt;10 years of professional experience in IT infrastructure management
 &lt;/li&gt;
 
-&lt;li&gt;An experience in industrial/OT-heavy environments (chemicals, pharma, manufacturing) is a strong plus,
+&lt;li&gt;An experience in industrial/OT-heavy environments (chemicals, pharma, manufacturing) is a strong plus
 &lt;/li&gt;
 
-&lt;li&gt;You have senior-level expertise in Cisco networking, VMware, enterprise storage, backup, and virtualization,
+&lt;li&gt;You have senior-level expertise in Cisco networking, VMware, enterprise Storage, backup, and Virtualization
 &lt;/li&gt;
 
-&lt;li&gt;You manage disaster recovery, high availability, OT infrastructure, and IT facilities (UPS, racks, cabling, datacenter operations),
+&lt;li&gt;You manage disaster recovery, high availability, OT infrastructure, and IT facilities (UPS, racks, cabling, DataCenter operations)
 &lt;/li&gt;
 
 &lt;li&gt;You are capable of leading and executing infra projects independently,
 &lt;/li&gt;
 
-&lt;li&gt;You have a strong troubleshooting and preventive mindset,
+&lt;li&gt;You have a strong troubleshooting and preventive mindset
 &lt;/li&gt;
 
-&lt;li&gt;You are skilled at working across technical, business, and vendor interfaces,
+&lt;li&gt;You are skilled at working across technical, business, and vendor interfaces
 &lt;/li&gt;
 
-&lt;li&gt;You are able to operate both as a hands-on engineer and trusted advisor for Belgian/European infra strategy,
+&lt;li&gt;You are able to operate both as a hands-on engineer and trusted advisor for Belgian/European infra strategy
 &lt;/li&gt;
 
-&lt;li&gt;Certifications such as Cisco, VMware, Microsoft Azure, or equivalent infrastructure certification are an asset,
+&lt;li&gt;Certifications such as Cisco, VMware, Microsoft Azure, or equivalent infrastructure certification are an asset
 &lt;/li&gt;
 
-&lt;li&gt;Fluency in Dutch and English is required; knowledge of French is a strong advantage.
+&lt;li&gt;Fluency in Dutch and English is required; knowledge of French is a strong advantage
 &lt;/li&gt;
 
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72179889"/>
     <published>2025-10-13T11:18:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72188670</id>
+    <title>IT Servicedesk Specialist (EXPERIS BELGIUM)</title>
+    <updated>2025-10-14T10:13:17+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: EXPERIS BELGIUM (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Lier&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als IT Servicedesk Specialist krijg je de verantwoordelijkheid over &lt;strong&gt;behandeling support requests&lt;/strong&gt;. Jouw takenpakket bestaat uit een aantal gevarieerde activiteiten: &lt;p&gt;
+• 1st &amp; 2nd line support&lt;p&gt;
+• Troubleshooting van systeem-, netwerk-, hardware- en softwareproblemen&lt;p&gt;
+• PC &amp; smartphone deployment&lt;p&gt;
+• Gebruikers aanmaken en deactiveren&lt;p&gt;
+• Email, O365 &amp; user administration&lt;p&gt;
+• Ondersteuning bieden in IT projecten&lt;p&gt;
+• Rapporteren aan de service desk manager&lt;h3&gt;Profiel&lt;/h3&gt;Als IT Servicedesk Specialist ben je in het bezit van een &lt;strong&gt;opleiding in IT&lt;/strong&gt; aangevuld met een &lt;strong&gt;5-tal jaar &lt;/strong&gt;&lt;strong&gt;werkervaring in IT support/field engineering&lt;/strong&gt;. Daarnaast heb je een sterke kennis van &lt;strong&gt;Windows, Android &amp; iOS, O365, mail &amp; user administration&lt;/strong&gt;, etc. Verder ben je communicatief vaardig in het &lt;strong&gt;Nederlands &lt;/strong&gt;en &lt;strong&gt;Engels&lt;/strong&gt;. Je bent daarenboven een &lt;strong&gt;problemsolver &lt;/strong&gt;met een &lt;strong&gt;flexibele &lt;/strong&gt;ingesteldheid. Tot slot kan je vlot &lt;strong&gt;zelfstandig &lt;/strong&gt;werken en sta je ervoor open om je regelmatig te verplaatsen naar andere sites in België en Europa.&lt;h3&gt;Aanbod&lt;/h3&gt;Als IT Servicedesk Specialist mag je rekenen op uitgebreide &lt;strong&gt;trainingen &lt;/strong&gt;en  &lt;strong&gt;opleidingen&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;om jezelf te ontplooien op professioneel vlak. Daarnaast kan je genieten van een &lt;strong&gt;competitieve verloning&lt;/strong&gt; met een uitgebreid pakket aan &lt;strong&gt;extralegale voordelen&lt;/strong&gt;. Tot slot kom je terecht in een internationale omgeving en kan je werken in &lt;strong&gt;glijdende uren&lt;/strong&gt;. &lt;p&gt;
+Voldoet deze functie aan jouw verwachtingen? Solliciteer dan rechtstreeks via de website of contacteer Matthias Kegels op het nummer +32 (0)4 76 35 74 35 of via matthias.kegels@experis.be.</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72188670"/>
+    <published>2025-10-14T10:13:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72187723</id>
+    <title>Medior/Senior Blazor Developer (Spilberg)</title>
+    <updated>2025-10-14T08:45:53+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Spilberg (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Zin om met &lt;strong&gt;Blazor&lt;/strong&gt; het verschil te maken in een moderne .NET-omgeving? Voor een toonaangevende logistieke speler zoeken we een &lt;strong&gt;Medior/Senior Blazor Developer&lt;/strong&gt; die business en tech moeiteloos verbindt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Over de rol&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Je bent de &lt;strong&gt;linking pin&lt;/strong&gt; tussen business en development. Je bouwt en onderhoudt &lt;strong&gt;mission-critical&lt;/strong&gt; applicaties met &lt;strong&gt;Blazor&lt;/strong&gt; en &lt;strong&gt;ASP.NET Core&lt;/strong&gt;, werkt nauw samen met het dev-team en ondersteunt de &lt;strong&gt;lead solutions architect&lt;/strong&gt; bij technische keuzes en solution design.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat je gaat doen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nieuwe features en UI-componenten bouwen met &lt;strong&gt;Blazor&lt;/strong&gt; (Server/WASM) en &lt;strong&gt;C#/.NET&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Businessnoden vertalen naar robuuste oplossingen; meedenken over &lt;strong&gt;architectuur&lt;/strong&gt; en &lt;strong&gt;roadmaps&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;APIs integreren, data-laag optimaliseren (&lt;strong&gt;Entity Framework / SQL Server&lt;/strong&gt;), kwaliteit borgen via tests.&lt;/li&gt;&lt;li&gt;Samenwerken in &lt;strong&gt;Azure DevOps&lt;/strong&gt; (Boards/Repos/Pipelines) en &lt;strong&gt;Git&lt;/strong&gt;; code reviews &amp;amp; CI/CD.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Must-haves&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Aantoonbare &lt;strong&gt;ervaring met Blazor&lt;/strong&gt; (essentieel).&lt;/li&gt;&lt;li&gt;Sterke &lt;strong&gt;communicatie&lt;/strong&gt; en &lt;strong&gt;overtuigingskracht&lt;/strong&gt;; je schakelt vlot tussen stakeholders en developers.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;strong&gt;mission-critical&lt;/strong&gt; systemen en het &lt;strong&gt;functioneel mee richting geven&lt;/strong&gt; aan nieuwe toepassingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Nederlands&lt;/strong&gt; en &lt;strong&gt;Engels&lt;/strong&gt; beheers je vlot.&lt;/li&gt;&lt;li&gt;Je voldoet aan de voorwaarden voor een &lt;strong&gt;wettelijk verplicht positief veiligheidsadvies&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Techstack&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;C#, ASP.NET Core, Blazor&lt;/strong&gt;, &lt;strong&gt;Visual Studio&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Azure DevOps&lt;/strong&gt;, &lt;strong&gt;Git&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Entity Framework&lt;/strong&gt; (+ LINQ), &lt;strong&gt;SQL Server&lt;/strong&gt;, &lt;strong&gt;Test Mocking Frameworks&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;WPF&lt;/strong&gt; (+ Prism), &lt;strong&gt;WCF&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;MAUI&lt;/strong&gt;, &lt;strong&gt;Web frameworks&lt;/strong&gt;, &lt;strong&gt;Frontend&lt;/strong&gt; (HTML, CSS, …)&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Microservice Architecture&lt;/strong&gt;, &lt;strong&gt;NServiceBus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom je hier blij van wordt&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dynamische, internationale&lt;/strong&gt; context met &lt;strong&gt;aangename werksfeer&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Glijdende werkuren&lt;/strong&gt; en &lt;strong&gt;mogelijkheid tot thuiswerk&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bedrijfswagen&lt;/strong&gt; (volgens car policy).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Extralegale voordelen&lt;/strong&gt;: maaltijdcheques, hospitalisatie- en groepsverzekering.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Salaris&lt;/strong&gt; in lijn met je &lt;strong&gt;ervaring en kwalificaties&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse? Aarzel niet om mij te contacteren!&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72187723"/>
+    <published>2025-10-14T08:45:53+00:00</published>
   </entry>
 </feed>
