@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-15T14:22:26.819867+00:00</updated>
+  <updated>2025-10-15T16:22:29.432177+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineer/</id>
+    <title>Data Engineer</title>
+    <updated>2025-10-15T15:15:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Brussels-Capital Region, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-06-03 14:30:31+00:00, last change 2025-10-15 15:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-06-03 14:30:31+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Deze jonge, dynamische en snelgroeiende data-consultancy startup zet sterke stappen om verder te groeien. Ondanks hun jongere leeftijd bouwen ze op stevige fundamenten: inhoudelijke expertise, persoonlijke aanpak en een duidelijke langetermijnvisie.&lt;br&gt;
+&lt;br&gt;
+De missie? Data begrijpelijk maken, zonder het menselijke aspect uit het oog te verliezen. Het is hun leidraad in elk project: technische diepgang combineren met heldere communicatie en klantgerichtheid.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Hun klantenportfolio is gevarieerd en uitdagend: van multinationals tot KMO’s, actief in sectoren zoals energie, farma, media, industrie en telecom.&lt;br&gt;
+&lt;br&gt;
+JOBOMSHRIJVING:&lt;br&gt;
+Als Data Engineer werk je mee aan end-to-end projecten: van technische uitwerking tot communicatie met stakeholders. Je krijgt meteen verantwoordelijkheid en werkt nauw samen met collega’s die je ondersteunen in je leertraject.&lt;br&gt;
+&lt;br&gt;
+Voorbeelden van opdrachten:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Bouwen van interactieve dashboards in Power BI op maat van verschillende business units.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Opzetten van data warehouses en lakehouses in Microsoft Azure.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Begeleiden van klanten bij datamigraties, bijvoorbeeld bij SAP-implementaties.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Bouwen van API-integraties om data op een schaalbare manier beschikbaar te maken.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Geven van trainingen en workshops aan eindgebruikers rond Power BI.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Ze zoeken slimme, leergierige en communicatief sterke professionals die graag impact willen maken met data. Iemand die zijn of haar eerste stappen wil zetten in consultancy, of die al een eerste ervaring heeft maar op zoek is naar meer autonomie en afwisseling.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt bij voorkeur een masterdiploma.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt minstens een eerste werkervaring achter de rug.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met SQL en Python. Daarnaast heb je ook kennis en ervaring in Azure. Power BI is een plus.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent analytisch, nieuwsgierig en hebt enige zelfstandigheid.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief en vloeiend in het Nederlands en het Engels.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Jaarlijks opleidingsbudget dat je vrij kan besteden aan technische of soft skills opleidingen.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Actieve coaching en doorgroeikansen samen met de groei van het bedrijf.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Er is geen hiërarchie, wel vrijheid om je eigen pad te kiezen.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Flexibiliteit staat voorop.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je werkt met moderne technologieën.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Kan dit jouw volgende stap zijn? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data &amp; AI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-engineer/"/>
+    <category term="BI/Data Analyst"/>
+    <category term="Data Engineering"/>
+    <published>2025-06-03T14:30:31+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/analytics-engineer-2/</id>
     <title>Analytics Engineer</title>
@@ -497,70 +553,6 @@ Je maakt deel uit van een mensgerichte organisatie waar samenwerking en innovati
     <link href="https://www.cartiere.be/jobs/senior-data-engineer/"/>
     <category term="Data Engineering"/>
     <published>2025-06-30T13:34:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-consultant/</id>
-    <title>Data Consultant</title>
-    <updated>2025-06-03T13:30:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Brussels-Capital Region, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-06-03 14:30:31+00:00, last change 2025-06-03 13:30:31+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-06-03 14:30:31+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
-Deze jonge, dynamische en snelgroeiende data-consultancy startup&amp;nbsp;zet sterke stappen om verder te groeien. Ondanks hun jongere leeftijd bouwen ze op stevige fundamenten: inhoudelijke expertise, persoonlijke aanpak en een duidelijke langetermijnvisie.&lt;br /&gt;
-&lt;br /&gt;
-De missie? Data begrijpelijk maken, zonder het menselijke aspect uit het oog te verliezen. Het is hun leidraad in elk project: technische diepgang combineren met heldere communicatie en klantgerichtheid.&lt;br /&gt;
-&lt;br /&gt;
-Ze zijn gespecialiseerd in:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Data-analyse en rapportering (Power BI, DAX, data storytelling)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Data engineering (Azure cloud-oplossingen, API’s, data lakes, DWH’s)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Business intelligence (datamodel-architectuur, KPI-definitie,&amp;nbsp;trainingsprogramma’s)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Hun klantenportfolio is gevarieerd en uitdagend: van multinationals tot KMO’s, actief in sectoren zoals energie, farma, media, industrie en telecom.&lt;br /&gt;
-&lt;br /&gt;
-JOBOMSHRIJVING:&lt;br /&gt;
-Als Data Consultant werk je mee aan end-to-end projecten: van technische uitwerking tot communicatie met stakeholders. Je krijgt meteen verantwoordelijkheid en werkt nauw samen met collega’s die je ondersteunen in je leertraject.&lt;br /&gt;
-&lt;br /&gt;
-Voorbeelden van opdrachten:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Bouwen van interactieve dashboards in Power BI op maat van verschillende business units.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Opzetten van data warehouses en lakehouses in Microsoft Azure.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Begeleiden van klanten bij datamigraties, bijvoorbeeld bij SAP-implementaties.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Bouwen van API-integraties om data op een schaalbare manier beschikbaar te maken.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Geven van trainingen en workshops aan eindgebruikers rond Power BI.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ze zoeken slimme, leergierige en communicatief sterke professionals die graag impact willen maken met data. Iemand die zijn of haar eerste stappen wil zetten in consultancy, of die al een eerste ervaring heeft maar op zoek is naar meer autonomie en afwisseling.&lt;br /&gt;
-&lt;br /&gt;
-PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een masterdiploma in een wetenschappelijke, economische of technische richting.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een eerste werkervaring achter de rug.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt al enige ervaring met Power BI en SQL met een interesse in Azure, Python en andere BI-tools&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent analytisch, nieuwsgierig en hebt enige zelfstandigheid.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent communicatief en vloeiend in het Nederlands en het Engels.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;AANBOD:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Jaarlijks opleidingsbudget dat je vrij kan besteden aan technische of soft skills opleidingen.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Actieve coaching en doorgroeikansen samen met de groei van het bedrijf.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Er is geen hiërarchie, wel vrijheid om je eigen pad te kiezen.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Flexibiliteit staat voorop.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je werkt met moderne technologieën.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Kan dit jouw volgende stap zijn? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data &amp;amp; AI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-consultant/"/>
-    <category term="BI/Data Analyst"/>
-    <category term="Data Engineering"/>
-    <published>2025-06-03T14:30:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/senior-data-engineer-3/</id>
