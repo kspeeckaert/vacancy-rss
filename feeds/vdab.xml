@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-18T20:41:21.233008+00:00</updated>
+  <updated>2025-10-18T22:40:21.974374+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68682857</id>
+    <title>Monitoring Engineer/Specialist (Cronos)</title>
+    <updated>2025-10-12T00:01:01+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Monitoring Engineer / Specialist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Word Monitoring Engineer bij Cronos en optimaliseer bestaande tools om de klantwaarde te verhogen. Werk in een dynamische omgeving met een competitief salaris en moderne samenwerkingstools. Solliciteer nu!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Functieprofiel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Voor ons Centraal Monitoring Center zoeken we een Monitoring Engineer / Specialist met een passie voor software. In deze rol ben je de drijvende kracht achter de Hard en Software Support, waarbij je bestaande monitoringstools optimaliseert die waarde toevoegen voor klanten en de efficiëntie van serviceoperaties verbeteren. In deze rol ben je mede verantwoordelijk voor maximale beschikbaarheid van de systemen van onze klanten door vroegtijdige waarschuwingen en foutdetectie vanuit het monitoringssysteem te interpreteren en adequaat te reageren.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Samen met je collega’s van de service afdelingen sta je in voor het opzetten, onderhouden en troubleshooten van Linux omgevingen voor het monitoren en beheren van de omgevingen van onze klanten. Verder sta je in voor remote en onsite support op deze omgevingen. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Je werkt nauw samen met onze technische servicedesk om alle meldingen vanuit de monitoring te registreren en op te lossen binnen de afgesproken serviceniveaus. We streven naar voortdurende verbetering, waarbij evaluaties van oproepen worden gebruikt om remote monitoring verder te verfijnen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat ga je doen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Actief monitoren van systemen en gegenereerde events;&lt;/li&gt;&lt;li&gt;Opvolging van openstaande tickets, service en change requesten en communicatie met de klant;&lt;/li&gt;&lt;li&gt;Afhandelen, evalueren en verbeteren van meldingen;&lt;/li&gt;&lt;li&gt;Analyseren van data ontvangen van het monitoring systeem;&lt;/li&gt;&lt;li&gt;Aansluiten en registreren van nieuwe installatie op monitoring tools;&lt;/li&gt;&lt;li&gt;Voorbereiding van technische documentatie;&lt;/li&gt;&lt;li&gt;Zorgen voor volledige registratie van gebeurtenissen;&lt;/li&gt;&lt;li&gt;Een klantgerichte benadering hanteren voor maximale klanttevredenheid;&lt;/li&gt;&lt;li&gt;Aan de hand van je expertise Monitoring-servicecontracten en andere diensten mee helpen promoten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat wij vragen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;We zoeken een collega, die pragmatisch is met een hands-on mentaliteit, die graag problemen analyseert en oplossingen zoekt.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt kennis in IT beheer en kan programmeren.&lt;/li&gt;&lt;li&gt;Je hebt minimaal 5 jaren ervaring als monitoring of devops engineer.&lt;/li&gt;&lt;li&gt;Je hebt oog voor kwaliteit en detail.&lt;/li&gt;&lt;li&gt;Je hebt de mindset om werkzaamheden te automatiseren.&lt;/li&gt;&lt;li&gt;Je beheerst tenminste 1 scripting taal: bij voorkeur Python, Powershell en/of Bash zijn een plus.&lt;/li&gt;&lt;li&gt;Je komt terecht in een omgeving waarin onderstaande technieken voorkomen. Kennis hiervan is een plus, maar geen absolute vereiste:&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Nagios XI&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Prometheus&lt;/li&gt;&lt;li class="ql-indent-1"&gt;New Relic&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Check MK&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Virtualisatie&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Cloud omgevingen in AWS/Azure/Google Cloud Platform&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Windows Server Farm&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Netwerk infra (Cisco, Meraki, …)&lt;/li&gt;&lt;li&gt;Je bent tweetalig (Nederlands/Engels), kennis van de Franse taal is een pluspunt.&lt;/li&gt;&lt;li&gt;Je beschikt over geavanceerde kennis van Linux.&lt;/li&gt;&lt;li&gt;Je bent flexibel en proactief.&lt;/li&gt;&lt;li&gt;Je hebt verantwoordelijkheidszin en neemt initiatief.&lt;/li&gt;&lt;li&gt;Je bent zelfstandig, resultaatgericht en hebt doorzettingsvermogen.&lt;/li&gt;&lt;li&gt;Je bent makkelijk te benaderen en een teamplayer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;Nagios XL&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Python&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Powershell&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Bash&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Monitoring&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Check MK&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;New Relic&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Prometheus&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Netwerk Infra&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat wij bieden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competitief salaris: Jouw inzet wordt beloond met een concurrerend salaris.&lt;/li&gt;&lt;li class="ql-indent-1"&gt;40 urenweek&lt;/li&gt;&lt;li class="ql-indent-1"&gt;20 wettelijke verlofdagen + 12 ADV-dagen&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Wagen + tankkaart/laadpas&lt;/li&gt;&lt;li class="ql-indent-1"&gt;extralegale voordelen zoals een maaltijdvergoeding, een hospitalisatie- en groepsverzekering, laptop, gsm+abo, korting op uw privé telecom abo &lt;/li&gt;&lt;li&gt;Teamomgeving: Je maakt deel uit van een enthousiast en ondersteunend team binnen een groeiend dynamisch bedrijf.&lt;/li&gt;&lt;li&gt;Inspirerende werkomgeving: Onze bedrijfscultuur is geworteld in passie, respect, leergierigheid en teamgeest.&lt;/li&gt;&lt;li&gt;&lt;span style="color: black;"&gt;Individuele ontwikkelingsplannen: we voorzien in je persoonlijke groei door middel van een eigen opleidingsbudget.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: black;"&gt;Het Cronos Care-pakket: een uitgebreid pakket met gratis aanbiedingen, voordelige prijzen en leuke kortingen, in combinatie met leuke bedrijfsevents&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Je bent welkom om deel uit te maken van onze bloeiende organisatie. Solliciteer nu en ontdek de mogelijkheden die we jou kunnen bieden!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt; &lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68682857"/>
+    <published>2024-04-18T16:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
+    <title>Freelance Integratie developer (Cronos)</title>
+    <updated>2025-10-17T00:04:45+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een ervaren integratie developer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;Als integratieontwikkelaar krijg je de mogelijkheid om te werken aan uitdagende integratieprojecten. Je zult samenwerken met klanten om hun integratiebehoeften te begrijpen en oplossingen op maat te bieden met behulp van verschillende technologieën en cloud platformen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je verantwoordelijkheden als integratieontwikkelaar omvatten het ontwikkelen en implementeren van integraties die naadloze communicatie en efficiënte gegevensuitwisseling tussen systemen mogelijk maken. Je werkt nauw samen met het team om ervoor te zorgen dat de integraties voldoen aan de vereisten en de kwaliteitsnormen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;Om succesvol te zijn als integratieontwikkelaar ben je bekend met de volgende technische vaardigheden en concepten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met één of meer programmeertalen, zoals Java, C# of Python&lt;/li&gt;&lt;li&gt;Kennis of begrip van van API’s, webservices en messaging technologieën&lt;/li&gt;&lt;li&gt;Achtergrond in integratiepatronen en -architecturen is een plus.&lt;/li&gt;&lt;li&gt;Kennis en interesse in cloud- en integratieplatformen zoals Azure, Oracle, AWS.&lt;/li&gt;&lt;li&gt;Basiskennis van SQL en databases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;API&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Integratie&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;c#&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;python&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;webservices&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;messaging technologieën&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;azure&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;aws&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;sql&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084449"/>
+    <published>2024-07-02T09:28:39+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084444</id>
     <title>Cloud Engineer (Cronos)</title>
@@ -1236,92 +1280,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SII Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Stevens-Woluwe&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;SII Belgium is seeking a highly motivated and ambitious Java Developer to join our team. In this role, you will be responsible for designing and developing software applications, as well as maintaining and improving existing systems. You would join various teams working in AGILE mode for projects in the Energy, Retail, Banking or Media sectors. &amp;nbsp;&lt;/p&gt;&lt;p&gt;SII is a European digital and engineering services company of 16,000 experts. SII Belgium supports large businesses in adopting new technologies and innovation management. SII values empowerment and entrepreneurship, providing a fulfilling work environment for employees. Our mission is to contribute to the design and development of future products and services for customers. SII is committed to a sustainable digital world and is recognized as a great workplace.  &amp;nbsp;&lt;/p&gt;&lt;strong&gt;Key Responsibilities: &amp;nbsp;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Contribute in the design and outlining of Java solutions (with the analyst and / or architect)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Understands the business needs and perform the needed functional analysis&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ensure continuous integration and deployment of solutions&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Deliver scalable Java web applications according to agreed planning and budget&amp;nbsp;&lt;/li&gt;&lt;li&gt;Develop qualitative sites that exceed all customers' expectations&amp;nbsp;&lt;/li&gt;&lt;li&gt;Test applications and overcome technical issues encountered&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Add value to the sales cycle by giving input to your commercial colleagues (presales)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Add constantly to the Java competency within SII Belgium&amp;nbsp;&lt;/li&gt;&lt;li&gt;Support the project manager during the estimation process&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Train customers and users&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Requirements:&amp;nbsp;&lt;/strong&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor or Master's degree in computer science,&amp;nbsp;or any other relevant field.&lt;/li&gt;&lt;li&gt;4 years of relevant experience&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Familiar with Agile methodology such as Scrum; TDD&amp;nbsp;&lt;/li&gt;&lt;li&gt;Good knowledge of Java Spring MVC&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experienced in JPA/Hibernate, Maven, GIT, SVN Jenkins&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experience with HTML5, CSS frameworks (Bootstrap, ...), Javascript frameworks (JQuery, Angular JS, React JS...) is an added value.&amp;nbsp;&lt;/li&gt;&lt;li&gt;A broad interest in developing web sites and web applications&amp;nbsp;&lt;/li&gt;&lt;li&gt;General best practices and design practices&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fluent in English and Dutch or French&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;We offer: &lt;/strong&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging and varied role in a growing company &amp;nbsp;&lt;/li&gt;&lt;li&gt;Opportunity to work with the latest technologies &amp;nbsp;&lt;/li&gt;&lt;li&gt;Competitive salary and benefits &amp;nbsp;&lt;/li&gt;&lt;li&gt;Opportunity to improve your skills and knowledge through training and certification &amp;nbsp;&lt;/li&gt;&lt;li&gt;Warm and open company culture, supported by an international group &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you are a passionate and autonomous Java developer looking for an exciting opportunity with a growing company, we encourage you to apply for this posit &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71742758"/>
     <published>2025-08-19T09:19:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71743434</id>
-    <title>Cloud Support Engineer (Azure &amp; M365) (IStorm Brussel)</title>
-    <updated>2025-08-19T10:22:24+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: IStorm Brussel (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Steenokkerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;
- &lt;li&gt;Je biedt tweede- en derdelijns support voor onze cloud- en infrastructuurservices.
- &lt;/li&gt;&lt;li&gt;Je analyseert, prioriteert en lost incidenten op in ServiceNow.
- &lt;/li&gt;&lt;li&gt;Je ondersteunt en escaleert issues rond:
- &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Azure &amp; M365 (Azure AD, Intune, Teams, SharePoint, Exchange Online)&lt;/strong&gt;
- &lt;/li&gt;&lt;li&gt;Windows Server-migraties en updates
- &lt;/li&gt;&lt;li&gt;Netwerkproblemen (VPN, basis firewall/switching)
- &lt;/li&gt;&lt;li&gt;Print &amp; data reporting issues
- &lt;/li&gt;&lt;li&gt;Je automatiseert repetitieve taken met PowerShell of andere tools.
- &lt;/li&gt;&lt;li&gt;Je werkt mee aan projecten zoals migraties, ITIL-implementatie en security testing.
- &lt;/li&gt;&lt;li&gt;Je denkt mee over verbeteringen en treedt proactief op om problemen te voorkomen.
-&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
- &lt;li&gt;Je hebt min. 5 jaar ervaring in IT-support, waarvan 2-3 jaar op L2/L3 niveau.
- &lt;/li&gt;&lt;li&gt;Microsoft Azure &amp; Microsoft 365
- &lt;/li&gt;&lt;li&gt;Windows Server &amp; Active Directory
- &lt;/li&gt;&lt;li&gt;Basis netwerkbeheer (VPN, switching, firewall)
- &lt;/li&gt;&lt;li&gt;Ervaring met ServiceNow of een gelijkaardig ticketingsysteem.
- &lt;/li&gt;&lt;li&gt;Je spreekt vlot Engels; Nederlands of Frans is een pluspunt.
- &lt;/li&gt;&lt;li&gt;Certificaten (Azure, ITIL) zijn een plus, maar geen must – ze ondersteunen jouw leertraject.
- &lt;/li&gt;&lt;li&gt;Je hebt een hands-on, oplossingsgerichte mentaliteit en werkt proactief.
-&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
- &lt;li&gt;Een rol met impact in een internationaal bedrijf actief in de luchtvaartsector.
- &lt;/li&gt;&lt;li&gt;Variatie: support + projectwerk, geen puur "tickets afwerken".
- &lt;/li&gt;&lt;li&gt;Een competitief salarispakket incl. bedrijfswagen en 30 vakantiedagen.
- &lt;/li&gt;&lt;li&gt;Ruimte voor persoonlijke groei: opleidingen en certificeringen op onze kosten.
- &lt;/li&gt;&lt;li&gt;Teamspirit: afterwork drinks, sportactiviteiten en een collegiale werksfeer.
-&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Erk./Rec. VG 496/BUO &amp; W020 &amp; B 00424-406-20130311 &amp; B 00424-405-20130311&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71743434"/>
-    <published>2025-08-19T10:22:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71744104</id>
-    <title>Cloud Strategy Architect (IStorm Brussel)</title>
-    <updated>2025-08-19T11:22:26+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: IStorm Brussel (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Steenokkerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Cloud-architectuur &amp; innovatie
-&lt;ul&gt;
- &lt;li&gt;Ontwerpen van schaalbare en veilige cloudoplossingen, met focus op Microsoft Azure en Microsoft 365 (Intune, Defender, Power Automate, Teams, SharePoint, …).
- &lt;/li&gt;&lt;li&gt;Leiding nemen in architecturale verbeteringen.
- &lt;/li&gt;&lt;li&gt;Continu inzetten op innovatie en prestatie-optimalisatie.
-&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;
-Governance, compliance &amp; documentatie
-&lt;ul&gt;
- &lt;li&gt;Zorgen voor naleving van interne en externe beveiligings- en compliance-standaarden.
- &lt;/li&gt;&lt;li&gt;Documentatie up-to-date houden en governance best practices promoten.
- &lt;/li&gt;&lt;li&gt;Beheer van disaster recovery en business continuity plannen.
-&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;
-Samenwerking &amp; leiderschap
-&lt;ul&gt;
- &lt;li&gt;Nauw samenwerken met technische leiding, leveranciers, operations, security en finance.
- &lt;/li&gt;&lt;li&gt;Kennis delen en mentoring bieden aan technische teams en partners.
- &lt;/li&gt;&lt;li&gt;Ondersteunen van strategische initiatieven zoals cloudmigratie en workforce enablement.
-&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;
-Operationele verbetering
-&lt;ul&gt;
- &lt;li&gt;Monitoren en optimaliseren van cloud- en Microsoft-omgevingen.
- &lt;/li&gt;&lt;li&gt;Samenwerken rond migratie van legacy systemen en het vermijden van vendor lock-in.
- &lt;/li&gt;&lt;li&gt;Efficiëntie verhogen via automatisatie en DevOps best practices.
-&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;
-Strategische bijdrage
-&lt;ul&gt;
- &lt;li&gt;Bijdragen aan schaalbaarheid, kostoptimalisatie en innovatie afgestemd op de business.
- &lt;/li&gt;&lt;li&gt;Lange termijn IT-kosten verlagen door samenwerking en optimalisatie.
-&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
- &lt;li&gt;Sterke expertise in Azure cloud.
- &lt;/li&gt;&lt;li&gt;Ervaring met het ontwerpen van veilige en schaalbare architecturen.
- &lt;/li&gt;&lt;li&gt;Hands-on ervaring met Terraform, Python, API’s en netwerken.
- &lt;/li&gt;&lt;li&gt;Communicatief sterk, met bewezen leiderschaps- en mentoringvaardigheden.
- &lt;/li&gt;&lt;li&gt;Flexibel, oplossingsgericht en nieuwsgierig naar nieuwe technologieën.
-&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
- &lt;li&gt;Competitief salaris met bedrijfswagen en alle extralegale voordelen
- &lt;/li&gt;&lt;li&gt;Hybride werkmodel en flexibele uren
- &lt;/li&gt;&lt;li&gt;Internationale projecten en doorgroeimogelijkheden
- &lt;/li&gt;&lt;li&gt;Opleiding en certificatie (Azure, Security, …)
- &lt;/li&gt;&lt;li&gt;Impactvolle rol binnen een groeiend en duurzaam bedrijf
-&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Erk./Rec. VG 496/BUO &amp; W020 &amp; B 00424-406-20130311 &amp; B 00424-405-20130311&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71744104"/>
-    <published>2025-08-19T11:22:26+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71746111</id>
