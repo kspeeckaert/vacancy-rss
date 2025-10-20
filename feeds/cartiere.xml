@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-20T12:39:31.121491+00:00</updated>
+  <updated>2025-10-20T14:20:17.849560+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -147,6 +147,39 @@ Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 0
     <link href="https://www.cartiere.be/jobs/analytics-engineer-2/"/>
     <category term="BI/Data Architect"/>
     <published>2025-01-13T10:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-scientist-2/</id>
+    <title>Data Scientist</title>
+    <updated>2025-10-03T07:43:18+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Groendreef 10, 9880, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-10-03 08:43:18+00:00, last change 2025-10-03 07:43:18+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-10-03 08:43:18+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit familiebedrijf, actief binnen de voedingsindustrie, bestaat al meer dan 30 jaar. Ze beheren het volledige proces van productie en logistiek tot verkoop via eigen winkel. Door deze verticale integratie beschikken ze over een rijk en divers datalandschap. Met een moderne, duurzame infrastructuur en een duidelijke focus op lokale producten en kwaliteit, vormt technologie een cruciale pijler in hun groeiambities. Het bedrijf zet dan ook volop in op hun data en hiervoor zijn ze momenteel op zoek naar een Data Scientist.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Scientist versterk je het datagedreven werken binnen de organisatie. Je combineert technische expertise met overtuigingskracht om de business te inspireren en te tonen welke kansen data biedt. In de eerste maanden ligt de nadruk op luisteren, begrijpen en teams meenemen in dit verhaal. Je werkt nauw samen met je collega Data Scientist om projecten op te volgen en nieuwe initiatieven uit te bouwen.&lt;br&gt;
+Je hebt contact met verschillende afdelingen – Sales &amp; Marketing, Planning, Productie en Finance – en werkt met data uit diverse lagen van het platform. Met Python analyseer, modelleer en valideer je data, waarbij je ook ETL-processen opzet en ruwe data opschoont. Je vertaalt inzichten naar concrete aanbevelingen die écht impact hebben op de werking van het bedrijf. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je hebt 3 à 5 jaar ervaring als Data Scientist en beschikt over een sterke kennis van Python.
+	&lt;li&gt;Je hebt ervaring met Databricks of een andere moderne ETL-tool.
+	&lt;li&gt;Je kan de business inspireren en overtuigen van de waarde van data, en weet complexe inzichten op een begrijpelijke manier over te brengen.
+	&lt;li&gt;Je bent communicatief sterk, sociaal vaardig en werkt graag samen in team.
+	&lt;li&gt;Je bent zelfstandig, neemt initiatief en denkt proactief mee over verbeteringen.
+	&lt;li&gt;Ervaring in de retail- of voedingssector is een sterke troef.
+	&lt;li&gt;Je spreekt vloeiend Nederlands.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je krijgt de kans om met rijke en gevarieerde data te werken, snel verantwoordelijkheid op te nemen en écht impact te maken. Initiatief wordt aangemoedigd en er is ruimte voor eigen inbreng. Daarnaast heerst er een warme, mensgerichte werksfeer met aandacht voor work-life balance én werk je in een filevrije omgeving.&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-scientist-2/"/>
+    <category term="Data Science"/>
+    <published>2025-10-03T08:43:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/snowflake-data-engineer-architect-industrial-manufacturing/</id>
