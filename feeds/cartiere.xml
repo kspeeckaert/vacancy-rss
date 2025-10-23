@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-23T12:40:12.936755+00:00</updated>
+  <updated>2025-10-23T14:21:54.253126+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -292,55 +292,6 @@ Visit our website www.cartiere.be for more BI, data, AI and ML-opportunities.&lt
     <link href="https://www.cartiere.be/jobs/application-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-09-23T07:53:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/analytics-ai-data-engineer/</id>
-    <title>Analytics &amp; AI Data Engineer</title>
-    <updated>2025-09-22T14:13:33+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Corda Campus (building 5), Kempische Steenweg 309 box 1, 3500, Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-09-22 15:13:33+00:00, last change 2025-09-22 14:13:33+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-09-22 15:13:33+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Dit bedrijf in Limburg is een kleine KMO, en een van de belangrijkste spelers binnen hun sector in België. Hun focus ligt op het aanbieden van betrouwbare diensten, met nadruk op de klantervaring. Ze zien zichzelf als een technologiebedrijf met een focus op technische excellentie, wat blijkt uit hun data-driven aanpak. Ze zijn op zoek naar een Data Engineer om hun kleine, maar ervaren team te versterken. Als Data Engineer werk je zowel operationeel als projectmatig. Je combineert dagelijkse operationele checks met het bijdragen aan strategische projecten. Het team rapporteert direct aan de CTO.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Je zal verantwoordelijk zijn voor de volgende zaken:
-&lt;ul&gt;
-	&lt;li&gt;Data pipelines onderhouden en bouwen.
-	&lt;li&gt;Jij bouwt mee aan een solide fundament waarop toekomstige projecten kunnen draaien.
-	&lt;li&gt;Je ondersteunt bij het opzetten van het nieuwe datalake en bij de migratie van batch-processen naar real-time dataverwerking.
-	&lt;li&gt;Je leest Python-code in, bouwt en onderhoudt DBT-modellen en stuurt deze aan vanuit Airflow.
-	&lt;li&gt;Je werkt samen met analisten om businessvragen te vertalen naar robuuste datastructuren en oplossingen.
-	&lt;li&gt;Samen met het team werk je aan (generatieve) AI-projecten en API’s, waarbij je meedenkt over build vs. buy en de technische implementatie.
-	&lt;li&gt;Je draagt bij aan het creëren van kant-en-klare datasets en een data-architectuur die self-service analytics mogelijk maakt, zodat het team proactiever kan werken.
-	&lt;li&gt;Je ondersteunt bij de keuze en implementatie van een event streaming platform voor klantgedrag en andere real-time data.
-	&lt;li&gt;Je hebt inspraak in de evolutie van onze data-architectuur, de technologieën die ze kiezen en de integratie van AI.
-	&lt;li&gt;Ongeveer 25% van je tijd besteed je aan het upgraden/moderniseren van de data stack en experimenteren met nieuwe technologieën.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je beschikt over een masterdiploma.
-	&lt;li&gt;Je hebt minimaal 3 jaar ervaring in data engineering.
-	&lt;li&gt;Je hebt sterke kennis van een cloudplatform en van SQL, Python of een andere programmeertaal.
-	&lt;li&gt;Kennis van AWS en DBT is een plus.
-	&lt;li&gt;Een softwareachtergrond is een mooie meerwaarde: je brengt een stukje software engineering in data engineering.
-	&lt;li&gt;Je hebt een goed begrip van datawarehouses.
-	&lt;li&gt;Je hebt interesse in data-architectuur en interesse en/of ervaring met AI-projecten en moderne datastacks.
-	&lt;li&gt;Je bent communicatief sterk en kunt out-of-the-box denken.
-	&lt;li&gt;Je bent een teamspeler en kunt ook op een informele manier communiceren.
-	&lt;li&gt;Je kunt structuur en orde scheppen in je werk.
-	&lt;li&gt;Je hebt een sterke kennis van Engels; kennis van Nederlands is een plus.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je werkt in een moderne kantooromgeving met de beste collega&amp;apos;s uit diverse achtergronden. Ze stimuleren maximaal persoonlijke ontwikkeling en ideeën en bekijken graag de zaken vanuit een originele, niet voor de hand liggende invalshoek, waarbij het ook eens wat ‘gekker’ mag. Het is een warm en financieel gezond bedrijf met veel samenwerking. Het bedrijf waardeert hard werken, maar ook het recht op ontkoppeling. Er is veel ruimte voor opleidingen en het behalen van certificaten. Daarnaast kun je ongeveer drie dagen per week thuiswerken en is er een wagen voorzien in het loonpakket.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Ben jij de Analytics &amp; AI Data Engineer die wij zoeken? &lt;br&gt;
-Stuur dan nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. &lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/analytics-ai-data-engineer/"/>
-    <category term="Data Engineering"/>
-    <published>2025-09-22T15:13:33+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
