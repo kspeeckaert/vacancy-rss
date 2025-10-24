@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-10-24T14:21:19.321887+00:00</updated>
+  <updated>2025-10-24T16:26:01.304478+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-insights-analyst/</id>
+    <title>Data Insights Analyst</title>
+    <updated>2025-10-24T13:39:43+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Terbekehofdreef 41, 2610, Wilrijk, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-10-24 14:39:43+00:00, last change 2025-10-24 13:39:43+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-10-24 14:39:43+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Een toonaangevend internationaal marketingbedrijf is op zoek naar een (junior) data analist om het data analytics team te versterken. Het bedrijf ondersteund grote internationale merken rond de marketing van hun producten in fysieke winkels. Ze hebben een sterk data departement met hoofdkantoor in Antwerpen.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Data Analist werk je aan verschillende klantprojecten. In deze rol vertaal je data naar duidelijke inzichten, ondersteun je klanten en interne teams, en denk je mee over hoe processen en campagnes verbeterd kunnen worden. Je functie bestaat uit drie grote onderdelen: je analyseert data uit onder andere Azure en bouwt rapporten in Power BI. Je richt nieuwe klantcampagnes in, onderhoudt data en biedt ondersteuning bij vragen. Daarnaast heb je regelmatig contact met klanten, neem je deel aan meetings en denk je actief mee over optimalisaties. Zo combineer je analyse, databeheer en klantgericht samenwerken in een afwisselende functie.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring in Power BI en DAX.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt bij voorkeur een eerste werkervaring achter de rug, een sterke gemotiveerde schoolverlater kan ook.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Kennis van SQL is een plus.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt interesse in commerciële en marketingdata.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief en vloeiend in het Nederlands.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+Je komt terecht in een jong, informeel en hecht team van andere ervaren data analisten. Er wordt gewerkt in een moderne Microsoft Azure-omgeving met tools zoals Data Factory, Synapse, Power BI en SQL. Je geniet van een flexibele werkregeling: elke maandag op kantoor in Antwerpen, de rest van de week werk je waar jij je het best voelt. Jouw analyses hebben directe impact op grote merken en sales teams, en je krijgt volop ruimte voor eigen initiatief, ideeën en professionele groei.&lt;br&gt;
+&lt;br&gt;
+Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI- en data vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-insights-analyst/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-10-24T14:39:43+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/databricks-data-engineer-hartje-antwerpen/</id>
     <title>Databricks Data Engineer - hartje Antwerpen</title>
