@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-27T10:45:21.824221+00:00</updated>
+  <updated>2025-10-27T13:03:52.720837+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3465,58 +3465,6 @@ Voldoet deze functie aan jouw verwachtingen? Solliciteer dan rechtstreeks via de
     <published>2025-10-15T08:51:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72206631</id>
-    <title>Cyber Security Engineer (Connect Consulting BV)</title>
-    <updated>2025-10-16T13:55:14+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Connect Consulting BV (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-start="196" data-end="417"&gt;Are you an ambitious Cyber Security professional ready for a new challenge?&lt;/p&gt; 
-&lt;p data-start="196" data-end="417"&gt;We’re looking for someone with 
-&lt;strong&gt;recent experience in Cyber Security&lt;/strong&gt; and at least a Bachelor’s degree.&lt;/p&gt; 
-&lt;p data-start="419" data-end="447"&gt;Native Dutch is preferred but not required, as long as you can 
-&lt;strong&gt;clearly communicate in Dutch&lt;/strong&gt;.&lt;/p&gt; 
-&lt;p data-start="1060" data-end="1092"&gt;Why this role is exciting: 
-&lt;strong data-start="1060" data-end="1090"&gt; &lt;/strong&gt;This is no consultancy but a 
-&lt;strong data-start="1105" data-end="1134"&gt;fixed job &lt;/strong&gt;in the region of 
-&lt;strong data-start="1105" data-end="1134"&gt; Kruibeke, &lt;/strong&gt;&lt;span data-start="1105" data-end="1134"&gt;with a 
-&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;ice salary&lt;/strong&gt; in a 
-&lt;strong data-start="1161" data-end="1201"&gt;friendly Belgian family company!&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Your job will involve threat prevention, threat detection and incident management by implementing our security policy in practice.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Your Responsibilities:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Analyze cyber security risks and potential threats to assets.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Implement and maintain information security policies, processes 
-&lt;span&gt;and create&lt;/span&gt; procedures&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Conduct regular security audits and testing to identify 
-&lt;span&gt;threats and&lt;/span&gt; vulnerabilities and take proactive measures to mitigate risks&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Design and enforce security controls and measures to protect systems, data and networks (assets)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Conduct risk assessments, gap analyses, and define security controls to protect manufacturing systems, product development environments, and enterprise IT infrastructure.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Monitor and investigate security incidents, breaches and unauthorized access and report on findings&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Stay current with emerging trends, technologies and threats in the field of cyber security&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Provide regular security training and awareness programs to employees to promote safe computing practices&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Collaborate with IT teams, management, business stakeholders and external partners to ensure compliance with regulations and standards related to information security&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;Plan and coordinate disaster recovery and business continuity plans in case of any unexpected cyber-attack or system breakdown.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Experience and Education Requirements:&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;At least a bachelor’s degree in computer science or other related fields is required. &lt;/span&gt;&lt;/span&gt;Native Dutch is preferred but not required, as long as you can 
-&lt;strong&gt;clearly communicate in Dutch&lt;/strong&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;You'll also need some 
-&lt;strong&gt;recent experience&lt;/strong&gt; about cyber security, such as firewalls, 
-&lt;span&gt;network&lt;/span&gt; intrusion detection systems, and access control. Entry-level positions like network administrator or help desk support staff can help you achieve this experience. Additionally, certifications in Security, such as CISSP, will be an asset.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;Overall, you need to demonstrate your expertise in Cyber Security and your ability to handle complex security challenges.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Ability to work independently and collaboratively across departments. Proactive, self-motivated, and able to manage multiple tasks effectively&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What we offer you:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li data-start="1093" data-end="1137"&gt; 
-&lt;p data-start="1095" data-end="1137"&gt;A fixed job, no consultancy!&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="1138" data-end="1204"&gt; 
-&lt;p data-start="1140" data-end="1204"&gt;Nice salary in a friendly, large Belgian family company.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="1205" data-end="1251"&gt; 
-&lt;p data-start="1207" data-end="1251"&gt;Be part of a high-impact NIS2 program.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="1252" data-end="1318"&gt; 
-&lt;p data-start="1254" data-end="1318"&gt;Work autonomously and see your results make a real difference.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;ul&gt; 
-&lt;li data-start="1319" data-end="1401"&gt; 
-&lt;p data-start="1321" data-end="1401"&gt;Collaborate with motivated teams and bring cybersecurity policies to life.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72206631"/>
-    <published>2025-10-16T10:10:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72206372</id>
     <title>(Field) System Engineer (IT1)</title>
     <updated>2025-10-16T09:42:35+00:00</updated>
@@ -3847,5 +3795,63 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Michael Page International (Belgium) (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Our client is based in Antwerp and develop sustainable solutions.&lt;/p&gt;&lt;p&gt;The future IT System Specialist will have the following responsibilities :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Maintain &amp;amp; updates the IT Systems of our clients to ensure business continuity.&lt;/li&gt;&lt;li&gt;Audit security measures and update them following your audit.&lt;/li&gt;&lt;li&gt;Manage incidents &amp;amp; issues and intervene to resolve infrastructure issues.&lt;/li&gt;&lt;li&gt;Coach the Support team to allow them to grow as individuals and as a team.&lt;/li&gt;&lt;li&gt;Coordinate regularly with business and IT stakeholders to collect their needs.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ensure continuous improvements within the team.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;The ideal candidate for this position would have the following :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Degree in IT fields.&lt;/li&gt;&lt;li&gt;Experience of 2 - 4 years as IT support / System / Network Engineer.&lt;/li&gt;&lt;li&gt;Experienced with Azure, Veeam, Windows &amp;amp; Linux.&lt;/li&gt;&lt;li&gt;Experienced in L2/L3 switching &amp;amp; routing protocols.&lt;/li&gt;&lt;li&gt;Fluency in both English and Dutch is mandatory.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Great communication skills and leadership skills to coach the team efficiently.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Proposal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Joining a growing company in Antwerp who creates sustainable solutions.&lt;/li&gt;&lt;li&gt;Company car with attractive package.&lt;/li&gt;&lt;li&gt;Work from home policy in place.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72269805"/>
     <published>2025-10-24T08:20:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72291576</id>
+    <title>Cyber Security Engineer (Connect Consulting BV)</title>
+    <updated>2025-10-27T12:50:06+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Connect Consulting BV (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-start="63" data-end="155"&gt;Ben jij een ambitieuze Cyber Security professional die klaar is voor een nieuwe uitdaging?&lt;/p&gt; 
+&lt;p data-start="157" data-end="259"&gt;Wij zijn op zoek naar iemand met 
+&lt;strong&gt;recente ervaring&lt;/strong&gt; in Cyber Security en minimaal een bachelordiploma.&lt;/p&gt; 
+&lt;p data-start="261" data-end="370"&gt;Waarom deze functie interessant is voor jou: dit is geen consultancy, maar 
+&lt;strong&gt;een vaste baan&lt;/strong&gt; in de regio Kruibeke, met 
+&lt;strong&gt;een mooi salaris bij een vriendelijk Belgisch familiebedrijf&lt;/strong&gt;!&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p data-start="63" data-end="250"&gt;Jouw functie zal bestaan uit het voorkomen van dreigingen, het detecteren van bedreigingen en het beheren van incidenten door ons beveiligingsbeleid in de praktijk te implementeren.&lt;/p&gt; 
+&lt;p data-start="252" data-end="285"&gt;&lt;strong data-start="252" data-end="283"&gt;Jouw verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="287" data-end="1653"&gt; 
+&lt;li data-start="287" data-end="381"&gt; 
+&lt;p data-start="289" data-end="381"&gt;Analyseren van cyberbeveiligingsrisico’s en potentiële bedreigingen voor bedrijfsmiddelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="382" data-end="483"&gt; 
+&lt;p data-start="384" data-end="483"&gt;Implementeren &amp;amp; onderhouden van het beveiligingsbeleid, processen en procedures opstellen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="484" data-end="650"&gt; 
+&lt;p data-start="486" data-end="650"&gt;Regelmatig uitvoeren van beveiligingsaudits en testen om dreigingen en kwetsbaarheden te identificeren en proactieve maatregelen te nemen om risico’s te beperken.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="651" data-end="764"&gt; 
+&lt;p data-start="653" data-end="764"&gt;Ontwerpen en handhaven van beveiligingsmaatregelen om systemen, gegevens en netwerken te beschermen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="765" data-end="958"&gt; 
+&lt;p data-start="767" data-end="958"&gt;Uitvoeren van risicobeoordelingen, gap-analyses en definiëren van beveiligingsmaatregelen ter bescherming van productiesystemen, ontwikkelomgevingen en de IT-infrastructuur van het bedrijf.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="959" data-end="1089"&gt; 
+&lt;p data-start="961" data-end="1089"&gt;Monitoren en onderzoeken van beveiligingsincidenten, inbreuken en ongeautoriseerde toegang en rapporteren over de bevindingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1090" data-end="1200"&gt; 
+&lt;p data-start="1092" data-end="1200"&gt;Op de hoogte blijven van opkomende trends, technologieën en dreigingen op het gebied van cyberbeveiliging.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1201" data-end="1330"&gt; 
+&lt;p data-start="1203" data-end="1330"&gt;Regelmatig beveiligingstrainingen en bewustwordingsprogramma’s geven aan medewerkers om veilig computergebruik te bevorderen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1331" data-end="1513"&gt; 
+&lt;p data-start="1333" data-end="1513"&gt;Samenwerken met IT-teams, management, zakelijke stakeholders en externe partners om naleving van regelgeving en standaarden op het gebied van informatiebeveiliging te waarborgen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1514" data-end="1653"&gt; 
+&lt;p data-start="1516" data-end="1653"&gt;Plannen en coördineren van disaster recovery- en business continuity-plannen in geval van een onverwachte cyberaanval of systeemuitval.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-start="1655" data-end="1683"&gt;&lt;strong data-start="1655" data-end="1681"&gt;Ervaring en opleiding:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="1685" data-end="2512"&gt; 
+&lt;li data-start="1685" data-end="1894"&gt; 
+&lt;p data-start="1687" data-end="1894"&gt;&lt;strong&gt;Minimaal een bachelordiploma&lt;/strong&gt; in computerwetenschappen of een ander relevant vakgebied is vereist. 
+&lt;strong&gt;Duidelijk kunnen communiceren in het Nederlands.&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1895" data-end="2196"&gt; 
+&lt;p data-start="1897" data-end="2196"&gt;Je hebt 
+&lt;strong&gt; recente ervaring&lt;/strong&gt; op het gebied van cyberbeveiliging, zoals firewalls, netwerk-inbraakdetectiesystemen en toegangscontrole. Instapfuncties zoals netwerkbeheerder of helpdeskmedewerker kunnen helpen deze ervaring op te doen. Certificeringen in Security, zoals CISSP, zijn een pluspunt.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="2197" data-end="2339"&gt; 
+&lt;p data-start="2199" data-end="2339"&gt;Je expertise in Cyber Security en je vermogen om complexe beveiligingsuitdagingen aan te pakken, kunnen aantonen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="2340" data-end="2512"&gt; 
+&lt;p data-start="2342" data-end="2512"&gt;Zowel zelfstandig als in samenwerking met verschillende afdelingen kunnen werken. Proactief, zelfgemotiveerd en in staat om meerdere taken effectief te beheren.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p data-start="56" data-end="80"&gt;Wat wij jou aanbieden:&lt;/p&gt; 
+&lt;ul data-start="82" data-end="395"&gt; 
+&lt;li data-start="82" data-end="119"&gt; 
+&lt;p data-start="84" data-end="119"&gt;Een vaste baan!&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="120" data-end="187"&gt; 
+&lt;p data-start="122" data-end="187"&gt;Mooi salaris in een vriendelijk, groot Belgisch familiebedrijf.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="188" data-end="241"&gt; 
+&lt;p data-start="190" data-end="241"&gt;Deel uitmaken van een hoog-impact NIS2-programma.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="242" data-end="314"&gt; 
+&lt;p data-start="244" data-end="314"&gt;Zelfstandig werken en zien dat jouw resultaten echt het verschil maken.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="315" data-end="395"&gt; 
+&lt;p data-start="317" data-end="395"&gt;Samenwerken met een gemotiveerde team en sympathieke collega's&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72291576"/>
+    <published>2025-10-27T12:50:06+00:00</published>
   </entry>
 </feed>
