@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-27T14:43:47.558012+00:00</updated>
+  <updated>2025-10-27T16:47:26.960040+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68548221</id>
-    <title>Medior/Senior Network &amp; Security Consultant (Cronos)</title>
-    <updated>2025-10-13T00:01:44+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Are you an enthusiastic and experienced professional in the field of network &amp; security? Are you looking for a challenging role where you can leverage your expertise and continue to grow? Then we have the perfect opportunity for you at Interligo!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Network Consultant, you will be responsible for providing expert advice and support to our clients in designing, implementing, and optimizing their network infrastructures. You will work closely with clients to understand their business requirements, assess their current network setup, and develop tailored solutions to meet their needs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Network &amp; Security Consultant, you are responsible for designing and implementing network projects, including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Network Design and Implementation&lt;/strong&gt;: Defining and implementing advanced network architectures, including Cisco Routers and Switches, Next Gen Firewalls, Wireless devices, A10 Loadbalancer, and other technologies.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technical Consultation&lt;/strong&gt;: Acting as a technical advisor to the client, providing insights into best practices and strategies for network optimization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Security Solutions&lt;/strong&gt;: Designing and implementing advanced security measures, such as Intrusion Prevention Systems (IPS), Network Access Control (NAC), and other advanced security applications.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Collaboration with Other Departments&lt;/strong&gt;: Working closely with other departments within the company&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Knowledge Transfer&lt;/strong&gt;: Sharing expertise and providing technical transfer to junior team members.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You work with the following vendors:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cisco&lt;/li&gt;&lt;li&gt;Palo Alto&lt;/li&gt;&lt;li&gt;Fortinet&lt;/li&gt;&lt;li&gt;A10&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You will work with the following technologies&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Routers and Switches&lt;/li&gt;&lt;li&gt;Next Gen Firewalls&lt;/li&gt;&lt;li&gt;Wireless devices&lt;/li&gt;&lt;li&gt;NAC solutions&lt;/li&gt;&lt;li&gt;Datacenter devices&lt;/li&gt;&lt;li&gt;Email Security&lt;/li&gt;&lt;li&gt;Advanced Malware Protection for Endpoints&lt;/li&gt;&lt;li&gt;Umbrella&lt;/li&gt;&lt;li&gt;CatalystCatalyst &lt;/li&gt;&lt;li&gt;ZeroTrust&lt;/li&gt;&lt;li&gt;Zero Touch Provisioning&lt;/li&gt;&lt;li&gt;SASE&lt;/li&gt;&lt;li&gt;VRF-structure&lt;/li&gt;&lt;li&gt;IPS&lt;/li&gt;&lt;li&gt;Fiber Infrastructure&lt;/li&gt;&lt;li&gt;Dynamic Routing (ex. OSPF, BGP)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required skills &amp; experience&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Extensive knowledge and experience (min. 5 years) in network design, implementation, and optimization.&lt;/li&gt;&lt;li&gt;In depth knowledge of the mentioned technologies.&lt;/li&gt;&lt;li&gt;Strong security related skills, including IPS, NAC, and security protocols.&lt;/li&gt;&lt;li&gt;Demonstrable experience in coordinating and leading technical teams.&lt;/li&gt;&lt;li&gt;Driver's license B: Possession of a driver's license is necessary&lt;/li&gt;&lt;li&gt;Ability to work in a team and good communication skills.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Educational background&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Completed education with a focus on networking, such as a degree in Computer Science, IT, Network Administration, or a related field.&lt;/li&gt;&lt;li&gt;CCNA certification is required&lt;/li&gt;&lt;li&gt;Certifications such as Cisco Certified Network Professional (CCNP) or equivalent&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;Network design&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;routers &amp; switches&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;NAC solutions&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;email security&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;umbrella&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ZeroTrust&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Zero touch provisioning&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;SASE&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;VRF-Structure&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;IPS&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Dynamic Routing (OSPF, BGP)&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Security protocols&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Next-gen firewalls&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What Interligo offers&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging role within a dynamic and innovative growing company.&lt;/li&gt;&lt;li&gt;Opportunities for personal and professional development.&lt;/li&gt;&lt;li&gt;Competitive salary and benefits.&lt;/li&gt;&lt;li&gt;Working with the latest technologies in an innovative environment.&lt;/li&gt;&lt;li&gt;A team of motivated and knowledgeable colleagues.&lt;/li&gt;&lt;li&gt;Extensive training opportunities and professional development&lt;/li&gt;&lt;li&gt;Working in an innovative environment&lt;/li&gt;&lt;li&gt;Remote work possibilities&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68548221"/>
-    <published>2024-03-25T16:11:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68682857</id>
     <title>Monitoring Engineer/Specialist (Cronos)</title>
@@ -2187,14 +2164,6 @@ Uiterste sollicitatiedatum: zo snel mogelijk&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&g
     <published>2025-09-17T09:35:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71983438</id>
-    <title>Application &amp; Cloud Security Engineer (Evolane)</title>
-    <updated>2025-09-19T07:30:59+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Evolane (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Hier bij Evolane, staat alles in het teken van het optimaliseren van bussiness applicaties in het voordeel van zowel de organisatie als de gebruiker. Onze vernieuwende IT-oplossingen maken applicaties toegankelijk, veilig en performant. We gaan altijd voor een persoonlijke aanpak met een oplossing op maat, zodat onze klanten op hun beide oren kunnen slapen. &lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Ter uitbreiding van het security team zoeken we een nieuwe collega die onze klanten helpt hun applicaties &lt;strong&gt;veiliger én sneller&lt;/strong&gt; te maken. Deze rol is de perfecte opstap voor developers én DevOps-engineers die hun kennis willen uitbreiden richting &lt;strong&gt;application security, performance optimization, observability en edge computing.&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Wat doe je als een Application &amp; Cloud Security Engineer bij Evolane?&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Implementeren en configureren van securityoplossingen zoals:&lt;/li&gt;&lt;/ul&gt;Web Application Firewall (WAF)&lt;br/&gt;Bot management&lt;br/&gt;DDoS-bescherming&lt;br/&gt;DNS-security&lt;br/&gt;Microsegmentatie&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Werken aan delivery-oplossingen zoals streaming (VOD, live) en transcoding.&lt;/li&gt;&lt;li&gt;De vertaalslag maken van applicatiecode naar performantie en beveiliging: begrijpen hoe een applicatie werkt, waar risico’s zitten en hoe deze te mitigeren.&lt;/li&gt;&lt;li&gt;Proactief beveiligen van klantomgevingen en via observability inzichten verzamelen, zodat we deze data kunnen visualiseren, analyseren en er concrete verbeteracties uit halen voor de klant.&lt;/li&gt;&lt;li&gt;Actief meedenken over security-by-design in moderne SecDevOps-omgevingen.&lt;/li&gt;&lt;li&gt;Bijdragen aan onze nieuwe edge-strategie: het uitrollen van code aan de rand van het netwerk voor o.a. paywalls, extra applicatieve controles en andere slimme oplossingen dicht bij de eindgebruiker.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Blue team vs. Red team&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;Bij security onderscheiden we vaak twee perspectieven:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Blue team: verdedigers die systemen beschermen, monitoren en aanvallen detecteren.&lt;/li&gt;&lt;li&gt;Red team: aanvallers die kwetsbaarheden zoeken en misbruiken alsof ze een hacker zijn.&lt;/li&gt;&lt;/ul&gt;Jij versterkt ons blue team. Maar hoe beter je ook de mindset van een red team begrijpt, hoe sterker jij bent in het afweren van aanvallen. Met paars zit je dus ook goed! ;-)&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring met softwareontwikkeling of DevOps en de ambitie om je verder te verdiepen in security en cloud.&lt;/li&gt;&lt;li&gt;Interesse in application security en zin om hierin te groeien.&lt;/li&gt;&lt;li&gt;Je kan zowel zelfstandig als in team werken en deelt graag je kennis met collega’s.&lt;/li&gt;&lt;li&gt;Basiskennis van netwerken en cloudplatformen.&lt;/li&gt;&lt;li&gt;Ervaring met CI/CD-processen is een plus.&lt;/li&gt;&lt;li&gt;Bachelor- of masterdiploma in informatietechnologie, netwerk, cyberbeveiliging. Geen diploma maar wel hetzelfde niveau door je ervaring in het werkveld (min. 5 jaar)? Dan zijn we even goed onder de indruk!&lt;/li&gt;&lt;li&gt;Je bent Nederlandstalig, een goede kennis van het Frans is een pluspunt.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Nice-to-have:&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Programmeerkennis en kennis van meerdere programmeertalen (Python, Javascript/TypeScript).&lt;/li&gt;&lt;li&gt;Ervaring met Akamai security &amp; delivery oplossingen.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met testing technieken.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Waarom Evolane?&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een omgeving waar je kan doorgroeien richting Application &amp; Cloud Security Specialist.&lt;/li&gt;&lt;li&gt;Een hecht team van security-experts die je ondersteunen en uitdagen.&lt;/li&gt;&lt;li&gt;Projecten waar je écht impact hebt op de veiligheid, performantie én snelheid van applicaties.&lt;/li&gt;&lt;li&gt;Innovatieve projecten waarbij je code aan de edge kan inzetten om klantoplossingen slimmer en veiliger te maken.&lt;/li&gt;&lt;li&gt;Een cultuur waarin zelfsturing, kennisdeling, observability en innovatie centraal staan.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Werken bij Evolane ziet er als volgt uit:&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;Je werkdag start met een heerlijke tas koffie of een warme kop thee in onze hub in de Waaslandse regio of gewoon gezellig bij je thuis.&lt;br/&gt;Dagelijks organiseren we een call van maximaal 30 minuten zodat je verneemt wat vandaag op de planning staat bij jou en je collega’s.Het is ineens het ideale moment om openstaande issues te bespreken en vragen te stellen aan je collega’s. &lt;br/&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Naast een aantrekkelijk maandsalaris voorzien we tal van andere voordelen. Een wagen, maaltijd- en nettovergoeding, internet en gsm abonnement, een splinternieuwe MacBook Pro, hospitalisatie- en groepsverzekering, vers fruit op het werk…&lt;br/&gt;Dankzij de constante stroom aan nieuwe opdrachten krijg je meteen de kans om jezelf te ontplooien en zo verder te groeien. Wij voorzien de gepaste opleidingen, zowel online als in binnen- en/of buitenland. &lt;br/&gt;We houden ervan om onze technische kennis te delen met het team, hiervoor organiseren we regelmatig workshops.&lt;br/&gt;Om het Evolane-familiegevoel te behouden voorzien we regelmatig teambuildings en ja…zelfs jaarlijks een event voor het hele gezin!&lt;br/&gt;Verjaardagen, speciale gelegenheden, jubilea…vergeten we niet. Evolane voorziet dan steeds een kleine attentie want voor familie en vrienden doe je dit toch ook, niet?&lt;br/&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71983438"/>
-    <published>2025-09-18T16:16:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71994195</id>
     <title>26* - Medior BI Data Analyst (Visser &amp; Van Baars)</title>
     <updated>2025-09-19T16:31:27+00:00</updated>
@@ -3853,5 +3822,100 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
 &lt;p data-start="317" data-end="395"&gt;Samenwerken met een gemotiveerde team en sympathieke collega's&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72291576"/>
     <published>2025-10-27T12:50:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72294986</id>
+    <title>Microsoft Security Engineer (Medior/Senior) (Randstad Digital)</title>
+    <updated>2025-10-27T17:18:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Evere&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij een gemotiveerd en leergierig &lt;b&gt;Microsoft Security Engineer&lt;/b&gt; met een passie voor cybersecurity? Bij Randstad Digital zoeken we een enthousiaste professional om ons team te versterken. In deze uitdagende rol krijg je de kans om je kennis van Microsoft-beveiligingsoplossingen verder te ontwikkelen en een directe bijdrage te leveren aan een robuuste en veilige IT-omgeving bij één van onze &lt;b&gt;toonaangevende klanten&lt;/b&gt; in de telecomsector. Je bent betrokken bij het ontwerp, de implementatie en het beheer van geavanceerde security-oplossingen en werkt nauw samen met een team van ervaren IT-professionals&lt;br /&gt;
+
+ &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Locatie: Regio Brussel (Evere), Hybride (2 dagen per week thuiswerk mogelijk)
+&lt;/li&gt;
+
+&lt;li&gt;Ervaring: Medior/Senior profiel, met aantoonbare ervaring in Microsoft Security oplossingen.
+&lt;/li&gt;
+
+&lt;li&gt;Opleiding: Bachelor of Master in een IT-gerelateerde richting of gelijkwaardig door ervaring.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Jouw Taken:&lt;/b&gt;&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Implementeren en configureren van Microsoft Defender-oplossingen (bv. Defender for Endpoint, Defender for Identity, Defender for Cloud Apps).
+&lt;/li&gt;
+
+&lt;li&gt;Beheren en monitoren van beveiligingssystemen en dashboards.
+&lt;/li&gt;
+
+&lt;li&gt;Troubleshooting en oplossen van beveiligingsincidenten en gerelateerde problemen.
+&lt;/li&gt;
+
+&lt;li&gt;Bijdragen aan de ontwikkeling en het onderhoud van beveiligingsbeleid en procedures.
+&lt;/li&gt;
+
+&lt;li&gt;Samenwerken met andere IT-teams om security best practices te implementeren.
+&lt;/li&gt;
+
+&lt;li&gt;Documenteren van beveiligingsconfiguraties en processen.
+&lt;/li&gt;
+
+&lt;li&gt;Proactief bijdragen aan de continue verbetering van de algehele beveiligingshouding (security posture).
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Jouw Profiel:&lt;/b&gt;&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Certificeringen: &lt;b&gt;SC-900&lt;/b&gt; (Microsoft Security, Compliance, and Identity Fundamentals) en &lt;b&gt;SC-200&lt;/b&gt; (Microsoft Security Operations Analyst) zijn een must-have.
+&lt;/li&gt;
+
+&lt;li&gt;Solide kennis van en ervaring met Microsoft Defender-oplossingen. (Focusdomeinen: IAM, Security Defender, Endpoint, Device Management.)
+&lt;/li&gt;
+
+&lt;li&gt;Sterke motivatie en leergierigheid om je verder te verdiepen in Microsoft Security-domeinen.
+&lt;/li&gt;
+
+&lt;li&gt;Goede communicatieve vaardigheden, zowel mondeling als schriftelijk, in het &lt;b&gt;Nederlands en Engels&lt;/b&gt;. Kennis van Frans is een pluspunt.
+&lt;/li&gt;
+
+&lt;li&gt;Bereidheid om in de &lt;b&gt;Regio Brussel (Evere)&lt;/b&gt; te werken, met flexibiliteit voor thuiswerk (2 dagen per week).
+&lt;/li&gt;
+
+&lt;li&gt;Sterke analytische en probleemoplossende vaardigheden.
+&lt;/li&gt;
+
+&lt;li&gt;Een proactieve houding en het vermogen om zowel zelfstandig als in teamverband te werken.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72294986"/>
+    <published>2025-10-27T17:18:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72294781</id>
+    <title>Freelance Functioneel Analist  (Kwery)</title>
+    <updated>2025-10-27T17:08:41+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Dit bedrijf is een snelgroeiende software consultancy in Mechelen gespecialiseerd in greenfield projecten voor op maat gemaakte mobiele applicaties. Dankzij een toenemend aantal projecten zijn ze op zoek naar een Freelance Functioneel Analist. &lt;/p&gt;&lt;p dir="ltr"&gt;Opgericht door 2 consultants richten ze zich vooral op de belangen van hun eigen medewerkers. Ze weten wat er nodig is en vertrekken steeds vanuit een op maat gemaakte groeiplan (certificaten, cursussen, on-the-job ondersteuning,...). &lt;/p&gt;&lt;p dir="ltr"&gt;Projecten hebben meestal een doorlooptijd van minimaal 1 jaar, maar meestal is dit nog heel wat langer.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Je vormt de brug tussen hun op maat gemaakte mobiele applicaties voor klanten, van concept tot implementatie.&lt;/li&gt;&lt;li&gt;Samenwerken met klanten om hun behoeften en vereisten te analyseren en te begrijpen.&lt;/li&gt;&lt;li&gt;Opstellen van gedetailleerde functionele specificaties en documentatie. Vertalen van functionele specificaties naar technische teams en het bieden van de nodige ondersteuning tijdens de ontwikkelingsfase.&lt;/li&gt;&lt;li&gt;Identificeren en oplossen van problemen en het bieden van creatieve oplossingen om de kwaliteit van de opgeleverde applicaties te waarborgen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Je hebt minimaal 5 jaar ervaring als Functioneel Analist &lt;/li&gt;&lt;li&gt;Kennis van BPMN, UML,&lt;/li&gt;&lt;li&gt;Je hebt ervaring binnen een Agile omgeving &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;DR: +- 550/dag&lt;/li&gt;&lt;li&gt;Tal van leuke bedrijfsactiviteiten, zoals jaarlijkse tech-evenementen en verschillende avondfeesten met eten op locatie!&lt;/li&gt;&lt;li&gt;Ze zorgen ervoor dat je voortdurend kan blijven groeien en ontwikkelen via een opleidingsbudget voor cursussen en extra certificaten.&lt;/li&gt;&lt;li&gt;On-the-job begeleiding en onboarding via een persoonlijk uitgewerkt programma met een peter of meter systeem, zo zit je snel aan het stuur in je nieuwe uitdaging/project!&lt;/li&gt;&lt;li&gt;Een ervaren management, die weet wat consultants belangrijk vinden en hier zich volledig op focust!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72294781"/>
+    <published>2025-10-27T17:08:41+00:00</published>
   </entry>
 </feed>
