@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-28T08:49:03.707238+00:00</updated>
+  <updated>2025-10-28T10:45:41.720034+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3824,98 +3824,100 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <published>2025-10-27T12:50:06+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72294986</id>
-    <title>Microsoft Security Engineer (Medior/Senior) (Randstad Digital)</title>
-    <updated>2025-10-27T17:18:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Evere&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij een gemotiveerd en leergierig &lt;b&gt;Microsoft Security Engineer&lt;/b&gt; met een passie voor cybersecurity? Bij Randstad Digital zoeken we een enthousiaste professional om ons team te versterken. In deze uitdagende rol krijg je de kans om je kennis van Microsoft-beveiligingsoplossingen verder te ontwikkelen en een directe bijdrage te leveren aan een robuuste en veilige IT-omgeving bij één van onze &lt;b&gt;toonaangevende klanten&lt;/b&gt; in de telecomsector. Je bent betrokken bij het ontwerp, de implementatie en het beheer van geavanceerde security-oplossingen en werkt nauw samen met een team van ervaren IT-professionals&lt;br /&gt;
-
- &lt;br /&gt;
-
- &lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Locatie: Regio Brussel (Evere), Hybride (2 dagen per week thuiswerk mogelijk)
-&lt;/li&gt;
-
-&lt;li&gt;Ervaring: Medior/Senior profiel, met aantoonbare ervaring in Microsoft Security oplossingen.
-&lt;/li&gt;
-
-&lt;li&gt;Opleiding: Bachelor of Master in een IT-gerelateerde richting of gelijkwaardig door ervaring.
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
- &lt;br /&gt;
-
- &lt;br /&gt;
-
-&lt;b&gt;Jouw Taken:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Implementeren en configureren van Microsoft Defender-oplossingen (bv. Defender for Endpoint, Defender for Identity, Defender for Cloud Apps).
-&lt;/li&gt;
-
-&lt;li&gt;Beheren en monitoren van beveiligingssystemen en dashboards.
-&lt;/li&gt;
-
-&lt;li&gt;Troubleshooting en oplossen van beveiligingsincidenten en gerelateerde problemen.
-&lt;/li&gt;
-
-&lt;li&gt;Bijdragen aan de ontwikkeling en het onderhoud van beveiligingsbeleid en procedures.
-&lt;/li&gt;
-
-&lt;li&gt;Samenwerken met andere IT-teams om security best practices te implementeren.
-&lt;/li&gt;
-
-&lt;li&gt;Documenteren van beveiligingsconfiguraties en processen.
-&lt;/li&gt;
-
-&lt;li&gt;Proactief bijdragen aan de continue verbetering van de algehele beveiligingshouding (security posture).
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
- &lt;br /&gt;
-
- &lt;br /&gt;
-
-&lt;b&gt;Jouw Profiel:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Certificeringen: &lt;b&gt;SC-900&lt;/b&gt; (Microsoft Security, Compliance, and Identity Fundamentals) en &lt;b&gt;SC-200&lt;/b&gt; (Microsoft Security Operations Analyst) zijn een must-have.
-&lt;/li&gt;
-
-&lt;li&gt;Solide kennis van en ervaring met Microsoft Defender-oplossingen. (Focusdomeinen: IAM, Security Defender, Endpoint, Device Management.)
-&lt;/li&gt;
-
-&lt;li&gt;Sterke motivatie en leergierigheid om je verder te verdiepen in Microsoft Security-domeinen.
-&lt;/li&gt;
-
-&lt;li&gt;Goede communicatieve vaardigheden, zowel mondeling als schriftelijk, in het &lt;b&gt;Nederlands en Engels&lt;/b&gt;. Kennis van Frans is een pluspunt.
-&lt;/li&gt;
-
-&lt;li&gt;Bereidheid om in de &lt;b&gt;Regio Brussel (Evere)&lt;/b&gt; te werken, met flexibiliteit voor thuiswerk (2 dagen per week).
-&lt;/li&gt;
-
-&lt;li&gt;Sterke analytische en probleemoplossende vaardigheden.
-&lt;/li&gt;
-
-&lt;li&gt;Een proactieve houding en het vermogen om zowel zelfstandig als in teamverband te werken.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72294986"/>
-    <published>2025-10-27T17:18:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72294781</id>
     <title>Freelance Functioneel Analist  (Kwery)</title>
     <updated>2025-10-27T17:08:41+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Dit bedrijf is een snelgroeiende software consultancy in Mechelen gespecialiseerd in greenfield projecten voor op maat gemaakte mobiele applicaties. Dankzij een toenemend aantal projecten zijn ze op zoek naar een Freelance Functioneel Analist. &lt;/p&gt;&lt;p dir="ltr"&gt;Opgericht door 2 consultants richten ze zich vooral op de belangen van hun eigen medewerkers. Ze weten wat er nodig is en vertrekken steeds vanuit een op maat gemaakte groeiplan (certificaten, cursussen, on-the-job ondersteuning,...). &lt;/p&gt;&lt;p dir="ltr"&gt;Projecten hebben meestal een doorlooptijd van minimaal 1 jaar, maar meestal is dit nog heel wat langer.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Je vormt de brug tussen hun op maat gemaakte mobiele applicaties voor klanten, van concept tot implementatie.&lt;/li&gt;&lt;li&gt;Samenwerken met klanten om hun behoeften en vereisten te analyseren en te begrijpen.&lt;/li&gt;&lt;li&gt;Opstellen van gedetailleerde functionele specificaties en documentatie. Vertalen van functionele specificaties naar technische teams en het bieden van de nodige ondersteuning tijdens de ontwikkelingsfase.&lt;/li&gt;&lt;li&gt;Identificeren en oplossen van problemen en het bieden van creatieve oplossingen om de kwaliteit van de opgeleverde applicaties te waarborgen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Je hebt minimaal 5 jaar ervaring als Functioneel Analist &lt;/li&gt;&lt;li&gt;Kennis van BPMN, UML,&lt;/li&gt;&lt;li&gt;Je hebt ervaring binnen een Agile omgeving &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;DR: +- 550/dag&lt;/li&gt;&lt;li&gt;Tal van leuke bedrijfsactiviteiten, zoals jaarlijkse tech-evenementen en verschillende avondfeesten met eten op locatie!&lt;/li&gt;&lt;li&gt;Ze zorgen ervoor dat je voortdurend kan blijven groeien en ontwikkelen via een opleidingsbudget voor cursussen en extra certificaten.&lt;/li&gt;&lt;li&gt;On-the-job begeleiding en onboarding via een persoonlijk uitgewerkt programma met een peter of meter systeem, zo zit je snel aan het stuur in je nieuwe uitdaging/project!&lt;/li&gt;&lt;li&gt;Een ervaren management, die weet wat consultants belangrijk vinden en hier zich volledig op focust!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72294781"/>
     <published>2025-10-27T17:08:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72298823</id>
+    <title>AI &amp; Automation Engineer (Connect Consulting BV)</title>
+    <updated>2025-10-28T10:09:12+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Connect Consulting BV (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mortsel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-start="239" data-end="555"&gt;Ben jij klaar voor een nieuwe uitdaging? 
+&lt;br data-start="279" data-end="282" /&gt; Onze klant in de regio 
+&lt;strong data-start="305" data-end="325"&gt;Mortsel / Edegem&lt;/strong&gt; is op zoek naar een 
+&lt;strong data-start="346" data-end="364"&gt;Lead Developer&lt;/strong&gt; om op 
+&lt;strong data-start="368" data-end="401"&gt;Python-gebaseerde applicaties&lt;/strong&gt; te ontwikkelen die interne processen optimaliseren en 
+&lt;strong data-start="456" data-end="511"&gt;intelligente automatisering en AI-functionaliteiten&lt;/strong&gt; integreren waar dat een meerwaarde biedt.&lt;/p&gt; 
+&lt;p data-start="557" data-end="744"&gt;In deze rol neem je het voortouw in de technische richting, werk je nauw samen met de business en help je oplossingen uit te bouwen, van concept tot implementatie.&lt;/p&gt; 
+&lt;p data-start="746" data-end="774"&gt;&lt;strong data-start="746" data-end="772"&gt;Wat mag je verwachten?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="775" data-end="1069"&gt; 
+&lt;li data-start="775" data-end="835"&gt; 
+&lt;p data-start="777" data-end="835"&gt;Een 
+&lt;strong data-start="781" data-end="804"&gt;impactvolle functie&lt;/strong&gt; met veel technische vrijheid&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="836" data-end="915"&gt; 
+&lt;p data-start="838" data-end="915"&gt;&lt;strong data-start="838" data-end="859"&gt;Hybride werkvorm:&lt;/strong&gt; slechts 
+&lt;strong data-start="868" data-end="897"&gt;1 dag per week op kantoor&lt;/strong&gt;, de rest remote&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="916" data-end="977"&gt; 
+&lt;p data-start="918" data-end="977"&gt;Mogelijkheid om te werken als 
+&lt;strong data-start="948" data-end="975"&gt;werknemer of freelancer&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="978" data-end="1003"&gt; 
+&lt;p data-start="980" data-end="1003"&gt;&lt;strong data-start="980" data-end="990"&gt;Start:&lt;/strong&gt; begin 2026&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1004" data-end="1069"&gt; 
+&lt;p data-start="1006" data-end="1069"&gt;&lt;strong data-start="1006" data-end="1034"&gt;Aantrekkelijke verloning&lt;/strong&gt; en een stimulerende werkomgeving&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Ben jij gepassioneerd door Python, automatisering en het bouwen van slimme tools die echt het verschil maken? Dan is dit misschien wel jouw volgende stap!&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong data-start="156" data-end="195"&gt;Belangrijkste verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="199" data-end="1054"&gt; 
+&lt;li data-start="199" data-end="400"&gt; 
+&lt;p data-start="201" data-end="400"&gt;Ontwikkelen van op maat gemaakte
+&lt;strong data-start="217" data-end="256"&gt; Python-applicaties&lt;/strong&gt; ter ondersteuning van interne automatisering en workflows, en bepalen welke aanpak het beste is (bijv. n8n, Make.com of een eigen oplossing).&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="401" data-end="487"&gt; 
+&lt;p data-start="403" data-end="487"&gt;Integreren van 
+&lt;strong data-start="418" data-end="444"&gt;externe tools en API’s&lt;/strong&gt; (zoals Exact Online, Outlook, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="488" data-end="677"&gt; 
+&lt;p data-start="490" data-end="677"&gt;Implementeren van 
+&lt;strong data-start="508" data-end="532"&gt;AI-functionaliteiten&lt;/strong&gt; met OpenAI of vergelijkbare Large Language Model API’s (bijv. samenvatting van teksten, e-mailgeneratie, classificatie en documentverwerking).&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="678" data-end="746"&gt; 
+&lt;p data-start="680" data-end="746"&gt;Opzetten van een 
+&lt;strong data-start="697" data-end="728"&gt;veilige cloudinfrastructuur&lt;/strong&gt; (voorkeur AWS).&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="747" data-end="855"&gt; 
+&lt;p data-start="749" data-end="855"&gt;&lt;strong data-start="749" data-end="800"&gt;Samenwerken met de COO en business stakeholders&lt;/strong&gt; om hun behoeften te vertalen naar werkende software.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="856" data-end="945"&gt; 
+&lt;p data-start="858" data-end="945"&gt;Opbouwen en beheren van 
+&lt;strong data-start="882" data-end="921"&gt;interne databases en logische lagen&lt;/strong&gt; voor opvolgingstools.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="946" data-end="1054"&gt; 
+&lt;p data-start="948" data-end="1054"&gt;Ondersteunen van 
+&lt;strong data-start="965" data-end="989"&gt;lichte R&amp;amp;D-projecten&lt;/strong&gt; rond prijszettingstools en documentlogica met behulp van LLMs.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong data-start="1065" data-end="1085"&gt;Profielvereisten:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="1089" data-end="1791"&gt; 
+&lt;li data-start="1089" data-end="1145"&gt; 
+&lt;p data-start="1091" data-end="1145"&gt;Minimaal 
+&lt;strong data-start="1100" data-end="1119"&gt;5 jaar ervaring&lt;/strong&gt;&lt;strong&gt; in Python-ontwikkeling.&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1146" data-end="1213"&gt; 
+&lt;p data-start="1148" data-end="1213"&gt;Sterke kennis van 
+&lt;strong data-start="1166" data-end="1210"&gt;API-integraties en automatiseringslogica&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1214" data-end="1305"&gt; 
+&lt;p data-start="1216" data-end="1305"&gt;Ervaring met het 
+&lt;strong data-start="1233" data-end="1275"&gt;implementeren van LLMs of AI-workflows&lt;/strong&gt; in praktische toepassingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1306" data-end="1409"&gt; 
+&lt;p data-start="1308" data-end="1409"&gt;&lt;strong data-start="1308" data-end="1346"&gt;Sterke communicatieve vaardigheden&lt;/strong&gt;, in staat om direct met business stakeholders af te stemmen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1410" data-end="1497"&gt; 
+&lt;p data-start="1412" data-end="1497"&gt;&lt;strong data-start="1412" data-end="1445"&gt;Autonome en flexibele mindset&lt;/strong&gt;, gewend aan werken in kleinere, agile omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1498" data-end="1586"&gt; 
+&lt;p data-start="1500" data-end="1586"&gt;Ervaring met het 
+&lt;strong data-start="1517" data-end="1568"&gt;opzetten van veilige, cloud-gebaseerde backends&lt;/strong&gt; (voorkeur AWS).&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1587" data-end="1701"&gt; 
+&lt;p data-start="1589" data-end="1701"&gt;&lt;strong data-start="1589" data-end="1612"&gt;Leergierige houding&lt;/strong&gt;: onderhoud en optimalisatie zie je als kansen om je vakmanschap verder te ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="1702" data-end="1791"&gt; 
+&lt;p data-start="1704" data-end="1791"&gt;&lt;strong data-start="1704" data-end="1714"&gt;Bonus:&lt;/strong&gt; ervaring in gereguleerde sectoren, logistiek of hoogbeveiligde omgevingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong data-start="95" data-end="121"&gt;Wat mag je verwachten?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="124" data-end="594"&gt; 
+&lt;li data-start="124" data-end="231"&gt; 
+&lt;p data-start="126" data-end="231"&gt;&lt;strong data-start="126" data-end="148"&gt;Freelan&lt;/strong&gt;&lt;strong&gt;ce of werknemersopdrach&lt;/strong&gt;t met een 
+&lt;strong data-start="157" data-end="184"&gt;langetermijnperspectief:&lt;/strong&gt; stabiliteit gecombineerd met flexibiliteit&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="232" data-end="337"&gt; 
+&lt;p data-start="234" data-end="337"&gt;&lt;strong data-start="234" data-end="255"&gt;Hybride werkvorm:&lt;/strong&gt; grotendeels remote, slechts 
+&lt;strong data-start="284" data-end="313"&gt;1 dag per week op kantoor&lt;/strong&gt; in de Antwerpse regio&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="338" data-end="408"&gt; 
+&lt;p data-start="340" data-end="408"&gt;&lt;strong data-start="340" data-end="350"&gt;Start:&lt;/strong&gt; Q1 2026 : voldoende tijd om je volgende stap te plannen&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="409" data-end="498"&gt; 
+&lt;p data-start="411" data-end="498"&gt;&lt;strong data-start="411" data-end="457"&gt;Directe samenwerking met beslissingsmakers&lt;/strong&gt; : snelle feedback, geen onnodige lagen&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="499" data-end="594"&gt; 
+&lt;p data-start="501" data-end="594"&gt;&lt;strong data-start="501" data-end="546"&gt;Vrijheid om de architectuur vorm te geven&lt;/strong&gt; en belangrijke 
+&lt;strong data-start="562" data-end="583"&gt;technische keuzes&lt;/strong&gt; te maken&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="499" data-end="594"&gt; 
+&lt;p data-start="501" data-end="594"&gt;&lt;strong data-start="597" data-end="622"&gt;Aantrekkelijk salaris&lt;/strong&gt; passend bij jouw ervaring en expertise&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72298823"/>
+    <published>2025-10-28T10:09:12+00:00</published>
   </entry>
 </feed>
