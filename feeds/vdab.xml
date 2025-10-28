@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-28T10:45:41.720034+00:00</updated>
+  <updated>2025-10-28T13:01:10.928786+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68548221</id>
+    <title>Medior/Senior Network &amp; Security Consultant (Cronos)</title>
+    <updated>2025-10-13T00:01:44+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Are you an enthusiastic and experienced professional in the field of network &amp; security? Are you looking for a challenging role where you can leverage your expertise and continue to grow? Then we have the perfect opportunity for you at Interligo!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Network Consultant, you will be responsible for providing expert advice and support to our clients in designing, implementing, and optimizing their network infrastructures. You will work closely with clients to understand their business requirements, assess their current network setup, and develop tailored solutions to meet their needs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Network &amp; Security Consultant, you are responsible for designing and implementing network projects, including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Network Design and Implementation&lt;/strong&gt;: Defining and implementing advanced network architectures, including Cisco Routers and Switches, Next Gen Firewalls, Wireless devices, A10 Loadbalancer, and other technologies.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technical Consultation&lt;/strong&gt;: Acting as a technical advisor to the client, providing insights into best practices and strategies for network optimization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Security Solutions&lt;/strong&gt;: Designing and implementing advanced security measures, such as Intrusion Prevention Systems (IPS), Network Access Control (NAC), and other advanced security applications.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Collaboration with Other Departments&lt;/strong&gt;: Working closely with other departments within the company&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Knowledge Transfer&lt;/strong&gt;: Sharing expertise and providing technical transfer to junior team members.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You work with the following vendors:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cisco&lt;/li&gt;&lt;li&gt;Palo Alto&lt;/li&gt;&lt;li&gt;Fortinet&lt;/li&gt;&lt;li&gt;A10&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You will work with the following technologies&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Routers and Switches&lt;/li&gt;&lt;li&gt;Next Gen Firewalls&lt;/li&gt;&lt;li&gt;Wireless devices&lt;/li&gt;&lt;li&gt;NAC solutions&lt;/li&gt;&lt;li&gt;Datacenter devices&lt;/li&gt;&lt;li&gt;Email Security&lt;/li&gt;&lt;li&gt;Advanced Malware Protection for Endpoints&lt;/li&gt;&lt;li&gt;Umbrella&lt;/li&gt;&lt;li&gt;CatalystCatalyst &lt;/li&gt;&lt;li&gt;ZeroTrust&lt;/li&gt;&lt;li&gt;Zero Touch Provisioning&lt;/li&gt;&lt;li&gt;SASE&lt;/li&gt;&lt;li&gt;VRF-structure&lt;/li&gt;&lt;li&gt;IPS&lt;/li&gt;&lt;li&gt;Fiber Infrastructure&lt;/li&gt;&lt;li&gt;Dynamic Routing (ex. OSPF, BGP)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required skills &amp; experience&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Extensive knowledge and experience (min. 5 years) in network design, implementation, and optimization.&lt;/li&gt;&lt;li&gt;In depth knowledge of the mentioned technologies.&lt;/li&gt;&lt;li&gt;Strong security related skills, including IPS, NAC, and security protocols.&lt;/li&gt;&lt;li&gt;Demonstrable experience in coordinating and leading technical teams.&lt;/li&gt;&lt;li&gt;Driver's license B: Possession of a driver's license is necessary&lt;/li&gt;&lt;li&gt;Ability to work in a team and good communication skills.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Educational background&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Completed education with a focus on networking, such as a degree in Computer Science, IT, Network Administration, or a related field.&lt;/li&gt;&lt;li&gt;CCNA certification is required&lt;/li&gt;&lt;li&gt;Certifications such as Cisco Certified Network Professional (CCNP) or equivalent&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;Network design&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;routers &amp; switches&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;NAC solutions&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;email security&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;umbrella&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;ZeroTrust&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Zero touch provisioning&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;SASE&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;VRF-Structure&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;IPS&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Dynamic Routing (OSPF, BGP)&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Security protocols&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Next-gen firewalls&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What Interligo offers&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging role within a dynamic and innovative growing company.&lt;/li&gt;&lt;li&gt;Opportunities for personal and professional development.&lt;/li&gt;&lt;li&gt;Competitive salary and benefits.&lt;/li&gt;&lt;li&gt;Working with the latest technologies in an innovative environment.&lt;/li&gt;&lt;li&gt;A team of motivated and knowledgeable colleagues.&lt;/li&gt;&lt;li&gt;Extensive training opportunities and professional development&lt;/li&gt;&lt;li&gt;Working in an innovative environment&lt;/li&gt;&lt;li&gt;Remote work possibilities&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68548221"/>
+    <published>2024-03-25T16:11:34+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68682857</id>
     <title>Monitoring Engineer/Specialist (Cronos)</title>
@@ -838,62 +861,6 @@
 &lt;p&gt;&lt;span&gt;Ten slotte geniet je bij Vlaanderen connect nog van verschillende andere voordelen: je werkt bij entiteiten van de Vlaamse overheid of bij lokale besturen voor lange termijn. Zo kan je meewerken aan een digitale en slagkrachtige overheid, voor burgers en ondernemers. Daarnaast kan je doorgroeien en jezelf ontwikkelen door het enorme potentieel aan uitdagende functies via Vlaanderen connect bij de Vlaamse overheid en de lokale besturen.&lt;/span&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71018700"/>
     <published>2025-05-08T09:17:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71121430</id>
-    <title>Sales Force Functional Lead - Teammanager met analytische en technische expertise (FCR MEDIA BELGIUM)</title>
-    <updated>2025-10-09T14:09:40+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: FCR MEDIA BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben jij een leider die graag inhoudelijk betrokken blijft? Combineer je moeiteloos &lt;strong&gt;visie, structuur én een hands-on aanpak&lt;/strong&gt;? Dan is deze rol jou op het lijf geschreven.&lt;/p&gt;
-
-&lt;p&gt;Als &lt;strong&gt;Salesforce Functional Lead&lt;/strong&gt; neem je de dagelijkse leiding over het Salesforce delivery team, bestaande uit product owners, analisten en testers en coördineer je dit met onze vaste partner voor ontwikkeling.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Je combineert teammanagement met een hands-on rol:&lt;/strong&gt; je voert zelf analyses uit naar de beste technische oplossing, denkt mee over functionele vereisten en draagt actief bij aan de optimalisatie van processen en systemen. Je vertaalt de strategische visie van de organisatie naar concrete roadmaps en begeleidt je team bij de uitvoering ervan.&lt;/p&gt;
-
-&lt;p&gt;Je bent het aanspreekpunt voor business én technologie, en rapporteert rechtstreeks aan de Head of Technology &amp; Data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Aansturen, coachen en motiveren van een team van ongeveer 8&lt;strong&gt; &lt;/strong&gt;medewerkers en externe contractoren;&lt;/li&gt;
-	&lt;li&gt;Zelf meewerken aan de analyse en ontwerp van IT-oplossingen;&lt;/li&gt;
-	&lt;li&gt;Fungeren als eerste aanspreekpunt binnen je domein en actief beheren van issues en verbeterpunten;&lt;/li&gt;
-	&lt;li&gt;Zorgen voor een duidelijke prioritering, planning en opvolging van projecten, changes en incidenten, volgens een agile manier van werken;&lt;/li&gt;
-	&lt;li&gt;Vertalen van functionele noden naar heldere technische oplossingen volgens best practices, in overleg met interne stakeholders en externe partners;&lt;/li&gt;
-	&lt;li&gt;Werken aan de stabiliteit, schaalbaarheid en innovatie van de bestaande IT-oplossingen;&lt;/li&gt;
-	&lt;li&gt;Verantwoordelijkheid dragen voor volledige documentatie van de oplossingen;&lt;/li&gt;
-	&lt;li&gt;Regelmatig overleg en afstemming met de Head of Technology &amp; Data rond roadmap-uitvoering en teamstrategie;&lt;/li&gt;
-	&lt;li&gt;Begeleiden van teamleden in hun ontwikkeling via coaching, 1-op-1’s en feedbackmomenten.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-	&lt;li&gt;Je beschikt over een diploma van een professionele bachelor of master in een relevante richting (bv. Bedrijfsmanagement, Toegepaste Informatica, Handelswetenschappen, ...);&lt;/li&gt;
-	&lt;li&gt;Je spreekt en schrijft vloeiend Nederlands en Engels, Frans is een pluspunt;&lt;/li&gt;
-	&lt;li&gt;Je hebt minstens 3 jaar ervaring in een gelijkaardige functie met zowel leidinggevende als technische verantwoordelijkheden;&lt;/li&gt;
-	&lt;li&gt;Je bent sterk in analyseren, structureren en communiceren met zowel technische als niet-technische stakeholders;&lt;/li&gt;
-	&lt;li&gt;Je hebt ervaring met IT-projecten, functionele analyse en/of softwareontwikkeling;&lt;/li&gt;
-	&lt;li&gt;Je hebt kennis van het Salesforce platform, bij voorkeur van Sales Cloud, Service Cloud, CPQ en Billing. Certificeringen zijn een pluspunt;&lt;/li&gt;
-	&lt;li&gt;Je bent vertrouwd met Agile/Scrum of andere softwareontwikkelmethodologieën;&lt;/li&gt;
-	&lt;li&gt;Je bent oplossingsgericht, ondernemend en hebt een groot verantwoordelijkheidsgevoel.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
-	&lt;li&gt;Een uitdagende rol met veel afwisseling en impact;&lt;/li&gt;
-	&lt;li&gt;Een centrale positie in een team dat werkt op het snijvlak van business en technologie;&lt;/li&gt;
-	&lt;li&gt;Ruimte voor initiatief en professionele groei ;&lt;/li&gt;
-	&lt;li&gt;Werken in een moderne technologische omgeving, met focus op cloud software, in samenwerking met betrouwbare partners;&lt;/li&gt;
-	&lt;li&gt;Een aantrekkelijk &amp; competitief salarispakket incl. 13de maand, smartphone, bedrijfswagen,  bonussysteem, hospitalisatie - en ambulante zorgverzekering, pensioenplan, vakantiegeld aan 100% (i.p.v. de wettelijke 92%), ecocheques, 8€ maaltijdcheques.&lt;/li&gt;
-	&lt;li&gt;Ondergrondse parking, afgesloten fietsenstalling en douches.&lt;/li&gt;
-	&lt;li&gt;Glijdende werkuren.&lt;/li&gt;
-	&lt;li&gt;Een hybride werkmodel met mogelijkheid tot thuiswerk na je inwerkperiode.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71121430"/>
-    <published>2025-05-23T00:56:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71163573</id>
