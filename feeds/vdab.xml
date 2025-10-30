@@ -2,20 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-30T08:50:11.506666+00:00</updated>
+  <updated>2025-10-30T10:45:01.332061+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084450</id>
-    <title>Freelance DevOps Automation Engineer (Cronos)</title>
-    <updated>2025-10-17T00:04:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben je een freelance consultant? Klaar voor een nieuwe uitdaging?&lt;/p&gt;&lt;p&gt;Of wil je je netwerk uitbouwen en als IT professional op de hoogte blijven van interessante opdrachten?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fieldside levert enterprise en technologische oplossingen én de daarbij horende consultancy diensten. Wij detacheren specialisten, voeren volledige ICT-projecten uit en nemen de volledige outsourcing van IT-diensten voor onze rekening. Wij kunnen rekenen op een solide klantportfolio voor wie we in directe lijn een brede variëteit aan opdrachten uitvoeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Om continuïteit en flexibiliteit te kunnen garanderen, om aan alle staffing behoeften te voldoen en om aan de vraag naar specifieke, additionele expertise in te willigen werkt Fieldside met freelancers.&lt;/p&gt;&lt;p&gt;Onze freelance pool is een belangrijke troef om tegemoet te komen aan de behoeften van onze klanten!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn permanent op zoek naar enthousiaste en ervaren IT’ers om interessante opdrachten uit te voeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn nu specifiek op zoek naar een DevOps Automation Engineer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;De job:&lt;/p&gt;&lt;p&gt;Als DevOps Automation Engineer maak je deel uit van ons team en werk je aan verschillende soorten projecten. Je werkt aan het automatiseren van de IT-infrastructuur, CI/CD-projecten, cloudmigratie en cloudtransformatieprojecten. Je werkt zowel op ons kantoor als bij de klant.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Gewenste skills:&lt;/p&gt;&lt;p&gt;* Ervaring of interesse in configuration management tools zoals Puppet, Terraform en/of Ansible is voor ons een must&lt;/p&gt;&lt;p&gt;* Een sterke interesse in de DevOps-lifestyleis belangrijk&lt;/p&gt;&lt;p&gt;* Ervaring met tools als GitLab/GitHub, Jenkins en/of Bamboo&lt;/p&gt;&lt;p&gt;* Je beheerst virtualisatie en containerisatie en je wilt je graag verder verdiepen in tools zoals Docker, Kubernetes, VMWare&lt;/p&gt;&lt;p&gt;* Scripting met Perl, Python en/of Ruby is iets dat je graag doet en waar je je prettig bij voelt&lt;/p&gt;&lt;p&gt;* Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw aanpak&lt;/p&gt;&lt;p&gt;* Je bent leergierig en blijft graag op de hoogte van de nieuwste tools en technologieën&lt;/p&gt;&lt;p&gt;* Je bent een teamspeler en deelt graag je kennis met het team&lt;/p&gt;&lt;p&gt;* Je beschikt over sterke communicatieve vaardigheden en streeft altijd naar de beste oplossing&lt;/p&gt;&lt;p&gt;* Last but not least… een goed gevoel voor humor is een must en je bent niet bang voor enige zelfreflectie&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084450"/>
-    <published>2024-07-02T09:28:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
     <title>Freelance Data Engineer (Cronos)</title>
@@ -3920,5 +3909,43 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Compusearch (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;As a Solution Architect, you help shape the application landscape and information systems in line with the vision and strategy of the company.&amp;nbsp;&lt;/p&gt;&lt;p&gt;You are responsible for all aspects of solution architecture, from the funnel phase through to delivery.&lt;/p&gt;&lt;p&gt;In addition, you will be responsible for:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Regularly meeting with internal and external stakeholders to gain a deep understanding of business needs and requirements, and translating them into solution design alternatives.&lt;/li&gt;&lt;li&gt;Driving well-founded decisions on the best solution design alternative to move forward with.&lt;/li&gt;&lt;li&gt;Creating a complete end-to-end architectural solution for a project, which you will discuss with internal and external stakeholders. You analyze needs and translate them into solutions and alternatives, which you then structure into a transformation roadmap (including a proposal for a Proof of Concept and Minimum Viable Product) and document through architectural deliverables.&lt;/li&gt;&lt;li&gt;Contributing to a long-term vision regarding application modernization and rationalization, taking into account both the impact on the organization and market evolutions.&lt;/li&gt;&lt;li&gt;Supporting the establishment and enforcement of architectural guardrails within the organization to ensure an application landscape that can continue to evolve, grow, and remain maintainable.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Informing stakeholders about the complexity and key cost drivers of an initiative, discussing and challenging them where necessary.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You are a strong communicator and enjoys interacting with business stakeholders to fully understand their needs.&lt;/li&gt;&lt;li&gt;You can translate evolving business requirements into an end-to-end architectural solution design within a complex and extensive application landscape.&lt;/li&gt;&lt;li&gt;You have a&amp;nbsp;solid technical knowledge—particularly regarding application systems and Software Development Lifecycle (SDLC) methodologies—to effectively interact with development teams and review technical designs.&lt;/li&gt;&lt;li&gt;You thrive&amp;nbsp;in an agile working environment and able to work autonomously.&lt;/li&gt;&lt;li&gt;You remain&amp;nbsp;eager to learn in a constantly changing and challenging environment.&lt;/li&gt;&lt;li&gt;You enjoy&amp;nbsp;thinking ahead and contributing to the vision and strategy of the application landscape.&lt;/li&gt;&lt;li&gt;You hold&amp;nbsp;a bachelor’s or master’s degree and has at least 5 years of relevant experience in enterprise solution architecture.&lt;/li&gt;&lt;li&gt;You build&amp;nbsp;bridges across different departments and can explain complex problems in a clear and simple way.&lt;/li&gt;&lt;li&gt;&lt;p&gt;You speak&amp;nbsp;fluent English. Knowledge of Dutch is a strong&amp;nbsp;asset.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;What our customer has to offer:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An open-ended employment contract.&lt;/li&gt;&lt;li&gt;Possibility of homeworking (up to 3 days a week) and flexible working hours, allowing you to take care of your work-life balance.&amp;nbsp;&lt;/li&gt;&lt;li&gt;A competitive gross monthly salary that they complement with numerous fringe benefits such as a mobility plan, meal vouchers, insurance, net expense allowance..&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Send your application via Editx&lt;/strong&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72308616"/>
     <published>2025-10-29T08:45:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72319021</id>
+    <title>IT MANAGER (Talentboxx)</title>
+    <updated>2025-10-30T09:31:11+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentboxx (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een innovatief logistiek bedrijf zijn we op zoek naar een ervaren IT-manager voor vestigingen in Antwerpen of Lübeck. In deze sleutelpositie geef je leiding aan het IT-team en stimuleer je actief de digitalisering in de transportsector. Je optimaliseert bedrijfsprocessen met behulp van het transportbeheersysteem CarLo en moderne tools zoals Power BI, waardoor efficiëntie en innovatie worden bevorderd.&lt;/p&gt; 
+&lt;p&gt;Je nieuwe verantwoordelijkheden: &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Zorgen voor de operationele beschikbaarheid en continuïteit van alle IT-toepassingen en -systemen (netwerk, telefonie, intranet, internet, laptops, smartphones, tablets, enz.)&lt;/li&gt; 
+&lt;li&gt;Beheren van alle IT-middelen, inclusief IT-budgetten (financieel) en IT-activa&lt;/li&gt; 
+&lt;li&gt;Verder ontwikkelen en exploiteren van een rapportageplatform met tools zoals Power BI, en optimaliseren van ons transportbeheersysteem CarLo&lt;/li&gt; 
+&lt;li&gt;Leiding geven aan een team van zeven personen, met directe rapportage aan het management.&lt;/li&gt; 
+&lt;li&gt;Nieuwe IT-oplossingen implementeren om de efficiëntie van logistieke en bedrijfsprocessen te verbeteren.&lt;/li&gt; 
+&lt;li&gt;Onderhandelen met en beheren van externe IT-dienstverleners, waarbij kwaliteit en kostenefficiëntie worden gewaarborgd.&lt;/li&gt; 
+&lt;li&gt;Toezicht houden op IT-beveiliging, IT-governance en naleving van wettelijke vereisten. (Ervaring als CISO of met ISO 27001 is een pluspunt.)&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Een diploma in computerwetenschappen, bedrijfsinformatica of een verwant vakgebied.&lt;/li&gt; 
+&lt;li&gt;Sterke vaardigheden in het beheren van complexe IT-projecten en het aanpakken van uitdagingen op het gebied van infrastructuur en applicaties.&lt;/li&gt; 
+&lt;li&gt;Meerdere jaren professionele ervaring in IT-projectmanagement, bij voorkeur met kennis van de logistieke sector of expeditie.&lt;/li&gt; 
+&lt;li&gt;Veel initiatief, flexibiliteit en uitstekende communicatieve vaardigheden.&lt;/li&gt; 
+&lt;li&gt;Een analytische en communicatieve persoonlijkheid, met een sterke focus op het voltooien van projecten en het halen van deadlines.&lt;/li&gt; 
+&lt;li&gt;Ervaring met het bouwen en exploiteren van business intelligence-oplossingen voor procesanalyse&lt;/li&gt; 
+&lt;li&gt;Gedegen technische kennis van programmeren en moderne technologieën, zoals API's en cloudoplossingen&lt;/li&gt; 
+&lt;li&gt;Vloeiend Engels voor effectieve internationale samenwerking&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Wij werven aan op basis van competenties en talenten, ongeacht leeftijd, geslacht, origine, etnische identiteit, beperking, seksuele geaardheid, genderidentiteit, …&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Een moderne werkomgeving&lt;/li&gt; 
+&lt;li&gt;30 vakantiedagen per jaar&lt;/li&gt; 
+&lt;li&gt;Internationale flair door nauwe samenwerking met collega's in Antwerpen en Helsinki&lt;/li&gt; 
+&lt;li&gt;De kans om actief vorm te geven aan de digitalisering van de logistieke sector en innovatieve oplossingen te stimuleren&lt;/li&gt; 
+&lt;li&gt;Een gemotiveerd team dat graag onder uw leiding en professionele begeleiding staat&lt;/li&gt; 
+&lt;li&gt;Mogelijkheden voor permanente educatie om uw expertise uit te breiden&lt;/li&gt; 
+&lt;li&gt;Flexibele werkuren&lt;/li&gt; 
+&lt;li&gt;Aantrekkelijke beloning, inclusief extra voordelen zoals bedrijfspensioenregelingen&lt;/li&gt; 
+&lt;li&gt;Speciale bedrijfsuitkeringen, zoals vakantie- en kerstbonussen&lt;/li&gt; 
+&lt;li&gt;Een open bedrijfscultuur gericht op samenwerking en groei&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72319021"/>
+    <published>2025-10-30T09:31:11+00:00</published>
   </entry>
 </feed>
