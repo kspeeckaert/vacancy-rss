@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-10-31T22:43:13.533293+00:00</updated>
+  <updated>2025-11-01T04:44:07.332176+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
+    <title>Freelance Data Engineer (Cronos)</title>
+    <updated>2025-10-17T00:05:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;WHAT WOULD YOU DO?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In your role as a Data Engineer you provide insights and solutions for complex data problems in order to implement end-to-end data solutions. You are responsible for the implementation and maintenance of the Data Warehouse and ETL infrastructure, where you will transform data into useful data formats for analysis. As a Data Engineer you will come across many varied and challenging projects: ranging from the design and implementation of the data warehouse and the development of ETL to the implementation and maintenance of reports and dashboards.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WHO ARE YOU?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand the needs of the customer and can easily handle complex data environments.&lt;/li&gt;&lt;li&gt;You are focused on collaboration, innovation and continuous improvement.&lt;/li&gt;&lt;li&gt;You have strong communication skills and always strive for the best solution.&lt;/li&gt;&lt;li&gt;You have an inquisitive mind and eager to learn.&lt;/li&gt;&lt;li&gt;You are fluent in Dutch or French and have a strong knowledge of English.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WHAT ABOUT YOUR TECHNICAL SKILLS?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge and hands-on experience with ETL and Data pipelines to integrate multiple data sources&lt;/li&gt;&lt;li&gt;Experience with Data Warehouse environments&lt;/li&gt;&lt;li&gt;Insights in setting up ETL processes and Data Flows&lt;/li&gt;&lt;li&gt;Development and testing of ETL jobs&lt;/li&gt;&lt;li&gt;Solid programming skills and SQL querying experience&lt;/li&gt;&lt;li&gt;Hands-on experience with ETL tools is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Data Vault, Kimball is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Oracle, Google BigQuery or Microsoft Azure is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;data&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;ETL&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Data pipelines&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;DWH&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Data Flows&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Data Vault&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Kimball&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Oracle&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Google BigQuery&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Microsoft Azure&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084439"/>
+    <published>2024-07-02T09:28:26+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084437</id>
     <title>Lead Front-End Developer (Cronos)</title>
@@ -1210,69 +1231,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: TalentChain (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Katelijne-Waver&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;strong&gt;Beschrijving&lt;/strong&gt;&lt;p&gt;Onze klant, met hoofdkantoor regio Mechelen, is een jonge en snelgroeiende consultancy organisatie gespecialiseerd in custom softwareontwikkeling. Ze brengen ervaren developers en analisten samen met uitdagende projecten in uiteenlopende sectoren. Ze hebben ongeveer 45 consultants en naast solo projecten, kunnen ze ook een team als service uitsturen.&lt;br&gt;&lt;br&gt;Als Senior Functioneel Analist ben jij de brug tussen business en IT. Je analyseert complexe bedrijfsprocessen en vertaalt deze naar functionele requirements die de basis vormen voor de custom softwareprojecten. Daarbij stel je heldere documentatie op met onder meer UML-diagrammen en domain modelling, werk je user stories en acceptatiecriteria uit volgens de Scrum-methodologie, en ondersteun je de ontwikkelaars en testers zodat de juiste oplossingen worden gebouwd. Je onderhoudt nauw contact met klanten, vertaalt hun noden en wensen naar haalbare IT-oplossingen, en waakt over de kwaliteit door ook te ondersteunen bij functioneel testen. Dankzij jouw probleemoplossend vermogen en kritisch inzicht draag je actief bij aan het verbeteren van processen en het ontwikkelen van oplossingen die echte meerwaarde creëren.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Minstens 5 jaar ervaring als functioneel analist, bij voorkeur binnen custom softwareontwikkeling&lt;/li&gt;&lt;li&gt;Sterke kennis van UML, domain modelling, SQL en Scrum&lt;/li&gt;&lt;li&gt;Vlotte communicator, zowel met technische teams als business stakeholders&lt;/li&gt;&lt;li&gt;Probleemoplossend, oplossingsgericht en stressbestendig&lt;/li&gt;&lt;li&gt;Zelfstandig kunnen werken, maar ook een echte teamplayer&lt;/li&gt;&lt;li&gt;Native Dutch speaker, met een zeer goede kennis van Engels&lt;/li&gt;&lt;li&gt;&lt;p&gt;Leergierig en altijd op zoek naar de nieuwste technologieën en methodes&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Competitief salaris, aangevuld met een bedrijfswagen met tankkaart&lt;/li&gt;&lt;li&gt;Uitgebreide extralegale voordelen, waaronder Laptop &amp;amp; mobiele telefoon, 32 verlofdagen, Hospitalisatie- en groepsverzekering, Maaltijdcheques &amp;amp; ecocheques&lt;/li&gt;&lt;li&gt;Persoonlijke coaching via ons competence center en opleidingen en carrièreplanning op maat&lt;/li&gt;&lt;li&gt;Leuke teambuildings en een hechte groep collega’s&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71778966"/>
     <published>2025-08-22T18:35:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71788232</id>
-    <title>Infrastructure System Engineer met bedrijfswagen (Konnekt)</title>
-    <updated>2025-08-25T15:36:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Konnekt (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Sluit je aan bij een toonaangevend bedrijf in Beveren als Infrastructure System Engineer. Profiteer van een stabiele werkomgeving met 20 jaar ervaring. 
-&lt;span class="c-detail-box__title"&gt;Bedrijfsprofiel&lt;/span&gt; Voor onze klant, een gerenommeerd bedrijf in de regio van 
-&lt;span&gt;Beveren, &lt;/span&gt;zijn we op zoek naar een gedreven 
-&lt;span&gt;Infrastructure System Engineer&lt;/span&gt; om het IT team te versterken. Met intussen meer dan
-&lt;span&gt; 20 jaar&lt;/span&gt; aan ervaring en een omzet van meer dan 
-&lt;span&gt;10 miljoen euro&lt;/span&gt;, bieden zij een 
-&lt;span&gt;financieel stabiele werkomgeving. &lt;/span&gt;&lt;br /&gt; 
-&lt;span class="c-detail-box__title"&gt;Functieomschrijving&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Een greep uit jouw takenpakket: &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Nieuwe en bestaande processen &lt;/span&gt;zal je in 
-&lt;span&gt;kaart brengen&lt;/span&gt; met de focus op de standaardisatie, digitalisatie en optimalisatie. &lt;/li&gt; 
-&lt;li&gt;Je zal zorgen voor de 
-&lt;span&gt;continuïteit &lt;/span&gt;van de 
-&lt;span&gt;ICT-infrastructuur &lt;/span&gt;in een gevirtualiseerde omgeving, inclusief het installeren en bijwerken van clients en servers.&lt;/li&gt; 
-&lt;li&gt;Je zal 
-&lt;span&gt;bestaande ICT processen analyseren&lt;/span&gt; en zoeken naar optimalisaties. &lt;/li&gt; 
-&lt;li&gt;Je zal ook soms 
-&lt;span&gt;standby &lt;/span&gt;zijn bij eventuele problemen, waarvoor je een vergoeding ontvangt. &lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Verantwoordelijk &lt;/span&gt;voor de 
-&lt;span&gt;installatie, het onderhoud en de ondersteuning&lt;/span&gt; van 
-&lt;span&gt;serverinfrastructuur &lt;/span&gt;en bijbehorende softwarecomponenten.&lt;/li&gt; 
-&lt;li&gt;Je zal 
-&lt;span&gt;deelnemen &lt;/span&gt;aan verschillende
-&lt;span&gt; IT-projecten. &lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je bent in het bezit van een 
-&lt;span&gt;Bachelor of Master in IT&lt;/span&gt; of relevant. &lt;/li&gt; 
-&lt;li&gt;Je hebt reeds
-&lt;span&gt; 3-7 jaar ervaring&lt;/span&gt; in een 
-&lt;span&gt;gelijkaardige functie. &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je bent een 
-&lt;span&gt;teamplayer&lt;/span&gt;, maar je kan ook
-&lt;span&gt; zelfstandig werken.&lt;/span&gt; &lt;/li&gt; 
-&lt;li&gt;Je kan vlot en helder 
-&lt;span&gt;communiceren &lt;/span&gt;in het 
-&lt;span&gt;Engels en Nederlands.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je hebt een
-&lt;span&gt; goede kennis&lt;/span&gt; van Azure Services, Azure Administrator, Office 365 Management en Windows Server Management. &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je komt terecht in een 
-&lt;span&gt;ambitieus familiaal en gezond internationaal bedrijf&lt;/span&gt; waar er een 
-&lt;span&gt;informele familiale sfeer&lt;/span&gt; hangt met een 
-&lt;span&gt;open organisatiecultuur.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je mag rekenen op een 
-&lt;span&gt;aantrekkelijk brutoloon&lt;/span&gt; waar je blij van zal worden. &lt;/li&gt; 
-&lt;li&gt;Je mag rekenen in een 
-&lt;span&gt;bedrijfswagen &lt;/span&gt;om je in te verplaatsen.
-&lt;span&gt; &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je ontvangt maandelijks 
-&lt;span&gt;maaltijdcheques&lt;/span&gt;, waarmee je je wekelijkse boodschappen kunt betalen. &lt;/li&gt; 
-&lt;li&gt;Naast de 
-&lt;span&gt;20 wettelijke verlofdagen&lt;/span&gt;, kan je rekenen op nog 10
-&lt;span&gt; ADV. &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je hebt een 
-&lt;span&gt;hospitalisatieverzekering &lt;/span&gt;die al je ziekenhuiskosten dekt, zodat je je geen zorgen hoeft te maken over financiële problemen als je ziek wordt.&lt;/li&gt; 
-&lt;li&gt;Je bouwt pensioen op via een 
-&lt;span&gt;groepsverzekering&lt;/span&gt;, zodat je je geen zorgen hoeft te maken over je financiële toekomst.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71788232"/>
-    <published>2025-08-25T15:36:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71798023</id>
