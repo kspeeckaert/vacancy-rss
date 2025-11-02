@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-01T22:41:00.520485+00:00</updated>
+  <updated>2025-11-02T04:46:08.510150+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084437</id>
+    <title>Lead Front-End Developer (Cronos)</title>
+    <updated>2025-10-17T00:05:20+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Heb jij een passie voor front-end ontwikkeling én goesting om het front-end verhaal binnen CraftCode verder uit te bouwen? Dan ben jij de expert die we nodig hebben om ons team te versterken!&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT ZAL JE DOEN?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als front-end consultant word je ingezet bij verschillende klanten, waar je verantwoordelijk bent voor het ontwikkelen en implementeren van innovatieve bedrijfstoepassingen. Daarnaast speel je een cruciale rol in het versterken van het front-end verhaal binnen CraftCode.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WIE BEN JIJ?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Kennisdeling: je hebt sterke communicatieve skills en neemt het initiatief om kennis te delen met het team (het organiseren van workshops, het begeleiden van interne trainingen…).&lt;/li&gt;&lt;li&gt;Technisch leiderschap: Je bent betrokken bij het afnemen van technische sollicitatiegesprekken.&lt;/li&gt;&lt;li&gt;Expert in jouw vak: Als Lead Front-End Developer ben je het aanspreekpunt voor collega’s voor front-end gerelateerde vragen en biedt ondersteuning bij complexe technische uitdagingen. Ook de nieuwste technologische trends volg je nauw op.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;JOUW TECHNISCHE BAGAGE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een brede kennis van verschillende front-end frameworks (Angular/React,..). Je hoeft geen expert te zijn in één specifiek framework, maar je bent in staat om flexibel te werken met diverse tools en technologieën.&lt;/li&gt;&lt;li&gt;Javascript, HTML en CSS hebben voor jou geen geheimen.&lt;/li&gt;&lt;li&gt;Je hebt een goed oog voor design en user experience.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met DevOps binnen de context van front-end development.&lt;/li&gt;&lt;li&gt;Ervaring met het opzetten en leiden van projecten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;html&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;angular&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;front-end&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;react&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;javascript&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;lead&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;ONS AANBOD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bij Craftcode kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Op jouw collega’s kan je rekenen gedurende de projecten bij de klant. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen en tankkaart&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (shortski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Een gepersonaliseerd groeiplan&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen om jezelf verder te ontwikkelen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084437"/>
+    <published>2024-07-02T09:28:23+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084438</id>
     <title>Freelance System Engineer (Cronos)</title>
@@ -1092,75 +1109,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Lier&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor een &lt;strong&gt;innovatief bedrijf&lt;/strong&gt; in &lt;strong&gt;Lier&lt;/strong&gt;, zijn we op zoek naar een &lt;strong&gt;embedded C++ developer&lt;/strong&gt;. Onze klant is een familiebedrijf dat zich bezighoudt met volledige magazijnautomatisering. Dit doen ze aan de hand van &lt;strong&gt;zelf ontwikkelde sensortechnologie&lt;/strong&gt; en &lt;strong&gt;IoT&lt;/strong&gt;. Zo zijn ze dé experts in het ontwerpen en produceren van AGV's waarbij &lt;strong&gt;efficiëntie&lt;/strong&gt; en &lt;strong&gt;veiligheid&lt;/strong&gt; centraal staan. Heel interessant is dat alle projecten intern worden afgehandeld omdat ze ervoor kiezen om de kennis binnen de muren te houden. Dit geeft hen de vrijheid om flexibel om te gaan met toepassingen en snel innovatieve oplossingen te implementeren.&lt;/p&gt;&lt;p dir="ltr"&gt;Als embedded software engineer kom je in een &lt;strong&gt;R&amp;amp;D omgeving&lt;/strong&gt; terecht, waar je in teams verder zal instaan voor de &lt;strong&gt;firmware&lt;/strong&gt; en &lt;strong&gt;software&lt;/strong&gt; cycle. Je hebt kennis van &lt;strong&gt;C++ &lt;/strong&gt;en eventueel ook &lt;strong&gt;C# (.net)&lt;/strong&gt;. Ze hebben namelijk een &lt;strong&gt;op maat gemaakte software&lt;/strong&gt; geschreven in C++ en C#. Daarnaast heb je kennis van &lt;strong&gt;microcontrollers&lt;/strong&gt; en &lt;strong&gt;RTOS&lt;/strong&gt; en lever je ook ‘Proof of concepts’ om nadien feedback te geven aan je collega's van development en productie.&lt;/p&gt;&lt;p dir="ltr"&gt;Binnen deze &lt;strong&gt;hoogtechnologische omgeving &lt;/strong&gt;krijg je extreem veel vrijheid en de kans om door te groeien naar een functie binnen jouw interessegebied. Daarbovenop voorzien ze een &lt;strong&gt;uitstekende verloning&lt;/strong&gt; met een volledig pakket aan extralegale voordelen (bedrijfswagen met tankkaart, GSM, laptop, etc.).&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bachelor of Master met een &lt;strong&gt;aantal jaar relevante ervaring&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Analytisch sterk&lt;/strong&gt; en een passie voor embedded systemen en IoT&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;goede beheersing van het &lt;strong&gt;Nederlands&lt;/strong&gt; en het &lt;strong&gt;Engels&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Aantrekkelijk brutoloon&lt;/strong&gt; dat wordt aangevuld met volledig pakket &lt;strong&gt;extralegale voordelen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;uitdagende functie&lt;/strong&gt; met veel verantwoordelijkheid&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Familiaire omgeving&lt;/strong&gt; binnen een &lt;strong&gt;internationale groep &lt;/strong&gt;met enorme kansen&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#LI-DC1&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71743348"/>
     <published>2025-08-19T10:12:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71755457</id>
-    <title>Functioneel Analist/ Expert (Touring)</title>
-    <updated>2025-08-20T14:02:02+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Touring (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Over Touring&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Touring&lt;/strong&gt; is een belangrijke speler in de wereld van de voortdurend evoluerende mobiliteit en dit zowel vandaag als morgen, in België of ver erbuiten. We informeren onze klanten en staan hen bij tijdens al hun verplaatsingen – ongeacht het vervoersmiddel – zodat hun mobiliteit een efficiënte maar vooral aangename ervaring is.&lt;/p&gt; 
-&lt;p&gt;We ontwikkelen toekomstgerichte multimodale bijstands-, service- &amp;amp; mobiliteitsoplossingen, steeds gericht op het menselijke aspect en innovatief karakter.&lt;/p&gt; 
-&lt;p&gt;Spreekt onze missie jou aan? Aarzel dan niet en maak deel uit van ons team als 
-&lt;strong&gt;&amp;quot;Functioneel Analist&amp;quot;!&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Missie&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span xml:lang="FR-BE" data-contrast="auto" xmlns:xml="xml"&gt;Als Functioneel Analist sta je centraal in de digitale innovatie bij Touring! Jouw rol? &lt;/span&gt;&lt;span xml:lang="FR-BE" data-contrast="auto" xmlns:xml="xml"&gt;De behoeften van gebruikers 
-&lt;strong&gt;begrijpen, analyseren en omzetten&lt;/strong&gt; in concrete oplossingen. Dankzij jou blijven onze applicaties performant, intuïtief en klaar voor de uitdagingen van morgen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p data-start="348" data-end="397"&gt;&lt;strong data-start="348" data-end="395"&gt;Jouw belangrijkste verantwoordelijkheden &lt;/strong&gt;&lt;/p&gt; 
-&lt;p data-start="399" data-end="581"&gt;De 
-&lt;strong&gt;gebruikersbehoeften analyseren en structureren&lt;/strong&gt; om de ontwikkelingen te sturen, met inachtneming van de bestaande architectuur, budgettaire beperkingen en kwaliteitsvereisten.&lt;/p&gt; 
-&lt;p data-start="583" data-end="674"&gt;↘️ Gedetailleerde 
-&lt;strong&gt;functionele specificaties opstellen&lt;/strong&gt; als basis voor de technische teams.&lt;/p&gt; 
-&lt;p data-start="676" data-end="787"&gt;‍ De 
-&lt;strong&gt; implementatie van applicaties&lt;/strong&gt; begeleiden door de ontwikkelingen op te volgen en te ondersteunen.&lt;/p&gt; 
-&lt;p data-start="789" data-end="894"&gt;&lt;strong&gt;Testscenario's opstellen, organiseren en uitvoeren&lt;/strong&gt; om een optimale gebruikerservaring te garanderen.&lt;/p&gt; 
-&lt;p data-start="896" data-end="989"&gt;️ 
-&lt;strong&gt;Bijdragen aan de continue verbetering&lt;/strong&gt; van processen en tools voor maximale efficiëntie.&lt;/p&gt; 
-&lt;p data-start="991" data-end="1122"&gt;‍♀️ De technologische 
-&lt;strong&gt;ontwikkelingen op de voet volgen&lt;/strong&gt; en je kennis up-to-date houden om voorop te blijven in ICT-innovaties.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p data-start="1409" data-end="1430"&gt;&lt;strong data-start="1409" data-end="1428"&gt;Wie ben jij? &lt;/strong&gt;&lt;/p&gt; 
-&lt;p data-start="1432" data-end="1484"&gt;☑️ Je hebt een diploma in 
-&lt;strong&gt;IT/ICT&lt;/strong&gt; (Bachelor of Master).&lt;/p&gt; 
-&lt;p data-start="1486" data-end="1566"&gt;☑️ 
-&lt;strong&gt;Analytisch &amp;amp; synthetisch&lt;/strong&gt;: je structureert informatie op een heldere manier.&lt;/p&gt; 
-&lt;p data-start="1568" data-end="1648"&gt;☑️ 
-&lt;strong&gt;Conceptueel &amp;amp; pragmatisch&lt;/strong&gt;: je vertaalt een visie naar concrete oplossingen.&lt;/p&gt; 
-&lt;p data-start="1650" data-end="1732"&gt;☑️ 
-&lt;strong&gt;Besluitvaardig &amp;amp; proactief&lt;/strong&gt;: je neemt initiatief, zelfs in onzekere situaties.&lt;/p&gt; 
-&lt;p data-start="1734" data-end="1805"&gt;☑️ 
-&lt;strong&gt;Adviseur &amp;amp; communicator&lt;/strong&gt;: je wekt vertrouwen en deelt je expertise.&lt;/p&gt; 
-&lt;p data-start="1807" data-end="1881"&gt;☑️ 
-&lt;strong&gt;Betrouwbaar &amp;amp; ethisch&lt;/strong&gt;: je respecteert afspraken en vertrouwelijkheid.&lt;/p&gt; 
-&lt;p data-start="1807" data-end="1881"&gt;☑️ 
-&lt;strong&gt;UML modelering:&lt;/strong&gt; je hebt technische kennis/ ervaring met modelering.&lt;/p&gt; 
-&lt;p data-start="1883" data-end="1969"&gt;☑️ 
-&lt;strong&gt;Wendbaar &amp;amp; leergierig&lt;/strong&gt;: je past je aan veranderingen aan en blijft graag bijleren.&lt;/p&gt; 
-&lt;p data-start="1971" data-end="2035"&gt;☑️ 
-&lt;strong&gt;Meertalig&lt;/strong&gt;: je spreekt vloeiend Frans, Nederlands en Engels.&lt;/p&gt; 
-&lt;p data-start="2037" data-end="2136"&gt;☑️ 
-&lt;strong&gt;Teamspeler&lt;/strong&gt;: je werkt graag samen met verschillende afdelingen om de beste oplossing te vinden.&lt;/p&gt; 
-&lt;p data-start="2138" data-end="2212"&gt;☑️ 
-&lt;strong&gt;Tech-savvy&lt;/strong&gt;: kennis van Microsoft 365, SAP en Salesforce is een troef!&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p data-start="2219" data-end="2238"&gt;&lt;strong data-start="2219" data-end="2236"&gt;Wat heeft Touring jou te bieden? &lt;/strong&gt;&lt;/p&gt; 
-&lt;p data-start="2240" data-end="2324"&gt;Touring is meer dan een 
-&lt;strong&gt;Top Employer!&lt;/strong&gt; Naast een uitdagende functie bieden wij jou…&lt;/p&gt; 
-&lt;p data-start="2326" data-end="2404"&gt;❤️ Een 
-&lt;strong&gt;boeiende job&lt;/strong&gt; met een sociale dimensie in een dynamische werkomgeving.&lt;/p&gt; 
-&lt;p data-start="2406" data-end="2495"&gt;De kans om de komende drie jaar geleidelijk te 
-&lt;strong&gt;groeien&lt;/strong&gt; binnen een bedrijfsprogramma.&lt;/p&gt; 
-&lt;p data-start="2497" data-end="2598"&gt;Echte 
-&lt;strong&gt;mogelijkheden om initiatief te nemen&lt;/strong&gt; in een informele, stabiele en aangename werkomgeving.&lt;/p&gt; 
-&lt;p data-start="2600" data-end="2638"&gt;Een contract van onbepaalde duur.&lt;/p&gt; 
-&lt;p data-start="2640" data-end="2902"&gt;Een 
-&lt;strong&gt;aantrekkelijk salaris&lt;/strong&gt; aangevuld met diverse extralegale voordelen (groeps- en hospitalisatieverzekering, maaltijdcheques, 13e en 
-&lt;strong&gt;14e maand,&lt;/strong&gt; volledige terugbetaling van openbaar vervoer voor woon-werkverkeer, mogelijkheid tot telewerk, fitnessruimte, …).&lt;/p&gt; 
-&lt;p data-start="2904" data-end="2952"&gt;⚖️ Een goede 
-&lt;strong&gt;balans&lt;/strong&gt; tussen werk en privéleven.&lt;/p&gt; 
-&lt;p data-start="2954" data-end="3110"&gt;De kans om te werken voor een 
-&lt;strong&gt;marktleider&lt;/strong&gt; die je de nodige 
-&lt;strong&gt;opleidingen en doorgroeimogelijkheden&lt;/strong&gt; biedt dankzij regelmatige en kwaliteitsvolle coaching.&lt;/p&gt; 
-&lt;p data-start="3112" data-end="3250"&gt;Kantoren in het centrum van Brussel, vlot bereikbaar met het openbaar vervoer (vlakbij metrostation Rogier en station Brussel-Noord).&lt;/p&gt; 
-&lt;p data-start="3112" data-end="3250"&gt; &lt;/p&gt; 
-&lt;p data-start="3112" data-end="3250"&gt;Wil jij deel uitmaken van het Touring-avontuur en bijdragen aan ons succes? Aarzel dan niet om te solliciteren!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71755457"/>
-    <published>2025-08-20T14:02:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71751583</id>
