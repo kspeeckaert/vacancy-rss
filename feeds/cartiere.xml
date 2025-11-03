@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-03T10:24:34.980584+00:00</updated>
+  <updated>2025-11-03T12:40:47.199552+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-analist-4/</id>
+    <title>Data Analist</title>
+    <updated>2025-10-27T08:21:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-10-27 09:21:23+00:00, last change 2025-10-27 08:21:23+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-10-27 09:21:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit internationaal huis combineert meer dan een eeuw premium vakmanschap met innovatieve technologie. Je werkt op het kruispunt van fashion, data en female empowerment, waar elk product bijdraagt aan het zelfvertrouwen van vrouwen wereldwijd. De cultuur is warm, menselijk en gericht op samenwerking en groei. Onder één dak vind je een inspirerende mix van creatieve, technische en businessprofielen die elkaar versterken. Een omgeving waar kwaliteit, innovatie en impact hand in hand gaan en waar jij mee het verschil kan maken.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Analist vorm je de brug tussen de business en het datateam. Je werkt op projectbasis samen met afdelingen als sales, marketing en design om KPI’s te definiëren, resultaten te analyseren en inzichten te vertalen naar concrete acties. In deze rol bouw je Power BI-dashboards en zorg je ervoor dat data op een duidelijke en visueel sterke manier wordt gepresenteerd. Je omgeving is complex, met verkoopdata uit verschillende kanalen zoals online, eigen winkels en retailpartners, wat zorgt voor uitdagende en afwisselende analyses. Naast rapportering denk je actief mee over verbeteringen in processen en ondersteun je de verdere professionalisering van de datawerking binnen de organisatie. &lt;br&gt;
+Je werkt servicegericht en nauw samen met de business, maar durft ook assertief prioriteiten te stellen en richting te geven aan je projecten. Zo krijg je binnen deze rol veel autonomie en impact op de datagedreven besluitvorming van het bedrijf.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minstens 3 jaar professionele ervaring als data analist. 
+	&lt;li&gt;Je bent sterk in Power BI. 
+	&lt;li&gt;Je bent analytisch sterk, maar pragmatisch. 
+	&lt;li&gt;Je bent communicatief sterk en hebt ervaring in stakeholdermanagement. 
+	&lt;li&gt;Begrip van complexe businessprocessen (ervaring in commerciële omgeving is een must). 
+	&lt;li&gt;Je bent stressbestendig en voldoende veerkrachtig. 
+	&lt;li&gt;Ervaring in de retail of mode is een plus. 
+	&lt;li&gt;Je spreekt vloeiend Nederlands en Engels. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een innovatieve en dynamische omgeving waar gewerkt wordt met de nieuwste technologieën en waar kwaliteit en vakmanschap centraal staan. Het bedrijf combineert de stabiliteit van een gevestigde speler met de open en mensgerichte cultuur van een familiebedrijf. Dankzij de diverse verkoopkanalen werk je met rijke, gevarieerde data in een context die voortdurend in beweging is.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-analist-4/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-10-27T09:21:23+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-insights-analyst/</id>
     <title>Data Insights Analyst</title>
