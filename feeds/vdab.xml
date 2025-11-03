@@ -2,41 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-03T13:02:51.148327+00:00</updated>
+  <updated>2025-11-03T14:44:09.458147+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084450</id>
-    <title>Freelance DevOps Automation Engineer (Cronos)</title>
-    <updated>2025-10-17T00:04:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben je een freelance consultant? Klaar voor een nieuwe uitdaging?&lt;/p&gt;&lt;p&gt;Of wil je je netwerk uitbouwen en als IT professional op de hoogte blijven van interessante opdrachten?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fieldside levert enterprise en technologische oplossingen én de daarbij horende consultancy diensten. Wij detacheren specialisten, voeren volledige ICT-projecten uit en nemen de volledige outsourcing van IT-diensten voor onze rekening. Wij kunnen rekenen op een solide klantportfolio voor wie we in directe lijn een brede variëteit aan opdrachten uitvoeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Om continuïteit en flexibiliteit te kunnen garanderen, om aan alle staffing behoeften te voldoen en om aan de vraag naar specifieke, additionele expertise in te willigen werkt Fieldside met freelancers.&lt;/p&gt;&lt;p&gt;Onze freelance pool is een belangrijke troef om tegemoet te komen aan de behoeften van onze klanten!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn permanent op zoek naar enthousiaste en ervaren IT’ers om interessante opdrachten uit te voeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn nu specifiek op zoek naar een DevOps Automation Engineer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;De job:&lt;/p&gt;&lt;p&gt;Als DevOps Automation Engineer maak je deel uit van ons team en werk je aan verschillende soorten projecten. Je werkt aan het automatiseren van de IT-infrastructuur, CI/CD-projecten, cloudmigratie en cloudtransformatieprojecten. Je werkt zowel op ons kantoor als bij de klant.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Gewenste skills:&lt;/p&gt;&lt;p&gt;* Ervaring of interesse in configuration management tools zoals Puppet, Terraform en/of Ansible is voor ons een must&lt;/p&gt;&lt;p&gt;* Een sterke interesse in de DevOps-lifestyleis belangrijk&lt;/p&gt;&lt;p&gt;* Ervaring met tools als GitLab/GitHub, Jenkins en/of Bamboo&lt;/p&gt;&lt;p&gt;* Je beheerst virtualisatie en containerisatie en je wilt je graag verder verdiepen in tools zoals Docker, Kubernetes, VMWare&lt;/p&gt;&lt;p&gt;* Scripting met Perl, Python en/of Ruby is iets dat je graag doet en waar je je prettig bij voelt&lt;/p&gt;&lt;p&gt;* Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw aanpak&lt;/p&gt;&lt;p&gt;* Je bent leergierig en blijft graag op de hoogte van de nieuwste tools en technologieën&lt;/p&gt;&lt;p&gt;* Je bent een teamspeler en deelt graag je kennis met het team&lt;/p&gt;&lt;p&gt;* Je beschikt over sterke communicatieve vaardigheden en streeft altijd naar de beste oplossing&lt;/p&gt;&lt;p&gt;* Last but not least… een goed gevoel voor humor is een must en je bent niet bang voor enige zelfreflectie&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084450"/>
-    <published>2024-07-02T09:28:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
-    <title>Freelance Data Engineer (Cronos)</title>
-    <updated>2025-10-17T00:05:10+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;WHAT WOULD YOU DO?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In your role as a Data Engineer you provide insights and solutions for complex data problems in order to implement end-to-end data solutions. You are responsible for the implementation and maintenance of the Data Warehouse and ETL infrastructure, where you will transform data into useful data formats for analysis. As a Data Engineer you will come across many varied and challenging projects: ranging from the design and implementation of the data warehouse and the development of ETL to the implementation and maintenance of reports and dashboards.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WHO ARE YOU?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand the needs of the customer and can easily handle complex data environments.&lt;/li&gt;&lt;li&gt;You are focused on collaboration, innovation and continuous improvement.&lt;/li&gt;&lt;li&gt;You have strong communication skills and always strive for the best solution.&lt;/li&gt;&lt;li&gt;You have an inquisitive mind and eager to learn.&lt;/li&gt;&lt;li&gt;You are fluent in Dutch or French and have a strong knowledge of English.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WHAT ABOUT YOUR TECHNICAL SKILLS?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge and hands-on experience with ETL and Data pipelines to integrate multiple data sources&lt;/li&gt;&lt;li&gt;Experience with Data Warehouse environments&lt;/li&gt;&lt;li&gt;Insights in setting up ETL processes and Data Flows&lt;/li&gt;&lt;li&gt;Development and testing of ETL jobs&lt;/li&gt;&lt;li&gt;Solid programming skills and SQL querying experience&lt;/li&gt;&lt;li&gt;Hands-on experience with ETL tools is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Data Vault, Kimball is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Oracle, Google BigQuery or Microsoft Azure is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;data&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ETL&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Data pipelines&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;DWH&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Data Flows&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Data Vault&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Kimball&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Oracle&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Google BigQuery&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Microsoft Azure&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084439"/>
-    <published>2024-07-02T09:28:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084437</id>
     <title>Lead Front-End Developer (Cronos)</title>
@@ -3762,6 +3730,70 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
 &lt;p&gt;Kortom: een innovatieve werkomgeving waar je expertise wordt gewaardeerd en je inspanning beloond.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72336779"/>
     <published>2025-11-01T10:31:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72343240</id>
+    <title>Full-Stack .Net Developer (Kwery)</title>
+    <updated>2025-11-03T14:10:55+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zal meewerken aan zowel de backend (.NET CORE, C#, ASP .NET, EntityFramework, AWS, Azure, WEB Api, REST) als de frontend (JavaScript, Typescript, Blazor, Angular, React, RxJS en Redux ) van applicaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Verder zal je klantbehoeften analyseren, ontwerpen van software oplossingen en integreren van systemen binnen bestaande IT-landschappen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot test, verbeter en update je applicaties om prestaties en veiligheid te garanderen, binnen een Agile/Scrum werkomgeving.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een portie ervaring, we kijken uit naar een minimum van 5 jaar binnen softwareontwikkeling.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naast jouw sterke kennis in .Net heb je ook een goede (basis) kennis van front-end technologieën zoals angular en react. Ervaring in CI/CD, Kubernetes, Kanban of DevOps is een grote troef!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief en kan je zowel zelfstandig als in team werken&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4000 - €5500, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met bijhorende laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, ambulante verzekering en een netto vergoeding! Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Geniet van een uitstekende work-life balance met de vrijheid om twee dagen op locatie bij de klant te werken en de overige drie dagen waar jij het wil - op kantoor of vanuit je home office. Daarnaast profiteer je van flexibele werkuren voor maximale efficiëntie en 32 vakantiedagen, zodat je op tijd en stond kunt ontspannen!&lt;/li&gt;&lt;li&gt;Je wordt onderdeel van een warme, maar dynamische KMO waar kwaliteit en groei centraal staan. Je krijgt ondersteuning van je competence coach - een ervaren developer die zelf actief in het veld staat - én van de CEO, die altijd openstaat voor vragen en jouw ontwikkeling stimuleert.&lt;/li&gt;&lt;li&gt;Elke maand kom je samen met collega's om cases te bespreken, nieuwe inzichten te delen, trainingen te volgen en inspirerende lezingen bij te wonen. Wil je je verdiepen in een nieuwe technologie? Dankzij een opleidingsbudget blijf je jezelf continu ontwikkelen en groeien. Kortom, hier staat jouw ontwikkeling nooit stil!&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt; &lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72343240"/>
+    <published>2025-11-03T14:10:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72343527</id>
+    <title>Functioneel applicatie architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
+    <updated>2025-11-03T14:28:34+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstige job&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Opvolging en coaching van functionele analisten binnen het ontwikkelteam.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Moderne context: je komt in contact met veel moderne technologieën. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw verantwoordelijkheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Aanspreekpunt voor applicaties in het portfolio.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw taken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ondersteuning van het team bij productie-incidenten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw technische vaardigheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Expert functionele analyse (hoe achterhaal ik functionele vereisten bij business?) (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="EN-US"&gt;Kennis van non-functional requirements (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Enige kennis over integratiepatronen (bv. synchrone vs asynchrone communicatie) (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Diepgaande kennis over integratiepatronen (bv. event driven design, event sourcing) (nice to have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennis van agile en scrum werking &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennis over software frameworks, standaarden, best practices en methodieken (nice to have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Basis data-verwerking en -analyse (SQL queries kunnen schrijven, JSON- en XML-bestanden kunnen interpreteren)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Analytisch vermogen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;veel informatie verwerken: grote lijnen kunnen zien, details kunnen oprakelen als nodig&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Belangen van verschillende partijen achterhalen en expliciet maken&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Helder communiceren, mondeling en schriftelijk&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat jij van ons mag verwachten&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een opleidingsbudget&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een laptop&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een smartphone met abonnementsformule&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Flexibele werkuren &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72343527"/>
+    <published>2025-11-03T14:28:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72339691</id>
