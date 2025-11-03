@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-03T08:28:41.125006+00:00</updated>
+  <updated>2025-11-03T10:24:34.980584+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -582,35 +582,6 @@ Stuur nu jouw CV naar natacha@cartiere.be en bel 02/669.14.19 voor meer informat
     <category term="Technical Lead"/>
     <category term="Management"/>
     <published>2019-08-21T12:34:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/senior-data-engineer/</id>
-    <title>Senior Data Engineer</title>
-    <updated>2025-07-02T09:03:56+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-06-30 13:34:14+00:00, last change 2025-07-02 09:03:56+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-06-30 13:34:14+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Voor een Belgische organisatie binnen de technische distributiesector zoeken we een ervaren Azure Data Engineer. Deze speler heeft een stevige positie op de markt en bevindt zich momenteel in een ambitieuze digitale transformatie waarbij moderne dataoplossingen centraal staan. Binnen dit kader bouwen ze een toekomstgericht dataplatform op Microsoft Azure.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Azure Senior Data Engineer ben je verantwoordelijk voor het ontwerp en de implementatie van een schaalbare Azure Data Lake en ontwikkel je performante ETL/ELT-pijplijnen met tools als Azure Data Factory en Azure Databricks om het nieuwe datawarehouse in Azure te bouwen.&lt;br&gt;
-&lt;br&gt;
-Je implementeert de Medallion Architecture (Bronze, Silver, Gold), bouwt datamodellen volgens het star schema, en optimaliseert processen via Azure DevOps. Je integreert data uit verschillende bronsystemen en bewaakt de data governance.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt minstens 5 jaar ervaring als Data Engineer binnen Azure.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt diepgaande kennis van Azure Data Factory en Databricks.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring in SQL, Python en Data modellering.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt goede communicatieve vaardigheden.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent Nederlandstalig en spreekt vloeiend Engels.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je maakt deel uit van een mensgerichte organisatie waar samenwerking en innovatie hand in hand gaan. Als Senior Data Engineer maak je veel impact binnen de organisatie waar digitalisering centraal staat. Met ruime mogelijkheden tot opleiding en ontwikkeling kan je jouw skills ook de komende jaren blijven verbeteren.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? Stuur nu jouw CV naar delphine@cartiere.be en bel +32 471 21 44 45 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;</content>
-    <link href="https://www.cartiere.be/jobs/senior-data-engineer/"/>
-    <category term="Data Engineering"/>
-    <published>2025-06-30T13:34:14+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/senior-data-engineer-3/</id>
