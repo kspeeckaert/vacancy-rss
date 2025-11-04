@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-04T13:04:17.432094+00:00</updated>
+  <updated>2025-11-04T14:44:00.996662+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68548221</id>
-    <title>Medior/Senior Network &amp; Security Consultant (Cronos)</title>
-    <updated>2025-10-13T00:01:44+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Are you an enthusiastic and experienced professional in the field of network &amp; security? Are you looking for a challenging role where you can leverage your expertise and continue to grow? Then we have the perfect opportunity for you at Interligo!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Network Consultant, you will be responsible for providing expert advice and support to our clients in designing, implementing, and optimizing their network infrastructures. You will work closely with clients to understand their business requirements, assess their current network setup, and develop tailored solutions to meet their needs.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Network &amp; Security Consultant, you are responsible for designing and implementing network projects, including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Network Design and Implementation&lt;/strong&gt;: Defining and implementing advanced network architectures, including Cisco Routers and Switches, Next Gen Firewalls, Wireless devices, A10 Loadbalancer, and other technologies.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technical Consultation&lt;/strong&gt;: Acting as a technical advisor to the client, providing insights into best practices and strategies for network optimization.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Security Solutions&lt;/strong&gt;: Designing and implementing advanced security measures, such as Intrusion Prevention Systems (IPS), Network Access Control (NAC), and other advanced security applications.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Collaboration with Other Departments&lt;/strong&gt;: Working closely with other departments within the company&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Knowledge Transfer&lt;/strong&gt;: Sharing expertise and providing technical transfer to junior team members.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technologies&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You work with the following vendors:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cisco&lt;/li&gt;&lt;li&gt;Palo Alto&lt;/li&gt;&lt;li&gt;Fortinet&lt;/li&gt;&lt;li&gt;A10&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You will work with the following technologies&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Routers and Switches&lt;/li&gt;&lt;li&gt;Next Gen Firewalls&lt;/li&gt;&lt;li&gt;Wireless devices&lt;/li&gt;&lt;li&gt;NAC solutions&lt;/li&gt;&lt;li&gt;Datacenter devices&lt;/li&gt;&lt;li&gt;Email Security&lt;/li&gt;&lt;li&gt;Advanced Malware Protection for Endpoints&lt;/li&gt;&lt;li&gt;Umbrella&lt;/li&gt;&lt;li&gt;CatalystCatalyst &lt;/li&gt;&lt;li&gt;ZeroTrust&lt;/li&gt;&lt;li&gt;Zero Touch Provisioning&lt;/li&gt;&lt;li&gt;SASE&lt;/li&gt;&lt;li&gt;VRF-structure&lt;/li&gt;&lt;li&gt;IPS&lt;/li&gt;&lt;li&gt;Fiber Infrastructure&lt;/li&gt;&lt;li&gt;Dynamic Routing (ex. OSPF, BGP)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Required skills &amp; experience&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Extensive knowledge and experience (min. 5 years) in network design, implementation, and optimization.&lt;/li&gt;&lt;li&gt;In depth knowledge of the mentioned technologies.&lt;/li&gt;&lt;li&gt;Strong security related skills, including IPS, NAC, and security protocols.&lt;/li&gt;&lt;li&gt;Demonstrable experience in coordinating and leading technical teams.&lt;/li&gt;&lt;li&gt;Driver's license B: Possession of a driver's license is necessary&lt;/li&gt;&lt;li&gt;Ability to work in a team and good communication skills.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Educational background&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Completed education with a focus on networking, such as a degree in Computer Science, IT, Network Administration, or a related field.&lt;/li&gt;&lt;li&gt;CCNA certification is required&lt;/li&gt;&lt;li&gt;Certifications such as Cisco Certified Network Professional (CCNP) or equivalent&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;Network design&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;routers &amp; switches&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;NAC solutions&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;email security&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;umbrella&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ZeroTrust&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Zero touch provisioning&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;SASE&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;VRF-Structure&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;IPS&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Dynamic Routing (OSPF, BGP)&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Security protocols&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Next-gen firewalls&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What Interligo offers&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging role within a dynamic and innovative growing company.&lt;/li&gt;&lt;li&gt;Opportunities for personal and professional development.&lt;/li&gt;&lt;li&gt;Competitive salary and benefits.&lt;/li&gt;&lt;li&gt;Working with the latest technologies in an innovative environment.&lt;/li&gt;&lt;li&gt;A team of motivated and knowledgeable colleagues.&lt;/li&gt;&lt;li&gt;Extensive training opportunities and professional development&lt;/li&gt;&lt;li&gt;Working in an innovative environment&lt;/li&gt;&lt;li&gt;Remote work possibilities&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68548221"/>
-    <published>2024-03-25T16:11:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68682857</id>
     <title>Monitoring Engineer/Specialist (Cronos)</title>
@@ -3810,6 +3787,51 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Xylos (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR DAILY ADVENTURE&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Kom bij het Xylos-team als Senior Identity and Access Management (IAM) Consultant en blaas die analytische geest van jou volop nieuw leven in. Ons Secure Modern Workplace team zoekt extra volk: IT’ers met een kritische blik, de drang om steeds beter te doen en de initiatieven om als teamspeler het verschil te maken.&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Als Senior IAM / Messaging consultant ben jij dé&amp;nbsp;Trusted Advisor van onze klanten. En dé persoon die hun noden duidelijk in kaart brengt.&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Je bent de &lt;strong&gt;Technical Lead&lt;/strong&gt; &lt;strong&gt;in geavanceerde IAM / Messaging projecten&lt;/strong&gt; en werkt actief mee aan:&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analyses Identity-Messaging&lt;/li&gt;&lt;li&gt;Design Identity-Messaging&lt;/li&gt;&lt;li&gt;Beveiliging Identity-Messaging&lt;/li&gt;&lt;li&gt;Bepalen in overleg met klant van policies, op basis van onze Xylos best practices&lt;/li&gt;&lt;li&gt;Hand-over naar klant&lt;/li&gt;&lt;li&gt;Opmaak documentatie&lt;/li&gt;&lt;li&gt;Verder neem je ook presales voor je rekening en&amp;nbsp;coach je minder ervaren consultants.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je denkt mee na over hoe we onze dienstverlening verder kunnen ontwikkelen. Je promoot onze IAM-oplossingen volop bij klanten en collega's via diverse fora.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;THE BEST VERSION OF YOU&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Knik je ‘ja’ bij het volgende?&amp;nbsp;Dan sta je sterk:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Uitgebreide ervaring met IAM-oplossingen, focus op Microsoft Entra ID, Entra Domain Services en Active Directory&lt;/li&gt;&lt;li&gt;Uitgebreide kennis van MS Exchange Server / Exchange Online&lt;/li&gt;&lt;li&gt;Technische kennis van authentication protocols (oAuth, OpenIDConnect of SAML, ...).&lt;/li&gt;&lt;li&gt;Technische kennis van publieke en private PKI infrastructuur&amp;nbsp;&lt;/li&gt;&lt;li&gt;Goed begrip van security concepten en access controls&lt;/li&gt;&lt;li&gt;Stevige communicatie skills waarmee je stakeholders (security/business/IT-teams) van oplossingen weet te overtuigen.&lt;/li&gt;&lt;li&gt;Know-how om professionele oplossingen, gestructureerde documenten en studies uit te werken&lt;/li&gt;&lt;li&gt;&lt;p&gt;Zin om minder ervaren consultants te ondersteunen en nieuwe oplossingen aan te leren.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Er zit meer in een Xylos-job dan je denkt&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een écht moderne werkplek. Dat betekent ook een warme, menselijke werksfeer waar jouw dagelijkse beleving centraal staat.&amp;nbsp;&lt;strong&gt;Xylos is jouw thuishaven&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Uitdagende projecten met het beste dat technologie te bieden heeft en een groeiplan op maat van jou en je loopbaanambities.&lt;/li&gt;&lt;li&gt;Een aantrekkelijk salaris aangevuld met een resem voordelen: dag-, thuis-, internetvergoeding, groeps- en hospitalisatieverzekering, bedrijfswagen…&lt;/li&gt;&lt;li&gt;We bieden ook een atypisch bonuspakket. Dat kan je netto cashen én spenderen aan multimedia, of zelfs gewoon extra verlofdagen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Benieuwd naar wie we zijn?&lt;/p&gt;&lt;p&gt; Check alvast onze&amp;nbsp;&lt;strong&gt;Linkedin pagina&lt;/strong&gt;&amp;nbsp;of onze&amp;nbsp;&lt;strong&gt;website&lt;/strong&gt;!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72349108"/>
     <published>2025-11-04T09:03:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72354267</id>
+    <title>Senior Java Developer (Omgeving) via Vlaanderen connect (Vlaanderen connect.)</title>
+    <updated>2025-11-04T14:22:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Heb je ervaring met agile? Voel jij je goed als full stack developer? Werk jij graag samen in teamverband? Lees dan verder of deze functie bij je past.&lt;/p&gt; 
+&lt;p&gt;Het departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.&lt;/p&gt; 
+&lt;p&gt;Ter versterking van haar werking zoekt het departement een ervaren Java developer (senior) die binnen Team Digitalisering ingezet zal worden in een van de scrumteams. Deze teams nemen allemaal een deel op van de departementale programmawerking. Voorbeelden van de programmawerkingen zijn :&lt;/p&gt; 
+&lt;p&gt;● vergunningen&lt;/p&gt; 
+&lt;p&gt;● omgevingseffecten&lt;/p&gt; 
+&lt;p&gt;● gebiedsontwikkeling&lt;/p&gt; 
+&lt;p&gt;● handhaving&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over een stevige technische basis en minstens 
+&lt;span&gt;5 jaar ervaring als Java developer&lt;/span&gt;, bij voorkeur binnen een agile of scrum-omgeving. Je combineert diepgaande kennis van moderne ontwikkeltechnologieën met een analytische geest en een hands-on mentaliteit.&lt;/p&gt; 
+&lt;p&gt;Dankzij je ervaring kan je complexe technische uitdagingen zelfstandig aanpakken en ondersteun je collega-ontwikkelaars bij het realiseren van kwalitatieve en duurzame softwareoplossingen.&lt;/p&gt; 
+&lt;p&gt;Daarnaast herken je jezelf in volgende technische competenties:&lt;/p&gt; 
+&lt;p&gt;● Kennis van Java 21 en vorige versies&lt;/p&gt; 
+&lt;p&gt;● Je hebt minstens 5 jaar relevante ervaring&lt;/p&gt; 
+&lt;p&gt;● Kennis van het Spring ecosysteem (Spring Boot, Spring Data, Spring Security, Spring Cloud)&lt;/p&gt; 
+&lt;p&gt;● Kennis van native web technologie (Javascript, HTML, CSS, Web API's)&lt;/p&gt; 
+&lt;p&gt;● Kennis van web-services (REST, SOAP of GraphQL)&lt;/p&gt; 
+&lt;p&gt;● Kennis van testing tools (JUnit, AssertJ, Mockito, Cypress) en Test Driven&lt;/p&gt; 
+&lt;p&gt;● Development&lt;/p&gt; 
+&lt;p&gt;● Kennis van architectuur design principes (bvb: Domain Driven Design, Restful design)&lt;/p&gt; 
+&lt;p&gt;● Kennis van SOLID principes&lt;/p&gt; 
+&lt;p&gt;● Technische en functionele analyses uitwerken a.d.h.v. UML/design patronen&lt;/p&gt; 
+&lt;p&gt;● Ervaring met Java build en integratie tools (Maven en Bamboo of Jenkins)&lt;/p&gt; 
+&lt;p&gt;● Ervaring met containers (Docker of Kubernetes)&lt;/p&gt; 
+&lt;p&gt;● Ervaring met relationele databanken (met voorkeur Postgresql)&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met:&lt;/p&gt; 
+&lt;p&gt;● Een aantrekkelijke bruto verloning&lt;/p&gt; 
+&lt;p&gt;● Een bonussysteem op basis van vast te leggen doelstellingen&lt;/p&gt; 
+&lt;p&gt;● 28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11).&lt;/p&gt; 
+&lt;p&gt;● Een mobiliteitsbudget&lt;/p&gt; 
+&lt;p&gt;● Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)&lt;/p&gt; 
+&lt;p&gt;● Een forfaitaire onkostenvergoeding&lt;/p&gt; 
+&lt;p&gt;● Een hospitalisatieverzekering (je kan gezinsleden aansluiten)&lt;/p&gt; 
+&lt;p&gt;● Een groepsverzekering&lt;/p&gt; 
+&lt;p&gt;● Een arbeidsongevallenverzekering&lt;/p&gt; 
+&lt;p&gt;● Een opleidingsbudget&lt;/p&gt; 
+&lt;p&gt;● Een laptop&lt;/p&gt; 
+&lt;p&gt;● Een smartphone met abonnementsformule&lt;/p&gt; 
+&lt;p&gt;● Flexibele werkuren&lt;/p&gt; 
+&lt;p&gt;● Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/p&gt; 
+&lt;p&gt;● Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72354267"/>
+    <published>2025-11-04T14:22:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72349054</id>
