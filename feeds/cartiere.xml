@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-04T14:22:49.648569+00:00</updated>
+  <updated>2025-11-04T16:26:19.269044+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-science-analytics-lead/</id>
+    <title>Data Science &amp; Analytics Lead </title>
+    <updated>2025-11-04T15:15:05+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-04 08:08:44+00:00, last change 2025-11-04 15:15:05+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-04 08:08:44+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Deze organisatie is een snelgroeiende, toekomstgerichte investeringsgroep die het traditionele landschap hertekent. Jong, ambitieus en gebouwd op een unieke combinatie van strategisch inzicht, intelligentie en een ondernemende mindset. Je werkt in een omgeving waar high-performance, vertrouwen en ownership centraal staan. Het team bestaat uit sterke professionals met een internationale achtergrond en een gedeelde ambitie om te bouwen op een unieke manier.&lt;br&gt;
+De cultuur kenmerkt zich door menselijkheid, hoge kwaliteit, pragmatisme en geen ego’s. Je werkt samen met experten, ondernemers en externe advisors die fungeren als sparringpartners voor strategische keuzes en groei. Dit is een plek waar jouw werk voelbaar is vanaf dag één.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Science &amp; Analytics Lead bouw je van nul een volledig datalandschap uit dat de organisatie schaalbaar maakt. Dit is een unieke greenfield rol voor iemand die graag pioniert en zowel technisch sterk als strategisch meedenkend is.&lt;br&gt;
+&lt;br&gt;
+In fase 1 leg je de datafundering: je ontwerpt de datastructuur, kiest het juiste cloudplatform, automatiseert datastromen en vervangt manuele Excel-processen door een zero-error data-omgeving. Je bouwt rapportages en dashboards die inzicht geven in financiële performance, portfolio-resultaten en toekomstige scenario’s.&lt;br&gt;
+&lt;br&gt;
+In fase 2 word je een strategische businesspartner: je identificeert AI- en data-gedreven opportuniteiten die de organisatie een competitief voordeel geven. Denk aan AI-ondersteuning voor besluitvorming, conversational data-interfaces of advanced forecasting modellen.&lt;br&gt;
+&lt;br&gt;
+Je krijgt een sleutelrol met autonomie, impact en ruimte om richting te geven. Je werkt nauw samen met de interne stakeholders en wordt een katalysator in de verdere digitale en data-transformatie van de organisatie.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je hebt 4 - 8 jaar ervaring in data science / data engineering / BI.
+	&lt;li&gt;Je hebt ervaring met datastructuren, automatisatie en data-architectuur.
+	&lt;li&gt;Je combineert hands-on bouwen met strategisch inzicht.
+	&lt;li&gt;Je hebt affiniteit met financiële data en businessmodellen.
+	&lt;li&gt;Begrippen als forecasting, rendement en groei-metrics zijn gekend of snel eigen te maken.
+	&lt;li&gt;Sterk in communicatie en vertaling van complex naar helder.
+	&lt;li&gt;Teamgericht, geen solo-mentaliteit.
+	&lt;li&gt;Je spreekt vloeiend Engels en Nederlands. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je bouwt vanaf dag één aan iets dat blijft. Je krijgt autonomie, strategische exposure en de kans om een rol te creëren die meegroeit met de ambities van de organisatie.&lt;br&gt;
+Deze rol is bedoeld voor talent dat geen volgende stap zoekt, maar een sprong in impact, autonomie en intellectuele uitdaging.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-science-analytics-lead/"/>
+    <category term="BI/Data Analyst"/>
+    <category term="BI/Data Architect"/>
+    <category term="Data Science"/>
+    <published>2025-11-04T08:08:44+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-analist-4/</id>
     <title>Data Analist</title>
