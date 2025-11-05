@@ -2,20 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-05T16:49:58.195077+00:00</updated>
+  <updated>2025-11-05T18:49:03.145897+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084450</id>
-    <title>Freelance DevOps Automation Engineer (Cronos)</title>
-    <updated>2025-10-17T00:04:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben je een freelance consultant? Klaar voor een nieuwe uitdaging?&lt;/p&gt;&lt;p&gt;Of wil je je netwerk uitbouwen en als IT professional op de hoogte blijven van interessante opdrachten?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fieldside levert enterprise en technologische oplossingen én de daarbij horende consultancy diensten. Wij detacheren specialisten, voeren volledige ICT-projecten uit en nemen de volledige outsourcing van IT-diensten voor onze rekening. Wij kunnen rekenen op een solide klantportfolio voor wie we in directe lijn een brede variëteit aan opdrachten uitvoeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Om continuïteit en flexibiliteit te kunnen garanderen, om aan alle staffing behoeften te voldoen en om aan de vraag naar specifieke, additionele expertise in te willigen werkt Fieldside met freelancers.&lt;/p&gt;&lt;p&gt;Onze freelance pool is een belangrijke troef om tegemoet te komen aan de behoeften van onze klanten!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn permanent op zoek naar enthousiaste en ervaren IT’ers om interessante opdrachten uit te voeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn nu specifiek op zoek naar een DevOps Automation Engineer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;De job:&lt;/p&gt;&lt;p&gt;Als DevOps Automation Engineer maak je deel uit van ons team en werk je aan verschillende soorten projecten. Je werkt aan het automatiseren van de IT-infrastructuur, CI/CD-projecten, cloudmigratie en cloudtransformatieprojecten. Je werkt zowel op ons kantoor als bij de klant.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Gewenste skills:&lt;/p&gt;&lt;p&gt;* Ervaring of interesse in configuration management tools zoals Puppet, Terraform en/of Ansible is voor ons een must&lt;/p&gt;&lt;p&gt;* Een sterke interesse in de DevOps-lifestyleis belangrijk&lt;/p&gt;&lt;p&gt;* Ervaring met tools als GitLab/GitHub, Jenkins en/of Bamboo&lt;/p&gt;&lt;p&gt;* Je beheerst virtualisatie en containerisatie en je wilt je graag verder verdiepen in tools zoals Docker, Kubernetes, VMWare&lt;/p&gt;&lt;p&gt;* Scripting met Perl, Python en/of Ruby is iets dat je graag doet en waar je je prettig bij voelt&lt;/p&gt;&lt;p&gt;* Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw aanpak&lt;/p&gt;&lt;p&gt;* Je bent leergierig en blijft graag op de hoogte van de nieuwste tools en technologieën&lt;/p&gt;&lt;p&gt;* Je bent een teamspeler en deelt graag je kennis met het team&lt;/p&gt;&lt;p&gt;* Je beschikt over sterke communicatieve vaardigheden en streeft altijd naar de beste oplossing&lt;/p&gt;&lt;p&gt;* Last but not least… een goed gevoel voor humor is een must en je bent niet bang voor enige zelfreflectie&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084450"/>
-    <published>2024-07-02T09:28:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
     <title>Freelance Data Engineer (Cronos)</title>
@@ -3758,6 +3747,27 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
 &lt;p&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72359787"/>
     <published>2025-11-05T09:45:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72365833</id>
+    <title>Senior System Engineer (LGA IT)</title>
+    <updated>2025-11-05T17:40:32+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior System Engineer:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Beheer, optimaliseer en verbeter je hybride cloud- en datacenteromgevingen.&lt;/li&gt;&lt;li&gt;Werk je nauw samen met interne IT-teams en partners.&lt;/li&gt;&lt;li&gt;Ondersteun je klanten bij complexe technische problemen en geef je advies over verbeteringen.&lt;/li&gt;&lt;li&gt;Draag je bij aan incidentbeheer, troubleshooting en preventieve analyses.&lt;/li&gt;&lt;li&gt;Voer je systeemupgrades en migraties uit en documenteer je processen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;ul&gt;
+&lt;li&gt;Senior ervaring in on-premise en cloudinfrastructuren.&lt;/li&gt;&lt;li&gt;Specialist in virtualisatie (VMware); andere virtualisatie tools? dat is ook goed!&lt;/li&gt;&lt;li&gt;Analytisch sterk, probleemoplossend en klantgericht.&lt;/li&gt;&lt;li&gt;Communicatief vaardig in Nederlands + Engels; Frans is een pluspunt.&lt;/li&gt;&lt;li&gt;Je bent zelfstandig en kunt verantwoordelijkheid nemen in complexe projecten.&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p data-start="1348" data-end="1408"&gt;In ruil voor jouw inzet, krijg jij:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li data-start="1348" data-end="1408"&gt;Uitdagende projecten in kritieke sectoren zoals de zorg.&lt;/li&gt;
+&lt;li data-start="1348" data-end="1408"&gt;Ruimte voor autonomie en persoonlijke ontwikkeling.&lt;/li&gt;
+&lt;li data-start="1348" data-end="1408"&gt;Samenwerking met een deskundig en ambitieus team.&lt;/li&gt;
+&lt;li data-start="1348" data-end="1408"&gt;Focus op senior talent, geen junior overload.&lt;/li&gt;
+&lt;li data-start="1348" data-end="1408"&gt;Competitief salarispakket + extra voordelen (bedrijfswagen, maaltijdcheques, hospitalisatieverzekering, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72365833"/>
+    <published>2025-11-05T17:40:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72360404</id>
