@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-06T14:43:37.649894+00:00</updated>
+  <updated>2025-11-06T16:48:34.089901+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
-    <title>Freelance Java Developer (Cronos)</title>
-    <updated>2025-10-17T00:04:58+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Als consultant kom je terecht in diverse omgevingen, bij diverse klanten, waar je mee kan instaan voor het uitwerken en bouwen van innovatieve cloudapplicaties.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kijkt verder dan je code alleen en kan functionele vereisten vertalen naar een technische oplossing&lt;/li&gt;&lt;li&gt;Naast jouw specialisatie blijf je een brede kijk houden op technologie en deins je er niet voor terug om nieuwe dingen op te pikken&lt;/li&gt;&lt;li&gt;Wisselende omgevingen en inwerken bij nieuwe teams zie je als een meerwaarde in je job&lt;/li&gt;&lt;li&gt;Opvolgen van de nieuwste trends en ontwikkelingen in cloud architectuur en tools zit in je DNA&lt;/li&gt;&lt;li&gt;Communicatie is cruciaal, je toetst je oplossing af met de functionele teams en overlegt op regelmatige basis met je collega’s&lt;/li&gt;&lt;li&gt;Je spreekt Nederlands en Engels. Frans is een plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt relevante werkervaring in Java, Node.JS, Spring, Spring Boot, Maven, Jenkins, Git, containers (Docker, Kubernetes)&lt;/li&gt;&lt;li&gt;Je bent volledig mee met cloud providers zoals Amazon Web Services, Google Cloud Platform en Oracle Cloud&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;node.js&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;spring&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;angular&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;maven&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;git&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;amazon web services&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;google cloud platform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084442"/>
-    <published>2024-07-02T09:28:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084441</id>
     <title>Freelance PL/SQL Developer (Cronos)</title>
@@ -2018,7 +1995,7 @@ Uiterste sollicitatiedatum: zo snel mogelijk&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&g
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72146090</id>
     <title>Senior Microsoft Data Engineer (DELA Uitvaartspecialist)</title>
-    <updated>2025-10-08T13:23:16+00:00</updated>
+    <updated>2025-11-06T15:58:30+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: DELA Uitvaartspecialist (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Zin in niet &lt;em&gt;zomaar &lt;/em&gt;een job maar wel om écht zinvol werk aan te gaan met mensen? Dat kan… bij DELA! Hoe wij dat doen? Wel, op onze manier, &lt;strong&gt;de DELA-manier&lt;/strong&gt;. Al meer dan 80 jaar &lt;strong&gt;luisteren &lt;/strong&gt;wij, zorgen we voor &lt;strong&gt;raad en daad&lt;/strong&gt; &amp; geven wij die &lt;strong&gt;warme professionele houvast&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Of het nu gaat over een uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf: mensen &lt;strong&gt;ontzorgen in één van de moeilijkste momenten&lt;/strong&gt;&lt;strong&gt;van hun leven&lt;/strong&gt;. Dat is wat onze job &lt;strong&gt;zinvol &lt;/strong&gt;maakt en ons de energie geeft om er altijd te staan als &lt;strong&gt;één team&lt;/strong&gt;.&lt;br/&gt;  Ter uitbreiding van het Data Delivery team in Antwerpen, zoeken we een Senior Microsoft Data Engineer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior Microsoft Data Engineer speel je een sleutelrol in het ontwerpen, bouwen en optimaliseren van ons dataplatform in de Microsoft Azure-omgeving. Je coördineert mee de samenwerking met onze externe partner (Cloubis), zet technische richtlijnen uit en vertaalt complexe brondata naar betrouwbare, schaalbare data-oplossingen die onze business vooruit helpen. Daarbij ben je zowel technisch expert als coach voor je collega’s.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je zorgt voor het &lt;strong&gt;ontwerpen en implementeren van robuuste data pipelines&lt;/strong&gt; met Azure Data Factory, DBT, Synapse en Databricks.&lt;/li&gt;&lt;li&gt;Je borgt de kwaliteit en veiligheid van data door het toepassen van data governance, lineage en security in lijn met wet- en regelgeving (o.a. GDPR).&lt;/li&gt;&lt;li&gt;Je beoordeelt en optimaliseert prestaties, betrouwbaarheid en schaalbaarheid van data-oplossingen.&lt;/li&gt;&lt;li&gt;Je draagt bij aan het modelleren van data in moderne datawarehouse-architecturen (medallion, lakehouse) en denkt in termen van &lt;em&gt;data als product&lt;/em&gt;.&lt;/li&gt;&lt;li&gt;Je zorgt ervoor dat er heldere &lt;strong&gt;data contracts&lt;/strong&gt; zijn met de business, inclusief afspraken over levering, foutenafhandeling en toegangsrechten.&lt;/li&gt;&lt;li&gt;Je fungeert als &lt;strong&gt;tech lead&lt;/strong&gt; binnen projecten, begeleidt collega’s en werkt nauw samen met data-analisten en business stakeholders.&lt;/li&gt;&lt;li&gt;Je beheert CI/CD-processen voor data pipelines via Azure DevOps.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Volgende troeven zoeken we in jou:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt minstens 10 jaar ervaring als Data Engineer, waarvan minstens 2 jaar met Microsoft Azure.&lt;/li&gt;&lt;li&gt;Je hebt diepgaande kennis van Azure Data Factory, Azure Synapse, Azure SQL, Databricks, DBT en Power BI.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met programmeertalen zoals SQL en Python.&lt;/li&gt;&lt;li&gt;Je hebt kennis van data governance, lineage, security en compliance in gereguleerde sectoren.&lt;/li&gt;&lt;li&gt;Je communiceert helder met zowel technische als niet-technische stakeholders en kan overtuigend argumenteren.&lt;/li&gt;&lt;li&gt;Je bent een teamplayer met coachende vaardigheden en een kritische mindset.&lt;/li&gt;&lt;li&gt;Ervaring met Agile/Scrum-werkwijzen is een pluspunt.&lt;/li&gt;&lt;li&gt;Kennis van data contracts en data product thinking is een grote meerwaarde.&lt;/li&gt;&lt;li&gt;Je spreekt vloeiend Engels en hebt basiskennis van Nederlands of Frans.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Wat bieden wij jou&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DELA werd voor de 4e keer bekroond als &lt;strong&gt;World Class Workplace&lt;/strong&gt; dankzij onze focus op duurzaamheid, leiderschap en persoonlijke ontwikkeling.&lt;/li&gt;&lt;li&gt;Je krijgt alle kansen om te groeien, met een persoonlijk &lt;strong&gt;groeiplan &lt;/strong&gt;en een ruim opleidingsaanbod via onze &lt;strong&gt;DELA Academy&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;waarden-gedreven organisatie&lt;/strong&gt; waar integriteit, betrokkenheid en ondernemerschap centraal staan.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;sterke coöperatieve cultuur &lt;/strong&gt;waarin we collega’s met diverse achtergronden verwelkomen en samenwerken als één team.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;competitief salaris in lijn met jouw ervaring&lt;/strong&gt; en een uitgebreid pakket extralegale voordelen.&lt;/li&gt;&lt;li&gt;Toegang tot DELA’s flexplan met opties zoals extra verlofdagen en fietsleasing, plus een flexibel thuiswerkbeleid.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ben jij klaar voor een uitdagende en betekenisvolle job bij DELA?&lt;br/&gt; &lt;strong&gt;Solliciteer online&lt;/strong&gt; en wij kijken ernaar uit om jou te ontmoeten!&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72146090"/>
     <published>2025-10-08T13:23:16+00:00</published>
@@ -2981,17 +2958,9 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <published>2025-10-29T15:56:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72314898</id>
-    <title>Senior IT Business Analist Verzekeren (DELA Uitvaartspecialist)</title>
-    <updated>2025-10-29T15:28:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: DELA Uitvaartspecialist (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Zin in niet zomaar een job maar wel om 'echt' zinvol werk te doen met mensen?&lt;/p&gt;&lt;p&gt;Dat kan… bij DELA! Hoe wij dat doen? Wel, … op onze manier, de &lt;strong&gt;DELA-manier&lt;/strong&gt;. Al meer dan 80 jaar luisteren wij, zorgen we voor raad en daad &amp; geven wij die warme professionele houvast.&lt;/p&gt;&lt;p&gt;Of het nu gaat over een uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf, mensen &lt;strong&gt;ontzorgen in één van de moeilijkste momenten van hun leven&lt;/strong&gt;. Dat is wat onze job zinvol maakt en ons de energie geeft om er altijd te staan als één team. Ter uitbreiding van het &lt;strong&gt;IT-team&lt;/strong&gt; in Antwerpen, zoeken we een &lt;strong&gt;Senior Busines Analist&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw uitdaging &lt;/strong&gt;&lt;br/&gt; Als Business Analist ben je in dagelijks contact met medewerkers van andere afdelingen. Je capteert de verschillende behoeften in processen, data en applicaties en vertaalt deze naar een ideale oplossing. Je houdt ten allen tijde een kritische blik en bewaakt de kwaliteit en continuïteit. Je positioneert jezelf als de sparringpartner van business en IT.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw takenpakket&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je bent de schakel tussen de business en IT. In die hoedanigheid sta je technisch je mannetje én kan je meepraten met de meest recente technologische evoluties.&lt;/li&gt;&lt;li&gt;Via interviews verzamel je alle nodige informatie voor de procesanalyse en je koppelt daarna ter review terug naar de proceseigenaren.&lt;/li&gt;&lt;li&gt;Je helpt de proceseigenaren door het schrijven van systeemvereisten voor applicaties en systemen en documenteert procesinformatie via visuele diagrammen (proces designs).&lt;/li&gt;&lt;li&gt;Je vertaalt de behoeften van de business naar systemen, applicaties en andere oplossingen. Je reikt hiervoor uit naar partners binnen en buiten de organisatie.&lt;/li&gt;&lt;li&gt;Door grondige analyses weet jij welke opvolging nodig is en reageer je proactief.&lt;/li&gt;&lt;li&gt;Je hebt oog voor analyse en evolutie, innovatie en alternatieven, centralisatie en methodologie.&lt;/li&gt;&lt;li&gt;Je zorgt ervoor dat het aspect ‘security’ steeds mee is opgenomen en je brengt de beveiliging en continuïteit in kaart.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Als Business Analist zijn de volgende eigenschappen je op het lijf geschreven:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een focus op kwaliteit en gaat altijd voor de beste oplossing, op korte en lange termijn.&lt;/li&gt;&lt;li&gt;Je houdt rekening met alle betrokken partijen en alle aspecten en altijd met een kritische blik.&lt;/li&gt;&lt;li&gt;Je communiceert op een heldere manier met alle stakeholders en argumenteert duidelijk en overtuigend.&lt;/li&gt;&lt;li&gt;Je bent een teamplayer die houdt van een uitdaging en niet bang is om initiatief te nemen.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met de nodige tools om processen zichtbaar en transparant te maken voor de business. Binnen Dela maken we gebruik van BPMN.&lt;/li&gt;&lt;li&gt;Nederlands en Engels spreek je met gemak, Frans is een pluspunt.&lt;/li&gt;&lt;li&gt;Kennis van Scrum, Agile Framework en Kanban methodologieën zijn een grote meerwaarde.&lt;/li&gt;&lt;li&gt;Kennis van integratietechnieken, IT technische inzichten als affiniteit met IT voortbrengingsprocessen en lifecycle planning zijn mooi meegenomen.&lt;/li&gt;&lt;li&gt;Je beschikt over minimaal vijf jaar relevante werkervaring.&lt;/li&gt;&lt;li&gt;Als Senior beschik je over het talent om het vakgebied Business Analyse binnen Dela naar een hoger niveau te tillen en coach je hierin de overige Business Analisten.&lt;/li&gt;&lt;li&gt;Als Senior heb je bewezen ervaring als Business Analist in de Belgische Verzekeringsector.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ons aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DELA werd tot 4de keer bekroond als &lt;strong&gt;World Class Workplace&lt;/strong&gt; – dankzij een focus op duurzaamheid, leiderschap, persoonlijke ontwikkeling,… alsook flexibel thuiswerkbeleid (max. 3 dagen home-office)&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;competitief salaris in lijn met jouw ervaring&lt;/strong&gt; – incl. bedrijfswagen en een uitgebreid pakket aan extralegale voordelen – alsook toegang tot DELA’s flexplan (met mogelijkheid tot extra verlofdagen, bikelease,…)&lt;/li&gt;&lt;li&gt;Al &lt;strong&gt;meer dan 80 jaar&lt;/strong&gt; ontzorgen we mensen in één van de moeilijkste momenten van hun leven. Of het nu gaat om uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf. Dit is wat onze job zinvol maakt en ons de energie geeft om er steeds te staan als één team&lt;/li&gt;&lt;li&gt;Een door &lt;strong&gt;waarden &lt;/strong&gt;gedreven organisatie die &lt;strong&gt;integriteit, betrokkenheid en ondernemerschap&lt;/strong&gt; centraal stelt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ook zin gekregen in onze manier van werken?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aarzel dan niet en solliciteer nu!&lt;/strong&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72314898"/>
-    <published>2025-10-29T15:28:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72314897</id>
     <title>Data Platform Lead Engineer (DELA Uitvaartspecialist)</title>
-    <updated>2025-10-29T15:28:17+00:00</updated>
+    <updated>2025-11-06T15:53:34+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: DELA Uitvaartspecialist (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Zin in niet&lt;em&gt; zomaar &lt;/em&gt;een job maar wel om 'echt' zinvol werk aan te gaan met mensen? Dat kan… bij DELA! Hoe wij dat doen? Wel, … op onze manier, &lt;strong&gt;de DELA-manier&lt;/strong&gt;. Al meer dan 80 jaar &lt;strong&gt;luisteren&lt;/strong&gt; wij, zorgen we voor &lt;strong&gt;raad en daad &lt;/strong&gt;&amp; geven wij die &lt;strong&gt;warme&lt;/strong&gt;&lt;strong&gt;professionele&lt;/strong&gt;&lt;strong&gt;houvast.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Of het nu gaat over een uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf, mensen &lt;strong&gt;ontzorgen in één van de moeilijkste momenten van hun leven&lt;/strong&gt;. Dat is wat onze job &lt;strong&gt;zinvol&lt;/strong&gt; maakt en ons de energie geeft om er altijd te staan als &lt;strong&gt;één team&lt;/strong&gt;. Ter uitbreiding van het IT team in Antwerpen, zoeken we een Product Owner Data.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw uitdaging &lt;/strong&gt; &lt;br/&gt; Als Data Platform Lead Engineer ben je verantwoordelijk voor het technisch ontwerp, de bouw en het beheer van het data platform binnen de organisatie. Hij/zij garandeert de stabiliteit, schaalbaarheid en veiligheid van de dataplatform architectuur en fungeert als technisch aanspreekpunt binnen het team. Deze rol combineert hands-on engineering met technisch leiderschap, en ondersteunt datateams (BI, data governance, data science) bij het efficiënt en betrouwbaar gebruiken van data.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Technisch ontwerp &amp; implementatie
 &lt;ul&gt;&lt;li&gt;Ontwerpen en bouwen van schaalbare platformcomponenten zoals data lakes, data warehouses en generieke ETL frameworks&lt;/li&gt;&lt;li&gt;Coördineert en superviseert ontwerp- en implementatiewerkzaamheden van externe leverancier, en bewaakt de technische kwaliteit, integratie en conformiteit met interne standaarden&lt;/li&gt;&lt;li&gt;Integratie van het dataplatform met interne en externe bronnen (API's, mesage queues, data pipelines)&lt;/li&gt;&lt;li&gt;Opzetten en onderhouden van CI/CD processen en infrastructure-as-code voor het dataplatform&lt;/li&gt;&lt;li&gt;Draagt bij aan de vertaling van businessbehoeften naar haalbare data use cases en ondersteunt teams bij het specificeren en structureren van dataproducten in lijn met platformstandaarden&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Beheer &amp; optimalisatie
 &lt;ul&gt;&lt;li&gt;Zorgen voor maximale beschikbaarheid, performantie en betrouwbaarheid van het dataplatform&lt;/li&gt;&lt;li&gt;Monitoren, loggen en verbeteren van systeemprestaties&lt;/li&gt;&lt;li&gt;Optimaliseren van kosten, vooral in cloud omgevingen&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Samenwerking &amp; coaching
@@ -2999,6 +2968,14 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
 &lt;ul&gt;&lt;li&gt;Vastleggen en handhaven van technische standaarden en namingconventies&lt;/li&gt;&lt;li&gt;Borgen van databeveiliging, compliance (bv. GDPR) en metadata management&lt;/li&gt;&lt;li&gt;Ondersteunen bij uitrol van data observability en data quality frameworks&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Volgende tools komen aan bod in de functie, je kan zelf een ruime ervaring aantonen in onderstaande&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cloud platform: Grondige ervaring van Microsoft Azure, inclusief reourcebeheer via Azure Portal, CLI of ARM&lt;/li&gt;&lt;li&gt;Diepgaande kennis van Azure Synapse Analytics, Azure Data Lake Storage Gen2, Azure SQL/SQL MI&lt;/li&gt;&lt;li&gt;Data integratie &amp; pipelines: Ervaring met Azure Data Factory en/of Azure Data Synapse Pipelines voor het opzetten van ETL/ELT-processen&lt;/li&gt;&lt;li&gt;Data modellering &amp; transformatie: Vaardigheid in het modelleren van data en beheren van transformatielogica via dbt, inclusief testing, lineage en documentatie&lt;/li&gt;&lt;li&gt;Big data &amp; processing: Praktische ervaring met Azure Databricks, Apache Spark en verwerking van datasets&lt;/li&gt;&lt;li&gt;Metadata &amp; governance: Kennis van Microsoft Purview voor data catalogus, lineage en classificatie&lt;/li&gt;&lt;li&gt;Beveiliging &amp; toegangsbehe: Begrip van RBAC in Azure, Azure Entra ID (voorheen AAD), netwerkbeveiliging (NSG, Private Endpoints), en databeveiliging (encryptie, maskerbeleid)&lt;/li&gt;&lt;li&gt;Monitoring &amp; logging: Gebruik van Azure Monitor, Log Analytics, Application Insights voor platformobservatie en troubleshooting&lt;/li&gt;&lt;li&gt;CI/CD &amp; automation: Ervaring met deployment via Azure DevOps, YAML pipelines, ARM/Bicep templates of Terraform op Azure&lt;/li&gt;&lt;li&gt;Programmeren &amp; scripting: Vaardig in SQL en Python; ervaring met PowerShell is een pluspunt voor scripting in Azure&lt;/li&gt;&lt;li&gt;Visualisatie &amp; rapportage: Basiskennis van PowerBI, met focus op dataset-publicatie en integratie met Azure&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Je kan je terugvinden in onderstaande skills:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je stuurt het team technisch aan, begeleidt engineers en fungeert als bruggenbouwer tussen verschillende teams en disciplines, met oog voor het grotere ecosysteem&lt;/li&gt;&lt;li&gt;Je combineert pragmatisme met visie en werkt structureel aan schaalbare, onderhoudbare oplossingen die duurzaam waarde toevoegen&lt;/li&gt;&lt;li&gt;Je legt complexe technische concepten helder uit aan diverse stakeholders, neemt initiatief voor verbeteringen en volgt relevante innovaties actief op.&lt;/li&gt;&lt;li&gt;Je hebt een Bachelor of Master in IT, data engineering of gelijkwaardig door minstens 10jaar relevante ervaring. Waarvan minstens 2jaar in een leidende/coachende engineeringrol&lt;/li&gt;&lt;li&gt;Je hebt een goede beheersing van Nederlands, Frans en Engels&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Zin in een impactvolle job binnen DELA? &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat bieden wij jou&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DELA werd tot 4de keer bekroond als &lt;strong&gt;World Class Workplace&lt;/strong&gt; – dankzij een focus op duurzaamheid, leiderschap en persoonlijke ontwikkeling;&lt;/li&gt;&lt;li&gt;Een door &lt;strong&gt;waarden gedreven organisatie&lt;/strong&gt; die integriteit, betrokkenheid en ondernemerschap centraal stelt;&lt;/li&gt;&lt;li&gt;DELA staat voor &lt;strong&gt;een sterke coöperatieve cultuur,&lt;/strong&gt; waarbij we collega's met diverse achtergronden verwelkomen en samenwerken als één team. We geloven in de kracht van mensen en in de zinvolle impact die we maken in het leven van anderen.&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;competitief salaris in lijn met jouw ervaring&lt;/strong&gt; –(tekst)en een uitgebreid pakket aan extralegale voordelen – alsook toegang tot DELA’s flexplan (met mogelijkheid tot extra verlofdagen, bikelease,…) en een flexibel thuiswerkbeleid.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ben jij klaar voor een uitdagende en betekenisvolle job bij DELA? &lt;strong&gt;Solliciteer online&lt;/strong&gt; en wij kijken ernaar uit om jou te ontmoeten!&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72314897"/>
     <published>2025-10-29T15:28:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72314898</id>
+    <title>Senior IT Business Analist Verzekeren (DELA Uitvaartspecialist)</title>
+    <updated>2025-11-06T15:53:46+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: DELA Uitvaartspecialist (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Zin in niet zomaar een job maar wel om 'echt' zinvol werk te doen met mensen?&lt;/p&gt;&lt;p&gt;Dat kan… bij DELA! Hoe wij dat doen? Wel, … op onze manier, de &lt;strong&gt;DELA-manier&lt;/strong&gt;. Al meer dan 80 jaar luisteren wij, zorgen we voor raad en daad &amp; geven wij die warme professionele houvast.&lt;/p&gt;&lt;p&gt;Of het nu gaat over een uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf, mensen &lt;strong&gt;ontzorgen in één van de moeilijkste momenten van hun leven&lt;/strong&gt;. Dat is wat onze job zinvol maakt en ons de energie geeft om er altijd te staan als één team. Ter uitbreiding van het &lt;strong&gt;IT-team&lt;/strong&gt; in Antwerpen, zoeken we een &lt;strong&gt;Senior Busines Analist&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw uitdaging &lt;/strong&gt;&lt;br/&gt; Als Business Analist ben je in dagelijks contact met medewerkers van andere afdelingen. Je capteert de verschillende behoeften in processen, data en applicaties en vertaalt deze naar een ideale oplossing. Je houdt ten allen tijde een kritische blik en bewaakt de kwaliteit en continuïteit. Je positioneert jezelf als de sparringpartner van business en IT.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw takenpakket&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je bent de schakel tussen de business en IT. In die hoedanigheid sta je technisch je mannetje én kan je meepraten met de meest recente technologische evoluties.&lt;/li&gt;&lt;li&gt;Via interviews verzamel je alle nodige informatie voor de procesanalyse en je koppelt daarna ter review terug naar de proceseigenaren.&lt;/li&gt;&lt;li&gt;Je helpt de proceseigenaren door het schrijven van systeemvereisten voor applicaties en systemen en documenteert procesinformatie via visuele diagrammen (proces designs).&lt;/li&gt;&lt;li&gt;Je vertaalt de behoeften van de business naar systemen, applicaties en andere oplossingen. Je reikt hiervoor uit naar partners binnen en buiten de organisatie.&lt;/li&gt;&lt;li&gt;Door grondige analyses weet jij welke opvolging nodig is en reageer je proactief.&lt;/li&gt;&lt;li&gt;Je hebt oog voor analyse en evolutie, innovatie en alternatieven, centralisatie en methodologie.&lt;/li&gt;&lt;li&gt;Je zorgt ervoor dat het aspect ‘security’ steeds mee is opgenomen en je brengt de beveiliging en continuïteit in kaart.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Als Business Analist zijn de volgende eigenschappen je op het lijf geschreven:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een focus op kwaliteit en gaat altijd voor de beste oplossing, op korte en lange termijn.&lt;/li&gt;&lt;li&gt;Je houdt rekening met alle betrokken partijen en alle aspecten en altijd met een kritische blik.&lt;/li&gt;&lt;li&gt;Je communiceert op een heldere manier met alle stakeholders en argumenteert duidelijk en overtuigend.&lt;/li&gt;&lt;li&gt;Je bent een teamplayer die houdt van een uitdaging en niet bang is om initiatief te nemen.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met de nodige tools om processen zichtbaar en transparant te maken voor de business. Binnen Dela maken we gebruik van BPMN.&lt;/li&gt;&lt;li&gt;Nederlands en Engels spreek je met gemak, Frans is een pluspunt.&lt;/li&gt;&lt;li&gt;Kennis van Scrum, Agile Framework en Kanban methodologieën zijn een grote meerwaarde.&lt;/li&gt;&lt;li&gt;Kennis van integratietechnieken, IT technische inzichten als affiniteit met IT voortbrengingsprocessen en lifecycle planning zijn mooi meegenomen.&lt;/li&gt;&lt;li&gt;Je beschikt over minimaal vijf jaar relevante werkervaring.&lt;/li&gt;&lt;li&gt;Als Senior beschik je over het talent om het vakgebied Business Analyse binnen Dela naar een hoger niveau te tillen en coach je hierin de overige Business Analisten.&lt;/li&gt;&lt;li&gt;Als Senior heb je bewezen ervaring als Business Analist in de Belgische Verzekeringsector.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ons aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;DELA werd tot 4de keer bekroond als &lt;strong&gt;World Class Workplace&lt;/strong&gt; – dankzij een focus op duurzaamheid, leiderschap, persoonlijke ontwikkeling,… alsook flexibel thuiswerkbeleid (max. 3 dagen home-office)&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;competitief salaris in lijn met jouw ervaring&lt;/strong&gt; – incl. bedrijfswagen en een uitgebreid pakket aan extralegale voordelen – alsook toegang tot DELA’s flexplan (met mogelijkheid tot extra verlofdagen, bikelease,…)&lt;/li&gt;&lt;li&gt;Al &lt;strong&gt;meer dan 80 jaar&lt;/strong&gt; ontzorgen we mensen in één van de moeilijkste momenten van hun leven. Of het nu gaat om uitvaartverzekering, een repatriëring, nabestaandenzorg of de uitvaart zelf. Dit is wat onze job zinvol maakt en ons de energie geeft om er steeds te staan als één team&lt;/li&gt;&lt;li&gt;Een door &lt;strong&gt;waarden &lt;/strong&gt;gedreven organisatie die &lt;strong&gt;integriteit, betrokkenheid en ondernemerschap&lt;/strong&gt; centraal stelt.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ook zin gekregen in onze manier van werken?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aarzel dan niet en solliciteer nu!&lt;/strong&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72314898"/>
+    <published>2025-10-29T15:28:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72308616</id>
@@ -3628,6 +3605,186 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Computacenter Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;At Computacenter, we have been writing success stories for more than 40 years! Today, we’re driving digital transformation with over 20,000 employees worldwide. We develop IT strategies, implement new technologies and manage complex infrastructures.&lt;/p&gt;&lt;p&gt;As a proud, independent partner to some of the world’s leading technology providers, our portfolio covers workplace, applications &amp;amp; data, cloud &amp;amp; data center, security, and networking.&lt;/p&gt;&lt;p&gt;What’s the secret of our success? Quite simply, it’s our people. The people who bring their unique skills and perspectives to a diverse and inclusive environment that enables them to reach their full potential.&lt;/p&gt;&lt;p&gt;At Computacenter, we’re always looking for exceptional people who are forward-thinking, great collaborators and share a passion for driving brilliant outcomes for customers each day. Whether you’re an experienced professional or just starting out, we have roles in sales, project management, consulting, cyber defence, IT and more. So why not begin your journey at Computacenter and help us to continue ours.&lt;/p&gt;&lt;p&gt;Job description:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Life on the team&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As Manager Professional Services, you will be responsible for both people leadership and resource planning, ensuring the right expertise is aligned with project and customer needs. You will lead a team of Project Managers, Consultants &amp;amp; Engineers, support their development, and be a key contributor to delivering high-quality professional services.&lt;/p&gt;&lt;p&gt;In addition to managing day-to-day operations, you will play an active role in the broader commercial and operational success of the department. This includes taking ownership of relevant financial performance indicators and working closely with commercial teams during both pre-sales planning and post-sales delivery to ensure service excellence and business alignment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What You'll Do&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;People Management&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lead and manage a team of Project Managers, Consultants, Engineers, including all aspects of performance management, coaching, and development.&lt;/li&gt;&lt;li&gt;Create and maintain training and development plans aligned with business goals.&lt;/li&gt;&lt;li&gt;Ensure accurate and timely execution of administrative processes (e.g. timesheets, onboarding).&lt;/li&gt;&lt;li&gt;Drive recruitment and onboarding of new team members.&lt;/li&gt;&lt;li&gt;Foster an open, feedback-driven team culture where individuals feel valued and supported.&lt;/li&gt;&lt;li&gt;Ensure the team remains focused on delivering excellent customer service and follows up on customer feedback.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Resource Planning&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Translate resourcing requirements into effective deployment of internal and external professionals.&lt;/li&gt;&lt;li&gt;Build and maintain a strong network of external contractors and staffing agencies.&lt;/li&gt;&lt;li&gt;Manage the recruitment, onboarding, and support of external resources.&lt;/li&gt;&lt;li&gt;Collaborate with Resource and Service Managers to align long-term planning and pricing based on pipeline forecasts.&lt;/li&gt;&lt;li&gt;Act as point of contact for international resourcing requests and systems development.&lt;/li&gt;&lt;li&gt;Work closely with HR on contract management and administrative tasks.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Financial and Commercial Involvement&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;P&amp;amp;L Ownership&lt;/strong&gt;: Contribute to the financial performance of the department by managing key cost lines and understanding how your team's performance impacts the broader departmental P&amp;amp;L.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Pre-Sales Support&lt;/strong&gt;: Collaborate with commercial and bid teams during proposal development to ensure realistic resource planning and cost estimates.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Post-Sales Execution&lt;/strong&gt;: Oversee the resource execution of awarded projects, ensuring optimal delivery and customer satisfaction. Review and management of customer feedback.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What You'll Need&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor’s degree or equivalent working level; experience in a similar leadership role.&lt;/li&gt;&lt;li&gt;Strong leadership and coaching skills.&lt;/li&gt;&lt;li&gt;Experience working in a fast-paced, commercial environment.&lt;/li&gt;&lt;li&gt;Financial acumen and interest in managing cost, budget, or P&amp;amp;L elements.&lt;/li&gt;&lt;li&gt;Excellent organizational and planning skills.&lt;/li&gt;&lt;li&gt;Strong communication skills in English and Dutch.&lt;/li&gt;&lt;li&gt;Proactive, solution-focused, and resilient under pressure.&lt;/li&gt;&lt;li&gt;Confident in collaborating with sales, project management, and HR teams.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Skilled in stakeholder management and able to influence others effectively.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72371330"/>
     <published>2025-11-06T10:08:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72376228</id>
+    <title>Service Delivery Manager (Randstad Digital)</title>
+    <updated>2025-11-06T16:17:58+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Are you a passionate Service Delivery Manager ready to make a tangible impact? We are looking for an enthusiast to join the Products &amp; Technology team, the heart of our client's digital-first vision. In this challenging role, you will support business specialists in building purpose-driven products, solving complex problems, and creating unique experiences that unlock new opportunities for growth. You will be part of a team fuelled by open and curious minds, dedicated to solving important problems and creating new solutions for a new day.&lt;br /&gt;
+
+Your tasks:&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;
+Ensure Service Support and Service Delivery processes are in place to meet business needs and deliver high-quality service to end-users.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Build and manage business expectations, driving the Product and Technology team to achieve those expectations to a high standard.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Develop strong relationships with assigned internal customers, addressing their issues with a positive, customer-centric attitude.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Build and optimize supplier partnerships to elevate service quality and align with strategic goals.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Establish policies designed to ensure consistently high service performance.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Evaluate customer feedback to develop quality improvement processes and contribute strategic thoughts about services and projects.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Create and consolidate common data views of existing services with all relevant stakeholders.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Evaluate existing local and global services, driving continuous improvement initiatives.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Manage SLAs effectively and implement escalation procedures to address issues promptly.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Provide regular reporting on service performance metrics and supplier evaluations to ensure accountability.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Foster effective communication and collaboration with internal stakeholders for a unified approach to service delivery.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Oversee asset and license management to ensure accurate inventory, compliance, cost optimization, and risk mitigation.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Maintain support and governance models as well as a service delivery plan.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Oversee and maintain a comprehensive inventory of CIs in the supporting tools.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Regularly assess supplier performance to ensure adherence to contractual obligations and SLAs.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+ &lt;br /&gt;
+
+Your profile:&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;
+A Bachelor's or Master's degree in computer science, information systems, business administration, applied economics, or a related field (or equivalent work experience).&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+A minimum of 7 years of relevant experience.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Overall knowledge of ITIL methodology; ITIL certification is considered a plus.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Strong customer focus with the ability to anticipate and address customer needs proactively.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Strong analytical and problem-solving skills, with the ability to make data-driven decisions.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Excellent communication and storytelling skills, with the ability to engage stakeholders at all levels.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Service-minded, stress-resilient, and possesses strong negotiation skills.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+A constructive collaborator who innovates and takes initiative.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+An active listener with strong negotiation skills.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+A keen understanding of risk management (risk-aware).&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Mandatory: Excellent verbal and written English, plus French or Dutch as a native language&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72376228"/>
+    <published>2025-11-06T16:17:58+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72373692</id>
