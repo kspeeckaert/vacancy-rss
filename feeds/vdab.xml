@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-05T22:43:21.721056+00:00</updated>
+  <updated>2025-11-06T04:49:24.442245+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
+    <title>Freelance Integratie developer (Cronos)</title>
+    <updated>2025-10-17T00:04:45+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een ervaren integratie developer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;Als integratieontwikkelaar krijg je de mogelijkheid om te werken aan uitdagende integratieprojecten. Je zult samenwerken met klanten om hun integratiebehoeften te begrijpen en oplossingen op maat te bieden met behulp van verschillende technologieën en cloud platformen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je verantwoordelijkheden als integratieontwikkelaar omvatten het ontwikkelen en implementeren van integraties die naadloze communicatie en efficiënte gegevensuitwisseling tussen systemen mogelijk maken. Je werkt nauw samen met het team om ervoor te zorgen dat de integraties voldoen aan de vereisten en de kwaliteitsnormen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;Om succesvol te zijn als integratieontwikkelaar ben je bekend met de volgende technische vaardigheden en concepten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met één of meer programmeertalen, zoals Java, C# of Python&lt;/li&gt;&lt;li&gt;Kennis of begrip van van API’s, webservices en messaging technologieën&lt;/li&gt;&lt;li&gt;Achtergrond in integratiepatronen en -architecturen is een plus.&lt;/li&gt;&lt;li&gt;Kennis en interesse in cloud- en integratieplatformen zoals Azure, Oracle, AWS.&lt;/li&gt;&lt;li&gt;Basiskennis van SQL en databases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;API&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Integratie&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;c#&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;python&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;webservices&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;messaging technologieën&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;azure&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;aws&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;sql&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084449"/>
+    <published>2024-07-02T09:28:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084444</id>
+    <title>Cloud Engineer (Cronos)</title>
+    <updated>2025-10-17T00:04:55+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;De job&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vanuit je rol als Cloud Engineer ondersteun je onze klanten met de migratie van hun klassiek softwareontwikkelingsmodel naar een PaaS-oplossing. Je zorgt mee voor technische innovatie en efficiëntie door repetetieve zaken te automatiseren.&lt;/p&gt;&lt;p&gt;Naast ontwerp en design van de cloud omgeving, ondersteun je continuous integration en de delivery pipeline (CI/CD). Verder is het verbeteren en het verzekeren van de security (zowel technisch als procesmatig) van de cloud infrastructuur ook een cruciaal onderdeel van jouw takenpakket.&lt;/p&gt;&lt;p&gt;Om dit te realiseren, werk je nauw samen met het development team.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wie we zoeken&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jij bent gebeten door systeem- en netwerkbeheer, efficiëntie en automatisatie.&lt;/li&gt;&lt;li&gt;Je bent een cloud liefhebber met kennis van een aantal cloud providers, wij werken hoofdzakelkijk met Oracle Cloud&lt;/li&gt;&lt;li&gt;Een brede kennis van automatisatietools: Linux, Gitlab, Jenkins en Ansible, …&lt;/li&gt;&lt;li&gt;Communicatie is cruciaal, je begrijpt de noden van de verschillende technische teams en kan ze ook met de neuzen in dezelfde richting brengen.&lt;/li&gt;&lt;li&gt;Proactiviteit is sterk bij jou aanwezig: je werkt actief mee aan de zoektocht naar de beste oplossing.&lt;/li&gt;&lt;li&gt;Je bent leergierig en volgt de nieuwste technologische trends en ontwikkelingen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Oracle Cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084444"/>
+    <published>2024-07-02T09:28:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084450</id>
+    <title>Freelance DevOps Automation Engineer (Cronos)</title>
+    <updated>2025-10-17T00:04:41+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben je een freelance consultant? Klaar voor een nieuwe uitdaging?&lt;/p&gt;&lt;p&gt;Of wil je je netwerk uitbouwen en als IT professional op de hoogte blijven van interessante opdrachten?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fieldside levert enterprise en technologische oplossingen én de daarbij horende consultancy diensten. Wij detacheren specialisten, voeren volledige ICT-projecten uit en nemen de volledige outsourcing van IT-diensten voor onze rekening. Wij kunnen rekenen op een solide klantportfolio voor wie we in directe lijn een brede variëteit aan opdrachten uitvoeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Om continuïteit en flexibiliteit te kunnen garanderen, om aan alle staffing behoeften te voldoen en om aan de vraag naar specifieke, additionele expertise in te willigen werkt Fieldside met freelancers.&lt;/p&gt;&lt;p&gt;Onze freelance pool is een belangrijke troef om tegemoet te komen aan de behoeften van onze klanten!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn permanent op zoek naar enthousiaste en ervaren IT’ers om interessante opdrachten uit te voeren.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wij zijn nu specifiek op zoek naar een DevOps Automation Engineer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;De job:&lt;/p&gt;&lt;p&gt;Als DevOps Automation Engineer maak je deel uit van ons team en werk je aan verschillende soorten projecten. Je werkt aan het automatiseren van de IT-infrastructuur, CI/CD-projecten, cloudmigratie en cloudtransformatieprojecten. Je werkt zowel op ons kantoor als bij de klant.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Gewenste skills:&lt;/p&gt;&lt;p&gt;* Ervaring of interesse in configuration management tools zoals Puppet, Terraform en/of Ansible is voor ons een must&lt;/p&gt;&lt;p&gt;* Een sterke interesse in de DevOps-lifestyleis belangrijk&lt;/p&gt;&lt;p&gt;* Ervaring met tools als GitLab/GitHub, Jenkins en/of Bamboo&lt;/p&gt;&lt;p&gt;* Je beheerst virtualisatie en containerisatie en je wilt je graag verder verdiepen in tools zoals Docker, Kubernetes, VMWare&lt;/p&gt;&lt;p&gt;* Scripting met Perl, Python en/of Ruby is iets dat je graag doet en waar je je prettig bij voelt&lt;/p&gt;&lt;p&gt;* Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw aanpak&lt;/p&gt;&lt;p&gt;* Je bent leergierig en blijft graag op de hoogte van de nieuwste tools en technologieën&lt;/p&gt;&lt;p&gt;* Je bent een teamspeler en deelt graag je kennis met het team&lt;/p&gt;&lt;p&gt;* Je beschikt over sterke communicatieve vaardigheden en streeft altijd naar de beste oplossing&lt;/p&gt;&lt;p&gt;* Last but not least… een goed gevoel voor humor is een must en je bent niet bang voor enige zelfreflectie&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084450"/>
+    <published>2024-07-02T09:28:40+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
     <title>Freelance Data Engineer (Cronos)</title>
@@ -898,40 +948,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talencia Consulting (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Description&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Act as Project Lead and own responsibilities for development projects,&lt;/li&gt;&lt;li&gt;Work with all the stakeholders to gather business requirements. Design and develop solutions in the main functional areas of SAP using the available SAP technologies and best business practices,&lt;/li&gt;&lt;li&gt;Responsible to prepare project/change management plans and coordinate activities for completion with all stakeholders including end users, process owners, internal/off-shore IT teams and possibly external consultant,&lt;/li&gt;&lt;li&gt;Design, develop, test and implement change requests and projects, from start to finish,&lt;/li&gt;&lt;li&gt;Responsible for creating project documentation like Business requirements, Functional Specifications and Test Scripts,&lt;/li&gt;&lt;li&gt;Identify opportunities in current system design which will,&lt;ul&gt;&lt;li&gt;add value to the business and improve the business processes,&lt;/li&gt;&lt;li&gt;simplify, standardize and automate processes,&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Perform production support for the Helpdesk tickets submitted by end users. Provide 1st level support for resolution for the local end users or escalate to other IT team members for resolution,&lt;/li&gt;&lt;li&gt;Propose and execute configuration changes and/or enhancements to the existing system to resolve production support issues, if needed,&lt;/li&gt;&lt;li&gt;&lt;p&gt;Update status of assigned tickets in the Helpdesk and inform business users accordingly.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Degree in Computer Science and/or 7 – 10 years related work experience as SAP ABAP developer, with cross module experience.&lt;/li&gt;&lt;li&gt;The candidate must be experienced in technical areas as ABAP (Executable programs, Module pools, includes…), SAPscript, Smartforms, SAP Workflows, User exits, Enhancement Points, BADI’s, BAPI’s and RFC’s.&lt;/li&gt;&lt;li&gt;A good understanding about the creation of database tables, views, structures, data types and other ABAP dictionary objects is a must.&lt;/li&gt;&lt;li&gt;Knowledge in the main SAP modules like SD/LE/MM/FI.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Interested to support and work in other tools &amp;amp; systems besides SAP, in particular label software system like Transform, Bartender, NiceLabel&lt;/li&gt;&lt;li&gt;Ability to understand business strategy, analyze business processes and develop technical solutions to support the company.&lt;/li&gt;&lt;li&gt;Strong Communication skills (Written, Verbal, and Presentation) with ability to sell concepts and ideas to internal users/external customers.&amp;nbsp;Must be a good team player.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ability to multi-tasking and prioritizing the business requirements.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Proposal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging and growing working environment, in which you will be able develop your competences even further,&lt;/li&gt;&lt;li&gt;A competitive salary and benefits,&lt;/li&gt;&lt;li&gt;Flex Income Plan (bike leasing, teletolbadge, purchase of multimedia, ...),&lt;/li&gt;&lt;li&gt;Bonus (type CAO nr. 90)&lt;/li&gt;&lt;li&gt;Meal vouchers,&lt;/li&gt;&lt;li&gt;Home work and flexible working hours.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71647075"/>
     <published>2025-08-04T11:29:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71674995</id>
-    <title>IT Business Analyst (FUJIFILM ELECTRONIC MATERIALS (EUROPE))</title>
-    <updated>2025-10-23T14:01:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: FUJIFILM ELECTRONIC MATERIALS (EUROPE) (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als IT Business Analyst focus je op zowel de functionele vereisten als de projectbeheeraspecten van IT  gerelateerde projecten. In deze rol werk je nauw samen met verschillende afdelingen waaronder IT, productie, logistiek, supply chain, financiën en andere functionele teams om enerzijds de IT noden binnen deze afdeling te detecteren en te collecteren, van hieruit zal projecten definiëren en beargumenteren. Voor deze projecten ben je verantwoordelijk voor een naadloze integratie en implementatie in onze organisatie. Je maakt fysisch deel uit van het Information Systems team.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JOB DESCRIPTION&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Je bent verantwoordelijk voor het analyseren van de noden van interne klanten en het vertalen ervan naar duidelijke softwarevereisten.&lt;/li&gt;
-&lt;li&gt;Je bekijkt bestaande processen kritisch, houdt rekening met rapporteringsnoden, integraties en mogelijke aanpassingen of nieuwe toepassingen. Je zorgt voor de opvolging van deze vereisten doorheen de volledige cyclus: van analyse tot design en implementatie.&lt;/li&gt;
-&lt;li&gt;Je beheert IT change requests en kleinere projecten van A tot Z. Dit houdt o.a. in: het opstellen van use cases en user stories, ondersteuning bij testen, begeleiding bij datamigratie en nazorg na livegang. Je werkt nauw samen met interne en externe developers, je verzorgt het opstellen van de nodige documentatie en het geven van opleidingen aan eindgebruikers.&lt;/li&gt;
-&lt;li&gt;Je biedt ondersteuning na implementatie aan gebruikers, je werkt verbeteringen uit en volgt incidenten of vragen op.&lt;/li&gt;
-&lt;li&gt;Je zorgt ervoor dat gebruikers op de hoogte blijven van de status van hun tickets en schakelt waar nodig andere IT-collega’s in.&lt;/li&gt;
-&lt;li&gt;Je hebt ervaring in het opzetten of configureren van business applicaties in verschillende functionele domeinen zoals onder andere planning, kwaliteitsmanagement, supply chain, … dit steeds in lijn met de business vereisten en met een goed begrip van data migratie, integratie en rapportering&lt;/li&gt;
-&lt;li&gt;Je hebt aantoonbare ervaring als IT Business Analyst en beschikt over diepgaande kennis van bedrijfsprocessen in gebieden als quality assurance, product life cyle management, EHS, productie en bij voorkeur in de chemie, pharma of gelijkaardige industrie.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Bachelor- of masterdiploma in informatietechnologie, bedrijfskunde of een gerelateerd vakgebied,&lt;/li&gt;
-&lt;li&gt;Je hebt 2-5 jaar ervaring in een vergelijkbare analyse rol,&lt;/li&gt;
-&lt;li&gt;Je bent vertrouwd met het Software Development Life Cycle proces en hebt functionele know-how en beschikt over kennis en kunde met betrekking tot applicatiemanagement,&lt;/li&gt;
-&lt;li&gt;Aantoonbare ervaring als Business Analyst en Project Manager,&lt;/li&gt;
-&lt;li&gt;Sterke analytische vaardigheden en het vermogen om complexe bedrijfsprocessen te begrijpen en op zoek gaan naar oplossingen hiervoor,&lt;/li&gt;
-&lt;li&gt;Uitstekende communicatievaardigheden en het vermogen om effectief samen te werken met diverse belanghebbenden intern en extern (vendor management),&lt;/li&gt;
-&lt;li&gt;Ervaring met projectmanagementmethodologieën en -tools.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Een uitdagende en ondernemende werkomgeving waar u zich ten volle kan ontwikkelen,&lt;/li&gt;
-&lt;li&gt;Een competitief salaris en extra-legale voordelen (groepsverzekering, hospitalisatieverzekering, tandverzekering,...)&lt;/li&gt;
-&lt;li&gt;Flex Income Plan (fietsleasing, teletolbadge, abonnement De Waterbus, aanschaf multimedia, ...),&lt;/li&gt;
-&lt;li&gt;20 wettelijke verlofdagen, aangevuld met 12 arbeidsduurverminderingsdagen&lt;/li&gt;
-&lt;li&gt;Bonus (type CAO nr. 90)&lt;/li&gt;
-&lt;li&gt;Maximum bedrag aan maaltijdcheques&lt;/li&gt;
-&lt;li&gt;Glijdende uurroosters.&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71674995"/>
-    <published>2025-08-07T15:51:54+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71695024</id>
@@ -2104,72 +2120,12 @@ Uiterste sollicitatiedatum: zo snel mogelijk&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&g
     <published>2025-10-06T11:25:35+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72124937</id>
-    <title>Kwery - Functioneel Analist (ictjob.be)</title>
-    <updated>2025-10-07T10:18:33+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Regio Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Een snelgroeiende software consultancy in Mechelen gespecialiseerd in verschillende greenfield projecten voor op maat gemaakte mobiele applicaties is dankzij hun sterke groei dringend op zoek naar een Functioneel Analist.&lt;br /&gt;
-&lt;br /&gt;
-Opgericht door 2 consultants richten ze zich vooral op de belangen van hun eigen medewerkers. Ze weten wat er nodig is en vertrekken steeds vanuit een op maat gemaakte groeiplan (certificaten, cursussen, on-the-job ondersteuning,...).&lt;br /&gt;
-&lt;br /&gt;
-Projecten hebben regelmatig een doorlooptijd van 1 tot max. 2 jaar en bevinden zich steeds in de regio van de consultant.&lt;br /&gt;
-&lt;br /&gt;
-Met een team van ongeveer 30 hooggekwalificeerde consultants organiseren ze regelmatig leuke tech-evenementen en avondfeesten met lekker eten om onze successen te vieren en te genieten van een geweldige teamgeest.&lt;p&gt;&lt;strong&gt;Hoe zal jouw takenpakket eruit zien?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Je vormt de brug tussen hun op maat gemaakte mobiele applicaties voor klanten, van concept tot implementatie.
-&lt;/li&gt;
-
-&lt;li&gt;Samenwerken met klanten om hun behoeften en vereisten te analyseren en te begrijpen.
-&lt;/li&gt;
-
-&lt;li&gt;Opstellen van gedetailleerde functionele specificaties en documentatie. Vertalen van functionele specificaties naar technische teams en het bieden van de nodige ondersteuning tijdens de ontwikkelingsfase.
-&lt;/li&gt;
-
-&lt;li&gt;Identificeren en oplossen van problemen en het bieden van creatieve oplossingen om de kwaliteit van de opgeleverde applicaties te waarborgen.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72124937"/>
-    <published>2025-10-06T12:19:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72124110</id>
     <title>Project Manager IT  (Kwery)</title>
     <updated>2025-10-06T11:50:34+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze onderneming is actief binnen de logistieke dienstverlening en heeft haar hoofdzetel in de omgeving van Berchem. Ze specialiseert zich in het ontwikkelen en beheren van digitale oplossingen die de internationale transport- en supply chain processen ondersteunen en optimaliseren.&lt;/p&gt;&lt;p&gt;De IT-afdeling richt zich op het bouwen van betrouwbare, schaalbare en bedrijf kritische software die een sleutelrol speelt in zowel de dagelijkse operaties als de langetermijnstrategie van de organisatie. Het team bestaat uit een 60-tal medewerkers en blijft verder uitbreiden.&lt;/p&gt;&lt;p&gt;Op dit moment is er een opportuniteit voor een Projectmanager die verantwoordelijk zal zijn voor de succesvolle uitvoering van uiteenlopende IT projecten.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruitzien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je neemt de leiding over IT-projecten vanaf de voorbereiding tot en met de afronding.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je definieert doelstellingen, plant de timing en stelt budgetten op in overleg met het IT-management.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je stemt af met interne afdelingen, externe leveranciers en technische teams om een vlotte realisatie van projecten te garanderen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je identificeert mogelijke risico's, volgt de voortgang op en grijpt in waar nodig.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je zorgt voor duidelijke communicatie over de status en resultaten van projecten naar alle belanghebbenden.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je draagt bij aan het opstellen van projectdocumentatie en het verbeteren van werkprocessen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt minimaal 3 jaar ervaring achter de kiezen als Project Manager binnen een IT omgeving &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ervaring binnen de logistieke sector en kennis van industriële processen is een meerwaarde&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt kennis van projectmethodologieën zoals Agile en/of Prince2.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een aantrekkelijk bruto maandsalaris, die kan variëren tussen de €4.000-€6.800 bruto afhankelijk van jouw kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Vrij te kiezen wagen met laadkaart &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijdcheques &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Gsm met abonnement &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;25 vakantiedagen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Netto thuiswerk vergoeding &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot 3 dagen thuiswerk en glijdende uren &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Prestatiegebonden bonus &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;&lt;p&gt;&lt;br /&gt; &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72124110"/>
     <published>2025-10-06T11:50:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72124934</id>
-    <title>Kwery - Project Manager IT (ictjob.be)</title>
-    <updated>2025-10-07T10:18:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Deze onderneming is actief binnen de logistieke dienstverlening en heeft haar hoofdzetel in de omgeving van Berchem. Ze specialiseert zich in het ontwikkelen en beheren van digitale oplossingen die de internationale transport- en supply chain processen ondersteunen en optimaliseren.&lt;br /&gt;
-&lt;br /&gt;
-De IT-afdeling richt zich op het bouwen van betrouwbare, schaalbare en bedrijf kritische software die een sleutelrol speelt in zowel de dagelijkse operaties als de langetermijnstrategie van de organisatie. Het team bestaat uit een 60-tal medewerkers en blijft verder uitbreiden.&lt;br /&gt;
-&lt;br /&gt;
-Op dit moment is er een opportuniteit voor een projectmanager die verantwoordelijk zal zijn voor de succesvolle uitvoering van uiteenlopende IT projecten.&lt;p&gt;&lt;strong&gt;Hoe zal jouw takenpakket eruitzien?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Je neemt de leiding over IT-projecten vanaf de voorbereiding tot en met de afronding.
-&lt;/li&gt;
-
-&lt;li&gt;Je definieert doelstellingen, plant de timing en stelt budgetten op in overleg met het IT-management.
-&lt;/li&gt;
-
-&lt;li&gt;Je stemt af met interne afdelingen, externe leveranciers en technische teams om een vlotte realisatie van projecten te garanderen.
-&lt;/li&gt;
-
-&lt;li&gt;Je identificeert mogelijke risico's, volgt de voortgang op en grijpt in waar nodig.
-&lt;/li&gt;
-
-&lt;li&gt;Je zorgt voor duidelijke communicatie over de status en resultaten van projecten naar alle belanghebbenden.
-&lt;/li&gt;
-
-&lt;li&gt;Je draagt bij aan het opstellen van projectdocumentatie en het verbeteren van werkprocessen.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72124934"/>
-    <published>2025-10-06T12:19:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72131883</id>
@@ -2539,14 +2495,6 @@ Op dit moment is er een opportuniteit voor een projectmanager die verantwoordeli
     <published>2025-10-10T14:57:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72182500</id>
-    <title>Directeur ICT (Vlaamse overheid)</title>
-    <updated>2025-10-13T14:05:18+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaamse overheid (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en &lt;em&gt;&lt;strong&gt;samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;Als directeur ICT behoor je tot de &lt;strong&gt;afdeling Organisatieondersteuning&lt;/strong&gt;, die alle ondersteunende processen bundelt en de organisatie en haar medewerkers maximaal ontzorgt. De afdeling is samengesteld uit drie diensten: ICT, Advies &amp;amp; kennis, en Communicatie, logistiek &amp;amp; personeel.&lt;/p&gt;&lt;p&gt;Jij staat als directeur ICT aan het hoofd van &lt;strong&gt;een vrij grote dienst ICT&lt;/strong&gt;. Deze dienst bestond tot voor kort uit 6 teams waarvan de coördinatoren rechtstreeks aan het diensthoofd ICT rapporteerden. Op dit ogenblik voeren we een reorganisatie door, waarbij we de dienst hervormen naar 3 (sub)diensten en één team van stafmedewerkers. Door de 6 teams te hervormen naar 3 diensten zorgen we voor een betere aansturing van de ruim 100 ICT-profielen die ofwel als personeelslid voor Wonen in Vlaanderen werken, ofwel via een raamcontract.&lt;/p&gt;&lt;p&gt;Je neemt&lt;strong&gt; maandelijks&lt;/strong&gt; ook &lt;strong&gt;deel aan het directiecomité&lt;/strong&gt;, dat is samengesteld uit de administrateur-generaal en de afdelingshoofden. Jij hebt raadgevende stem in het directiecomité Organisatieportfolio &amp;amp; beleid , waar je mee de organisatie in de goede richting kan helpen sturen.&lt;/p&gt;&lt;p&gt;Ben jij een echte &lt;strong&gt;people manager&lt;/strong&gt;, die ook over de nodige kennis van o.a. &lt;strong&gt;IT-strategie en -planning&lt;/strong&gt; beschikt, en vertrouwd is met &lt;strong&gt;organisatiedesign en procesverbetering&lt;/strong&gt;? Heb je bovendien een zekere basiskennis van meer technische topics, zoals methodieken voor softwareontwikkeling, datacentertechnologie en cloud computing? Stel je dan zeker kandidaat voor de functie van directeur ICT bij Wonen in Vlaanderen!&lt;/p&gt;&lt;p&gt;Lees meer over de job en het selectieproces in het selectiereglement dat je als bijlage terugvindt op vlaanderen.be/vacatures of rechtstreeks via de solliciteerknop. Download dit document en hou het bij.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;Jouw voordelen&lt;ul&gt;&lt;li&gt;Je krijgt een contract van onbepaalde duur in de graad van directeur-informaticus.&lt;/li&gt;&lt;li&gt;Je krijgt een salaris op basis van de vastgelegde salarisschaal NA221. Op salaris | Vlaanderen.be kan je je nettosalaris berekenen, aangepast aan je individuele situatie.&lt;/li&gt;&lt;li&gt;Je ontvangt de volgende voordelen: maaltijdcheques, gratis openbaar vervoer voor je woon-werkverkeer, een breed aanbod van leasefietsen, hospitalisatieverzekering, een financiële tussenkomst voor kinderopvang tijdens alle schoolvakanties, ...&lt;/li&gt;&lt;li&gt;Je bouwt als contractueel personeelslid binnen de Vlaamse overheid een aanvullend pensioen op. Deze bijdrage is 5% van je salaris. Daarbij wordt een step rate toegepast van 8% op het salaris boven 36.614 euro (100%, te indexeren).&lt;/li&gt;&lt;li&gt;Je krijgt 35 dagen vakantie per jaar en bovendien ben je vrij tussen Kerstmis en Nieuwjaar.&lt;/li&gt;&lt;li&gt;Je activiteit bepaalt je werkplek.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;Meer weten over werken bij de Vlaamse overheid? Ontdek het op Werken voor Vlaanderen | Vlaanderen.be&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wie ben jij?&lt;ol&gt;&lt;li&gt;Je hebt een &lt;strong&gt;masterdiploma&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Je hebt &lt;strong&gt;minstens 6 jaar beroepservaring in ICT&lt;/strong&gt;,waarvan minstens 4 jaar ervaring als hiërarchisch of informeel leidinggevende waarbij je verantwoordelijk bent/was voor:&lt;ol&gt;&lt;li&gt;het leiden, motiveren en aansturen van een (project)team OF&lt;/li&gt;&lt;li&gt;het coachen en evalueren van (project)medewerkers OF&lt;/li&gt;&lt;li&gt;het bewaken van het leerproces van de (project)teamleden OF&lt;/li&gt;&lt;li&gt;&lt;p&gt;het organiseren en voorzitten van project-/teamvergaderingen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72182500"/>
-    <published>2025-10-13T14:05:18+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72178188</id>
     <title>Change &amp; Project Manager (HEADHUNTER.Vlaanderen)</title>
     <updated>2025-10-27T10:45:35+00:00</updated>
@@ -2592,6 +2540,14 @@ Op dit moment is er een opportuniteit voor een projectmanager die verantwoordeli
 &lt;p data-start="2218" data-end="2279"&gt;Marktconform salaris met aantrekkelijke arbeidsvoorwaarden.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72178188"/>
     <published>2025-10-13T08:59:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72182500</id>
+    <title>Directeur ICT (Vlaamse overheid)</title>
+    <updated>2025-10-13T14:05:18+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaamse overheid (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Een betaalbare en kwaliteitsvolle woning is essentieel om ons leven vorm te geven. Onze thuis is de plaats vanwaar we letterlijk en figuurlijk vertrekken om te leren, te werken, … kortom, ons leven uit te bouwen. Jij kan meewerken aan een thuis voor iedereen en &lt;em&gt;&lt;strong&gt;samen met ons kwaliteitsvol, toegankelijk, woonzeker en betaalbaar wonen in Vlaanderen mogelijk maken&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;Als directeur ICT behoor je tot de &lt;strong&gt;afdeling Organisatieondersteuning&lt;/strong&gt;, die alle ondersteunende processen bundelt en de organisatie en haar medewerkers maximaal ontzorgt. De afdeling is samengesteld uit drie diensten: ICT, Advies &amp;amp; kennis, en Communicatie, logistiek &amp;amp; personeel.&lt;/p&gt;&lt;p&gt;Jij staat als directeur ICT aan het hoofd van &lt;strong&gt;een vrij grote dienst ICT&lt;/strong&gt;. Deze dienst bestond tot voor kort uit 6 teams waarvan de coördinatoren rechtstreeks aan het diensthoofd ICT rapporteerden. Op dit ogenblik voeren we een reorganisatie door, waarbij we de dienst hervormen naar 3 (sub)diensten en één team van stafmedewerkers. Door de 6 teams te hervormen naar 3 diensten zorgen we voor een betere aansturing van de ruim 100 ICT-profielen die ofwel als personeelslid voor Wonen in Vlaanderen werken, ofwel via een raamcontract.&lt;/p&gt;&lt;p&gt;Je neemt&lt;strong&gt; maandelijks&lt;/strong&gt; ook &lt;strong&gt;deel aan het directiecomité&lt;/strong&gt;, dat is samengesteld uit de administrateur-generaal en de afdelingshoofden. Jij hebt raadgevende stem in het directiecomité Organisatieportfolio &amp;amp; beleid , waar je mee de organisatie in de goede richting kan helpen sturen.&lt;/p&gt;&lt;p&gt;Ben jij een echte &lt;strong&gt;people manager&lt;/strong&gt;, die ook over de nodige kennis van o.a. &lt;strong&gt;IT-strategie en -planning&lt;/strong&gt; beschikt, en vertrouwd is met &lt;strong&gt;organisatiedesign en procesverbetering&lt;/strong&gt;? Heb je bovendien een zekere basiskennis van meer technische topics, zoals methodieken voor softwareontwikkeling, datacentertechnologie en cloud computing? Stel je dan zeker kandidaat voor de functie van directeur ICT bij Wonen in Vlaanderen!&lt;/p&gt;&lt;p&gt;Lees meer over de job en het selectieproces in het selectiereglement dat je als bijlage terugvindt op vlaanderen.be/vacatures of rechtstreeks via de solliciteerknop. Download dit document en hou het bij.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;Jouw voordelen&lt;ul&gt;&lt;li&gt;Je krijgt een contract van onbepaalde duur in de graad van directeur-informaticus.&lt;/li&gt;&lt;li&gt;Je krijgt een salaris op basis van de vastgelegde salarisschaal NA221. Op salaris | Vlaanderen.be kan je je nettosalaris berekenen, aangepast aan je individuele situatie.&lt;/li&gt;&lt;li&gt;Je ontvangt de volgende voordelen: maaltijdcheques, gratis openbaar vervoer voor je woon-werkverkeer, een breed aanbod van leasefietsen, hospitalisatieverzekering, een financiële tussenkomst voor kinderopvang tijdens alle schoolvakanties, ...&lt;/li&gt;&lt;li&gt;Je bouwt als contractueel personeelslid binnen de Vlaamse overheid een aanvullend pensioen op. Deze bijdrage is 5% van je salaris. Daarbij wordt een step rate toegepast van 8% op het salaris boven 36.614 euro (100%, te indexeren).&lt;/li&gt;&lt;li&gt;Je krijgt 35 dagen vakantie per jaar en bovendien ben je vrij tussen Kerstmis en Nieuwjaar.&lt;/li&gt;&lt;li&gt;Je activiteit bepaalt je werkplek.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;Meer weten over werken bij de Vlaamse overheid? Ontdek het op Werken voor Vlaanderen | Vlaanderen.be&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wie ben jij?&lt;ol&gt;&lt;li&gt;Je hebt een &lt;strong&gt;masterdiploma&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Je hebt &lt;strong&gt;minstens 6 jaar beroepservaring in ICT&lt;/strong&gt;,waarvan minstens 4 jaar ervaring als hiërarchisch of informeel leidinggevende waarbij je verantwoordelijk bent/was voor:&lt;ol&gt;&lt;li&gt;het leiden, motiveren en aansturen van een (project)team OF&lt;/li&gt;&lt;li&gt;het coachen en evalueren van (project)medewerkers OF&lt;/li&gt;&lt;li&gt;het bewaken van het leerproces van de (project)teamleden OF&lt;/li&gt;&lt;li&gt;&lt;p&gt;het organiseren en voorzitten van project-/teamvergaderingen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72182500"/>
+    <published>2025-10-13T14:05:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72178241</id>
