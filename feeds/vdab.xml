@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-07T10:44:35.511707+00:00</updated>
+  <updated>2025-11-07T13:00:09.037872+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084447</id>
+    <title>Freelance APEX developer (Cronos)</title>
+    <updated>2025-10-17T00:04:49+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;Als consultant kom je terecht in verschillende omgevingen, bij diverse klanten, waar je mee kan instaan voor het uitwerken en bouwen van innovatieve bedrijfstoepassingen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je kijkt verder dan je code alleen en kan functionele vereisten vertalen naar een technische oplossing. Je bent sterk in problem solving en kan vlot fouten detecteren in bestaande APEX applicaties.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wisselende omgevingen en inwerken bij nieuwe teams zie je als een meerwaarde in je job&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Opvolgen van de nieuwste trends en ontwikkelingen zit in je DNA&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Communicatie is cruciaal, je toetst je oplossing af met de functionele teams en overlegt op regelmatige basis met je collega’s&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je spreekt Nederlands en Engels. Frans is een plus.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt ervaring met Oracle APEX of andere low-code platformen&lt;/li&gt;&lt;li&gt;Vanzelfsprekend kan je ook vlot overweg met SQL en PL/SQL&lt;/li&gt;&lt;li&gt;Kennis van HTML, CSS en JavaScript is een pluspunt&lt;/li&gt;&lt;li&gt;Feeling met een goede user interface en design is een sterke troef&lt;/li&gt;&lt;li&gt;Een analytische geest om business vraagstukken om te zetten in een technische oplossing&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;html&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;apex&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;pl/sql&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;sql&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;css&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;javascript&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084447"/>
+    <published>2024-07-02T09:28:37+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084440</id>
     <title>Freelance Business Analyst (Cronos)</title>
@@ -144,26 +161,6 @@
 &lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom wil je bij Narato werken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In ruil voor je tomeloze inzet, krijg je van ons:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;een competitief loonpakket met interessante nettovergoedingen (o.a. wagen met tankkaart, hospitalisatie- en groepsverzekering, maaltijdcheques)&lt;/li&gt;&lt;li&gt;ruim voldoende vakantiedagen&lt;/li&gt;&lt;li&gt;een kans om bij te leren en te groeien via opleidingstrajecten&lt;/li&gt;&lt;li&gt;teamgenoten waarop je kan rekenen&lt;/li&gt;&lt;li&gt;een regelmatige dosis ontspanning&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/69512290"/>
     <published>2024-09-20T09:43:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69796723</id>
-    <title>Security Consultant (Cronos)</title>
-    <updated>2025-10-21T00:01:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: rgb(0, 32, 96);"&gt;What do we expect from you?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt;Are you a passionate security consultant with in-depth knowledge of cybersecurity solutions and experience with Trend Micro and/or Qualys solutions? Do you want to help organizations enhance their digital resilience through innovative solutions such as Trend Micro’s Vision One or the Qualys platform? If so, we are looking for you!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt;As a Security Consultant, you will play a critical role in advising our clients on deploying and optimizing Trend Micro and/or Qualys solutions to improve their security posture. You will work closely with clients to understand their unique challenges and implement solutions that mitigate risks, protect critical assets, and ensure compliance with industry regulations.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt;Additionally, you will participate in presales activities, working closely with the sales team to provide technical expertise and ensure successful client engagements.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt;The ideal candidate will have a strong technical background in security. You design state-of-the-art architectures and advise customers on best practices for security that align with clients’ business objectives and compliance requirements.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt;In addition, you are the client's first point of contact for everything related to these security solutions and you also know where to turn to within Uptime Security if the client is faced with other issues.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: windowtext;"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: rgb(0, 32, 96);"&gt;Who are you?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You have a bachelor's or master's degree or equivalent through experience.&lt;/li&gt;&lt;li&gt;Minimum of 5 years of experience cybersecurity, with a focus on endpoint security, cloud security, or network protection.&lt;/li&gt;&lt;li&gt;Hands-on experience with Trend Micro products such as Trend Micro Vision One, Cloud One, or Deep Security.&lt;/li&gt;&lt;li&gt;Hands-on experience with Qualys products such as VMDR, CSAM, Total Cloud or other.&lt;/li&gt;&lt;li&gt;Strong understanding of Risk Management and its application in improving security postures.&lt;/li&gt;&lt;li&gt;Excellent communication and consulting skills, with the ability to explain complex security concepts to non-technical stakeholders.&lt;/li&gt;&lt;li&gt;You have excellent analytical and problem-solving skills, with the ability to assess complex security issues and recommend effective solutions.&lt;/li&gt;&lt;li&gt;Certifications such as Trend Micro Certified Professional, Qualys Certified Specialist or equivalent are a plus. &lt;/li&gt;&lt;li&gt;You have knowledge of security frameworks such as Cyberfundamentals, NIST, CIS and ISO27001.&lt;/li&gt;&lt;li&gt;You have a good understanding of security methodologies, best practices and industry standards.&lt;/li&gt;&lt;li&gt;You take a proactive approach to cybersecurity, with a commitment to continuous learning and improvement.&lt;/li&gt;&lt;li&gt;You think out-of-the-box and dare to question solutions: you hate standstill and are driven by change, innovation and transformation.&lt;/li&gt;&lt;li&gt;You are a team player and put the common good first.&lt;/li&gt;&lt;li&gt;You are stress-resistant and adapt easily in a dynamically changing context.&lt;/li&gt;&lt;li&gt;You are known as a fluent communicator. You are fluent in Dutch and English. French is a plus.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;Trend Micro Products&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Qualys products&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Consulting skills&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;problem- solving skills&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Trend Micro Certified Professional&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Qualys Micro Certified&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Cyberfundamentals&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;NIST&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;CIS&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ISO27001&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: rgb(0, 32, 96);"&gt;What can you expect from us?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You will end up in a people-centric company where innovation and entrepreneurship are key.&lt;/li&gt;&lt;li&gt;The stable environment of the Cronos Group forms a unique, dynamic workplace for you.&lt;/li&gt;&lt;li&gt;You will have the opportunity to help shape your own personal development plan.&lt;/li&gt;&lt;li&gt;The wide range of projects and clients provides the necessary variety and will keep you motivated in the long run.&lt;/li&gt;&lt;li&gt;As a true 'Cronosiet', you can count on an attractive salary, supplemented by various extra-legal benefits.&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69796723"/>
-    <published>2024-11-05T15:57:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70217863</id>
@@ -3568,8 +3565,8 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72376228</id>
-    <title>Service Delivery Manager (Randstad Digital)</title>
-    <updated>2025-11-06T16:17:58+00:00</updated>
+    <title>Randstad Digital - Service Delivery Manager (Randstad Digital)</title>
+    <updated>2025-11-07T11:18:51+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Are you a passionate Service Delivery Manager ready to make a tangible impact? We are looking for an enthusiast to join the Products &amp; Technology team, the heart of our client's digital-first vision. In this challenging role, you will support business specialists in building purpose-driven products, solving complex problems, and creating unique experiences that unlock new opportunities for growth. You will be part of a team fuelled by open and curious minds, dedicated to solving important problems and creating new solutions for a new day.&lt;p&gt;&lt;strong&gt;Your tasks&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
 
 &lt;li&gt;
