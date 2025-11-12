@@ -2,47 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-12T06:52:23.520637+00:00</updated>
+  <updated>2025-11-12T08:50:38.272017+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084437</id>
-    <title>Lead Front-End Developer (Cronos)</title>
-    <updated>2025-10-17T00:05:20+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Heb jij een passie voor front-end ontwikkeling én goesting om het front-end verhaal binnen CraftCode verder uit te bouwen? Dan ben jij de expert die we nodig hebben om ons team te versterken!&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT ZAL JE DOEN?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als front-end consultant word je ingezet bij verschillende klanten, waar je verantwoordelijk bent voor het ontwikkelen en implementeren van innovatieve bedrijfstoepassingen. Daarnaast speel je een cruciale rol in het versterken van het front-end verhaal binnen CraftCode.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WIE BEN JIJ?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Kennisdeling: je hebt sterke communicatieve skills en neemt het initiatief om kennis te delen met het team (het organiseren van workshops, het begeleiden van interne trainingen…).&lt;/li&gt;&lt;li&gt;Technisch leiderschap: Je bent betrokken bij het afnemen van technische sollicitatiegesprekken.&lt;/li&gt;&lt;li&gt;Expert in jouw vak: Als Lead Front-End Developer ben je het aanspreekpunt voor collega’s voor front-end gerelateerde vragen en biedt ondersteuning bij complexe technische uitdagingen. Ook de nieuwste technologische trends volg je nauw op.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;JOUW TECHNISCHE BAGAGE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een brede kennis van verschillende front-end frameworks (Angular/React,..). Je hoeft geen expert te zijn in één specifiek framework, maar je bent in staat om flexibel te werken met diverse tools en technologieën.&lt;/li&gt;&lt;li&gt;Javascript, HTML en CSS hebben voor jou geen geheimen.&lt;/li&gt;&lt;li&gt;Je hebt een goed oog voor design en user experience.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met DevOps binnen de context van front-end development.&lt;/li&gt;&lt;li&gt;Ervaring met het opzetten en leiden van projecten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;html&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;angular&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;front-end&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;react&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;javascript&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;lead&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;ONS AANBOD&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bij Craftcode kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Op jouw collega’s kan je rekenen gedurende de projecten bij de klant. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen en tankkaart&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (shortski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Een gepersonaliseerd groeiplan&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen om jezelf verder te ontwikkelen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084437"/>
-    <published>2024-07-02T09:28:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084438</id>
-    <title>Freelance System Engineer (Cronos)</title>
-    <updated>2025-10-17T00:05:15+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;De job:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Als System Engineer werk je nauw samen met onze klanten als technisch adviseur en architect. Als lid van ons cloud team maak je kennis met Oracle Cloud, Microsoft Azure en Amazon Web Services.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je configureert IAAS- en PAAS platforms in de cloud en voorziet deze van geavanceerde cloud provisioning tools. Het installeren, configureren en beheren van ons middleware- en database portfolio in de cloud behoort ook tot jouw takenpakket.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Daarnaast houd je rekening met schaalbaarheid en elasticiteit binnen de verschillende cloud oplossingen. Verder zet je hoog beschikbare (24/7) omgevingen op voor onze verschillende klanten.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tenslotte bewaak je verschillende cloud platforms en integreer je services in ons BRYXX cloud monitoring framework.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt ervaring met Oracle en/of open-source technologie en wil weten hoe je dit naar de cloud brengt&lt;/li&gt;&lt;li&gt;Database-, middleware- of systeembeheerder zijn vind je geweldig en je wil deze kennis uitbreiden naar de cloud&lt;/li&gt;&lt;li&gt;Kennis van Weblogic, Jboss, Glassfish en/of Tomcat applicatie servers is een must&lt;/li&gt;&lt;li&gt;Je bent een cloud liefhebber met kennis van een aantal cloud providers&lt;/li&gt;&lt;li&gt;Ervaring met Oracle ontwikkeltools, Java &amp; JEE, netwerken, perl/python/shell-scripting, Puppet en Nagios zijn een pluspunt&lt;/li&gt;&lt;li&gt;Je spreekt vloeiend Nederlands en Engels, Frans is een bonus&lt;/li&gt;&lt;li&gt;Opvolgen van de nieuwste trends en technologieën zit in je DNA&lt;/li&gt;&lt;li&gt;Initiatief nemen en out of the box denken zijn één van je sterke eigenschappen&lt;/li&gt;&lt;li&gt;Je begrijpt de noden van de klant en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je hebt goede communicatieve vaardigheden en bent dan ook niet bang om feedback te geven&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Oracle cloud&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;opensource&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;database&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;middleware&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;weblogic&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jboss&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Glassfish&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Tomcat&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Java&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;JEE&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084438"/>
-    <published>2024-07-02T09:28:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084446</id>
     <title>Oracle Database Administrator (DBA) (Cronos)</title>
@@ -3322,6 +3284,73 @@ Stuur ons dus snel jouw CV via de sollicitatiebutton en wij nemen zo snel mogeli
     <published>2025-11-05T17:40:32+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72360404</id>
+    <title>Randstad Digital - Senior AI Engineer (Randstad Digital)</title>
+    <updated>2025-11-12T09:17:59+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Aartselaar&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij de AI-gedreven innovator die business processen naar een hoger niveau tilt? Zoek je een uitdaging waar technologie, data en een vitale leefomgeving samenkomen? Dan is deze rol bij de organisatie van onze klant, actief in waterbeheer en milieu-infrastructuur, iets voor jou!&lt;p&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Als AI Engineer zet jij jouw expertise in om een cruciaal intern business proces te stroomlijnen. Jouw missie is om snel en concreet resultaat te boeken door:
+&lt;ul&gt;
+
+&lt;li&gt;Het auditen van een bestaand bedrijfsproces.
+&lt;/li&gt;
+
+&lt;li&gt;Het identificeren van optimalisatiekansen, specifiek met behulp van AI.
+&lt;/li&gt;
+
+&lt;li&gt;Het uitvoeren van een Proof of Concept (PoC) voor de meest impactvolle use case.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;Je focust op het proces van de oplevering van infrastructuurprojecten, waarbij grote hoeveelheden documenten en afbeeldingen worden aangeleverd. Het doel is om deze automatisch te transformeren tot bruikbare en gestructureerde informatiestromen.
+&lt;ul&gt;
+
+&lt;li&gt;Geautomatiseerde Data-extractie: Documenten inlezen, categoriseren en relevante parameters direct invullen in de databank, inclusief het koppelen van de juiste handleidingen.
+&lt;/li&gt;
+
+&lt;li&gt;Kennisconversie: Handleidingen herwerken tot herbruikbare 'manuals' of instructies voor onderhoudstechnici.
+&lt;/li&gt;
+
+&lt;li&gt;Contextuele Informatievoorziening: Oplossingen bedenken voor het 'in-the-field' opvragen van de juiste onderhoudsinstructie (via mobile, GEO-based, tag based, etc.).
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;Je analyseert het volledige proces en kijkt hoe digitale en AI-geassisteerde use cases de meeste meerwaarde kunnen bieden, bijvoorbeeld door gebruik te maken van een voice assistent voor de terugkoppeling na onderhoud.
+&lt;/li&gt;
+
+&lt;li&gt;Jouw focus (PoC): De analyse van aangeleverde documenten en afbeeldingen om gerichte parameters te extraheren en zo de machine-databank te verrijken.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;Artificial Intelligence (AI) - Senior level
+&lt;/li&gt;
+
+&lt;li&gt;Machine Learning -Senior level
+&lt;/li&gt;
+
+&lt;li&gt;Business Process Management (BPM) - Senior level
+&lt;/li&gt;
+
+&lt;li&gt;Business Process Re-engineering (BPR) - Senior Level
+&lt;/li&gt;
+
+&lt;li&gt;Nederlands: Vloeiend (full professional proficiency) Engels: Een pluspunt (nice to have)
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72360404"/>
+    <published>2025-11-05T10:17:59+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72372174</id>
     <title>Senior WPF software engineer (Kingfisher IT)</title>
     <updated>2025-11-06T11:17:35+00:00</updated>
@@ -3664,5 +3693,13 @@ Mandatory: Excellent verbal and written English, plus French or Dutch as a nativ
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Synergie (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Synergie is een van de grootste rekruteringspartners in België én wereldwijd. Met meer dan 450 collega’s, 70 kantoren en in-house teams bij bedrijven, én vier gespecialiseerde afdelingen – Industry, Careers, Construct en S&amp;you – streven we één duidelijk doel na: de juiste persoon op de juiste werkplek.&lt;/p&gt;&lt;p&gt;Wij brengen mensen en bedrijven samen en combineren professionaliteit met een gezonde dosis enthousiasme. Je werkt in een no-nonsense cultuur waar samenwerking, innovatie en groei centraal staan.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;&lt;strong&gt;Ben jij gepassioneerd door data, business intelligence en de technologie daaromheen? &lt;br/&gt;Wil jij structuur brengen in dataprocessen, een datastrategie verder uitbouwen en een team naar een hoger niveau tillen? &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Dan zoeken wij jou!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bij Synergie, een van de grootste uitzendgroepen in België en wereldwijd, zetten we volop in op data en innovatie om onze positie in de uitzendmarkt te versterken. &lt;br/&gt;Jij kan hier een sleutelrol spelen in onze toekomst.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat zal je job inhouden?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Teamleader Data Management &amp; BI leid je ons datateam en zorg je dat data optimaal wordt ingezet om onze businessdoelstellingen te ondersteunen. &lt;br/&gt;Je denkt strategisch mee over datastructuren, infrastructuur, modellering, rapportering en visualisatie.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Concreet:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Leiden, coachen en inspireren van het datateam met focus op efficiëntie en resultaat.&lt;/li&gt;&lt;li&gt;Processen optimaliseren zodat enkel waardevolle activiteiten uitgevoerd worden.&lt;/li&gt;&lt;li&gt;Datakwaliteit, governance en datastructuren opzetten en bewaken.&lt;/li&gt;&lt;li&gt;BI-rapporten en dashboards ontwikkelen die management en business ondersteunen.&lt;/li&gt;&lt;li&gt;Datastrategie evalueren, bijsturen en verder uitbouwen in lijn met bedrijfsdoelen.&lt;/li&gt;&lt;li&gt;Coördineren van data- en BI-projecten, zoals migraties of nieuwe tools.&lt;/li&gt;&lt;li&gt;Trends en kansen signaleren om onze BI-omgeving te innoveren en automatiseren.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT, Data of BI, of gelijkwaardige ervaring.&lt;/li&gt;&lt;li&gt;Minstens 5 jaar ervaring in data management/BI, waarvan 2 jaar leidinggevende ervaring.&lt;/li&gt;&lt;li&gt;Sterk analytisch, probleemoplossend en gestructureerd.&lt;/li&gt;&lt;li&gt;Kennis van BI-tools, ETL-processen, datawarehouses en datamodellering.&lt;/li&gt;&lt;li&gt;Ervaring met datagovernance en het bewaken van datakwaliteit.&lt;/li&gt;&lt;li&gt;Communicatief sterk en in staat complexe data begrijpelijk te maken voor business en IT.&lt;/li&gt;&lt;li&gt;Flexibel en gewend te werken in een dynamische omgeving.&lt;/li&gt;&lt;li&gt;Initiatiefrijk, proactief en strategisch denkend&lt;/li&gt;&lt;li&gt;Uitstekend Nederlands, basis Frans.&lt;/li&gt;&lt;li&gt;Ervaring in de uitzend- of HR-sector is een troef.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Technische kennis:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;SQL Server&lt;/li&gt;&lt;li&gt;SSIS &amp; SSRS&lt;/li&gt;&lt;li&gt;TimeXtender&lt;/li&gt;&lt;li&gt;Data warehouse modellering (Kimball)&lt;/li&gt;&lt;li&gt;Python&lt;/li&gt;&lt;li&gt;Power BI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Extra troeven:&lt;/strong&gt; MongoDB, PostgreSQL, GIT, Powershell, Batch scripting.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat bieden wij jou?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een loon tussen €4500 en €5500, afhankelijk van ervaring en kennis, aangevuld met een jaarlijks bonussysteem&lt;/li&gt;&lt;li&gt;Bedrijfswagen met tankkaart of mobiliteitsbudget&lt;/li&gt;&lt;li&gt;12 ADV-dagen bovenop 20 wettelijke verlofdagen + ancieniteitsverlof&lt;/li&gt;&lt;li&gt;Flexibele werkuren en 2 dagen per week thuiswerken, met nettovergoeding voor thuiswerk&lt;/li&gt;&lt;li&gt;Laptop en gsm met abonnement&lt;/li&gt;&lt;li&gt;Contract van onbepaalde duur met doorgroeimogelijkheden&lt;/li&gt;&lt;li&gt;Professionele, dynamische werkomgeving met ruimte voor persoonlijke ontwikkeling&lt;/li&gt;&lt;li&gt;Extra voordelen: maaltijdcheques, ecocheques, hospitalisatieverzekering en groepsverzekering&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Klaar om data om te zetten in inzichten die écht impact maken? &lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;Word onze teamleader en solliciteer vandaag!&lt;/strong&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72399731"/>
     <published>2025-11-11T14:05:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72401401</id>
+    <title>Incident Response and SOC Analyst (EU Secret) (Sopra Steria)</title>
+    <updated>2025-11-12T08:36:19+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The role supports the Cyber Security Operations Centre for the EU critical infrastructure, aiming to strengthen IT security through advanced monitoring, detection, and incident response services.&lt;/p&gt;&lt;p&gt;Main Responsibilities&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Define incident handling procedures, automation requirements, and playbook logic aligned with the needs.&lt;/li&gt;&lt;li&gt;Prepare incident response workflows, automated enrichment steps, and technical documentation for standardized alert handling.&lt;/li&gt;&lt;li&gt;Handle cybersecurity incidents from detection through escalation, containment, and resolution.&lt;/li&gt;&lt;li&gt;Develop and maintain XSOAR playbooks, integrations, and automations across platforms such as Splunk, AWS, Azure Sentinel, Carbon Black Cloud, and Sysdig.&lt;/li&gt;&lt;li&gt;Coordinate and review playbook updates, incident reports, and cross-team collaboration.&lt;/li&gt;&lt;li&gt;Report key performance metrics, including FPTP rate, MTTH, escalation rate, automation coverage, time saved, and error reductions.&lt;/li&gt;&lt;li&gt;Assist training analysts on playbook usage and incident response methods.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Collaborate with CSIRC, CATCH analysts, infrastructure teams, and external stakeholders to validate playbook coverage and share threat intelligence.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Required Skills &amp;amp; Expertise&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong incident response methodology and hands-on experience in end-to-end incident handling in multinational settings.&lt;/li&gt;&lt;li&gt;Advanced knowledge of XSOAR playbook creation and automation.&lt;/li&gt;&lt;li&gt;Proficiency in designing and adapting automated workflows and enrichment.&lt;/li&gt;&lt;li&gt;Python programming skills.&lt;/li&gt;&lt;li&gt;Ability to present technical and business information effectively to diverse EC stakeholders.&lt;/li&gt;&lt;li&gt;High standards for incident documentation, KPI reporting, and compliance with security frameworks.&lt;/li&gt;&lt;li&gt;Familiarity with cloud-native services (AWS, Azure), EDR, SIEM-SOAR platforms, and container security.&lt;/li&gt;&lt;li&gt;Excellent communication skills for working in multicultural teams and liaising with technical and non-technical audiences.&lt;/li&gt;&lt;li&gt;Certifications or experience in relevant security technologies (e.g., Palo Alto Cortex XSOAR, Splunk, Microsoft SC-200, AWS Security Specialty).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Required Education&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Level 6 European Qualification Framework (Bachelor's degree or higher) for senior profiles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soft Skills&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ability to work in international, multicultural environments.&lt;/li&gt;&lt;li&gt;Rapid self-starting, teamwork, and multitasking on large projects.&lt;/li&gt;&lt;li&gt;Language proficiency: English (B2), French or German a plus.&lt;/li&gt;&lt;li&gt;High discretion and integrity.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Working Conditions&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Contract duration: approx. 880 days, starting Dec 1, 2025.&lt;/li&gt;&lt;li&gt;On-site service delivery in Brussels, Belgium; partial remote work may be authorized.&lt;/li&gt;&lt;li&gt;EU Secret Clearance Required or PSCIS&lt;/li&gt;&lt;li&gt;&lt;p&gt;Provided with IT equipment; must comply with security procedures.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Do you picture yourself in a fast-growing, vibrant team at the cutting edge of software implementation? Does working with international clients across multiple industries sound exciting? Then you’re in the right place.&amp;nbsp;&lt;/p&gt;&lt;p&gt;We offer a generous employee benefits package that includes:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A variety of perks, such as mobility options (including a company car), insurance coverage, meal vouchers, eco-cheques, and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The opportunity to connect with fellow Sopra Steria colleagues at various team events.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;People are the cornerstone of our success. That’s why we aspire to be bolder together. Our goal is to build high-functioning teams and healthy team environments that inspire and help each other to deliver excellence for each of our customers.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Excited about this job opportunity? Ready to shape the world with us? Great! We are looking forward to your application!&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to know what happens next?&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The recruitment process typically begins with the first step, where the recruiter screens candidates based on their qualifications and fit for the role. This is followed by the second step, where candidates undergo more in-depth evaluations, including technical assessments hiring manager or client to assess both technical skills and team compatibility. The third step involves the company reviewing feedback and aligning on a potential offer. Finally, in the final step, the candidate receives a formal job offer.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72401401"/>
+    <published>2025-11-12T08:36:19+00:00</published>
   </entry>
 </feed>
