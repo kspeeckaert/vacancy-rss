@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-12T22:42:40.108036+00:00</updated>
+  <updated>2025-11-13T04:50:50.110887+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084446</id>
+    <title>Oracle Database Administrator (DBA) (Cronos)</title>
+    <updated>2025-10-17T00:04:52+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Job content&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design new database environments and implement them.&lt;/li&gt;&lt;li&gt;Keep environments up to date with the latest technological evolutions by proposing the best possible solutions and implementing them.&lt;/li&gt;&lt;li&gt;Optimize environments, at the level of architecture, availability and performance.&lt;/li&gt;&lt;li&gt;Take proactive and corrective actions to prevent and resolve service interruptions.&lt;/li&gt;&lt;li&gt;Deliver high quality services to our customers and maintain their confidence by communicating professionally but with a personal touch &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;About you&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;As a senior Oracle DBA you feel yourself comfortable in the topics above.&lt;/li&gt;&lt;li&gt;You still want to grow and improve your technical skills.&lt;/li&gt;&lt;li&gt;We can rely on you because you take responsibility and ownership.&lt;/li&gt;&lt;li&gt;You are only satisfied with the best solution for your customer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;Oracle DBA&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084446"/>
+    <published>2024-07-02T09:28:36+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
     <title>Freelance Java Developer (Cronos)</title>
@@ -2216,80 +2227,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sogeti Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Capgemini Data &amp;amp; AI is looking for people who tame data in such a way that the most complex data can be easily interpreted. We are looking for a Data Engineer to help our clients in their digital transformations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;YOUR ROLE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integrate, transform and consolidate data from various structured and unstructured data systems&lt;/li&gt;&lt;li&gt;Ensure data pipelines and data stores are high-performing, efficient, organized, and reliable, given a set of business requirements and constraints&lt;/li&gt;&lt;li&gt;Create and design data models&lt;/li&gt;&lt;li&gt;&lt;p&gt;Translate functional requirements into a scalable, fit-for-use technical design&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;One more more leading Data platforms Azure, Databricks, Snowflake, Google Cloud Platform and it's infra and CI/CD context&lt;/li&gt;&lt;li&gt;Microsoft Fabric, Azure Data Factory, Synapse, Azure SQL database, Azure Devops, Azure Analysis Services, ...&lt;/li&gt;&lt;li&gt;Databricks&lt;/li&gt;&lt;li&gt;Snowflake, Snowpipe, Snowflake Native Apps, ...&lt;/li&gt;&lt;li&gt;Keen understanding of Data Modeling methodologies (Kimball, Data Vault 2.0)&lt;/li&gt;&lt;li&gt;Knowledge of Lakehouse principles and medallion architecture&lt;/li&gt;&lt;li&gt;Expert knowledge of SQL and T-SQL or DBT&lt;/li&gt;&lt;li&gt;Fluent in Dutch with professional working proficiency in English&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Relevant certificates&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;DP-203 Data Engineering on Microsoft Azure&lt;br&gt;• &amp;nbsp; &amp;nbsp;Snowpro core/advanced&lt;br&gt;• &amp;nbsp; &amp;nbsp;Databricks Lakehouse Professional&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU’LL LOVE ABOUT WORKING HERE?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Capgemini Belgium we offer flexibility in more than one way next to our hybrid way of working, where we offer you can work 70% from home, we also offer our flex abroad program. With this program you can work up to 45 days abroad, this to maintain a good work-life balance.&lt;br&gt;Next to this we also offer following additional benefits&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;Net expenses&lt;br&gt;• &amp;nbsp; &amp;nbsp;Company car or mobility budget (whatever works best for you)&lt;br&gt;• &amp;nbsp; &amp;nbsp;Health insurance&lt;br&gt;• &amp;nbsp; &amp;nbsp;Meal vouchers&lt;br&gt;• &amp;nbsp; &amp;nbsp;Pension plan&lt;br&gt;• &amp;nbsp; &amp;nbsp;Eco vouchers from €250/year.&lt;br&gt;• &amp;nbsp; &amp;nbsp;A flex plan where you can buy extra days off, update your insurance or buy home office supplies.&lt;br&gt;• &amp;nbsp; &amp;nbsp;32 vacation days.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72178241"/>
     <published>2025-10-13T09:02:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72179889</id>
-    <title>D-Network.eu - Lead Infrastructure Engineer (ictjob.be)</title>
-    <updated>2025-10-14T09:18:06+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Puurs-Sint-Amands&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;D-Network is looking for a Lead Infrastructure Engineer for a big industrial actor based in Puurs/Antwerpen. Permanent recruitment, CDI contract, internal function - no freelancer for this role.&lt;br /&gt;
-
-Dutch speaker + fluent in english (french is a plus).&lt;p&gt;&lt;strong&gt;Your responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;You act as the primary contact for infrastructure incidents and projects in Puurs, and when needed, other Belgian sites
-&lt;/li&gt;
-
-&lt;li&gt;You install, configure, and maintain servers, networks, Storage, Firewalls, Wi-Fi, backups, and IT facility components (UPS, racks, cabling, cooling)
-&lt;/li&gt;
-
-&lt;li&gt;You monitor infrastructure performance daily, conduct risk assessments, and define mitigation strategies to ensure stability
-&lt;/li&gt;
-
-&lt;li&gt;You design infrastructure solutions aligned with enterprise standards and liaise with Automation teams on OT-related infrastructure
-&lt;/li&gt;
-
-&lt;li&gt;You work with the Hub-based Senior System Administrator to maintain high availability, disaster recovery, and business continuity
-&lt;/li&gt;
-
-&lt;li&gt;You lead infrastructure projects (network upgrades, DataCenter modernization, hybrid cloud) and coordinate vendor activities with minimal downtime
-&lt;/li&gt;
-
-&lt;li&gt;You maintain accurate technical documentation, disaster recovery plans, and support compliance efforts, including NIS2 requirements
-&lt;/li&gt;
-
-&lt;li&gt;You contribute to long-term IT strategy, define multi-year roadmaps and budgets, and support DataCenter modernization and consolidation
-&lt;/li&gt;
-
-&lt;li&gt;You collaborate with Cyber Security, SecOps, and business managers to align on security, compliance, and trusted IT support
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-
-&lt;li&gt;You have a Bachelor's or Master's degree in computer science, IT Infrastructure, or equivalent by experience
-&lt;/li&gt;
-
-&lt;li&gt;You have &gt;10 years of professional experience in IT infrastructure management
-&lt;/li&gt;
-
-&lt;li&gt;An experience in industrial/OT-heavy environments (chemicals, pharma, manufacturing) is a strong plus
-&lt;/li&gt;
-
-&lt;li&gt;You have senior-level expertise in Cisco networking, VMware, enterprise Storage, backup, and Virtualization
-&lt;/li&gt;
-
-&lt;li&gt;You manage disaster recovery, high availability, OT infrastructure, and IT facilities (UPS, racks, cabling, DataCenter operations)
-&lt;/li&gt;
-
-&lt;li&gt;You are capable of leading and executing infra projects independently,
-&lt;/li&gt;
-
-&lt;li&gt;You have a strong troubleshooting and preventive mindset
-&lt;/li&gt;
-
-&lt;li&gt;You are skilled at working across technical, business, and vendor interfaces
-&lt;/li&gt;
-
-&lt;li&gt;You are able to operate both as a hands-on engineer and trusted advisor for Belgian/European infra strategy
-&lt;/li&gt;
-
-&lt;li&gt;Certifications such as Cisco, VMware, Microsoft Azure, or equivalent infrastructure certification are an asset
-&lt;/li&gt;
-
-&lt;li&gt;Fluency in Dutch and English is required; knowledge of French is a strong advantage
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72179889"/>
-    <published>2025-10-13T11:18:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72188670</id>
