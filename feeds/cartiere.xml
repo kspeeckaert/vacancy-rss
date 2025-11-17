@@ -2,42 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-17T12:40:39.120192+00:00</updated>
+  <updated>2025-11-17T14:23:00.312750+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
-    <id>https://www.cartiere.be/jobs/lead-data-engineer-2/</id>
-    <title>Lead Data Engineer</title>
-    <updated>2025-11-07T13:34:26+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Ieper, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-25 12:28:12+00:00, last change 2025-11-07 13:34:26+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-25 12:28:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Voor een internationaal productiebedrijf met een sterke focus op maatwerk en technologische innovatie zijn we op zoek naar een Lead Data Engineer. Je komt terecht in een organisatie waar data in volle ontwikkeling is en waar de ambitie bestaat om door te groeien naar een datagedreven cultuur.&lt;br&gt;
+    <id>https://www.cartiere.be/jobs/data-engineer-architect/</id>
+    <title>Data Engineer/ Architect</title>
+    <updated>2025-11-17T14:06:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Kampenhout, Flemish Brabant Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-25 12:28:12+00:00, last change 2025-11-17 14:06:26+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-25 12:28:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;&lt;strong&gt;Regio Kortrijk/ Vlaams-Brabant&lt;/strong&gt;&lt;br&gt;
 &lt;br&gt;
-De onderneming is actief in meerdere landen en heeft een duidelijke digitale en datagedreven roadmap voor de komende jaren. Sinds de succesvolle migratie naar Azure is het fundament gelegd voor een schaalbare en moderne dataomgeving. Nu is het tijd voor de volgende stap: een stabiel, performant en goed beheerd enterprise dataplatform.&lt;br&gt;
+BEDRIJF:&lt;br&gt;
+Voor een internationaal productiebedrijf dat inzet op technologische innovatie en maatwerk, kijk ik uit naar een Data Engineer/Architect. Je komt terecht in een organisatie waar data een strategische pijler wordt. De ambitie? Voluit evolueren naar een datagedreven cultuur.&lt;br&gt;
+&lt;br&gt;
+Met activiteiten in meerdere landen en een heldere groeistrategie, bouwt het bedrijf aan de toekomst. De recente migratie naar Azure heeft een modern en schaalbaar fundament gelegd. Nu is het tijd voor de volgende fase: het uitbouwen van een performant, stabiel en goed beheerd enterprise dataplatform.&lt;br&gt;
+&lt;br&gt;
+In deze rol is het jouw taak om de huidige dataroadmap kritisch te evalueren en een vernieuwde, toekomstgerichte koers uit te zetten. Je werkt in een technisch complexe en sterk groeiende internationale context, omringd door hoogopgeleide profielen, waar je impact maakt op de brug tussen technologie en strategie.&lt;br&gt;
 &lt;br&gt;
 JOBOMSCHRIJVING:&lt;br&gt;
-Als Lead Data Engineer neem je zowel strategisch als technisch het voortouw in de verdere ontwikkeling van het dataplatform. Je bouwt verder op de bestaande omgeving en begeleidt de organisatie naar een volwassen, schaalbare datastructuur. Je werkt mee aan de datastrategie en -architectuur, evalueert de huidige set-up en stuurt verbetertrajecten aan. Daarnaast bied je technische ondersteuning aan het interne team en optimaliseer je datastromen, het data warehouse en de documentatie.&lt;br&gt;
+Als Data Engineer/Architect geef je zowel strategisch als technisch richting aan de verdere uitbouw van het dataplatform. Je bouwt voort op de bestaande Azure omgeving en begeleidt de organisatie naar een schaalbare en volwassen datastructuur.&lt;br&gt;
 &lt;br&gt;
-Je werkt nauw samen met stakeholders uit productie, IT, finance en andere afdelingen, en vertaalt hun databehoeften naar concrete oplossingen. Ook op het vlak van governance, security en datakwaliteit neem je initiatief, en je helpt kennis structureel te verankeren binnen het team. Je combineert visie met technische slagkracht en wordt een vaste waarde in het interne datateam.&lt;br&gt;
+Je ontwikkelt mee aan de datastrategie en architectuur, evalueert de huidige set-up en zet verbetertrajecten in gang. Daarnaast bied je technische ondersteuning aan het interne team en optimaliseer je de datastromen, het DWH en de bijhorende documentatie.&lt;br&gt;
 &lt;br&gt;
-PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
+Je werkt nauw samen met stakeholders uit productie, IT, finance en andere domeinen, en vertaalt hun databehoeften naar concrete oplossingen. Ook op het vlak van governance, security en datakwaliteit neem je initiatief, en draag je bij aan het duurzaam verankeren van kennis binnen het team. Met jouw combinatie van visie en technische expertise word je een sleutelfiguur binnen het datateam.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;
 &lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt bewezen ervaringen in datamigraties binnen de Azure Stack.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent vlot in technologieën zoals Azure Data Factory, Azure Databricks, Azure Synapse en Microsoft Fabric.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief en doet graag aan stakeholdermanagement.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent een nuchter en pragmatisch profiel dat graag deel uitmaakt van een intern team.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bewaakt te allen tijde de strategie binnen de verdere uitbouw van een DWH.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je werkt nog hands-on wanneer er ondersteuning of support nodig is.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt bewezen ervaringen met datamigraties binnen de Azure stack.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent vertrouwd met technologieën zoals Azure Data Factory, Azure Databricks, Azure Synapse en Microsoft Fabric.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je communiceert helder en werkt graag samen met verschillende stakeholders.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je combineert een pragmatische aanpak met een nuchtere mindset en voelt je thuis in een intern team.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bewaakt de strategische lijn bij de verdere uitbouw van het datawarehouse.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je blijft hands-on betrokken wanneer technische ondersteuning of support nodig is.&lt;/span&gt;&lt;/span&gt;
 	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent vloeiend in het Nederlands en het Engels.&lt;/span&gt;&lt;/span&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
-In deze rol krijg je strategische verantwoordelijkheid over het datalandschap en werk je hands-on mee aan een dataplatform in opbouw. Je staat dicht bij het management, werkt in een technische productieomgeving en krijgt veel vrijheid, ownership en ruimte om echt iets op te bouwen van binnenuit.&lt;br&gt;
 &lt;br&gt;
-Kan dit jouw volgende stap zijn? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data &amp; AI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/lead-data-engineer-2/"/>
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+In deze rol krijg je strategische verantwoordelijkheid over het datalandschap en werk je hands-on mee aan een dataplatform in opbouw. Je staat dicht bij het management, werkt in een technische productieomgeving en krijgt veel vrijheid, ownership en ruimte om echt iets op te bouwen van binnenuit. Daarnaast stuur je twee Data Engineers aan die jou op technisch vlak ondersteunen, en zorg je voor de juiste richting, afstemming en kennisdeling binnen het team.&lt;br&gt;
+&lt;br&gt;
+Kan dit jouw volgende stap zijn? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data &amp; AI vacatures.&lt;/span&gt;&lt;/span&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-engineer-architect/"/>
     <category term="Data Engineering"/>
     <published>2025-07-25T12:28:12+00:00</published>
   </entry>
