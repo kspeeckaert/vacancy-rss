@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-17T14:44:26.674133+00:00</updated>
+  <updated>2025-11-17T16:49:17.358654+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084446</id>
+    <title>Oracle Database Administrator (DBA) (Cronos)</title>
+    <updated>2025-10-17T00:04:52+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Job content&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design new database environments and implement them.&lt;/li&gt;&lt;li&gt;Keep environments up to date with the latest technological evolutions by proposing the best possible solutions and implementing them.&lt;/li&gt;&lt;li&gt;Optimize environments, at the level of architecture, availability and performance.&lt;/li&gt;&lt;li&gt;Take proactive and corrective actions to prevent and resolve service interruptions.&lt;/li&gt;&lt;li&gt;Deliver high quality services to our customers and maintain their confidence by communicating professionally but with a personal touch &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;About you&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;As a senior Oracle DBA you feel yourself comfortable in the topics above.&lt;/li&gt;&lt;li&gt;You still want to grow and improve your technical skills.&lt;/li&gt;&lt;li&gt;We can rely on you because you take responsibility and ownership.&lt;/li&gt;&lt;li&gt;You are only satisfied with the best solution for your customer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;Oracle DBA&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084446"/>
+    <published>2024-07-02T09:28:36+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
     <title>Freelance Java Developer (Cronos)</title>
@@ -250,9 +261,9 @@
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70227598</id>
-    <title>Automated Tester (OMETA)</title>
-    <updated>2025-10-24T10:00:15+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: OMETA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Als Automated Tester ben je de drijvende kracht achter de kwaliteit van onze softwareproducten. Je speelt een sleutelrol in het gehele ontwikkelproces en werkt nauw samen met verschillende teams om te zorgen voor vlekkeloze releases van onze applicaties. Je expertise in zowel front-end als back-end testing, gecombineerd met een scherp oog voor detail, draagt bij aan het behalen van de hoogste kwaliteitsnormen.&lt;/span&gt;&lt;/p&gt; 
+    <title>Software Quality Assurance Tester (OMETA)</title>
+    <updated>2025-11-17T16:47:25+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: OMETA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Als Software Quality Assurance Tester ben je de drijvende kracht achter de kwaliteit van onze softwareproducten. Je speelt een sleutelrol in het gehele ontwikkelproces en werkt nauw samen met verschillende teams om te zorgen voor vlekkeloze releases van onze applicaties. Je expertise in zowel front-end als back-end testing, gecombineerd met een scherp oog voor detail, draagt bij aan het behalen van de hoogste kwaliteitsnormen.&lt;/span&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Je verantwoordelijkheden zijn o.a.:&lt;/span&gt;&lt;/p&gt; 
 &lt;ul type="disc"&gt; 
 &lt;li&gt;&lt;span&gt;Teststrategie Ontwikkeling &amp;amp; Implementatie&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
@@ -288,6 +299,8 @@
 &lt;li&gt;&lt;span&gt;Uitstekende analytische vaardigheden en probleemoplossend vermogen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Goede communicatievaardigheden, zowel in het Nederlands als in het Engels.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Een proactieve houding en een oog voor detail.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt; 
+&lt;ul type="disc"&gt; 
 &lt;li&gt;&lt;span&gt;Een competitief salaris.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Een uitgebreid voordelenpakket, inclusief een groene bedrijfswagen, laadpas, lunch- en ecocheques, ziektekostenverzekering en pensioenplannen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Mogelijkheden voor professionele groei en carrièreontwikkeling.&lt;/span&gt;&lt;/li&gt; 
@@ -297,7 +310,7 @@
 &lt;li&gt;&lt;span&gt;Sociale, bekwame en vaak humoristische collega's.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Al onze software wordt in België gemaakt. Geloof in onze software, het verkoopt zichzelf.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Je komt terecht in ons superleuk product development team.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Gratis koffie en een modern kantoor met state-of-the-art apparatuur.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+&lt;li&gt;&lt;span&gt;Gratis koffie en een modern kantoor met state-of-the-art apparatuur.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/70227598"/>
     <published>2025-01-14T10:04:42+00:00</published>
   </entry>
@@ -781,14 +794,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SII Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Stevens-Woluwe&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;SII Belgium is seeking a highly motivated and ambitious Java Developer to join our team. In this role, you will be responsible for designing and developing software applications, as well as maintaining and improving existing systems. You would join various teams working in AGILE mode for projects in the Energy, Retail, Banking or Media sectors. &amp;nbsp;&lt;/p&gt;&lt;p&gt;SII is a European digital and engineering services company of 16,000 experts. SII Belgium supports large businesses in adopting new technologies and innovation management. SII values empowerment and entrepreneurship, providing a fulfilling work environment for employees. Our mission is to contribute to the design and development of future products and services for customers. SII is committed to a sustainable digital world and is recognized as a great workplace.  &amp;nbsp;&lt;/p&gt;&lt;strong&gt;Key Responsibilities: &amp;nbsp;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Contribute in the design and outlining of Java solutions (with the analyst and / or architect)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Understands the business needs and perform the needed functional analysis&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ensure continuous integration and deployment of solutions&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Deliver scalable Java web applications according to agreed planning and budget&amp;nbsp;&lt;/li&gt;&lt;li&gt;Develop qualitative sites that exceed all customers' expectations&amp;nbsp;&lt;/li&gt;&lt;li&gt;Test applications and overcome technical issues encountered&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Add value to the sales cycle by giving input to your commercial colleagues (presales)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Add constantly to the Java competency within SII Belgium&amp;nbsp;&lt;/li&gt;&lt;li&gt;Support the project manager during the estimation process&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Train customers and users&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Requirements:&amp;nbsp;&lt;/strong&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor or Master's degree in computer science,&amp;nbsp;or any other relevant field.&lt;/li&gt;&lt;li&gt;4 years of relevant experience&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Familiar with Agile methodology such as Scrum; TDD&amp;nbsp;&lt;/li&gt;&lt;li&gt;Good knowledge of Java Spring MVC&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experienced in JPA/Hibernate, Maven, GIT, SVN Jenkins&amp;nbsp;&lt;/li&gt;&lt;li&gt;Experience with HTML5, CSS frameworks (Bootstrap, ...), Javascript frameworks (JQuery, Angular JS, React JS...) is an added value.&amp;nbsp;&lt;/li&gt;&lt;li&gt;A broad interest in developing web sites and web applications&amp;nbsp;&lt;/li&gt;&lt;li&gt;General best practices and design practices&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fluent in English and Dutch or French&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;We offer: &lt;/strong&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A challenging and varied role in a growing company &amp;nbsp;&lt;/li&gt;&lt;li&gt;Opportunity to work with the latest technologies &amp;nbsp;&lt;/li&gt;&lt;li&gt;Competitive salary and benefits &amp;nbsp;&lt;/li&gt;&lt;li&gt;Opportunity to improve your skills and knowledge through training and certification &amp;nbsp;&lt;/li&gt;&lt;li&gt;Warm and open company culture, supported by an international group &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you are a passionate and autonomous Java developer looking for an exciting opportunity with a growing company, we encourage you to apply for this posit &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71742758"/>
     <published>2025-08-19T09:19:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71749025</id>
-    <title>Business Analist (Kwery)</title>
-    <updated>2025-08-19T17:41:02+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Een groeiend en internationaal georiënteerd bedrijf is op zoek naar een IT Business Analyst die de brug vormt tussen de technische en functionele kant van IT-projecten. In deze rol ligt de focus zowel op het analyseren van bedrijfsnoden als op het coördineren van projecten. Binnen deze organisatie maak je deel uit van een dynamisch Information Systems team dat een belangrijke rol speelt in de verdere digitalisering van de onderneming.&lt;/p&gt;&lt;p dir="ltr"&gt;De ideale kandidaat is iemand die zich thuis voelt in een veelzijdige rol met veel verantwoordelijkheid. Je komt in contact met verschillende afdelingen zoals IT, productie, logistiek, supply chain en finance, waarbij je steeds op zoek gaat naar de juiste IT-oplossingen die bijdragen tot een efficiëntere werking van het bedrijf.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je analyseert de noden van interne klanten en vertaalt deze naar duidelijke softwarevereisten.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beoordeelt bestaande processen kritisch en volgt de volledige cyclus van analyse tot implementatie op.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beheert change requests en kleinere IT-projecten van A tot Z, inclusief documentatie en opleiding van eindgebruikers.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je biedt ondersteuning na implementatie, werkt verbeteringen uit en volgt incidenten of vragen op.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zorgt voor een correcte communicatie naar gebruikers en stemt af met andere IT-collega's waar nodig.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een bachelor- of masterdiploma in IT, bedrijfskunde of een gerelateerd vakgebied.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt 2 tot 5 jaar ervaring in een vergelijkbare rol als Business Analyst.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je bent vertrouwd met het Software Development Life Cycle proces en applicatiemanagement.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt sterke analytische vaardigheden en bent in staat complexe bedrijfsprocessen te doorgronden.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot en kan effectief samenwerken met interne en externe stakeholders.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je mag rekenen op een aantrekkelijk brutoloon tussen €4.000 en €6.500 afhankelijk van ervaring en expertise.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je krijgt een bedrijfswagen met tankkaart en een mooi pakket aan extralegale voordelen, waaronder ecocheques en maaltijdcheques.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je geniet van een uitgebreid verzekeringspakket en bijkomende voordelen zoals cao90.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je komt terecht in een internationaal actieve organisatie met veel groeipotentieel en ruimte voor initiatief.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je krijgt de kans om uitdagende projecten te beheren en impact te hebben op verschillende afdelingen binnen het bedrijf.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71749025"/>
-    <published>2025-08-19T17:41:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71743348</id>
@@ -2213,14 +2218,6 @@
     <published>2025-10-15T10:19:50+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72197830</id>
-    <title>Senior Fullstack .NET/React Developer (Madison Recruitment)</title>
-    <updated>2025-10-15T10:19:50+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze partner ben ik op zoek naar een &lt;strong&gt;Senior Fullstack Developer&lt;/strong&gt;. Ze zijn gelegen in regio Mechelen, waar je op hun site ook hun producten werkende kan zien.&lt;/p&gt;&lt;p dir="ltr"&gt;Als Senior Fullstack Developer werk je samen met andere gepassioneerde en ervaren developers aan de ontwikkeling van complexe en innovatieve in-house gebruikte softwareproducten.&lt;/p&gt;&lt;p dir="ltr"&gt;Je maakt deel uit van een &lt;strong&gt;Scrum&lt;/strong&gt;-team dat zich toelegt op het bouwen van robuuste, veilige en schaalbare applicaties met behulp van de nieuwste technologieën.&lt;/p&gt;&lt;p dir="ltr"&gt;Je krijgt de mogelijkheid om deel te nemen aan &lt;strong&gt;uitdagende en boeiende projecten&lt;/strong&gt;, waarbij je je kennis en vaardigheden voortdurend kunt verbeteren.&lt;/p&gt;&lt;p dir="ltr"&gt;Je zorgt voor een naadloze integratie van zowel de &lt;strong&gt;backend (.NET C#) als de frontend (React) &lt;/strong&gt;van de applicaties en werkt nauw samen met de rest van het team om de gebruikerservaring van de applicaties te verbeteren.&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je behaalde een &lt;strong&gt;bachelor- of masterdiploma&lt;/strong&gt; in een relevante opleiding (Toegepaste Informatica, Software Engineering…)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt minstens 6 jaar ervaring met het fullstack ontwikkelen van applicaties in .NET en React&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tech stack van het development team: &lt;strong&gt;C#, .NET 6/7, Entity Framework, AspNetCore, Angular, React, Azure&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een grondige kennis van RESTful API’s, ASP.NET Web API in het bijzonder en daarnaast ervaring met GIT/&lt;strong&gt;Azure DevOps&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Pluspunten: Azure cloud development&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het Nederlands en het Engels&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Onze partner biedt een loonpakket aan dat aangevuld wordt met o.a.&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bedrijfsrestaurant met zeer gunstige prijzen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen (full electric) met laadkaart&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;20 + 9 verlofdagen (39,5 urenweek)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;1 à 2 thuiswerkdagen per week&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Glijtijd: kerntijd is tussen 10.00 -15.00u&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sportiever naar kantoor? Als je +50% met de fiets komt, voorziet onze partner een (elektrische) fiets die door hen wordt onderhouden&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Jaarlijks 1 dag vrijwilligerswerk tijdens de werkuren&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;#LI-ED1&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72197830"/>
-    <published>2025-10-15T10:19:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72197159</id>
     <title>Senior Frontend React Developer (Madison Recruitment)</title>
     <updated>2025-10-15T09:15:51+00:00</updated>
@@ -3623,5 +3620,91 @@ Mandatory: Excellent verbal and written English, plus French or Dutch as a nativ
 &lt;li&gt;&lt;span lang="EN-US"&gt;The opportunity to be part of an innovative industry where creativity and technology meet&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72432760"/>
     <published>2025-11-16T15:38:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72439300</id>
+    <title>Business Analyst E-commerce (Randstad Digital)</title>
+    <updated>2025-11-17T15:17:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Are you a seasoned Business Analyst with a passion for digital transformation and a proven track record in e-commerce?&lt;br /&gt;
+
+We are seeking a Senior Business Analyst to spearhead the crucial project of selecting, acquiring, and implementing our next-generation e-commerce platform. You will act as the vital link between business vision and technical execution, ensuring that our new webshop is built on the right foundation to meet future growth demands.&lt;p&gt;&lt;strong&gt;Key Responsibilities - What You Will Achieve&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Define the Blueprint: Lead comprehensive requirement gathering sessions across the organization. You will analyze business needs (customer experience, operations, marketing) and translate them into a crystal-clear, prioritized set of technical requirements for the platform.
+&lt;/li&gt;
+
+&lt;li&gt;Drive Platform Selection: Manage the end-to-end evaluation process for potential e-commerce solutions and external implementation partners. This includes creating RFPs/RFIs, assessing vendor capabilities, and recommending the best fit for our long-term strategy.
+&lt;/li&gt;
+
+&lt;li&gt;Ensure Integration Success: Oversee the technical integration plan, guaranteeing the new platform interfaces flawlessly with our existing core IT landscape (e.g., Finance, Operations, Customer Systems).
+&lt;/li&gt;
+
+&lt;li&gt;Govern Delivery: Partner with IT to monitor the agile development and deployment lifecycle, conducting regular checks to confirm that all technical deliverables meet the documented requirements and the highest quality standards.
+&lt;/li&gt;
+
+&lt;li&gt;Mitigate &amp; Optimize: Proactively manage project risks and identify potential roadblocks. Champion opportunities for process and system improvements throughout the entire project timeline.
+&lt;/li&gt;
+
+&lt;li&gt;Stakeholder Alignment: Maintain transparent communication with senior leadership and cross-functional teams, providing clear, structured updates on progress, challenges, and strategic decisions.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Your Expertise &amp; Background&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Experience &amp; Education: A minimum of 10 years in a Business Analyst role, with significant experience in large-scale e-commerce, digital transformation, or complex integration projects. Bachelor's/Master's degree in a relevant field (IT, Engineering, Business Administration).
+&lt;/li&gt;
+
+&lt;li&gt;Must-Have Technical Acumen:
+&lt;ul&gt;
+
+&lt;li&gt;Expertise with Agile methodologies and tools (e.g., Jira, Confluence).
+&lt;/li&gt;
+
+&lt;li&gt;Deep understanding of the landscape of enterprise e-commerce platforms (e.g., industry leaders like Adobe Commerce, Shopify Plus, SAP, etc.).
+&lt;/li&gt;
+
+&lt;li&gt;Familiarity with UX/UI design principles and related tooling.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;Core Consulting Skills:
+&lt;ul&gt;
+
+&lt;li&gt;Vendor Management: Demonstrated success in evaluating, selecting, and managing external SaaS providers and system integrators.
+&lt;/li&gt;
+
+&lt;li&gt;Analytical Power: Exceptional ability to distill complex operational and technical challenges into structured, actionable insights.
+&lt;/li&gt;
+
+&lt;li&gt;Collaboration: Proven capability to lead and influence cross-functional teams, fostering alignment between business and technical stakeholders.
+&lt;/li&gt;
+
+&lt;li&gt;Communication: Fluent, professional command of both Dutch and English is mandatory.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What Sets You Apart&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Prior exposure to backend systems like ERP, BSS, or similar core business platforms.
+&lt;/li&gt;
+
+&lt;li&gt;Experience or knowledge of digital marketing optimization, including SEO/SEM strategies.
+&lt;/li&gt;
+
+&lt;li&gt;A background in regulated industries or large-scale consumer-facing digital projects.
+&lt;/li&gt;
+
+&lt;li&gt;A strong understanding of financial modeling related to technology investment (e.g., ROI, TCO, cost-benefit analysis).
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72439300"/>
+    <published>2025-11-17T15:17:57+00:00</published>
   </entry>
 </feed>
