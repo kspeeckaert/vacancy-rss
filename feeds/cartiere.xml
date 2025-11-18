@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-18T08:28:06.827260+00:00</updated>
+  <updated>2025-11-18T10:25:35.425652+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-architect/</id>
+    <title>Data Architect</title>
+    <updated>2025-11-18T07:30:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-18 08:30:23+00:00, last change 2025-11-18 07:30:23+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-18 08:30:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Deze organisatie is een internationale energie- en mobiliteitsspeler die actief inzet op innovatie, digitalisering en duurzaamheid. Vanuit een sterk Europees netwerk ondersteunt het zowel particuliere als professionele klanten met producten en diensten rond moderne mobiliteit. De organisatie bevindt zich in een duidelijke transformatiefase waarbij nieuwe energieoplossingen, klantenervaring en efficiency centraal staan. Medewerkers komen terecht in een mensgerichte werkomgeving met veel aandacht voor samenwerking, groei en toekomstgerichte projecten.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+In deze rol ontwikkel je een duidelijke visie op de data-architectuur en vertaal je die naar praktische, schaalbare oplossingen binnen de cloudomgeving. Je brengt structuur in een complexe data-omgeving, maakt bewuste keuzes voor de lange termijn en helpt het team om duurzame en goed beheerde data-oplossingen te realiseren. Je werkt daarbij nauw samen met zowel technische teams als business stakeholders, en kan technische concepten helder uitleggen aan verschillende doelgroepen.&lt;br&gt;
+&lt;br&gt;
+Daarnaast bied je richting en best practices, coach je collega’s in hun ontwikkeling en draag je bij aan een cultuur waarin datakwaliteit, transparantie en samenwerking centraal staan. Hoewel je een strategische rol opneemt, blijf je voldoende hands-on om mee te denken over integratiepatronen, datamodellering en de verdere groei van het dataplatform.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over minimaal vijf jaar ervaring in data-architectuur. 
+	&lt;li&gt;Je hebt een solide technische achtergrond en inzicht in de werking van bedrijfsprocessen.
+	&lt;li&gt;Je beweegt vlot tussen verschillende teams, communiceert duidelijk en durft onderbouwde beslissingen te nemen.
+	&lt;li&gt;Je bent vertrouwd met data-governance¬frameworks.
+	&lt;li&gt;Je combineert analytisch denken met een hands-on aanpak en draagt actief bij aan kennisdeling binnen het team.
+	&lt;li&gt;Je spreekt vloeiend Nederlands en Engels. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+In deze rol kan je bijdragen aan een organisatie die volop inzet op innovatie en digitale transformatie. Je komt terecht in een internationale, mensgerichte omgeving met ruimte voor groei, initiatief en verantwoordelijkheid. Dit combineert de stabiliteit van een gevestigde speler met de dynamiek van een bedrijf dat actief bouwt aan de mobiliteit van de toekomst.&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/data-architect/"/>
+    <category term="BI/Data Architect"/>
+    <published>2025-11-18T08:30:23+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-architect/</id>
     <title>Data Engineer/ Architect</title>
