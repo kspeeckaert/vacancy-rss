@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-19T08:28:05.345967+00:00</updated>
+  <updated>2025-11-19T10:25:06.513760+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-insights-specialist/</id>
+    <title>Data Insights Specialist</title>
+    <updated>2025-11-19T10:15:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-10-24 08:43:06+00:00, last change 2025-11-19 10:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-10-24 08:43:06+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Help jij als data insights specialist de volgende generatie vooruit? Deze toonaangevende Belgische, én internationale, speler in de educatieve sector ontwikkelt innovatieve producten met een sterke maatschappelijke impact. Het volledige ontwikkelproces gebeurt intern, waardoor je meebouwt aan betekenisvolle oplossingen van A tot Z.&lt;br&gt;
+&lt;br&gt;
+Als onderdeel van een grotere Europese groep telt de organisatie enkele honderden medewerkers en kan ze rekenen op een sterke internationale kennisdeling.&lt;br&gt;
+&lt;br&gt;
+Binnen het Data &amp; Analytics-team kijken ze uit naar een nieuwe data collega die het team mee komt versterken.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Je bent de schakel tussen data en strategie: je verzamelt, structureert en interpreteert gegevens en vertaalt ze naar heldere inzichten. Met jouw interactieve dashboards en rapporten maak je complexe informatie tastbaar en ondersteun je de organisatie in doordachte besluitvorming. Jouw taken:
+&lt;ul&gt;
+	&lt;li&gt;Je brengt de informatiebehoeften binnen de organisatie in kaart en vertaalt deze naar concrete dataoplossingen.
+	&lt;li&gt;Je identificeert beschikbare gegevensbronnen, beoordeelt de relevantie en selecteert de juiste data voor verdere verwerking.
+	&lt;li&gt;Je bouwt sterke datamodellen en waakt over een correcte data governance.
+	&lt;li&gt;Je ontwikkelt heldere en visueel aantrekkelijke dashboards en rapporten.
+	&lt;li&gt;Je interpreteert analytische inzichten en vertaalt deze naar duidelijke aanbevelingen.
+	&lt;li&gt;Je geeft opleidingen en workshops over het interpreteren en toepassen van data.
+	&lt;li&gt;Je werkt mee aan het optimaliseren van werkprocessen en de verdere uitbouw van de data-infrastructuur en het dataplatform.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je bent in het bezit van een hoger diploma.
+	&lt;li&gt;Je hebt minimaal 2 jaar relevante werkervaring in data-visualisatie.
+	&lt;li&gt;Je hebt sterke kennis van SQL en Power BI; kennis van DBT, Snowflake en Python is een grote plus.
+	&lt;li&gt;Je bent analytisch, communicatief, leergierig, zachtaardig en dynamisch.
+	&lt;li&gt;Je brengt inzichten duidelijk over aan elk publiek, op alle niveaus.
+	&lt;li&gt;Je volgt trends en ontwikkelingen in data-analyse, AI en machine learning.
+	&lt;li&gt;Je spreekt vloeiend Nederlands en beheerst een woordje Frans.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+What’s in it for you? Ze bieden een open, warme en collegiale werkomgeving, waar geen plaats is voor interne concurrentie, haantjesgedrag of micromanagement. Je krijgt de flexibiliteit om voor 60% van de tijd van thuis uit te werken en volop ruimte om te groeien dankzij zowel interne als externe opleidingen. Jouw welzijn en werkgeluk staan bij ons centraal, terwijl je deel uitmaakt van een dynamisch en gevestigde organisatie in de sector. Je werk heeft betekenis en impact, en daar hoort een aantrekkelijk salarispakket inclusief bedrijfswagen bij.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Wil je meer weten over deze functie? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-insights-specialist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-10-24T08:43:06+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-architect/</id>
     <title>Data Architect</title>
@@ -226,51 +270,6 @@ Herken jij jou in deze functie? Stuur nu jouw CV naar robbe@cartiere.be en bel 0
     <link href="https://www.cartiere.be/jobs/data-insights-analyst/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-10-24T14:39:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-analist/</id>
-    <title>Data Analist</title>
-    <updated>2025-10-24T07:43:06+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-10-24 08:43:06+00:00, last change 2025-10-24 07:43:06+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-10-24 08:43:06+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Help jij als data-analist de volgende generatie vooruit? Deze toonaangevende Belgische, én internationale, speler in de educatieve sector ontwikkelt innovatieve producten met een sterke maatschappelijke impact. Het volledige ontwikkelproces gebeurt intern, waardoor je meebouwt aan betekenisvolle oplossingen van A tot Z.&lt;br&gt;
-&lt;br&gt;
-Als onderdeel van een grotere Europese groep telt de organisatie enkele honderden medewerkers en kan ze rekenen op een sterke internationale kennisdeling.&lt;br&gt;
-&lt;br&gt;
-Binnen het Data &amp; Analytics-team kijken ze uit naar een data-analist die het team mee komt versterken.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Je bent de schakel tussen data en strategie: je verzamelt, structureert en interpreteert gegevens en vertaalt ze naar heldere inzichten. Met jouw interactieve dashboards en rapporten maak je complexe informatie tastbaar en ondersteun je de organisatie in doordachte besluitvorming. Jouw taken:
-&lt;ul&gt;
-	&lt;li&gt;Je brengt de informatiebehoeften binnen de organisatie in kaart en vertaalt deze naar concrete dataoplossingen.
-	&lt;li&gt;Je identificeert beschikbare gegevensbronnen, beoordeelt de relevantie en selecteert de juiste data voor verdere verwerking.
-	&lt;li&gt;Je bouwt sterke datamodellen en waakt over een correcte data governance.
-	&lt;li&gt;Je ontwikkelt heldere en visueel aantrekkelijke dashboards en rapporten.
-	&lt;li&gt;Je interpreteert analytische inzichten en vertaalt deze naar duidelijke aanbevelingen.
-	&lt;li&gt;Je geeft opleidingen en workshops over het interpreteren en toepassen van data.
-	&lt;li&gt;Je werkt mee aan het optimaliseren van werkprocessen en de verdere uitbouw van de data-infrastructuur en het dataplatform.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je bent in het bezit van een hoger diploma.
-	&lt;li&gt;Je hebt minimaal 2 jaar relevante werkervaring in data-visualisatie.
-	&lt;li&gt;Je hebt sterke kennis van SQL en Power BI; kennis van DBT, Snowflake en Python is een grote plus.
-	&lt;li&gt;Je bent analytisch, communicatief, leergierig, zachtaardig en dynamisch.
-	&lt;li&gt;Je brengt inzichten duidelijk over aan elk publiek, op alle niveaus.
-	&lt;li&gt;Je volgt trends en ontwikkelingen in data-analyse, AI en machine learning.
-	&lt;li&gt;Je spreekt vloeiend Nederlands en beheerst een woordje Frans.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-What’s in it for you? Ze bieden een open, warme en collegiale werkomgeving, waar geen plaats is voor interne concurrentie, haantjesgedrag of micromanagement. Je krijgt de flexibiliteit om voor 60% van de tijd van thuis uit te werken en volop ruimte om te groeien dankzij zowel interne als externe opleidingen. Jouw welzijn en werkgeluk staan bij ons centraal, terwijl je deel uitmaakt van een dynamisch en gevestigde organisatie in de sector. Je werk heeft betekenis en impact, en daar hoort een aantrekkelijk salarispakket inclusief bedrijfswagen bij.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Wil je meer weten over deze functie? &lt;br&gt;
-Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/data-analist/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-10-24T08:43:06+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/databricks-data-engineer-hartje-antwerpen/</id>
