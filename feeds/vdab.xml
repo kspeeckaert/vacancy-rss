@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-19T08:49:01.728787+00:00</updated>
+  <updated>2025-11-19T10:46:48.568196+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
-    <title>Senior DevOps architect (Cronos)</title>
-    <updated>2025-11-18T00:01:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
-    <published>2024-02-07T14:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
     <title>Product Owner APEX software factory (Cronos)</title>
@@ -3204,60 +3181,6 @@ Mandatory: Excellent verbal and written English, plus French or Dutch as a nativ
     <published>2025-11-10T16:32:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72401401</id>
-    <title>Incident Response and SOC Analyst (EU Secret) (Sopra Steria)</title>
-    <updated>2025-11-12T08:36:19+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The role supports the Cyber Security Operations Centre for the EU critical infrastructure, aiming to strengthen IT security through advanced monitoring, detection, and incident response services.&lt;/p&gt;&lt;p&gt;Main Responsibilities&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Define incident handling procedures, automation requirements, and playbook logic aligned with the needs.&lt;/li&gt;&lt;li&gt;Prepare incident response workflows, automated enrichment steps, and technical documentation for standardized alert handling.&lt;/li&gt;&lt;li&gt;Handle cybersecurity incidents from detection through escalation, containment, and resolution.&lt;/li&gt;&lt;li&gt;Develop and maintain XSOAR playbooks, integrations, and automations across platforms such as Splunk, AWS, Azure Sentinel, Carbon Black Cloud, and Sysdig.&lt;/li&gt;&lt;li&gt;Coordinate and review playbook updates, incident reports, and cross-team collaboration.&lt;/li&gt;&lt;li&gt;Report key performance metrics, including FPTP rate, MTTH, escalation rate, automation coverage, time saved, and error reductions.&lt;/li&gt;&lt;li&gt;Assist training analysts on playbook usage and incident response methods.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Collaborate with CSIRC, CATCH analysts, infrastructure teams, and external stakeholders to validate playbook coverage and share threat intelligence.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Required Skills &amp;amp; Expertise&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong incident response methodology and hands-on experience in end-to-end incident handling in multinational settings.&lt;/li&gt;&lt;li&gt;Advanced knowledge of XSOAR playbook creation and automation.&lt;/li&gt;&lt;li&gt;Proficiency in designing and adapting automated workflows and enrichment.&lt;/li&gt;&lt;li&gt;Python programming skills.&lt;/li&gt;&lt;li&gt;Ability to present technical and business information effectively to diverse EC stakeholders.&lt;/li&gt;&lt;li&gt;High standards for incident documentation, KPI reporting, and compliance with security frameworks.&lt;/li&gt;&lt;li&gt;Familiarity with cloud-native services (AWS, Azure), EDR, SIEM-SOAR platforms, and container security.&lt;/li&gt;&lt;li&gt;Excellent communication skills for working in multicultural teams and liaising with technical and non-technical audiences.&lt;/li&gt;&lt;li&gt;Certifications or experience in relevant security technologies (e.g., Palo Alto Cortex XSOAR, Splunk, Microsoft SC-200, AWS Security Specialty).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Required Education&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Level 6 European Qualification Framework (Bachelor's degree or higher) for senior profiles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soft Skills&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ability to work in international, multicultural environments.&lt;/li&gt;&lt;li&gt;Rapid self-starting, teamwork, and multitasking on large projects.&lt;/li&gt;&lt;li&gt;Language proficiency: English (B2), French or German a plus.&lt;/li&gt;&lt;li&gt;High discretion and integrity.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Working Conditions&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Contract duration: approx. 880 days, starting Dec 1, 2025.&lt;/li&gt;&lt;li&gt;On-site service delivery in Brussels, Belgium; partial remote work may be authorized.&lt;/li&gt;&lt;li&gt;EU Secret Clearance Required or PSCIS&lt;/li&gt;&lt;li&gt;&lt;p&gt;Provided with IT equipment; must comply with security procedures.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Do you picture yourself in a fast-growing, vibrant team at the cutting edge of software implementation? Does working with international clients across multiple industries sound exciting? Then you’re in the right place.&amp;nbsp;&lt;/p&gt;&lt;p&gt;We offer a generous employee benefits package that includes:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A variety of perks, such as mobility options (including a company car), insurance coverage, meal vouchers, eco-cheques, and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The opportunity to connect with fellow Sopra Steria colleagues at various team events.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;People are the cornerstone of our success. That’s why we aspire to be bolder together. Our goal is to build high-functioning teams and healthy team environments that inspire and help each other to deliver excellence for each of our customers.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Excited about this job opportunity? Ready to shape the world with us? Great! We are looking forward to your application!&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to know what happens next?&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The recruitment process typically begins with the first step, where the recruiter screens candidates based on their qualifications and fit for the role. This is followed by the second step, where candidates undergo more in-depth evaluations, including technical assessments hiring manager or client to assess both technical skills and team compatibility. The third step involves the company reviewing feedback and aligning on a potential offer. Finally, in the final step, the candidate receives a formal job offer.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72401401"/>
-    <published>2025-11-12T08:36:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72401826</id>
-    <title>IC Design Engineer (Madison Recruitment)</title>
-    <updated>2025-11-12T09:48:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze klant, de &lt;strong&gt;ontwerper van de internet chip&lt;/strong&gt;, ben ik op zoek naar een &lt;strong&gt;IC Design Engineer.&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Het bedrijf staat wereldwijd bekend in de telecomindustrie waarbij ze voor grote internationale klanten producten (chips) voor kopernetwerken (DSL) ontwikkelen. Vanwege hun succes zijn ze op zoek naar een IC Design Engineer.&lt;/p&gt;&lt;p dir="ltr"&gt;Als IC Design Engineer kom je in het chip design team terecht. Hier ben je van begin tot einde in de ontwikkeling van de chips betrokken.&lt;/p&gt;&lt;p dir="ltr"&gt;Je krijgt de &lt;strong&gt;ruimte om zelf zaken van scratch op te zetten en uit te proberen.&lt;/strong&gt; Hierbij kan je rekenen op ondersteuning van jouw collega’s. Dit zijn 18 gepassioneerde Engineers met een passie voor de telecom.&lt;/p&gt;&lt;p dir="ltr"&gt;Heb je ambitie? Dan zit je hier aan het goede adres! Hier krijg je namelijk de mogelijkheid om (op termijn) de leiding te nemen over het chip design team.&lt;/p&gt;&lt;p&gt;Dit zal je binnen een vlakke structuur doen met veel &lt;strong&gt;flexibiliteit&lt;/strong&gt;.&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Ervaring als IC Design Engineer in de telecom&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je gaat op een analytische manier te werk om de noden van de klanten goed in kaart te kunnen brengen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je kan je vlot te woord staan en kan je goed uitdrukken in de Engelse taal&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bachelor of Masterdiploma binnen Engineering/ IT/ Handelsingenieur/ …&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Aanbod&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Werken voor de pionier binnen de telecomsector die niet stil zit. &lt;strong&gt;Hier krijg je de kans om een leidende rol op je te nemen, een mooie carrière gegarandeerd!&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Een leeromgeving waar je omringd wordt door experts en je kennis kunt uitbreiden.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een omgeving met veel mogelijkheden: hier krijg je de mogelijkheid om nieuwe producten te ontwikkelen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een aantrekkelijk salarispakket dat bovendien wordt aangevuld met verschillende voordelen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Flexibiliteit om je uren in te plannen voor een goede balans met je privéleven.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72401826"/>
-    <published>2025-11-12T09:48:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72404635</id>
-    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
-    <updated>2025-11-12T14:14:28+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
-&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
-&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
-&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
-&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
-&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
-&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
-&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
-&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
-&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
-&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
-&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
-&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
-&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
-&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72404635"/>
-    <published>2025-11-12T14:14:28+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72404598</id>
     <title>System Engineer (CONXION)</title>
     <updated>2025-11-12T14:07:40+00:00</updated>
@@ -3318,6 +3241,60 @@ Mandatory: Excellent verbal and written English, plus French or Dutch as a nativ
 &lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72404598"/>
     <published>2025-11-12T14:07:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72401401</id>
+    <title>Incident Response and SOC Analyst (EU Secret) (Sopra Steria)</title>
+    <updated>2025-11-12T08:36:19+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The role supports the Cyber Security Operations Centre for the EU critical infrastructure, aiming to strengthen IT security through advanced monitoring, detection, and incident response services.&lt;/p&gt;&lt;p&gt;Main Responsibilities&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Define incident handling procedures, automation requirements, and playbook logic aligned with the needs.&lt;/li&gt;&lt;li&gt;Prepare incident response workflows, automated enrichment steps, and technical documentation for standardized alert handling.&lt;/li&gt;&lt;li&gt;Handle cybersecurity incidents from detection through escalation, containment, and resolution.&lt;/li&gt;&lt;li&gt;Develop and maintain XSOAR playbooks, integrations, and automations across platforms such as Splunk, AWS, Azure Sentinel, Carbon Black Cloud, and Sysdig.&lt;/li&gt;&lt;li&gt;Coordinate and review playbook updates, incident reports, and cross-team collaboration.&lt;/li&gt;&lt;li&gt;Report key performance metrics, including FPTP rate, MTTH, escalation rate, automation coverage, time saved, and error reductions.&lt;/li&gt;&lt;li&gt;Assist training analysts on playbook usage and incident response methods.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Collaborate with CSIRC, CATCH analysts, infrastructure teams, and external stakeholders to validate playbook coverage and share threat intelligence.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Required Skills &amp;amp; Expertise&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong incident response methodology and hands-on experience in end-to-end incident handling in multinational settings.&lt;/li&gt;&lt;li&gt;Advanced knowledge of XSOAR playbook creation and automation.&lt;/li&gt;&lt;li&gt;Proficiency in designing and adapting automated workflows and enrichment.&lt;/li&gt;&lt;li&gt;Python programming skills.&lt;/li&gt;&lt;li&gt;Ability to present technical and business information effectively to diverse EC stakeholders.&lt;/li&gt;&lt;li&gt;High standards for incident documentation, KPI reporting, and compliance with security frameworks.&lt;/li&gt;&lt;li&gt;Familiarity with cloud-native services (AWS, Azure), EDR, SIEM-SOAR platforms, and container security.&lt;/li&gt;&lt;li&gt;Excellent communication skills for working in multicultural teams and liaising with technical and non-technical audiences.&lt;/li&gt;&lt;li&gt;Certifications or experience in relevant security technologies (e.g., Palo Alto Cortex XSOAR, Splunk, Microsoft SC-200, AWS Security Specialty).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Required Education&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Level 6 European Qualification Framework (Bachelor's degree or higher) for senior profiles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soft Skills&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ability to work in international, multicultural environments.&lt;/li&gt;&lt;li&gt;Rapid self-starting, teamwork, and multitasking on large projects.&lt;/li&gt;&lt;li&gt;Language proficiency: English (B2), French or German a plus.&lt;/li&gt;&lt;li&gt;High discretion and integrity.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Working Conditions&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Contract duration: approx. 880 days, starting Dec 1, 2025.&lt;/li&gt;&lt;li&gt;On-site service delivery in Brussels, Belgium; partial remote work may be authorized.&lt;/li&gt;&lt;li&gt;EU Secret Clearance Required or PSCIS&lt;/li&gt;&lt;li&gt;&lt;p&gt;Provided with IT equipment; must comply with security procedures.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Do you picture yourself in a fast-growing, vibrant team at the cutting edge of software implementation? Does working with international clients across multiple industries sound exciting? Then you’re in the right place.&amp;nbsp;&lt;/p&gt;&lt;p&gt;We offer a generous employee benefits package that includes:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A variety of perks, such as mobility options (including a company car), insurance coverage, meal vouchers, eco-cheques, and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The opportunity to connect with fellow Sopra Steria colleagues at various team events.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;People are the cornerstone of our success. That’s why we aspire to be bolder together. Our goal is to build high-functioning teams and healthy team environments that inspire and help each other to deliver excellence for each of our customers.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Excited about this job opportunity? Ready to shape the world with us? Great! We are looking forward to your application!&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to know what happens next?&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The recruitment process typically begins with the first step, where the recruiter screens candidates based on their qualifications and fit for the role. This is followed by the second step, where candidates undergo more in-depth evaluations, including technical assessments hiring manager or client to assess both technical skills and team compatibility. The third step involves the company reviewing feedback and aligning on a potential offer. Finally, in the final step, the candidate receives a formal job offer.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72401401"/>
+    <published>2025-11-12T08:36:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72401826</id>
+    <title>IC Design Engineer (Madison Recruitment)</title>
+    <updated>2025-11-12T09:48:32+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze klant, de &lt;strong&gt;ontwerper van de internet chip&lt;/strong&gt;, ben ik op zoek naar een &lt;strong&gt;IC Design Engineer.&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Het bedrijf staat wereldwijd bekend in de telecomindustrie waarbij ze voor grote internationale klanten producten (chips) voor kopernetwerken (DSL) ontwikkelen. Vanwege hun succes zijn ze op zoek naar een IC Design Engineer.&lt;/p&gt;&lt;p dir="ltr"&gt;Als IC Design Engineer kom je in het chip design team terecht. Hier ben je van begin tot einde in de ontwikkeling van de chips betrokken.&lt;/p&gt;&lt;p dir="ltr"&gt;Je krijgt de &lt;strong&gt;ruimte om zelf zaken van scratch op te zetten en uit te proberen.&lt;/strong&gt; Hierbij kan je rekenen op ondersteuning van jouw collega’s. Dit zijn 18 gepassioneerde Engineers met een passie voor de telecom.&lt;/p&gt;&lt;p dir="ltr"&gt;Heb je ambitie? Dan zit je hier aan het goede adres! Hier krijg je namelijk de mogelijkheid om (op termijn) de leiding te nemen over het chip design team.&lt;/p&gt;&lt;p&gt;Dit zal je binnen een vlakke structuur doen met veel &lt;strong&gt;flexibiliteit&lt;/strong&gt;.&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Ervaring als IC Design Engineer in de telecom&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je gaat op een analytische manier te werk om de noden van de klanten goed in kaart te kunnen brengen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je kan je vlot te woord staan en kan je goed uitdrukken in de Engelse taal&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bachelor of Masterdiploma binnen Engineering/ IT/ Handelsingenieur/ …&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Aanbod&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Werken voor de pionier binnen de telecomsector die niet stil zit. &lt;strong&gt;Hier krijg je de kans om een leidende rol op je te nemen, een mooie carrière gegarandeerd!&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Een leeromgeving waar je omringd wordt door experts en je kennis kunt uitbreiden.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een omgeving met veel mogelijkheden: hier krijg je de mogelijkheid om nieuwe producten te ontwikkelen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een aantrekkelijk salarispakket dat bovendien wordt aangevuld met verschillende voordelen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Flexibiliteit om je uren in te plannen voor een goede balans met je privéleven.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72401826"/>
+    <published>2025-11-12T09:48:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72404635</id>
+    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
+    <updated>2025-11-12T14:14:28+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
+&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
+&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
+&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
+&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
+&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
+&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
+&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
+&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
+&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
+&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
+&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
+&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
+&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
+&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
+&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
+&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72404635"/>
+    <published>2025-11-12T14:14:28+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72404683</id>
@@ -3856,6 +3833,45 @@ Voldoet deze functie aan jouw verwachtingen? Solliciteer dan rechtstreeks via de
     <published>2025-11-18T10:42:26+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72454720</id>
+    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
+    <updated>2025-11-19T11:01:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
+&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
+&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
+&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
+&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
+&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
+&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
+&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
+&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
+&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
+&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
+&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
+&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
+&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
+&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
+&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
+&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72454720"/>
+    <published>2025-11-19T11:01:39+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72453632</id>
     <title>IT Servicedesk Specialist (Experis Belgium)</title>
     <updated>2025-11-19T09:05:18+00:00</updated>
@@ -3904,5 +3920,68 @@ Concreet omvat jouw functie:
 &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Erk./Rec. VG 496/BUO &amp; W020 &amp; B 00424-406-20130311 &amp; B 00424-405-20130311&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72453527"/>
     <published>2025-11-19T08:52:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72454925</id>
+    <title>System Engineer (CONXION)</title>
+    <updated>2025-11-19T11:16:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als System Engineer ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw day to day als System Engineer:&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
+&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
+&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
+&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
+&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
+&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Certificeringen&lt;/p&gt; 
+&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
+&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
+&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72454925"/>
+    <published>2025-11-19T11:16:26+00:00</published>
   </entry>
 </feed>
