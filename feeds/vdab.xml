@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-18T22:43:20.676238+00:00</updated>
+  <updated>2025-11-19T04:48:16.585662+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -830,7 +830,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70810242</id>
     <title>Azure Integration Expert (Cronos)</title>
-    <updated>2025-10-18T00:01:53+00:00</updated>
+    <updated>2025-11-19T00:00:48+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw rol in vijf kernwoorden&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Expertise&lt;/strong&gt;: ontwerp, implementeer en optimaliseer Azure-integratiearchitecturen - van strategie tot uitvoering.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Leiderschap&lt;/strong&gt;: begeleid klanten naar de beste cloud-native oplossingen en zorg voor succesvolle integraties.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Presales mindset:&lt;/strong&gt; werk samen met de Managing Partner aan de strategische groei en verkoop van Azure-oplossingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Flexibiliteit&lt;/strong&gt;: wissel moeiteloos tussen technische specialist en strategisch adviseur.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Strategisch inzicht:&lt;/strong&gt; jij kijkt verder dan vandaag en bouwt oplossingen die toekomstbestendig zijn.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat jij in huis hebt&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Algemene integratieprincipes en - Patterns zijn voor jou vanzelfsprekend en&lt;/strong&gt; kennen geen geheimen meer.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Diepgaande Azure-kennis:&lt;/strong&gt; Azure Integration Services, Azure API Management, Service Bus, Logic Apps, Functions - jij beheerst het als geen ander.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Code-kennis:&lt;/strong&gt; je hebt een solide basis in .NET/C# en begrijpt de fundamenten van Python of Java.&lt;/li&gt;&lt;li&gt;&lt;strong style="color: rgb(0, 0, 0);"&gt;Bonuspunten&lt;/strong&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;: ervaring met automatisering, DevOps-principes en Infrastructure as Code&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;p&gt;Azure Integration Services&lt;/p&gt;&lt;/li&gt;
@@ -1448,78 +1448,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sander (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Lead impactful national projects, drive innovation with cutting-edge tech, and put your expertise to work where it truly makes a difference.&lt;/p&gt;&lt;p&gt;Step into a role where your expertise truly makes an impact. As a&amp;nbsp;&lt;strong&gt;Linux System Engineer&lt;/strong&gt;, you will be the driving force behind mission-critical systems, ensuring performance, security, and scalability.&lt;/p&gt;&lt;p&gt;﻿You’ll design, implement, and optimize Linux-based infrastructures while managing complex networks that &lt;strong&gt;power projects on a national scale.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Linux System Engineer - What the job is about ?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Deploy, configure, and maintain&lt;strong&gt; Linux servers&lt;/strong&gt; in production environments.&lt;/li&gt;&lt;li&gt;Design and manage &lt;strong&gt;network infrastructures &lt;/strong&gt;(LAN/WAN, VPNs, firewalls, routing).&lt;/li&gt;&lt;li&gt;Monitor system and network performance, ensuring maximum uptime and security.&lt;/li&gt;&lt;li&gt;Automate tasks and optimize workflows through scripting and modern tools.&lt;/li&gt;&lt;li&gt;Troubleshoot complex technical issues and provide expert-level support.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Collaborate with cross-functional teams to deliver scalable and innovative solutions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Linux System Engineer - Who are you?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Solid experience with Linux system administration (&lt;strong&gt;Debian, RedHat,&lt;/strong&gt; or similar).&lt;/li&gt;&lt;li&gt;Strong knowledge of networking protocols (&lt;strong&gt;TCP/IP, DNS, DHCP, VPN, routing, switching&lt;/strong&gt;).&lt;/li&gt;&lt;li&gt;Hands-on experience with firewalls, load balancers, and security hardening.&lt;/li&gt;&lt;li&gt;Proficiency in scripting (&lt;strong&gt;Bash, Python&lt;/strong&gt; or similar) and automation tools (Ansible, Puppet).&lt;/li&gt;&lt;li&gt;Strong problem-solving skills and ability to work independently and in a team.&lt;/li&gt;&lt;li&gt;Passion for technology, innovation, and continuous improvement.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Linux System Engineer - What the offer is about?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The opportunity to &lt;strong&gt;lead impactful projects&lt;/strong&gt; on a national scale.&lt;/li&gt;&lt;li&gt;A cutting-edge tech environment where your ideas shape real solutions.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Competitive salary package&lt;/strong&gt; and attractive benefits.&lt;/li&gt;&lt;li&gt;A collaborative, growth-oriented workplace where your expertise drives success.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71923773"/>
     <published>2025-09-11T15:13:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71934860</id>
-    <title>System Engineer (On IT)</title>
-    <updated>2025-09-12T09:08:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Machelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ad-hoc interventies &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Uitvoeren van snelle en doelgerichte interventies bij klanten (bv vervangen en configureren van switches en firewalls)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Oplossen van dringende storingen en technische incidenten&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Zorgen voor een vlotte terugkoppeling en documentatie na afloop&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Projectmatige opdrachten &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Een of meerdere dagen bij eenzelfde klant voor grotere opdrachten&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Installeren en vervangen van meerdere werkplekken (bijvoorbeeld 10+ pc’s)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Vernieuwen en configureren van volledige installaties van switches en netwerkapparatuur&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Ondersteunen bij de inrichting en vernieuwing van server rooms&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Nauw samenwerken met een van onze interne gespecialiseerde Competence Centers bij grotere projecten (Cloud, Modern Workplace, Networking)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Adviserende rol &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;In gesprek gaan met klanten om hun IT-behoeften in kaart te brengen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Signaleren van verbeterpunten en aanbevelen van oplossingen vanuit een helikopterview&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Klanten helpen hun IT-infrastructuur strategisch af te stemmen op hun bedrijfsdoelstellingen&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Algemene verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Optreden als aanspreekpunt voor technische vragen van klanten&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Documenteren en rapporteren van interventies en projectresultaten&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Proactief bijdragen aan kennisdeling en samenwerking binnen het team&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Meedenken over innovatie en verdere professionalisering van IT-diensten&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Technische kennis&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Brede kennis van 
-&lt;strong&gt;IT-infrastructuur&lt;/strong&gt; en 
-&lt;strong&gt;netwerktechnologieën&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met 
-&lt;strong&gt;switching&lt;/strong&gt;, 
-&lt;strong&gt;firewalls&lt;/strong&gt; en 
-&lt;strong&gt;migraties&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Grondige kennis van 
-&lt;strong&gt;Microsoft-technologieën&lt;/strong&gt; en 
-&lt;strong&gt;Azure&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met hardware van 
-&lt;strong&gt;HP&lt;/strong&gt; en 
-&lt;strong&gt;Dell&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Een relevante 
-&lt;strong&gt;firewall-certificatie&lt;/strong&gt; (of bereidheid dit te behalen)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Ervaring&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Meerdere jaren werkervaring binnen een 
-&lt;strong&gt;Managed Service Provider-omgeving&lt;/strong&gt; &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Ervaring met zowel ad-hoc interventies als projectmatige opdrachten&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Talenkennis&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Nederlands&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: uitstekende beheersing in woord en geschrift&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Engels&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: professioneel bruikbaar voor klanten en documentatie&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Frans&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;: een mooi pluspunt&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Persoonlijke vaardigheden&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Zelfstandig kunnen werken en verantwoordelijkheid nemen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Maturiteit en professionele uitstraling bij klantbezoeken&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Basiskennis van 
-&lt;strong&gt;projectmanagement&lt;/strong&gt; om interventies gestructureerd aan te pakken&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Sterke communicatievaardigheden: je kan complexe IT-vraagstukken helder uitleggen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Flexibele mindset en probleemoplossend vermogen&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
-&lt;li&gt;Ontvang 
-&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Verzekering:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Technische uitrusting:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; Laptop, een telefoonbudget en abonnement&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Verlof:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; Geniet van 32 vakantiedagen per jaar&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Professionele ontwikkeling:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; &lt;/span&gt;&lt;span lang="NL"&gt;Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71934860"/>
-    <published>2025-09-12T09:08:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71935102</id>
