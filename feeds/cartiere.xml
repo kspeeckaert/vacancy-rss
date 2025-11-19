@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-19T12:41:39.523970+00:00</updated>
+  <updated>2025-11-19T14:22:21.683613+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -558,37 +558,6 @@ Visit our website www.cartiere.be for more BI, data, AI and ML-opportunities.&lt
     <link href="https://www.cartiere.be/jobs/application-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-09-23T07:53:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
-    <title>Data Engineer</title>
-    <updated>2025-09-10T09:19:13+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Belgiëlei 49, 2018, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-09-10 10:19:13+00:00, last change 2025-09-10 09:19:13+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-09-10 10:19:13+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;ALGEMEEN:&lt;br&gt;
-Voor een toonaangevende financiële instelling zijn we op zoek naar een (junior) Data Engineer. Je komt terecht in een organisatie die volop inzet op data-gedreven innovatie en werkt met een modern legacy data platform. Het is belangrijk om mee te bouwen aan een robuuste data omgeving.&lt;br&gt;
-&lt;br&gt;
-Deze financiële speler differentieert zich door dicht bij hun klanten te willen staan, een filosofie die ze van bij het ontstaan hebben gehanteerd. Het is hun missie om gezinnen en particulieren eenvoudig, eerlijk en dichtbij te ondersteunen. Daarnaast heeft deze organisatie een uitgesproken focus op duurzaamheid wat bij elke medewerker een attitude moet zijn.&lt;br&gt;
-&lt;br&gt;
-WAT ZOEKEN ZE:&lt;br&gt;
-Je komt terecht in een legacy datawarehouse-omgeving die de technische ruggengraat vormt voor rapportering en business intelligence. Het is misschien niet de nieuwste cloud-native stack, maar juist hier krijg je de kans om jouw SQL-kennis naar een hoger niveau te tillen en te leren hoe grote financiële databronnen, ETL-processen en businesslogica samenkomen in een gereguleerde en kritische sector. Bovendien werk je samen met ervaren specialisten die openstaan voor coaching en nieuwe ideeën, waardoor je snel kunt groeien in zowel technische vaardigheden als consultancy-ervaring.&lt;br&gt;
-&lt;br&gt;
-PROFIEL:&lt;br&gt;
-Om in aanmerking te komen voor deze rol beschik je over uitgebreide kennis van SQL, inclusief ervaring met complexe queries en optimalisaties. Daarnaast heb je sterke communicatieve vaardigheden, kun je snel nieuwe concepten oppikken en ga je op een constructieve manier om met feedback. Tot slot heb je een proactieve werkhouding en weet je goed zelfstandig te werken, terwijl je ook sterk bent in samenwerken binnen een team.&lt;br&gt;
-&lt;br&gt;
-X-FACTOR VAN HET BEDRIJF:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Leuke opdracht bij een innovatieve speler in de financiële sector.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Flexibele werkuren en hybride werkomgeving.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Een stimulerende werkomgeving binnen een sterk datagedreven cultuur.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Uitdaging in een gereguleerde, complexe sector waar kwaliteit telt.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Herken jij jou in deze opdracht? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer BI- en data vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-engineer-3/"/>
-    <category term="Data Engineering"/>
-    <published>2025-09-10T10:19:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-analist-marketing/</id>
