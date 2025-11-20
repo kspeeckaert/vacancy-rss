@@ -2,9 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-20T12:40:47.612402+00:00</updated>
+  <updated>2025-11-20T14:22:38.242474+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/ml-engineer-2/</id>
+    <title>ML Engineer</title>
+    <updated>2025-11-20T11:55:44+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Battelsesteenweg 455i, Mechelen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-20 12:55:44+00:00, last change 2025-11-20 11:55:44+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-20 12:55:44+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Stel je voor: werken bij een energiebedrijf dat niet alleen zegt dat het anders wil doen, maar het elke dag bewijst. Een organisatie die 100% hernieuwbare energie levert en voluit inzet op een duurzame toekomst, met investeringen in technologie, data-innovatie én sterk talent.&lt;br&gt;
+&lt;br&gt;
+Hier geen klassieke silo’s, maar klantgerichte en wendbare teams die snel schakelen en echte impact creëren. De lat ligt hoog: ze zoeken mensen die willen groeien, vernieuwen en het verschil willen maken.&lt;br&gt;
+&lt;br&gt;
+In deze dynamische context vormt het datateam een sterk center of expertise. Ze analyseren klantgedrag, bouwen slimme inzichten en ontwikkelen BI-, AI- en machine-learningoplossingen die het bedrijf vooruitstuwen.&lt;br&gt;
+&lt;br&gt;
+Omdat dit team een sleutelrol speelt in het vergroten van de datamaturiteit, kijken we voor hen uit naar een nieuwe collega die hun groei versterkt.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als ML Engineer speel je een cruciale rol binnen het datateam. Je vormt de technische ruggengraat die ervoor zorgt dat data science-modellen niet alleen gebouwd worden, maar ook betrouwbaar en schaalbaar in productie kunnen draaien. Je werkt nauw samen met data scientists en data engineers en zorgt ervoor dat modellen, data en infrastructuur naadloos op elkaar aansluiten.&lt;br&gt;
+&lt;br&gt;
+Jouw rol:
+&lt;ul&gt;
+	&lt;li&gt;Je bent de brug tussen data engineers en data scientists: je begrijpt de dataset en pipelines even goed als de modellen. Je helpt bepalen welke data, features en transformaties nodig zijn om modellen performant te maken. 
+	&lt;li&gt;Wanneer data scientists een nieuw model opleveren, ben jij verantwoordelijk voor industrializatie, deployment en monitoring.
+	&lt;li&gt;Je zet de krijtlijnen uit voor de ML-operatie binnen Eneco: best practices, processen, tooling en standaarden.
+	&lt;li&gt;Je hebt een grote impact op de end-to-end dataketen en werkt nauw samen met het centrale data team.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minimaal 3 jaar relevante ervaring.
+	&lt;li&gt;Je beschikt over een sterke kennis van Python, SQL, Azure DevOps, CI/CD, en Databricks. 
+	&lt;li&gt;Je hebt ervaring met ETL-processen en datamodellering.
+	&lt;li&gt;Je neemt het team technisch mee en tilt het naar een hoger niveau door best practices, automatisering en structuur te brengen.
+	&lt;li&gt;Je toont technisch leiderschap en streeft naar engineering excellence.
+	&lt;li&gt;Je bent analytisch en conceptueel sterk in de ML lifecycle.
+	&lt;li&gt;Je spreekt vloeiend Engels, Nederlands is een plus.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een warme, informele en hechte werkomgeving waar collega’s elkaar écht kennen en samenwerken om impact te maken. Maandelijkse borrels, spontane traktaties en initiatieven voor goede doelen zorgen voor een gezellige sfeer, terwijl proactiviteit en initiatief hoog gewaardeerd worden. De energiesector bevindt zich midden in een razendsnelle transitie, gevoed door een explosie aan data uit digitale meters, een unieke speeltuin voor analytisch talent. Je werk is zichtbaar, relevant en draagt rechtstreeks bij aan de toekomst van duurzame energie. Als ML Engineer neem je een sleutelrol op in het uitbouwen van de maturiteit van het datalandschap: je bent sparringpartner van de lead, katalysator voor het team en een motor voor verandering. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Wil je meer weten over deze functie? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/ml-engineer-2/"/>
+    <category term="AI &amp; ML Engineer"/>
+    <published>2025-11-20T12:55:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/business-data-analyst-python/</id>
+    <title>Business Data Analyst - Python</title>
+    <updated>2025-11-20T11:50:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-20 12:50:23+00:00, last change 2025-11-20 11:50:23+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-20 12:50:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Stel je voor: werken bij een energiebedrijf dat niet alleen zegt dat het anders wil doen, maar het elke dag bewijst. Een organisatie die 100% hernieuwbare energie levert en voluit inzet op een duurzame toekomst, met investeringen in technologie, data-innovatie én sterk talent.&lt;br&gt;
+&lt;br&gt;
+Hier geen klassieke silo’s, maar klantgerichte en wendbare teams die snel schakelen en echte impact creëren. De lat ligt hoog: ze zoeken mensen die willen groeien, vernieuwen en het verschil willen maken.&lt;br&gt;
+&lt;br&gt;
+In deze dynamische context vormt het datateam een sterk center of expertise. Ze analyseren klantgedrag, bouwen slimme inzichten en ontwikkelen BI-, AI- en machine-learningoplossingen die het bedrijf vooruitstuwen.&lt;br&gt;
+&lt;br&gt;
+Omdat dit team een sleutelrol speelt in het vergroten van de datamaturiteit, kijken we voor hen uit naar een nieuwe collega die hun groei versterkt.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Business Data Analyst (Python) werk je op het snijvlak tussen inzichten, BI en statistische modellering. Jij vertaalt businessvragen naar sterke analyses, duikt technisch diep in data en brengt complexe bevindingen helder over aan niet-technische stakeholders. Het is een hybride rol waarin je zowel strategisch meedenkt als hands-on waarde creëert.&lt;br&gt;
+&lt;br&gt;
+Jouw taken:
+&lt;ul&gt;
+	&lt;li&gt;Werken met grote databronnen in Snowflake: je ontsluit, transformeert en structureert data voor analyse.
+	&lt;li&gt;Uitvoeren van diepgaande analyses en het bouwen van modellen in Python die businesshypothesen bevestigen of ontkrachten.
+	&lt;li&gt;Businesscontext combineren met technische expertise om inzichten te genereren die écht het verschil maken.
+	&lt;li&gt;Nauw samenwerken met business stakeholders en hen begeleiden met duidelijke aanbevelingen en acties.
+	&lt;li&gt;Presenteren van inzichten aan zowel het leadership team als squad leads, die een sleutelrol spelen in change en implementatie.
+	&lt;li&gt;Vertalen van data naar heldere visualisaties en dashboards in Power BI die de organisatie verder helpen sturen.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minimaal 5 jaar relevante ervaring.
+	&lt;li&gt;Je beschikt over sterke Python-vaardigheden en een uitstekende SQL-kennis.
+	&lt;li&gt;Je hebt ervaring met ETL-processen en datamodellering. Ervaring met SAS, Databricks, Power BI en Snowflake zijn een plus.
+	&lt;li&gt;Je voelt je comfortabel in een dynamische context en toont initiatief.
+	&lt;li&gt;Je hebt een sterke kennis van statistische analyse.
+	&lt;li&gt;Je kunt inzichten vertalen naar heldere en overtuigende communicatie.
+	&lt;li&gt;Je spreekt vloeiend Nederlands en Engels.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een warme, informele en hechte werkomgeving waar collega’s elkaar écht kennen en samenwerken om impact te maken. Maandelijkse borrels, spontane traktaties en initiatieven voor goede doelen zorgen voor een gezellige sfeer, terwijl proactiviteit en initiatief hoog gewaardeerd worden. De energiesector bevindt zich midden in een razendsnelle transitie, gevoed door een explosie aan data uit digitale meters, een unieke speeltuin voor analytisch talent. Je werk is zichtbaar, relevant en draagt rechtstreeks bij aan de toekomst van duurzame energie. Als Business Data Analyst (Python) zie je jouw analyses snel vertaald worden naar strategische beslissingen. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Wil je meer weten over deze functie? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/business-data-analyst-python/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-11-20T12:50:23+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-architect/</id>
     <title>Data Engineer/ Architect</title>
@@ -88,6 +181,69 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <link href="https://www.cartiere.be/jobs/data-insights-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-10-24T08:43:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/azure-data-platform-engineer/</id>
+    <title>Azure data platform engineer</title>
+    <updated>2025-11-19T09:46:54+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Belgiëlei 49, 2018, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-19 10:46:54+00:00, last change 2025-11-19 09:46:54+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-19 10:46:54+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;AZURE DEVOPS ENGINEER&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
+&amp;nbsp;Antwerpen - Intern&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+Deze Belgische, familiale financiële instelling bouwt niet zomaar “iets met data”. Ze zet haar data platform centraal als strategisch kloppend hart voor alle dataproducten.&lt;br /&gt;
+&lt;br /&gt;
+Je komt terecht in een organisatie waar stabiliteit en langetermijnrelaties belangrijk zijn, de cultuur warm, nuchter, menselijk is. Een onderneming waar resultaat telt en micromanagement niet in het woordenboek staat.&lt;br /&gt;
+&lt;br /&gt;
+Het team waarin je terechtkomt werkt aan een modern, cloudnative PaaS-platform op Azure, dat stap voor stap de legacy on-prem omgeving vervangt. Dit is het platform waar de komende jaren alles rond draait, één van de belangrijkste projecten van deze organisatie.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+Je versterkt het team dat het Data Platform bouwt en uitrolt. Dat platform is vandaag al twee jaar in opbouw en komt nu in een stroomversnelling.&lt;br /&gt;
+&lt;br /&gt;
+Concreet:
+&lt;ul&gt;
+	&lt;li&gt;Je helpt on-prem data en workloads migreren naar het cloudplatform&lt;/li&gt;
+	&lt;li&gt;Je bouwt en onderhoudt het Databricks-gebaseerde PaaS-platform en de onderliggende infrastructuur&lt;/li&gt;
+	&lt;li&gt;Je werkt met Terraform, Kubernetes, Azure, Git en CI/CD om het platform schaalbaar, stabiel en automatiseerbaar te maken&lt;/li&gt;
+	&lt;li&gt;Je draagt mee het CDC-framework en andere platformfeatures die nu nog volop in ontwikkeling zijn&lt;/li&gt;
+	&lt;li&gt;Je neemt ownership over features: van idee tot in productie&lt;/li&gt;
+&lt;/ul&gt;
+Je werkt in een klein, ervaren team met uitgesproken can do mentaliteit. Je krijgt de kans om met nieuwe technologie te werken en je bent in staat om de business noden te vertalen naar concrete technische oplossingen.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Er ligt een goed gevulde backlog met meer dan 30 geïdentificeerde platformfeatures. Je rol is duidelijk: mee het verschil maken in hoe dit data platform er vandaag, morgen en binnen 5 jaar uitziet.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+Je hebt 3 tot 5 jaar ervaring als data / platform / cloud engineer in een moderne omgeving. Verder heb je aantoonbare ervaring met:
+&lt;ul&gt;
+	&lt;li&gt;Azure (of een ander cloudplatform, je bent bereid om je in Azure vast te bijten)&lt;/li&gt;
+	&lt;li&gt;Kubernetes&lt;/li&gt;
+	&lt;li&gt;IaC: Terraform (bij voorkeur)&lt;/li&gt;
+	&lt;li&gt;CI/CD en Git&lt;/li&gt;
+	&lt;li&gt;Kennis van Python, Bash/ Linux Scripting en networking zijn sterke pluspunten&lt;/li&gt;
+&lt;/ul&gt;
+Jouw persoonlijkheid:
+
+&lt;ul&gt;
+	&lt;li&gt;Je pakt problemen zelf vast in plaats van ze meteen hogerop te droppen&lt;/li&gt;
+	&lt;li&gt;Je neemt ownership, levert af en kan omgaan met een veeleisende, snel evoluerende context&lt;/li&gt;
+	&lt;li&gt;Je werkt graag samen in een communicatief, sociaal team&lt;/li&gt;
+&lt;/ul&gt;
+Belangrijk: spreekt vloeiend Nederlands.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br /&gt;
+Je stapt in een kernfunctie binnen het strategische Data Platform Team, waar je bouwt aan het fundament van hun moderne cloudplatform. Je krijgt ownership, veel autonomie en werkt in een ervaren can-do team dat graag samen bouwt aan complexe technologie.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+De werkcontext is modern en stabiel, met hybride werken, flexibele uren en een werkgever met uitzonderlijk laag verloop. Daarbij krijg je een sterk, eerlijk en marktconform pakket met mobiliteitsbudget of wagen, stevige groepsverzekering en een flexibel cafetariaplan.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;Herken jij jou in deze functie?&amp;nbsp;&lt;br /&gt;
+Stuur nu jouw CV naar gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;</content>
+    <link href="https://www.cartiere.be/jobs/azure-data-platform-engineer/"/>
+    <category term="Data Engineering"/>
+    <published>2025-11-19T10:46:54+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-architect/</id>
