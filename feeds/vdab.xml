@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-20T13:02:48.710098+00:00</updated>
+  <updated>2025-11-20T14:44:36.226812+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2678,6 +2678,14 @@
     <published>2025-11-03T14:10:55+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72343240</id>
+    <title>Full-Stack .Net Developer (Kwery)</title>
+    <updated>2025-11-03T14:10:55+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zal meewerken aan zowel de backend (.NET CORE, C#, ASP .NET, EntityFramework, AWS, Azure, WEB Api, REST) als de frontend (JavaScript, Typescript, Blazor, Angular, React, RxJS en Redux ) van applicaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Verder zal je klantbehoeften analyseren, ontwerpen van software oplossingen en integreren van systemen binnen bestaande IT-landschappen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot test, verbeter en update je applicaties om prestaties en veiligheid te garanderen, binnen een Agile/Scrum werkomgeving.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een portie ervaring, we kijken uit naar een minimum van 5 jaar binnen softwareontwikkeling.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naast jouw sterke kennis in .Net heb je ook een goede (basis) kennis van front-end technologieën zoals angular en react. Ervaring in CI/CD, Kubernetes, Kanban of DevOps is een grote troef!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief en kan je zowel zelfstandig als in team werken&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4000 - €5500, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met bijhorende laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, ambulante verzekering en een netto vergoeding! Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Geniet van een uitstekende work-life balance met de vrijheid om twee dagen op locatie bij de klant te werken en de overige drie dagen waar jij het wil - op kantoor of vanuit je home office. Daarnaast profiteer je van flexibele werkuren voor maximale efficiëntie en 32 vakantiedagen, zodat je op tijd en stond kunt ontspannen!&lt;/li&gt;&lt;li&gt;Je wordt onderdeel van een warme, maar dynamische KMO waar kwaliteit en groei centraal staan. Je krijgt ondersteuning van je competence coach - een ervaren developer die zelf actief in het veld staat - én van de CEO, die altijd openstaat voor vragen en jouw ontwikkeling stimuleert.&lt;/li&gt;&lt;li&gt;Elke maand kom je samen met collega's om cases te bespreken, nieuwe inzichten te delen, trainingen te volgen en inspirerende lezingen bij te wonen. Wil je je verdiepen in een nieuwe technologie? Dankzij een opleidingsbudget blijf je jezelf continu ontwikkelen en groeien. Kortom, hier staat jouw ontwikkeling nooit stil!&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt; &lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72343240"/>
+    <published>2025-11-03T14:10:55+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72339691</id>
     <title>Antwerpen - System engineer (M365) (Tergos)</title>
     <updated>2025-11-03T09:22:36+00:00</updated>
@@ -2789,6 +2797,32 @@
 &lt;ul&gt;&lt;li&gt;HTML5, CSS, JavaScript&lt;/li&gt;&lt;li&gt;C#&lt;/li&gt;&lt;li&gt;Notie van industriële communicatieprotocollen zoals OPC, MQTT...&lt;/li&gt;&lt;li&gt;Datawarehouse, ETL en data-analyse in het algemeen&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom Contec?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Maak deel uit van de Contec groep&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Met onze 10 kantoren in binnen- en buitenland, telt de Contec Group zo’n 250 gemotiveerde specialisten die je graag verwelkomen in hun team. We hebben een vlakke organisatiestructuur waardoor er een open en transparante sfeer heerst. Verder hebben onze medewerkers de mogelijkheid om deel te nemen aan het aandeelhoudersplan van Contec en krijgen ze de kans om mee te werken aan internationale projecten binnen uiteenlopende sectoren.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Begeleiding on the job&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een goede mix van jong talent en ervaren collega’s zorgen ervoor dat jij gedurende je Contec carrière de gepaste begeleiding zal krijgen;&lt;/li&gt;&lt;li&gt;Een trainingsaanbod om je verder te ontwikkelen op zowel persoonlijk als professioneel vlak.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Work-life balance&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Flexibele en glijdende uren: ‘s ochtends beginnen kan bij ons tussen 07u00 en 09u30;&lt;/li&gt;&lt;li&gt;Mogelijkheid tot thuiswerk (1 dag/week);&lt;/li&gt;&lt;li&gt;20 wettelijke vakantiedagen, 12 ADV dagen en de mogelijkheid om tot max. 5 vakantiedagen bij te kopen via ons cafetariaplan.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Een compleet salarispakket met onderstaande extralegale voordelen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Maaltijdcheques;&lt;/li&gt;&lt;li&gt;Groeps- en hospitalisatieverzekering, verzekering gewaarborgd inkomen;&lt;/li&gt;&lt;li&gt;Mogelijkheid tot bedrijfswagen met tankkaart (afhankelijk van de functie);&lt;/li&gt;&lt;li&gt;Gsm-abonnement;&lt;/li&gt;&lt;li&gt;Cafetariaplan.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ready to say &lt;strong&gt;YES&lt;/strong&gt; to new adventures? Solliciteer snel, of stuur ons jouw cv via recruitment@contec-ias.com (mailto:recruitment@contec-ias.com)&lt;/p&gt;&lt;p&gt;Niet jouw ding, maar ken je wel de ideale persoon voor deze job? Deel gerust de vacature via onze social mediakanalen of via mail.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72363240"/>
     <published>2025-11-05T14:23:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72365833</id>
+    <title>Senior System Engineer (LGA IT)</title>
+    <updated>2025-11-13T13:41:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Onze klant is op zoek naar een &lt;strong&gt;Senior System Engineer&lt;/strong&gt; die verantwoordelijk wordt voor het beheren, optimaliseren en beveiligen van IT-infrastructuren bij diverse klanten. Je fungeert als expert en betrouwbare adviseur bij complexe technische vraagstukken.&lt;/p&gt;&lt;p&gt;Wat je gaat doen:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Beheren en optimaliseren van servers, opslag en &lt;strong&gt;virtualisatieplatformen&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Adviseren van klanten over verbeteringen en optimalisaties in hun infrastructuur&lt;/li&gt;&lt;li&gt;Uitvoeren van systeemupgrades, migraties en andere projecten&lt;/li&gt;&lt;li&gt;Proactief monitoren van IT-omgevingen en potenti&amp;euml;le problemen signaleren&lt;/li&gt;&lt;li&gt;Documenteren van configuraties, processen en oplossingen&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;Jouw profiel:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Ruime ervaring met virtualisatieplatformen en cloud- of on-premise infrastructuren&lt;/li&gt;&lt;li&gt;Goede basiskennis van netwerken&lt;/li&gt;&lt;li&gt;Analytisch en probleemoplossend vermogen&lt;/li&gt;&lt;li&gt;Uitstekende communicatieve vaardigheden en klantgericht&lt;/li&gt;&lt;li&gt;Vloeiend Nederlands, goede beheersing van Engels (Frans is een pluspunt)&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;Onze klant biedt een uitdagende functie binnen een high-performing team, met aandacht voor persoonlijke ontwikkeling, innovatie en samenwerking.&lt;/p&gt;
+&lt;p&gt;Het aanbod:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Salaris: &amp;euro;4.000 &amp;ndash; &amp;euro;5.000 bruto&lt;/li&gt;
+&lt;li&gt;Bedrijfswagen + tankkaart (Tesla!)&lt;/li&gt;
+&lt;li&gt;Maaltijdcheques&lt;/li&gt;
+&lt;li&gt;Hospitalisatieverzekering&lt;/li&gt;
+&lt;li&gt;Groepsbonus&lt;/li&gt;
+&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;
+&lt;li&gt;Interne en externe opleidingen&lt;/li&gt;
+&lt;li&gt;Werken in een team waar kennisdeling en teamspirit centraal staan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72365833"/>
+    <published>2025-11-05T17:40:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72365833</id>
