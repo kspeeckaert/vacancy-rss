@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-20T10:45:39.272213+00:00</updated>
+  <updated>2025-11-20T13:02:48.710098+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1133,6 +1133,14 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Michael Page International (Belgium) (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sterrebeek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;We are a technology-driven company operating in the aviation sector, focused on shaping the future of uncrewed aerial systems. With close ties to air traffic management and airport operations, we design digital solutions that make drone flights safer, smarter, and more efficient.&lt;br&gt;&lt;br&gt;Our multidisciplinary team combines developers, product specialists, and aviation enthusiasts who share a common vision: innovation and automation are key to a more sustainable and future-ready airspace.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developing and maintaining backend components using Java.&lt;/li&gt;&lt;li&gt;Designing and managing APIs (REST &amp;amp; GraphQL).&lt;/li&gt;&lt;li&gt;Ensuring secure and performant access to data and services.&lt;/li&gt;&lt;li&gt;Writing tests, documentation, and providing support for your code.&lt;/li&gt;&lt;li&gt;Contributing to scalable, maintainable backend architecture.&lt;/li&gt;&lt;li&gt;Collaborating within a Scrum team of both technical and functional profiles.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Must-haves:&lt;/strong&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;At least 4 years of professional experience in Java backend development.&lt;/li&gt;&lt;li&gt;Solid knowledge of both relational and non-relational databases (e.g., PostgreSQL, MongoDB, Redis, etc.).&lt;/li&gt;&lt;li&gt;Hands-on experience with API development and integration.&lt;/li&gt;&lt;li&gt;Strong understanding of web application security (authentication, authorization, encryption).&lt;/li&gt;&lt;li&gt;Familiarity with Git and CI/CD pipelines.&lt;/li&gt;&lt;li&gt;Analytical mindset and strong problem-solving skills.&lt;/li&gt;&lt;li&gt;A team player with the ability to work independently and flexibly.&lt;/li&gt;&lt;li&gt;A bachelor's degree (or higher) in computer science or a related field.&lt;/li&gt;&lt;li&gt;Speak English and at least one of the national languages&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Bonus skills (not required):&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Experience with tools like RabbitMQ, Azure Pipelines, Kubernetes, Grafana, ArgoCD.&lt;/li&gt;&lt;li&gt;Knowledge of scalable microservices architecture.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Affinity with geospatial data or drone technology&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;What We Offer&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A competitive compensation package, available on a permanent basis.&lt;/li&gt;&lt;li&gt;Flexible working hours and the option to work remotely.&lt;/li&gt;&lt;li&gt;A role in a dynamic, forward-looking sector with real societal impact.&lt;/li&gt;&lt;li&gt;Opportunities for continuous learning, personal development, and technical growth.&lt;/li&gt;&lt;li&gt;&lt;p&gt;A collaborative work environment where initiative and innovation are encouraged.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71802610"/>
     <published>2025-08-27T09:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71802569</id>
+    <title>Lead Data Architect / Crew Manager (Visser &amp; Van Baars)</title>
+    <updated>2025-11-20T12:07:47+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;About the company&lt;p&gt;For one of our clients, we are looking for a &lt;strong&gt;Lead Data Architect / Crew Manager&lt;/strong&gt;.&lt;br&gt;This organization is at the forefront of &lt;strong&gt;cloud, data and AI innovation&lt;/strong&gt;, with a strong international presence and a clear vision to use technology as a driver of growth and transformation. They work with modern cloud platforms and partner with key players such as &lt;strong&gt;Google Cloud, Microsoft and AWS&lt;/strong&gt;.&lt;/p&gt;Your role&lt;p&gt;As a &lt;strong&gt;Google Data Architect&lt;/strong&gt;, you will help the client design strategies, roadmaps, and scalable data architectures that enable business growth and innovation. You will bring structure to global enterprises, support scale-ups in leveraging data for rapid growth, and show traditional companies the possibilities of cloud-based data solutions.&lt;/p&gt;&lt;p&gt;Architecture here goes beyond diagrams - it's about &lt;strong&gt;building practical, scalable solutions&lt;/strong&gt;. That's why the team invests in training and coaching, making sure every architect understands both the code and the impact of architectural decisions.&lt;/p&gt;&lt;p&gt;In addition to your client-facing responsibilities, you will also take on the role of &lt;strong&gt;Crew Manager&lt;/strong&gt;. You'll coach and guide a team of consultants, shape the vision of the department, and foster innovation and continuous learning.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;What we're looking for&lt;ul&gt;&lt;li&gt;Fluent in English; Dutch is a strong plus. French is a plus.&lt;/li&gt;&lt;li&gt;Master's degree in Computer Science or equivalent by experience.&lt;/li&gt;&lt;li&gt;At least 3 years of experience with &lt;strong&gt;Data Modelling, Data Transformations and Data Governance&lt;/strong&gt; on a cloud platform.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experience with Google Cloud&lt;/strong&gt; (BigQuery, Looker, Cloud Storage, Dataform) is a plus.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Background in Azure or AWS?&lt;/strong&gt; The client provides full support and training to help you smoothly transition to &lt;strong&gt;Google Cloud Platform (GCP)&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Knowledge of tools such as dbt, Airbyte or Power BI.&lt;/li&gt;&lt;li&gt;Strong communication and interpersonal skills.&lt;/li&gt;&lt;li&gt;Entrepreneurial mindset: curious, hands-on, and not afraid to try new things.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ability to collaborate with stakeholders at all levels and design scalable solutions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;What's in it for you&lt;ul&gt;&lt;li&gt;Work on impactful Cloud, Data &amp;amp; AI projects with a forward-thinking organization&lt;/li&gt;&lt;li&gt;Dynamic and entrepreneurial environment&lt;/li&gt;&lt;li&gt;Clear career growth path supported by certifications, training &amp;amp; learning platforms&lt;/li&gt;&lt;li&gt;Support in transitioning from &lt;strong&gt;Azure/AWS to GCP&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Inspiring, sustainable workplace with healthy work-life balance&lt;/li&gt;&lt;li&gt;Competitive salary package&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71802569"/>
+    <published>2025-08-27T09:29:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71802737</id>
@@ -3768,5 +3776,53 @@ Concreet omvat jouw functie:
 &lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72454705"/>
     <published>2025-11-19T11:42:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72464086</id>
+    <title>Data Integration Specialist (Ami Connect)</title>
+    <updated>2025-11-20T12:41:14+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Ami Connect (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een onderneming uit Mechelen met een eindklant in Antwerpen zijn we op zoek naar een 
+&lt;strong&gt;Data Integration Specialist&lt;/strong&gt; die het 
+&lt;span&gt; Data Integration team&lt;/span&gt; gaat versterken. In deze rol ben je verantwoordelijk voor het 
+&lt;strong&gt;implementeren en onderhouden van data-integratieoplossingen&lt;/strong&gt; die de internationale platformen ondersteunen. Je werkt samen met ervaren professionals in een dynamisch team en speelt een sleutelrol in het vertalen van bedrijfsbehoeften naar technische oplossingen.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Jouw verantwoordelijkheden:&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;Als Data Integration Specialist ben je de 
+&lt;strong&gt;schakel tussen business en technologie&lt;/strong&gt;. Je dagelijkse taken omvatten onder meer:&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Behoeftenanalyse:&lt;/span&gt;&lt;span&gt; Je verzamelt en analyseert functionele en technische vereisten in samenwerking met stakeholders en andere teamleden.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Functionele &amp;amp; technische analyse:&lt;/span&gt;&lt;span&gt; Je documenteert analyses en schrijft gebruiksdocumentatie waar nodig.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Implementatie:&lt;/span&gt;&lt;span&gt; Je bouwt en onderhoudt data-integratieoplossingen, zelfstandig of samen met het team, afhankelijk van de opdracht.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Testen &amp;amp; validatie:&lt;/span&gt;&lt;span&gt; Je bereidt unit- en functionele tests voor en voert deze uit om de kwaliteit van de oplossing te garanderen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Deployments:&lt;/span&gt;&lt;span&gt; Je coördineert en voert releases uit naar de verschillende omgevingen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Support:&lt;/span&gt;&lt;span&gt; Je werkt nauw samen met eindgebruikers en biedt ondersteuning in productieomgevingen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Jouw profiel:&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;Je beschikt over een stevige technische basis en hebt een passie voor data. Daarnaast herken je jezelf in het volgende profiel:&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Minimaal &lt;/span&gt;&lt;strong&gt;5 jaar ervaring&lt;/strong&gt;&lt;span&gt; in het ontwerpen en implementeren van &lt;/span&gt;&lt;span&gt;ETL- en BI-oplossingen&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Sterke &lt;/span&gt;&lt;strong&gt;SQL-vaardigheden&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennis van &lt;/span&gt;&lt;strong&gt;dimensioneel modelleren&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ervaring met &lt;/span&gt;&lt;strong&gt;Azure-technologieën zoals Azure Data Factory, Logic Apps, ARM Templates en Bicep&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ervaring met &lt;/span&gt;&lt;span&gt;DBT&lt;/span&gt;&lt;span&gt; en &lt;/span&gt;&lt;span&gt;&lt;strong&gt;Snowflake&lt;/strong&gt; Data Cloud&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ervaring met &lt;/span&gt;&lt;span&gt;Airflow en Power BI&lt;/span&gt;&lt;span&gt; is een pluspunt.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je hebt uitstekende communicatieve vaardigheden&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ervaring in een Agile-omgeving&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;marktconform loon&lt;/strong&gt; afhankelijk van je kennis en ervaring (kan oplopen tot €5000 bruto) aangevuld met een pakket aan extralegale voordelen.:&lt;/span&gt;&lt;/li&gt; 
+&lt;ul type="circle"&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;bedrijfswagen met laadoplossing (VW, Mercedes, KIA, Volvo, BMW,…)&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;netto onkostenvergoeding&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Maaltijdcheques van €8/dag&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;hospitalisatieverzekering én een tandplan&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;groepsverzekering&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;gsm vergoeding&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;li&gt;&lt;strong&gt;Flexibiliteit&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;32 verlofdagen&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een onderneming waarin je je verantwoordelijkheden kan en mag opnemen, je kan groeien in de richting die je zelf mee bepaalt en waar je ondersteuning krijgt.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72464086"/>
+    <published>2025-11-20T12:41:14+00:00</published>
   </entry>
 </feed>
