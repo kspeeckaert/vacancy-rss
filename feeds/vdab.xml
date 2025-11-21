@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-21T14:44:15.462165+00:00</updated>
+  <updated>2025-11-21T16:47:14.584270+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2053,53 +2053,6 @@
     <published>2025-10-10T14:57:17+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72178188</id>
-    <title>Change &amp; Project Manager (HEADHUNTER.Vlaanderen)</title>
-    <updated>2025-10-27T10:45:35+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: HEADHUNTER.Vlaanderen (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Onze klant is een internationale onderneming dewelke gespecialiseerd is in het herstellen en vervangen van autoruiten voor alle types voertuigen. Met een focus op kwaliteit, snelheid en klanttevredenheid is het bedrijf uitgegroeid tot een vaste waarde in de sector van autoglas. Zowel voor particuliere klanten als professionele partners biedt deze organisatie oplossingen op maat, van sterreparaties tot volledige ruitvervangingen, en dit steeds met aandacht voor veiligheid en vakmanschap.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Wij zoeken een analytische, communicatief sterke en technisch onderlegde professional die complexe IT- en veranderprojecten weet te vertalen naar efficiënte oplossingen. In deze rol ben je een cruciale schakel bij de implementatie en migratie van Salesforce binnen onze organisatie en begeleid je stakeholders door het volledige veranderproces.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;Microsoft Dynamics 365 Business Central 
-&lt;em&gt; Migratie &amp;amp; Implementatie&lt;/em&gt;&lt;/em&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Ontwerpen, plannen en begeleiden van 
-&lt;span&gt;Microsoft&lt;/span&gt;-implementaties afgestemd op de bedrijfsbehoeften.&lt;/li&gt; 
-&lt;li&gt;Configureren van tools en workflows om een naadloze operationele integratie te garanderen.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-start="938" data-end="972"&gt;&lt;em data-start="938" data-end="970"&gt;Verander- en Projectmanagement&lt;/em&gt;&lt;/p&gt; 
-&lt;ul data-start="973" data-end="1234"&gt; 
-&lt;li data-start="973" data-end="1077"&gt; 
-&lt;p data-start="975" data-end="1077"&gt;Leiden van migratieprojecten binnen vastgestelde tijdslijnen, budgetten en kwaliteitsdoelstellingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="1078" data-end="1143"&gt; 
-&lt;p data-start="1080" data-end="1143"&gt;Stakeholdercommunicatie faciliteren en verwachtingen managen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="1144" data-end="1234"&gt; 
-&lt;p data-start="1146" data-end="1234"&gt;Organiseren van trainingen en gebruikers ondersteunen bij adoptie van nieuwe systemen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-start="1236" data-end="1265"&gt;&lt;em data-start="1236" data-end="1263"&gt;Documentatie &amp;amp; Rapportage&lt;/em&gt;&lt;/p&gt; 
-&lt;ul data-start="1266" data-end="1404"&gt; 
-&lt;li data-start="1266" data-end="1318"&gt; 
-&lt;p data-start="1268" data-end="1318"&gt;Opstellen van proces- en wijzigingsdocumentatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="1319" data-end="1404"&gt; 
-&lt;p data-start="1321" data-end="1404"&gt;Regelmatig rapporteren aan het senior management over de voortgang en resultaten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Bachelor in IT, bedrijfskunde of gelijkwaardig door ervaring.&lt;/li&gt; 
-&lt;li&gt;Vloeiend in Nederlands, Frans en Engels (mondeling én schriftelijk).&lt;/li&gt; 
-&lt;li&gt;Kennis van Microsoft 365 (Excel, Word, PowerPoint), ERP- en CRM-systemen.&lt;/li&gt; 
-&lt;li&gt;Bekend met Jira of andere projectmanagementtools.&lt;/li&gt; 
-&lt;li&gt;Inzicht in IT-systemen, datamigratie en cloudoplossingen.&lt;/li&gt; 
-&lt;li&gt;Sterk in communicatie, organisatie en stakeholdermanagement.&lt;/li&gt; 
-&lt;li&gt;Analytisch, detailgericht en veerkrachtig onder druk.&lt;/li&gt; &lt;/ul&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Hoofkantoor: Hasselt (aanwezigheid op kantoor vereist)&lt;/li&gt; 
-&lt;li&gt;Bereidheid om te reizen binnen België en Luxemburg&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li data-start="2005" data-end="2078"&gt; 
-&lt;p data-start="2007" data-end="2078"&gt;Een veelzijdige rol binnen een dynamische en internationale omgeving.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="2079" data-end="2150"&gt; 
-&lt;p data-start="2081" data-end="2150"&gt;Samenwerking met multidisciplinaire teams in binnen- en buitenland.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="2151" data-end="2215"&gt; 
-&lt;p data-start="2153" data-end="2215"&gt;Ruimte voor opleiding, certificering en professionele groei.&lt;/p&gt; &lt;/li&gt; 
-&lt;li data-start="2216" data-end="2279"&gt; 
-&lt;p data-start="2218" data-end="2279"&gt;Marktconform salaris met aantrekkelijke arbeidsvoorwaarden.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72178188"/>
-    <published>2025-10-13T08:59:32+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72178241</id>
     <title>Data Engineer (Sogeti Belgium)</title>
     <updated>2025-10-13T09:02:03+00:00</updated>
@@ -3951,6 +3904,14 @@ Concreet omvat jouw functie:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Tergos (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Puurs-Sint-Amands&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Je bent het &lt;strong&gt;lokale infrastructuratie-expert&lt;/strong&gt; en combineert &lt;strong&gt;hands-on engineering&lt;/strong&gt; met &lt;strong&gt;architecturale verantwoordelijkheid&lt;/strong&gt;. Je leidt grote infrastructuurprojecten in België en Europa en zorgt voor de stabiliteit, veiligheid en continuïteit van de IT-omgeving.&lt;/p&gt;&lt;strong&gt;Belangrijkste verantwoordelijkheden&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Eerste aanspreekpunt voor alle infrastructuurincidenten en -projecten op de site.&lt;/li&gt;&lt;li&gt;Installatie, configuratie en beheer van servers, netwerken, storage, firewalls, Wi-Fi, back-ups en datacenterfaciliteiten.&lt;/li&gt;&lt;li&gt;Dagelijkse monitoring, risicobeheer en opvolging van performantie.&lt;/li&gt;&lt;li&gt;Ontwerpen van oplossingen volgens enterprise standards en samenwerken met OT/Automation teams.&lt;/li&gt;&lt;li&gt;Zorgen voor high availability, disaster recovery en business continuity.&lt;/li&gt;&lt;li&gt;Leiding nemen over projecten zoals netwerkupgrades, datacentermodernisatie en hybrid cloud.&lt;/li&gt;&lt;li&gt;Documentatie, DR-plannen en NIS2-compliance mee onderhouden.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Meebouwen aan de langere-termijn infrastructuurstrategie en roadmaps.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor/Master of gelijkwaardig door ervaring, met &lt;strong&gt;12-15 jaar infrastructuurervaring&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Sterk in &lt;strong&gt;Cisco networking, VMware, storage, backup, virtualisatie&lt;/strong&gt; en datacenterbeheer.&lt;/li&gt;&lt;li&gt;Ervaring in &lt;strong&gt;industriële/OT-omgevingen&lt;/strong&gt; is een plus.&lt;/li&gt;&lt;li&gt;Kan zelfstandig projecten leiden en complexe problemen analyseren.&lt;/li&gt;&lt;li&gt;Werkt vlot met interne teams, business en externe vendors.&lt;/li&gt;&lt;li&gt;Nederlands en Engels vloeiend; Frans is een plus.&lt;/li&gt;&lt;li&gt;Relevante certificeringen (Cisco, VMware, Azure…) zijn een troef.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72469450"/>
     <published>2025-11-21T09:38:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72475004</id>
+    <title>Full-Stack .Net Developer (Kwery)</title>
+    <updated>2025-11-21T15:19:05+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zal meewerken aan zowel de backend (.NET CORE, C#, ASP .NET, EntityFramework, AWS, Azure, WEB Api, REST) als de frontend (JavaScript, Typescript, Blazor, Angular, React, RxJS en Redux ) van applicaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Verder zal je klantbehoeften analyseren, ontwerpen van software oplossingen en integreren van systemen binnen bestaande IT-landschappen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot test, verbeter en update je applicaties om prestaties en veiligheid te garanderen, binnen een Agile/Scrum werkomgeving.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een portie ervaring, we kijken uit naar een minimum van 5 jaar binnen softwareontwikkeling.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naast jouw sterke kennis in .Net heb je ook een goede (basis) kennis van front-end technologieën zoals angular en react. Ervaring in CI/CD, Kubernetes, Kanban of DevOps is een grote troef!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief en kan je zowel zelfstandig als in team werken&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4000 - €5500, afhankelijk van je kennis en ervaring.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met bijhorende laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, ambulante verzekering en een netto vergoeding! Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Geniet van een uitstekende work-life balance met de vrijheid om twee dagen op locatie bij de klant te werken en de overige drie dagen waar jij het wil - op kantoor of vanuit je home office. Daarnaast profiteer je van flexibele werkuren voor maximale efficiëntie en 32 vakantiedagen, zodat je op tijd en stond kunt ontspannen!&lt;/li&gt;&lt;li&gt;Je wordt onderdeel van een warme, maar dynamische KMO waar kwaliteit en groei centraal staan. Je krijgt ondersteuning van je competence coach - een ervaren developer die zelf actief in het veld staat - én van de CEO, die altijd openstaat voor vragen en jouw ontwikkeling stimuleert.&lt;/li&gt;&lt;li&gt;Elke maand kom je samen met collega's om cases te bespreken, nieuwe inzichten te delen, trainingen te volgen en inspirerende lezingen bij te wonen. Wil je je verdiepen in een nieuwe technologie? Dankzij een opleidingsbudget blijf je jezelf continu ontwikkelen en groeien. Kortom, hier staat jouw ontwikkeling nooit stil!&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72475004"/>
+    <published>2025-11-21T15:19:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72469411</id>
