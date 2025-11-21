@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-21T08:50:12.215158+00:00</updated>
+  <updated>2025-11-21T10:45:22.289680+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
-    <title>Senior DevOps architect (Cronos)</title>
-    <updated>2025-11-18T00:01:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
-    <published>2024-02-07T14:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
     <title>Product Owner APEX software factory (Cronos)</title>
@@ -3775,122 +3752,6 @@ Concreet omvat jouw functie:
     <published>2025-11-20T15:33:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72465260</id>
-    <title>Functional Analyst A&amp;C Customer Applications (ictjob.be)</title>
-    <updated>2025-11-20T15:17:55+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hou jij van duidelijke processen, slimme digitale oplossingen en applicaties die écht het verschil maken voor eindgebruikers?&lt;br /&gt;
-
-Krijg je energie van het analyseren, structureren en mee vormgeven van gebruiksvriendelijke klanttoepassingen?&lt;br /&gt;
-
-Dan is deze functie op jouw lijf geschreven!&lt;br /&gt;
-
-Voor een van onze klanten in Antwerpen zoeken wij een gedreven &lt;b&gt;Functional Analyst A&amp;C Customer Applications&lt;/b&gt; die wil meebouwen aan toekomstgerichte customer applications binnen een organisatie waar kwaliteitsvolle service en innovatie hand in hand gaan.&lt;br /&gt;
-
- &lt;br /&gt;
-
-&lt;b&gt;Functieomschrijving&lt;/b&gt;&lt;br /&gt;
-
-Als Functional Analyst maak je deel uit van het Customer Applications team, een cross-functioneel team dat meer dan 10 klantgerichte applicaties beheert.&lt;br /&gt;
-
-Je werkt op front-end gerelateerde thema's binnen onze transformatieroadmap en draagt bij aan het definiëren van hoogwaardige end-to-end IT-oplossingen voor brokers en partners.&lt;br /&gt;
-
-Je hebt een sterke focus op user experience (UX) en bent in staat gebruikersnoden te vertalen naar intuïtieve, efficiënte functionaliteiten.&lt;br /&gt;
-
-Je werkt nauw samen met business stakeholders, architecten en productteams om tot een helder en kwalitatief functioneel ontwerp te komen.&lt;br /&gt;
-
- &lt;br /&gt;
-
-&lt;b&gt;Takenpakket&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Je bent verantwoordelijk voor analyse, documentatie en functioneel testen binnen het Customer Applications productteam.
-&lt;/li&gt;
-
-&lt;li&gt;Je vertrekt vanuit businessanalyse, architecturale richtlijnen en standaarden om correcte functionele en non-functionele vereisten te definiëren.
-&lt;/li&gt;
-
-&lt;li&gt;Je neemt deel aan workshops met belangrijke stakeholders om requirements te verzamelen.
-&lt;/li&gt;
-
-&lt;li&gt;Je modelleert processen en documenteert behoeften op een duidelijke en eenduidige manier, onder andere met use cases en gestructureerde documentatie.
-&lt;/li&gt;
-
-&lt;li&gt;Je zorgt voor kennisdeling en afstemming tussen alle betrokken partijen, zowel business als IT.
-&lt;/li&gt;
-
-&lt;li&gt;Je ziet erop toe dat designrichtlijnen worden gevolgd en up-to-date blijven.
-&lt;/li&gt;
-
-&lt;li&gt;Je werkt mee in projecten en draagt bij aan tijdige, kwalitatieve opleveringen binnen scope.
-&lt;/li&gt;
-
-&lt;li&gt;Je werkt vlot samen met externe partijen, zowel on-site als offshore.
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;b&gt;Algemene skills&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Je werkt planmatig, zelfstandig en resultaatgericht.
-&lt;/li&gt;
-
-&lt;li&gt;Je beschikt over sterke analytische vaardigheden, bent nauwkeurig en probleemoplossend.
-&lt;/li&gt;
-
-&lt;li&gt;Je bent communicatief en een echte teamplayer.
-&lt;/li&gt;
-
-&lt;li&gt;Klantgerichtheid staat centraal in jouw aanpak.
-&lt;/li&gt;
-
-&lt;li&gt;Je hebt een hands-on mentaliteit.
-&lt;/li&gt;
-
-&lt;li&gt;Je kan flexibel omgaan met veranderende projectvereisten en prioriteiten.
-&lt;/li&gt;
-
-&lt;li&gt;Je bent stressbestendig en gedijt in dynamische omgevingen.
-&lt;/li&gt;
-
-&lt;li&gt;Je beheerst Nederlands en Engels uitstekend, zowel mondeling als schriftelijk.
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;b&gt;Ervaring &amp; Technische skills&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Minimaal 5 jaar relevante ervaring als Functional Analyst, bij voorkeur binnen verzekeringen.
-&lt;/li&gt;
-
-&lt;li&gt;Ervaring met analyse- en modelleringstools zoals BPMN, UML en use cases is een plus.
-&lt;/li&gt;
-
-&lt;li&gt;Ervaring met of bereidheid om tools zoals Enterprise Architect en Adonis eigen te maken.
-&lt;/li&gt;
-
-&lt;li&gt;Vertrouwd met Agile-werking (sprint planning, daily stand-ups, reviews, retrospectives).
-&lt;/li&gt;
-
-&lt;li&gt;Microsoft Azure-certificatie (bv. AZ-900) is een troef.
-&lt;/li&gt;
-
-&lt;li&gt;Kennis van de verzekeringssector is essentieel voor het uitvoeren van deze functie.
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;b&gt;Werkregime&lt;/b&gt;: Minstens 2 dagen per week on-site in Antwerpen, de overige dagen remote.&lt;br /&gt;
-
-&lt;b&gt;Startdatum&lt;/b&gt;: ASAP&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72465260"/>
-    <published>2025-11-20T15:17:55+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72464086</id>
     <title>Data Integration Specialist (Ami Connect)</title>
     <updated>2025-11-20T12:41:14+00:00</updated>
@@ -3937,5 +3798,29 @@ Je werkt nauw samen met business stakeholders, architecten en productteams om to
 &lt;li&gt;&lt;span&gt;Een onderneming waarin je je verantwoordelijkheden kan en mag opnemen, je kan groeien in de richting die je zelf mee bepaalt en waar je ondersteuning krijgt.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72464086"/>
     <published>2025-11-20T12:41:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72469737</id>
+    <title>.Net Software Engineer (Kingfisher Recruitment)</title>
+    <updated>2025-11-21T10:11:51+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior .NET Developer werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke werkervaring in .Net&amp;#160;&lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Veel thuiswerk mogelijk (als je dit wil)&lt;br&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.&amp;#160; Je werkt van thuis of vanuit het kantoor.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een zeer interessant mobiliteitsbudget (voor huur of hypotheek)&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72469737"/>
+    <published>2025-11-21T10:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72469450</id>
+    <title>Puurs - Senior Infrastructure Architect &amp; Engineer (Tergos)</title>
+    <updated>2025-11-21T09:38:36+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Tergos (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Puurs-Sint-Amands&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Je bent het &lt;strong&gt;lokale infrastructuratie-expert&lt;/strong&gt; en combineert &lt;strong&gt;hands-on engineering&lt;/strong&gt; met &lt;strong&gt;architecturale verantwoordelijkheid&lt;/strong&gt;. Je leidt grote infrastructuurprojecten in België en Europa en zorgt voor de stabiliteit, veiligheid en continuïteit van de IT-omgeving.&lt;/p&gt;&lt;strong&gt;Belangrijkste verantwoordelijkheden&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Eerste aanspreekpunt voor alle infrastructuurincidenten en -projecten op de site.&lt;/li&gt;&lt;li&gt;Installatie, configuratie en beheer van servers, netwerken, storage, firewalls, Wi-Fi, back-ups en datacenterfaciliteiten.&lt;/li&gt;&lt;li&gt;Dagelijkse monitoring, risicobeheer en opvolging van performantie.&lt;/li&gt;&lt;li&gt;Ontwerpen van oplossingen volgens enterprise standards en samenwerken met OT/Automation teams.&lt;/li&gt;&lt;li&gt;Zorgen voor high availability, disaster recovery en business continuity.&lt;/li&gt;&lt;li&gt;Leiding nemen over projecten zoals netwerkupgrades, datacentermodernisatie en hybrid cloud.&lt;/li&gt;&lt;li&gt;Documentatie, DR-plannen en NIS2-compliance mee onderhouden.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Meebouwen aan de langere-termijn infrastructuurstrategie en roadmaps.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Bachelor/Master of gelijkwaardig door ervaring, met &lt;strong&gt;12-15 jaar infrastructuurervaring&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Sterk in &lt;strong&gt;Cisco networking, VMware, storage, backup, virtualisatie&lt;/strong&gt; en datacenterbeheer.&lt;/li&gt;&lt;li&gt;Ervaring in &lt;strong&gt;industriële/OT-omgevingen&lt;/strong&gt; is een plus.&lt;/li&gt;&lt;li&gt;Kan zelfstandig projecten leiden en complexe problemen analyseren.&lt;/li&gt;&lt;li&gt;Werkt vlot met interne teams, business en externe vendors.&lt;/li&gt;&lt;li&gt;Nederlands en Engels vloeiend; Frans is een plus.&lt;/li&gt;&lt;li&gt;Relevante certificeringen (Cisco, VMware, Azure…) zijn een troef.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72469450"/>
+    <published>2025-11-21T09:38:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72469411</id>
+    <title>Lead System Engineer (Project Management + operationele IT) (Madison Recruitment)</title>
+    <updated>2025-11-21T09:33:07+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze partner (regio Antwerpen) ben ik op zoek naar een Lead System Engineer (&lt;strong&gt;Microsoft environment&lt;/strong&gt;).&lt;/p&gt;&lt;p dir="ltr"&gt;Als Lead System Engineer ben je actief op het hoofdkantoor in Antwerpen, waar ook meteen alle beslissingen genomen worden (korte communicatielijnen!). Naast operationele ondersteuning en aansturing van het Support team, behartig jij je ook over de IT projecten (vernieuwing of bv door merging).&lt;/p&gt;&lt;p dir="ltr"&gt;Naast jou heb je nog een in-house IT team met o.a. IT Support Engineers (interne servicedesk), Program Managers, Business Analisten… Daarnaast heb je ook internationale collega’s met wie nauw contact zal lopen (voertaal Engels).&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je bouwde minstens 7 jaar relevante ervaring als System Engineer in een Microsoft omgeving&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt o.a. kennis van &lt;strong&gt;AD, Azure Cloud, Office 365, Windows Server, Intune&lt;/strong&gt;…&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt ervaring met het beheer van &lt;strong&gt;end-point devices&lt;/strong&gt; (laptops, Intune, patching, conditional access policies, Sharepoint…)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Idealiter heb je ervaring met connecties tussen verschillende (internationale) sites en leidde je &lt;strong&gt;IT projecten&lt;/strong&gt; (bv migratie Exchange naar Hybrid O365, Cloudmigratie (Azure)&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Je geniet van een mooi pakket met o.a.:&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen (of keuze voor mobiliteitsbudget)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Netto onkostenvergoeding (internet thuis)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bonussysteem&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 verlofdagen (20 + 6 adv + 4 sectordagen)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Glijtijd&lt;/strong&gt;, waarbij de stamtijden zijn tussen 10.00-12.00 ; tussen 14.00-16.30&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;1 thuiswerkdag &lt;/strong&gt;(na korte inwerkperiode, je wordt namelijk een belangrijk aanspreekpunt binnen de IT afdeling)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;em&gt;#LI-ED1&lt;/em&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72469411"/>
+    <published>2025-11-21T09:33:07+00:00</published>
   </entry>
 </feed>
