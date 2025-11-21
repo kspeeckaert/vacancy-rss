@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-21T14:22:34.126556+00:00</updated>
+  <updated>2025-11-21T16:26:29.065504+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -818,43 +818,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</cont
     <link href="https://www.cartiere.be/jobs/python-developer/"/>
     <category term="AI &amp; ML Engineer"/>
     <published>2025-08-05T08:32:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-analist-3/</id>
-    <title>Data Analist</title>
-    <updated>2025-07-24T16:15:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-18 15:16:59+00:00, last change 2025-07-24 16:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-18 15:16:59+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;Data Analist -&amp;nbsp;West-Vlaanderen - Intern&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-BEDRIJF:
-&lt;p&gt;Deze toonaangevende speler in de financiële sector is al meer dan 20 jaar pionier in het opbouwen en beschermen van vermogen van hun high-end cliënteel. Dankzij haar marktleiderschap is het team het afgelopen jaar met 6 personen gegroeid en werkt ze aan tal van ambitieuze projecten. Met als doelstelling nog meer data driven te worden kijken ze momenteel uit naar een data analist.&lt;/p&gt;
-
-&lt;p&gt;Als data analist sta je aan de basis van een gloednieuw data departement met volop ruimte voor jouw ideeën en initiatief. Je rapporteert rechtstreeks aan C- level en bent betrokken op beleidsniveau. Jij bent de drijvende factor die ervoor zorgt dat zowel interne stakeholders als klanten gemakkelijk en betrouwbaar inzichten krijgen in relevante data.&lt;/p&gt;
-&lt;br /&gt;
-JOBOMSCHRIJVING:&lt;br /&gt;
-&lt;br /&gt;
-Als data-analist krijg je een strategische A-Z rol in het verbinden van data en business. Je ontwikkelt en beheert end-to-end dataprocessen, van het opzetten van ELT-dataflows tot het creëren van heldere rapportages in Power BI. Jouw analyses ondersteunen zowel interne gebruikers als klanten via een nieuw dataplatform.&lt;br /&gt;
-&lt;br /&gt;
-Je voert functionele en business analyses uit, vertaalt behoeften naar verbeteringen in workflows en informatiestromen, en waarborgt de betrouwbaarheid en kwaliteit van data volgens geldende wet- en regelgeving zoals GDPR en DORA. Met veel ruimte voor eigen initiatief en ideeën lever je een zichtbare bijdrage aan de datagedreven groeiambities van de organisatie.&lt;br /&gt;
-&lt;br /&gt;
-PROFIEL:&lt;br /&gt;
-&lt;br /&gt;
-• 5 jaar ervaring als data analist.&lt;br /&gt;
-• Ervaring met PowerBI&lt;br /&gt;
-• Ervaring met ETL.&lt;br /&gt;
-• Je hebt idealiter ervaring binnen financiële omgevingen of bent hier&lt;br /&gt;
-gepassioneerd door.&lt;br /&gt;
-• Je bent communicatief en zelfstandig.&lt;br /&gt;
-&lt;br /&gt;
-AANBOD:&lt;br /&gt;
-&lt;br /&gt;
-Bij deze pionier wacht jou een functie waarin je zelf het verdere data-landschap kan mee bepalen en waarin je van A-Z met data aan de slag kan en direct de impact van je werk voelt. Je komt er terecht in een warm bedrijf met het nodige fun gehalte (oa. maandelijkse etentjes met het team, spelletjesavonden, after work drinks...).&lt;br /&gt;
-&lt;br /&gt;
-&lt;em&gt;Herken jij jou in deze functie?&lt;br /&gt;
-Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;</content>
-    <link href="https://www.cartiere.be/jobs/data-analist-3/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-07-18T15:16:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-governance-lead/</id>
