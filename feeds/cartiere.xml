@@ -2,9 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-25T08:29:53.813498+00:00</updated>
+  <updated>2025-11-25T10:26:27.479972+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/azure-data-platform-engineer/</id>
+    <title>Azure data platform engineer</title>
+    <updated>2025-11-25T09:15:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Belgiëlei 49, 2018, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-19 10:46:54+00:00, last change 2025-11-25 09:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-19 10:46:54+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
+Deze Belgische, familiale financiële instelling bouwt niet zomaar “iets met data”. Ze zet haar data platform centraal als strategisch kloppend hart voor alle dataproducten. Je komt terecht in een organisatie waar stabiliteit en langetermijnrelaties belangrijk zijn, de cultuur warm, nuchter, menselijk is. Een onderneming waar resultaat telt en micromanagement niet in het woordenboek staat.&lt;br /&gt;
+&lt;br /&gt;
+Het team waarin je terechtkomt werkt aan een modern, cloudnative PaaS-platform op Azure, dat stap voor stap de legacy on-prem omgeving vervangt. Dit is het platform waar de komende jaren alles rond draait, één van de belangrijkste projecten van deze organisatie.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br /&gt;
+Je versterkt het team dat het Data Platform bouwt en uitrolt. Dat platform is vandaag al twee jaar in opbouw en komt nu in een stroomversnelling.&lt;br /&gt;
+&lt;br /&gt;
+Concreet:
+&lt;ul&gt;
+	&lt;li&gt;Je helpt on-prem data en workloads migreren naar het cloudplatform&lt;/li&gt;
+	&lt;li&gt;Je bouwt en onderhoudt het Databricks-gebaseerde PaaS-platform en de onderliggende infrastructuur&lt;/li&gt;
+	&lt;li&gt;Je werkt met Terraform, Kubernetes, Azure, Git en CI/CD om het platform schaalbaar, stabiel en automatiseerbaar te maken&lt;/li&gt;
+	&lt;li&gt;Je draagt mee het CDC-framework en andere platformfeatures die nu nog volop in ontwikkeling zijn&lt;/li&gt;
+	&lt;li&gt;Je neemt ownership over features: van idee tot in productie&lt;/li&gt;
+&lt;/ul&gt;
+Je werkt in een klein, ervaren team met uitgesproken can do mentaliteit. Je krijgt de kans om met nieuwe technologie te werken en je bent in staat om de business noden te vertalen naar concrete technische oplossingen.&amp;nbsp;Er ligt een goed gevulde backlog met meer dan 30 geïdentificeerde platformfeatures. Je rol is duidelijk: mee het verschil maken in hoe dit data platform er vandaag, morgen en binnen 5 jaar uitziet.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br /&gt;
+Je hebt 3 tot 5 jaar ervaring als data / platform / cloud engineer in een moderne omgeving. Verder heb je aantoonbare ervaring met:
+&lt;ul&gt;
+	&lt;li&gt;Azure (of een ander cloudplatform, je bent bereid om je in Azure vast te bijten)&lt;/li&gt;
+	&lt;li&gt;Kubernetes&lt;/li&gt;
+	&lt;li&gt;IaC: Terraform (bij voorkeur)&lt;/li&gt;
+	&lt;li&gt;CI/CD en Git&lt;/li&gt;
+	&lt;li&gt;Kennis van Python, Bash/ Linux Scripting en networking zijn sterke pluspunten&lt;/li&gt;
+&lt;/ul&gt;
+Jouw persoonlijkheid:
+
+&lt;ul&gt;
+	&lt;li&gt;Je pakt problemen zelf vast in plaats van ze meteen hogerop te droppen&lt;/li&gt;
+	&lt;li&gt;Je neemt ownership, levert af en kan omgaan met een veeleisende, snel evoluerende context&lt;/li&gt;
+	&lt;li&gt;Je werkt graag samen in een communicatief, sociaal team&lt;/li&gt;
+&lt;/ul&gt;
+Belangrijk: spreekt vloeiend Nederlands.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br /&gt;
+Je stapt in een kernfunctie binnen het strategische Data Platform Team, waar je bouwt aan het fundament van hun moderne cloudplatform. Je krijgt ownership, veel autonomie en werkt in een ervaren can-do team dat graag samen bouwt aan complexe technologie.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+De werkcontext is modern en stabiel, met hybride werken, flexibele uren en een werkgever met uitzonderlijk laag verloop. Daarbij krijg je een sterk, eerlijk en marktconform pakket met mobiliteitsbudget of wagen, stevige groepsverzekering en een flexibel cafetariaplan.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;Herken jij jou in deze functie?&amp;nbsp;&lt;br /&gt;
+Stuur nu jouw CV naar gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;</content>
+    <link href="https://www.cartiere.be/jobs/azure-data-platform-engineer/"/>
+    <category term="Data Engineering"/>
+    <published>2025-11-19T10:46:54+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ml-engineer-2/</id>
     <title>ML Engineer</title>
@@ -181,69 +234,6 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <link href="https://www.cartiere.be/jobs/data-insights-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-10-24T08:43:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/azure-data-platform-engineer/</id>
-    <title>Azure data platform engineer</title>
-    <updated>2025-11-19T09:46:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Belgiëlei 49, 2018, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-19 10:46:54+00:00, last change 2025-11-19 09:46:54+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-19 10:46:54+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;AZURE DEVOPS ENGINEER&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br /&gt;
-&amp;nbsp;Antwerpen - Intern&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-Deze Belgische, familiale financiële instelling bouwt niet zomaar “iets met data”. Ze zet haar data platform centraal als strategisch kloppend hart voor alle dataproducten.&lt;br /&gt;
-&lt;br /&gt;
-Je komt terecht in een organisatie waar stabiliteit en langetermijnrelaties belangrijk zijn, de cultuur warm, nuchter, menselijk is. Een onderneming waar resultaat telt en micromanagement niet in het woordenboek staat.&lt;br /&gt;
-&lt;br /&gt;
-Het team waarin je terechtkomt werkt aan een modern, cloudnative PaaS-platform op Azure, dat stap voor stap de legacy on-prem omgeving vervangt. Dit is het platform waar de komende jaren alles rond draait, één van de belangrijkste projecten van deze organisatie.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-Je versterkt het team dat het Data Platform bouwt en uitrolt. Dat platform is vandaag al twee jaar in opbouw en komt nu in een stroomversnelling.&lt;br /&gt;
-&lt;br /&gt;
-Concreet:
-&lt;ul&gt;
-	&lt;li&gt;Je helpt on-prem data en workloads migreren naar het cloudplatform&lt;/li&gt;
-	&lt;li&gt;Je bouwt en onderhoudt het Databricks-gebaseerde PaaS-platform en de onderliggende infrastructuur&lt;/li&gt;
-	&lt;li&gt;Je werkt met Terraform, Kubernetes, Azure, Git en CI/CD om het platform schaalbaar, stabiel en automatiseerbaar te maken&lt;/li&gt;
-	&lt;li&gt;Je draagt mee het CDC-framework en andere platformfeatures die nu nog volop in ontwikkeling zijn&lt;/li&gt;
-	&lt;li&gt;Je neemt ownership over features: van idee tot in productie&lt;/li&gt;
-&lt;/ul&gt;
-Je werkt in een klein, ervaren team met uitgesproken can do mentaliteit. Je krijgt de kans om met nieuwe technologie te werken en je bent in staat om de business noden te vertalen naar concrete technische oplossingen.&amp;nbsp;&lt;br /&gt;
-&lt;br /&gt;
-Er ligt een goed gevulde backlog met meer dan 30 geïdentificeerde platformfeatures. Je rol is duidelijk: mee het verschil maken in hoe dit data platform er vandaag, morgen en binnen 5 jaar uitziet.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-Je hebt 3 tot 5 jaar ervaring als data / platform / cloud engineer in een moderne omgeving. Verder heb je aantoonbare ervaring met:
-&lt;ul&gt;
-	&lt;li&gt;Azure (of een ander cloudplatform, je bent bereid om je in Azure vast te bijten)&lt;/li&gt;
-	&lt;li&gt;Kubernetes&lt;/li&gt;
-	&lt;li&gt;IaC: Terraform (bij voorkeur)&lt;/li&gt;
-	&lt;li&gt;CI/CD en Git&lt;/li&gt;
-	&lt;li&gt;Kennis van Python, Bash/ Linux Scripting en networking zijn sterke pluspunten&lt;/li&gt;
-&lt;/ul&gt;
-Jouw persoonlijkheid:
-
-&lt;ul&gt;
-	&lt;li&gt;Je pakt problemen zelf vast in plaats van ze meteen hogerop te droppen&lt;/li&gt;
-	&lt;li&gt;Je neemt ownership, levert af en kan omgaan met een veeleisende, snel evoluerende context&lt;/li&gt;
-	&lt;li&gt;Je werkt graag samen in een communicatief, sociaal team&lt;/li&gt;
-&lt;/ul&gt;
-Belangrijk: spreekt vloeiend Nederlands.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br /&gt;
-Je stapt in een kernfunctie binnen het strategische Data Platform Team, waar je bouwt aan het fundament van hun moderne cloudplatform. Je krijgt ownership, veel autonomie en werkt in een ervaren can-do team dat graag samen bouwt aan complexe technologie.&amp;nbsp;&lt;br /&gt;
-&lt;br /&gt;
-De werkcontext is modern en stabiel, met hybride werken, flexibele uren en een werkgever met uitzonderlijk laag verloop. Daarbij krijg je een sterk, eerlijk en marktconform pakket met mobiliteitsbudget of wagen, stevige groepsverzekering en een flexibel cafetariaplan.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;&lt;em&gt;Herken jij jou in deze functie?&amp;nbsp;&lt;br /&gt;
-Stuur nu jouw CV naar gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
-Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&amp;nbsp;</content>
-    <link href="https://www.cartiere.be/jobs/azure-data-platform-engineer/"/>
-    <category term="Data Engineering"/>
-    <published>2025-11-19T10:46:54+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-architect/</id>
