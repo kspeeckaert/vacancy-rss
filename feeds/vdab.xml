@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-11-26T13:04:30.606658+00:00</updated>
+  <updated>2025-11-26T14:45:06.219010+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2235,41 +2235,6 @@
     <published>2025-11-01T10:56:27+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72336788</id>
-    <title>Software Developer (SmartEye)</title>
-    <updated>2025-11-01T10:57:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SmartEye (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In je nieuwe functie ben je verantwoordelijk om het development team te begeleiden bij het bouwen van innovatieve softwareoplossingen met Symfony en Next.js (of gelijkwaardige technologieën). Als je gepassioneerd bent over technologie, oplossingsarchitectuur en leiderschap, is dit je kans om een significante impact te maken!&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Team Captain:&lt;/span&gt; je zet de koers uit voor het team en verdeelt taken als een meesterstrateeg rekening houdend met de prioriteiten en voorgang.&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Code-kunstenaar:&lt;/span&gt; je werkt zelf hands-on mee aan de projecten en bouwt ijzersterke oplossingen (Symfony and Next..js)&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Architect van de toekomst:&lt;/span&gt; je bedenkt niet alleen oplossingen, je implementeert ze ook en tilt ons platform naar een hoger niveau.&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Verbinder en coördinator:&lt;/span&gt; Jij bent de schakel tussen de businessanalist en het technische team, en zorgt dat iedereen dezelfde taal spreekt.&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kwaliteitsbewaker:&lt;/span&gt; Testen, finetunen en perfectioneren – jouw en je teams werk staat garant voor kwaliteit.&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Innovator in hart en nieren:&lt;/span&gt; Jij spot trends en innovaties in de techwereld en brengt frisse ideeën naar het team.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je hebt een 
-&lt;span&gt;bachelor o&lt;/span&gt;f 
-&lt;span&gt;master &lt;/span&gt;diploma in 
-&lt;span&gt;Computerwetenschappen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Talenkennis:&lt;/span&gt; Nederlands en Engels is een must&lt;/li&gt; 
-&lt;li&gt;Je 
-&lt;span&gt;woont in België&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Back-end: sterke ervaring met behulp van 
-&lt;span&gt;Symfony (&lt;/span&gt;of gelijkwaardige technologieën zoals Laravel)&lt;/li&gt; 
-&lt;li&gt;Gront-end: sterke ervaring met front-end ontwikkeling met 
-&lt;span&gt;Next.js (&lt;/span&gt;of gelijkwaardige React-gebaseerde frameworks).&lt;/li&gt; 
-&lt;li&gt;Grondig begrip van 
-&lt;span&gt;software-architectuur en systeemintegratie.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Ervaring met 
-&lt;span&gt;RESTful APIs,&lt;/span&gt; databaseontwerp en cloudgebaseerde oplossingen.&lt;/li&gt; 
-&lt;li&gt;Bekwaamheid in 
-&lt;span&gt; CI/CD, voornamelijk GitLab-CI.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Ervaring met 
-&lt;span&gt;Docker en Kubernetes is een plus&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72336788"/>
-    <published>2025-11-01T10:56:27+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72336779</id>
     <title>Network Systems Engineer (SmartEye)</title>
     <updated>2025-11-01T10:31:21+00:00</updated>
@@ -3865,6 +3830,14 @@ Concreet omvat jouw functie:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Je krijgt de kans om te starten in het team dat verantwoordelijk is voor complexe en innovatieve IT-transformatietrajecten met impact over heel de onderneming.&lt;/p&gt;&lt;p&gt;Je werkt in een Full-Scrum team waar jij collega .Net developers bijstaat en waar je de rechterhand bent van de IT Architect. Zelf ga je uiteraard ook verder ontwikkelen aan verscheidene cruciale bedrijfsapplicaties en geeft mee richting aan de concrete functionele oplossing.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor diploma behaald in IT of gelijkaardig&lt;/li&gt;&lt;li&gt;Sterke ervaring als .Net Developer of gelijkaardig&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Een internationale speler in het logistieke domein levert geïntegreerde oplossingen voor transport, terminals en multimodaal vervoer, met vestigingen doorheen Europa en een sterke focus op digitale transformatie en data-gedreven beslissingen.&amp;#160;&amp;#160;&lt;br&gt;Ze hebben een dedicated IT Applications-afdeling in België, waar een toegewijd team werkt aan de ontwikkeling en optimalisatie van het volledige IT-landschap van de gehele groep. 90% van hun softwareapplicaties is intern, vanaf scratch, ontwikkeld en ze hanteren een Agile-werkwijze.&lt;br&gt;Gezien hun sterke groei breiden ze hun cruciaal IT-team uit.&lt;br/&gt;&lt;br/&gt;Dit is een onderneming dat veel waarde hecht aan IT, innovatie en human-development. Je krijgt een brutoloon op basis van je ervaring en verder:&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren en flexibiliteit&lt;/li&gt;&lt;li&gt;actieve aanpak van een persoonlijk groei traject&lt;/li&gt;&lt;li&gt;inspraak en sterke betrokkenheid in de lopende projecten&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72495695"/>
     <published>2025-11-25T13:55:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72505682</id>
+    <title>Systems Engineer (Robert Half)</title>
+    <updated>2025-11-26T13:37:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Robert Half (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Dendermonde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Robert Half is currently recruiting a Lead IT Infrastructure Engineer.&lt;/p&gt;&lt;p&gt;Join one of Europe's leading organizations with a global footprint, driving innovative solutions and sustainable strategies. The company operates across a variety of sectors, maintaining a strong dedication to technological advancement and operational excellence.&lt;/p&gt;&lt;p&gt;The scope of responsibilities for this job include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You are the main point of contact for infrastructure-related incidents and projects;&lt;/li&gt;&lt;li&gt;You handle the installation, configuration, and upkeep of servers, networks, storage systems, firewalls, Wi-Fi, backups, and IT facility components such as UPS systems, racks, cabling, and cooling infrastructure;&lt;/li&gt;&lt;li&gt;You oversee daily performance monitoring of infrastructure, conduct risk analyses, and implement measures to ensure stability;&lt;/li&gt;&lt;li&gt;You develop infrastructure solutions that comply with enterprise standards while working alongside Automation teams on OT-specific infrastructure needs;&lt;/li&gt;&lt;li&gt;You collaborate with the HUB-based Senior System Administrator to guarantee high availability, effective disaster recovery, and business continuity;&lt;/li&gt;&lt;li&gt;You take charge of infrastructure projects, including network upgrades, modernizing data centers, and managing hybrid cloud solutions, keeping downtime to a minimum;&lt;/li&gt;&lt;li&gt;You ensure documentation is accurate, maintain comprehensive disaster recovery plans, and contribute to compliance efforts, such as adhering to NIS2 regulations;&lt;/li&gt;&lt;li&gt;You play a key role in long-term IT planning by creating multi-year roadmaps, managing budgets, and supporting data center modernization and consolidation initiatives;&lt;/li&gt;&lt;li&gt;You work in partnership with Cyber Security, SecOps, and business leaders to maintain security protocols, compliance standards, and reliable IT support.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;The requested qualifications for this job include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You hold a bachelor's or master's degree in computer science, IT Infrastructure, or equivalent by experience;&lt;/li&gt;&lt;li&gt;You have a minimum of 12 years of professional experience in IT infrastructure management;&lt;/li&gt;&lt;li&gt;Experience in industrial or OT-heavy environments (chemicals, pharma, manufacturing) is a strong asset;&lt;/li&gt;&lt;li&gt;You possess senior-level expertise in Cisco networking, VMware, enterprise storage, backup systems, and virtualization;&lt;/li&gt;&lt;li&gt;You have demonstrated proficiency in disaster recovery, high availability, OT infrastructure, and IT facilities such as UPS, racks, and cabling;&lt;/li&gt;&lt;li&gt;You excel at independently leading and executing infrastructure projects;&lt;/li&gt;&lt;li&gt;You thrive on troubleshooting, preventive problem-solving, and technical innovation;&lt;/li&gt;&lt;li&gt;You are comfortable interfacing with technical staff, business managers, and vendors to achieve shared goals;&lt;/li&gt;&lt;li&gt;Certifications in Cisco, VMware, Microsoft Azure, or equivalent infrastructure expertise are an advantage;&lt;/li&gt;&lt;li&gt;You are fluent in Dutch and English. Knowledge of French adds extra value.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;What does the company offer?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A competitive salary package tailored to your expertise and experience;&lt;/li&gt;&lt;li&gt;Opportunities for growth, with support from leadership and access to innovative IT solutions;&lt;/li&gt;&lt;li&gt;Engagement in high-impact, strategic projects within Belgium and across Europe;&lt;/li&gt;&lt;li&gt;An inclusive workplace culture prioritizing learning, collaboration, and cutting-edge technology. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Are you interested in this challenging position? Or would you like to have more information? Apply today!&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72505682"/>
+    <published>2025-11-26T13:37:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72503533</id>
