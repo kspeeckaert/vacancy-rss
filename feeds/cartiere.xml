@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-11-28T08:29:32.181798+00:00</updated>
+  <updated>2025-11-28T10:24:15.649448+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-architect/</id>
+    <title>Data Architect</title>
+    <updated>2025-11-28T09:03:48+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-18 08:30:23+00:00, last change 2025-11-28 09:03:48+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-18 08:30:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Deze internationale speler binnen energie en mobiliteit zit midden in een stevige transformatie. Wat ooit een klassieke omgeving was, evolueert vandaag naar een modern mobiliteits- en servicesecosysteem, met een groeiende focus op elektrificatie (EV), retail en digitale diensten. Technologie en data krijgen een expliciet mandaat en vormen een van de strategische hefbomen voor de komende jaren. &lt;br&gt;
+Je komt terecht in een hertekende technology-organisatie met nieuwe rollen, meer slagkracht en een duidelijk mandaat om data &amp; AI professioneel uit te bouwen. De sfeer is informeel en no-nonsense, met korte lijnen en collega’s die elkaar ook naast het werk vinden (sport- en hobbyclubs, events). Hier kan je echt dingen in beweging zetten. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Architect ben je één van de twee interne architecten die het datalandschap richting geeft. Je bouwt aan een volwassen dataprogramma waarin dataproducten, governance en consistente rapportering centraal staan. &lt;br&gt;
+Je: 
+&lt;ul&gt;
+	&lt;li&gt;ontwikkelt samen met het team de visie, architectuur en roadmap voor het dataplatform; 
+	&lt;li&gt;zet mee data governance structuren op (documentatie, datakwaliteit, security, standaarden); 
+	&lt;li&gt;werkt nauw samen met stakeholders en bereidt prioriteiten en roadmaps voor; 
+	&lt;li&gt;bewaakt de architectuur op het cloudplatform (AWS) en de rapporteringslaag (Power BI); 
+	&lt;li&gt;stuurt externe data engineers en analisten aan en neemt inhoudelijke beslissingen wanneer nodig; 
+	&lt;li&gt;zorgt voor één consistente, betrouwbare datalaag voor zowel interne teams als klanten. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt 5 à 8 jaar ervaring binnen data, waarvan een substantieel deel met data-architectuur. 
+	&lt;li&gt;Ervaring in meerdere omgevingen of domeinen. Je hebt meer gezien dan één stack op één plek. 
+	&lt;li&gt;Je bent sterk in stakeholdermanagement: challengen waar nodig, verbinden waar het moet. 
+	&lt;li&gt;Je hebt ervaring met het aansturen van externe partijen (engineers, analisten, consultants). 
+	&lt;li&gt;Je begrijpt moderne data platformen, AWS is een plus, en bent vertrouwd met rapportering (Power BI of gelijkwaardig). 
+	&lt;li&gt;Je bent gestructureerd, proactief en houdt overzicht in een context met veel parallelle projecten en vragen. 
+	&lt;li&gt;Je spreekt vlot Nederlands en Engels en bent bereid om frequent op kantoor aanwezig te zijn. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Een impactvolle, senior rol waarin je echt mee de richting bepaalt van het datalandschap én van hoe de organisatie naar data kijkt. 
+	&lt;li&gt;Werken in een transformatiecontext met rijke en diverse data. 
+	&lt;li&gt;Een financieel gezonde omgeving met duidelijk vertrouwen in technologie en data, en een warme, informele teamcultuur. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-architect/"/>
+    <category term="BI/Data Architect"/>
+    <published>2025-11-18T08:30:23+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/azure-data-platform-engineer/</id>
     <title>Azure data platform engineer</title>
@@ -234,40 +282,6 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <link href="https://www.cartiere.be/jobs/data-insights-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-10-24T08:43:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-architect/</id>
-    <title>Data Architect</title>
-    <updated>2025-11-18T07:30:23+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-18 08:30:23+00:00, last change 2025-11-18 07:30:23+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-18 08:30:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Deze organisatie is een internationale energie- en mobiliteitsspeler die actief inzet op innovatie, digitalisering en duurzaamheid. Vanuit een sterk Europees netwerk ondersteunt het zowel particuliere als professionele klanten met producten en diensten rond moderne mobiliteit. De organisatie bevindt zich in een duidelijke transformatiefase waarbij nieuwe energieoplossingen, klantenervaring en efficiency centraal staan. Medewerkers komen terecht in een mensgerichte werkomgeving met veel aandacht voor samenwerking, groei en toekomstgerichte projecten.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-In deze rol ontwikkel je een duidelijke visie op de data-architectuur en vertaal je die naar praktische, schaalbare oplossingen binnen de cloudomgeving. Je brengt structuur in een complexe data-omgeving, maakt bewuste keuzes voor de lange termijn en helpt het team om duurzame en goed beheerde data-oplossingen te realiseren. Je werkt daarbij nauw samen met zowel technische teams als business stakeholders, en kan technische concepten helder uitleggen aan verschillende doelgroepen.&lt;br&gt;
-&lt;br&gt;
-Daarnaast bied je richting en best practices, coach je collega’s in hun ontwikkeling en draag je bij aan een cultuur waarin datakwaliteit, transparantie en samenwerking centraal staan. Hoewel je een strategische rol opneemt, blijf je voldoende hands-on om mee te denken over integratiepatronen, datamodellering en de verdere groei van het dataplatform.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je beschikt over minimaal vijf jaar ervaring in data-architectuur. 
-	&lt;li&gt;Je hebt een solide technische achtergrond en inzicht in de werking van bedrijfsprocessen.
-	&lt;li&gt;Je beweegt vlot tussen verschillende teams, communiceert duidelijk en durft onderbouwde beslissingen te nemen.
-	&lt;li&gt;Je bent vertrouwd met data-governance¬frameworks.
-	&lt;li&gt;Je combineert analytisch denken met een hands-on aanpak en draagt actief bij aan kennisdeling binnen het team.
-	&lt;li&gt;Je spreekt vloeiend Nederlands en Engels. 
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-In deze rol kan je bijdragen aan een organisatie die volop inzet op innovatie en digitale transformatie. Je komt terecht in een internationale, mensgerichte omgeving met ruimte voor groei, initiatief en verantwoordelijkheid. Dit combineert de stabiliteit van een gevestigde speler met de dynamiek van een bedrijf dat actief bouwt aan de mobiliteit van de toekomst.&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/data-architect/"/>
-    <category term="BI/Data Architect"/>
-    <published>2025-11-18T08:30:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/bi-developer/</id>
