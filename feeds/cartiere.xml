@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-12-02T16:29:01.938921+00:00</updated>
+  <updated>2025-12-02T18:33:34.246473+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/mlops-engineer/</id>
+    <title>MLOps Engineer</title>
+    <updated>2025-12-02T15:32:29+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-12-02 16:32:29+00:00, last change 2025-12-02 15:32:29+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-12-02 16:32:29+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Ben jij gepassioneerd door het bouwen van betrouwbare, schaalbare en production-ready AI-omgevingen? Voor toekomstige opdrachten bij innovatieve organisaties in België zijn wij continu op zoek naar getalenteerde MLOps Engineers die het verschil willen maken op het snijvlak van Machine Learning en DevOps.&lt;br&gt;
+&lt;br&gt;
+Als MLOps Engineer zorg je ervoor dat machinelearningmodellen niet alleen ontwikkeld worden, maar ook efficiënt, veilig en stabiel draaien in productie. Je werkt aan het opzetten van CI/CD-pipelines voor ML, model monitoring, data versioning, containerization (Docker/Kubernetes), automatisering en clouddeployment (AWS, Azure of GCP). Samen met data scientists, ML engineers en softwareteams bouw je een solide MLOps-fundering die schaalbaarheid en duurzaamheid mogelijk maakt.&lt;br&gt;
+&lt;br&gt;
+We zoeken zowel junior profielen met sterke technische basis als ervaren engineers die graag meedenken over best practices, tooling en procesverbeteringen binnen AI-omgevingen. Je bent leergierig, gestructureerd en gedreven om modellen écht waardevol te maken in productie.&lt;br&gt;
+&lt;br&gt;
+Wil jij proactief op de radar staan voor MLOps-opportuniteiten bij onze klanten? Solliciteer dan spontaan, en wij nemen contact op zodra er een geschikte rol beschikbaar komt.&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/mlops-engineer/"/>
+    <category term="AI &amp; ML Engineer"/>
+    <published>2025-12-02T16:32:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/ai-ml-engineer/</id>
+    <title>AI/ML Engineer</title>
+    <updated>2025-12-02T15:28:06+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-12-02 16:28:06+00:00, last change 2025-12-02 15:28:06+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-12-02 16:28:06+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Ben jij klaar om je carrière in AI &amp; ML naar een hoger niveau te tillen? Voor toekomstige projecten bij toonaangevende bedrijven in België zijn wij bij Cartière voortdurend op zoek naar getalenteerde AI/ML Engineers die impact willen maken met slimme, schaalbare en data-gedreven oplossingen.&lt;br&gt;
+&lt;br&gt;
+In deze rol werk je aan het bouwen, trainen en implementeren van ML modellen, het opzetten van end-to-end pipelines en het ontwikkelen van productieklare AI-oplossingen. Je combineert sterke analytische vaardigheden met hands-on ervaring in Python, cloudomgevingen (AWS, Azure of GCP) en moderne ML-tools. Afhankelijk van het project werk je samen met data scientists, data engineers en softwareteams om modellen om te zetten in effectieve toepassingen die echte businesswaarde creëren.&lt;br&gt;
+&lt;br&gt;
+We zoeken zowel young potentials als ervaren engineers die leergierig zijn, proactief meedenken en de ambitie hebben om zich verder te specialiseren in AI, ML en MLOps.&lt;br&gt;
+&lt;br&gt;
+Wil jij als eerste op de hoogte zijn van nieuwe AI/ML-opportuniteiten bij onze klanten? Solliciteer dan proactief en wij nemen contact op zodra er een passende uitdaging opduikt.&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/ai-ml-engineer/"/>
+    <category term="AI &amp; ML Engineer"/>
+    <published>2025-12-02T16:28:06+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-architect/</id>
     <title>Data Architect</title>
@@ -52,6 +98,45 @@ Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content
     <link href="https://www.cartiere.be/jobs/data-architect/"/>
     <category term="BI/Data Architect"/>
     <published>2025-11-18T08:30:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineer-4/</id>
+    <title>Data Engineer</title>
+    <updated>2025-11-26T08:03:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-26 09:03:57+00:00, last change 2025-11-26 08:03:57+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-26 09:03:57+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Deze toonaangevende internationale onderneming heeft bijna 20 jaar ervaring in retail marketing &amp; sales. Dit zorgt voor een indrukwekkende data omgeving waar je als Data Engineer bijzonder veel kan realiseren. De projecten waar je aan bijdraagt zijn sterk gericht op het optimaliseren van processen en ondersteunen aan commerciële en operationele teams.&lt;br&gt;
+&lt;br&gt;
+Achter deze activiteiten staat een modern Data &amp; Tech departement dat volop inzet op digitalisering en datagedreven werken. Het departement is onderverdeeld in 3 teams waaronder Software &amp; Support, Engineering en Analytics. Door de voortdurende groei en verdere uitbouw van de cloudomgeving wordt het Engineering team uitgebreid met een extra data engineer.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+In deze rol als (Junior) Data Engineer werk je in een modern data-engineeringteam dat verantwoordelijk is voor het ontwikkelen, beheren en optimaliseren van datastromen binnen de organisatie. Je ondersteunt vooral interne domeinen zoals HR, Finance en Logistics en schakelt regelmatig met deze afdelingen om hun noden te begrijpen en processen efficiënter te maken. Daarbij denk je actief mee, stel je de juiste vragen en durf je voorstellen te challengen, terwijl je teamlead je helpt verder te groeien in deze rol.&lt;br&gt;
+&lt;br&gt;
+Technisch werk je voornamelijk in een Azure-cloudomgeving, waar je datapipelines bouwt met Azure Data Factory, automatisaties opzet via Logic Apps en werkt met SQL als belangrijkste basis. De organisatie bevindt zich in de laatste fase van een cloudmigratie, en jij helpt mee om deze omgeving volledig te stabiliseren en futureproof te maken. Daarnaast werk je aan het centraliseren&lt;br&gt;
+van verschillende databases in één uniforme omgeving en vervang je manuele Excelprocessen door geautomatiseerde en betrouwbare datastromen.&lt;br&gt;
+&lt;br&gt;
+Je ondersteunt bovendien projecten die gericht zijn op het verbeteren van datatoegang en kwaliteit, het ontsluiten van financiële, HR en operationele data en initiatieven zoals sustainability rapportering. Kortom: je bouwt mee aan een organisatie waar data vlot en geautomatiseerd stroomt en waar processen steeds meer worden gedigitaliseerd.&lt;br&gt;
+&lt;br&gt;
+PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een goede kennis van SQL.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een achtergrond in een datagerelateerde studie.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt bij voorkeur een eerste ervaring als Data Engineer of gelijkaardige rol.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Kennis van Azure (vooral Data Factory) en/of Python is een groot pluspunt.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je communiceert helder, denkt oplossingsgericht en werkt graag samen met verschillende interne teams.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je spreekt vlot Nederlands en kan goed schakelen in Engels.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;AANBOD:&lt;br&gt;
+Je komt terecht in een modern datalandschap waar de focus sterk ligt op Microsoft Azure en waar volop wordt ingezet op verdere groei en professionalisering. Je werkt binnen een jong en dynamisch team waarin je volledig jezelf kan zijn en waar veel ruimte is voor persoonlijke ontwikkeling. In deze functie krijg je verantwoordelijkheid over projecten die echt impact hebben en waarvan de resultaten tastbaar zijn binnen de organisatie. Je werkt met interne data die rechtstreeks bijdraagt aan efficiëntere processen en betere besluitvorming. Bovendien geniet je van een hoge mate van flexibiliteit, zowel in hoe je je werk organiseert als in waar je het uitvoert.&lt;br&gt;
+&lt;br&gt;
+Iets voor jou? Stuur je cv naar robbe@cartiere.be en bel +32 33 693 309 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-engineer-4/"/>
+    <category term="Data Engineering"/>
+    <published>2025-11-26T09:03:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/azure-data-platform-engineer/</id>
