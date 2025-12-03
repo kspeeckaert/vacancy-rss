@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-03T14:44:14.238421+00:00</updated>
+  <updated>2025-12-03T16:51:15.946507+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -986,14 +986,6 @@
     <published>2025-08-28T09:36:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71846164</id>
-    <title>Security Architect (CISA) (KS Consulting Belgium)</title>
-    <updated>2025-12-03T14:40:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als &lt;strong&gt;Security Architect&lt;/strong&gt; ben jij de spil tussen IT-architectuur, securitybeleid en compliance. Je ontwerpt toekomstgerichte beveiligingsarchitecturen en zorgt dat systemen en processen voldoen aan internationale normen en wetgeving. Dankzij je CISA-expertise combineer je technische diepgang met audit- en risicobeheersing.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Ontwerpen en onderhouden van beveiligingsarchitecturen voor applicaties, infrastructuur, cloud en netwerken.&lt;/li&gt; &lt;li&gt;Definiëren en implementeren van security controls, zowel technisch als organisatorisch.&lt;/li&gt; &lt;li&gt;Toetsen van systemen aan standaarden zoals ISO 27001, NIST, COBIT en GDPR.&lt;/li&gt; &lt;li&gt;Uitvoeren of voorbereiden van audits en risicoanalyses, inclusief het opstellen van mitigerende maatregelen.&lt;/li&gt; &lt;li&gt;Adviseren over governance, toegangsbeheer, monitoring en incident response.&lt;/li&gt; &lt;li&gt;Vertalen van complexe technische uitdagingen naar heldere adviezen voor management en stakeholders.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Ervaring:&lt;/strong&gt; Minstens 5 jaar in IT-security, IT-audit of IT-architectuur, bij voorkeur in enterprise of gereguleerde sectoren.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Certificaten:&lt;/strong&gt; CISA (vereist). Aanvullende certificaten zoals CISSP, CCSP, TOGAF of ISO 27001 zijn een sterke plus.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Technische bagage:&lt;/strong&gt; Grondige kennis van IT-architectuur, securitytechnologieën en cloudplatformen (Azure, AWS, GCP).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Soft skills:&lt;/strong&gt; Analytisch, communicatief sterk en in staat om prioriteiten scherp te stellen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Dadelijk vast contract&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen - geen bedrijfswagen.&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71846164"/>
-    <published>2025-09-02T14:36:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71846651</id>
     <title>PMO (Project Management Office) (KS Consulting Belgium)</title>
     <updated>2025-12-02T09:08:53+00:00</updated>
@@ -1002,12 +994,12 @@
     <published>2025-09-02T15:07:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71864874</id>
-    <title>Architect - IT Strategy (KS Consulting Belgium)</title>
-    <updated>2025-09-04T17:59:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Architect – IT Strategy speel je een sleutelrol in de verdere uitbouw van de IT-strategie. Je ondersteunt de strategie- en architectuurteams bij thema’s zoals cloudtransitie, API-governance, dataproducten, lifecycle management en vernieuwde IT-principes. Je zorgt ervoor dat projecten richting geven, impact hebben en tijdig resultaten opleveren.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Ondersteunen van het IT Strategy-team bij portfoliobeheer, budgetanalyse en rapportering.&lt;/li&gt; &lt;li&gt;Voorbereiden en coördineren van overlegmomenten met management en stakeholders.&lt;/li&gt; &lt;li&gt;Uitwerken, opvolgen en afronden van actieplannen rond complexe strategische onderwerpen.&lt;/li&gt; &lt;li&gt;Input verzamelen bij experts, product owners en architecten om sterke managementpresentaties te maken.&lt;/li&gt; &lt;li&gt;Bijhouden van budgetten, backlog en dashboards voor opvolging en besluitvorming.&lt;/li&gt; &lt;li&gt;Ondersteunen in change management, communicatie en onderzoeksactiviteiten.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Minstens 5 jaar ervaring in IT-strategie, consulting of project-/programmamanagement.&lt;/li&gt; &lt;li&gt;Ervaring met strategische planning, IT-architectuur en werken met senior IT-managers (CIO, CTO, CISO).&lt;/li&gt; &lt;li&gt;Sterke kennis van verandermanagement en het begeleiden van complexe IT-initiatieven.&lt;/li&gt; &lt;li&gt;Inzicht in organisatieprocessen, besluitvorming en governance binnen grote bedrijven.&lt;/li&gt; &lt;li&gt;Analytisch, communicatief sterk en in staat om complexe materie helder te vertalen.&lt;/li&gt; &lt;li&gt;Goede kennis van Engels én actieve kennis van Nederlands en Frans.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt; &lt;li&gt;50% op kantoor, 50% thuiswerk.&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71864874"/>
-    <published>2025-09-04T15:32:22+00:00</published>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71846164</id>
+    <title>Security Architect (CISA) (KS Consulting Belgium)</title>
+    <updated>2025-12-03T16:42:35+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als &lt;strong&gt;Security Architect&lt;/strong&gt; ben jij de spil tussen IT-architectuur, securitybeleid en compliance. Je ontwerpt toekomstgerichte beveiligingsarchitecturen en zorgt dat systemen en processen voldoen aan internationale normen en wetgeving. Dankzij je CISA-expertise combineer je technische diepgang met audit- en risicobeheersing.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Ontwerpen en onderhouden van beveiligingsarchitecturen voor applicaties, infrastructuur, cloud en netwerken.&lt;/li&gt; &lt;li&gt;Definiëren en implementeren van security controls, zowel technisch als organisatorisch.&lt;/li&gt; &lt;li&gt;Toetsen van systemen aan standaarden zoals ISO 27001, NIST, COBIT en GDPR.&lt;/li&gt; &lt;li&gt;Uitvoeren of voorbereiden van audits en risicoanalyses, inclusief het opstellen van mitigerende maatregelen.&lt;/li&gt; &lt;li&gt;Adviseren over governance, toegangsbeheer, monitoring en incident response.&lt;/li&gt; &lt;li&gt;Vertalen van complexe technische uitdagingen naar heldere adviezen voor management en stakeholders.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Ervaring:&lt;/strong&gt; Minstens 5 jaar in IT-security, IT-audit of IT-architectuur, bij voorkeur in enterprise of gereguleerde sectoren.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Certificaten:&lt;/strong&gt; CISA (vereist). Aanvullende certificaten zoals CISSP, CCSP, TOGAF of ISO 27001 zijn een sterke plus.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Technische bagage:&lt;/strong&gt; Grondige kennis van IT-architectuur, securitytechnologieën en cloudplatformen (Azure, AWS, GCP).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Soft skills:&lt;/strong&gt; Analytisch, communicatief sterk en in staat om prioriteiten scherp te stellen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Dadelijk vast contract&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen - geen bedrijfswagen.&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71846164"/>
+    <published>2025-09-02T14:36:49+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71866577</id>
@@ -1020,26 +1012,34 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71863930</id>
     <title>Data Reporting Expert (KS Consulting Belgium)</title>
-    <updated>2025-12-03T15:16:49+00:00</updated>
+    <updated>2025-12-03T17:18:01+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij een expert in data reporting en klaar om impact te maken in een grootschalig SAP-transformatieproject? Als &lt;strong&gt;Data Reporting Expert&lt;/strong&gt; zorg je voor een vlotte overgang van UNV naar UNX in SAP BO en versterk je de basis voor geavanceerde HR-rapportering en analytics. Je werkt op het kruispunt van data-analyse, visualisatie en HR-core systemen.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Leiding nemen in de migratie van UNV naar UNX en optimaliseren van SAP BW-data structuren.&lt;/li&gt; &lt;li&gt;Ontwikkelen en beheren van robuuste dataflows (ETL) vanuit SAP HR, SAP BW, Oracle en SQL-databanken.&lt;/li&gt; &lt;li&gt;Validatie en kwaliteitscontrole van universes en queries om nauwkeurige rapportering te garanderen.&lt;/li&gt; &lt;li&gt;Samenwerken met IT, HR en business stakeholders om rapporteringsnoden om te zetten in efficiënte datamodellen.&lt;/li&gt; &lt;li&gt;Ondersteunen bij de ontwikkeling van SAP BO-rapporten en integratie met tools zoals Power BI.&lt;/li&gt; &lt;li&gt;Opleiding en begeleiding bieden in de nieuwe UNX-omgeving en optreden als aanspreekpunt voor technische vragen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Bachelor of master in Computer Science, Data Analytics of gelijkaardig.&lt;/li&gt; &lt;li&gt;Minstens 6 jaar ervaring in data reporting en analyse, bij voorkeur in de financiële sector.&lt;/li&gt; &lt;li&gt;Grondige kennis van SAP BW, SAP BO, UNV/UNX, Oracle en SQL.&lt;/li&gt; &lt;li&gt;Pluspunten: kennis van SAP 4HANA, Python, DAX of SAS EG.&lt;/li&gt; &lt;li&gt;Sterke analytische skills, nauwkeurig, zelfstandig en communicatief sterk.&lt;/li&gt; &lt;li&gt;Nederlands, Frans en Engels: vlot in professionele context.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt; &lt;li&gt;50% thuiswerk&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71863930"/>
     <published>2025-09-04T14:14:46+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71864745</id>
+    <title>Digital Analist (KS Consulting Belgium)</title>
+    <updated>2025-12-03T17:24:47+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Digital Analist breng je de volledige digitale klantreis in kaart over alle web- en app-touchpoints. Met jouw analyses en rapportages help je de klantervaring te verbeteren en de digitale business te laten groeien. Je werkt nauw samen met product owners, developers, UX-experten en andere specialisten.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Vertalen van businessdoelen naar duidelijke KPI’s en metrics.&lt;/li&gt; &lt;li&gt;Opstellen van taggingstrategieën en technische specificaties voor developers.&lt;/li&gt; &lt;li&gt;Bouwen van rapporten, monitoren van KPI’s en uitvoeren van diepgaande analyses.&lt;/li&gt; &lt;li&gt;Delen van inzichten via overtuigende data storytelling naar diverse stakeholders.&lt;/li&gt; &lt;li&gt;Stimuleren van een data-driven mindset binnen de organisatie.&lt;/li&gt; &lt;li&gt;Actief deelnemen aan agile ceremonies en coördineren met meerdere squads.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Masterdiploma of gelijkwaardige ervaring in digitale marketing, data-analyse, economie of statistiek.&lt;/li&gt; &lt;li&gt;Minstens 4 jaar ervaring als digital/web/app analist.&lt;/li&gt; &lt;li&gt;Ervaring met &lt;strong&gt;Adobe Analytics&lt;/strong&gt; en &lt;strong&gt;Contentsquare&lt;/strong&gt; is een must.&lt;/li&gt; &lt;li&gt;Sterk in KPI-definitie, taggingstrategieën en data storytelling.&lt;/li&gt; &lt;li&gt;Pluspunten: kennis van agile methodologie en ervaring in multidisciplinaire teams&lt;/li&gt; &lt;li&gt;Nederlands, Frans en Engels&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71864745"/>
+    <published>2025-09-04T15:22:39+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71864608</id>
     <title>Business Analist (Risk &amp; Credits) (KS Consulting Belgium)</title>
-    <updated>2025-12-03T15:08:03+00:00</updated>
+    <updated>2025-12-03T17:10:09+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Business Analist versterk je het Risk &amp;amp; Credits-team en speel je een sleutelrol in projecten rond risicodata, kredietmodellen en regelgeving. Je vertaalt complexe businessvereisten naar duidelijke functionele en technische specificaties en werkt mee aan de verdere uitbouw van de centrale risk calculator.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Vertalen van business requirements naar functionele en technische analyses.&lt;/li&gt; &lt;li&gt;Uitwerken van algoritmes in C# en SQL voor risicoberekeningen en rapportering.&lt;/li&gt; &lt;li&gt;Documenteren van datatransformaties (ETL) en ondersteunen van testactiviteiten.&lt;/li&gt; &lt;li&gt;Opstellen van SQL-queries (Sybase IQ, SQL Server, Oracle) voor analyse en rapportage.&lt;/li&gt; &lt;li&gt;Samenwerken met risk, IT en andere stakeholders om projecten correct en tijdig op te leveren.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Bachelor- of Masterdiploma, bij voorkeur met focus op wiskunde, economie of informatica.&lt;/li&gt; &lt;li&gt;Minstens 6 jaar relevante ervaring als Business Analist of in functionele analyse.&lt;/li&gt; &lt;li&gt;Grondige kennis van C#, SQL en grootschalige IT-ontwikkelingsprojecten.&lt;/li&gt; &lt;li&gt;Ervaring met documentatie, testprocessen en data- &amp;amp; procesanalyse.&lt;/li&gt; &lt;li&gt;Pluspunten: ervaring met Basel II/III, kredietrisico, XML/SOAP of MQ Series.&lt;/li&gt; &lt;li&gt;Nederlands, Frans, Engels: zeer goed in spreken en begrijpen.&lt;/li&gt; &lt;li&gt;Sterke communicatie- en synthesecapaciteiten.&lt;/li&gt; &lt;li&gt;Proactief, leergierig en flexibel in een multiculturele omgeving.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt; &lt;li&gt;50% thuiswerk&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71864608"/>
     <published>2025-09-04T15:07:01+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71864745</id>
-    <title>Digital Analist (KS Consulting Belgium)</title>
-    <updated>2025-09-04T18:00:18+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Digital Analist breng je de volledige digitale klantreis in kaart over alle web- en app-touchpoints. Met jouw analyses en rapportages help je de klantervaring te verbeteren en de digitale business te laten groeien. Je werkt nauw samen met product owners, developers, UX-experten en andere specialisten.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Vertalen van businessdoelen naar duidelijke KPI’s en metrics.&lt;/li&gt; &lt;li&gt;Opstellen van taggingstrategieën en technische specificaties voor developers.&lt;/li&gt; &lt;li&gt;Bouwen van rapporten, monitoren van KPI’s en uitvoeren van diepgaande analyses.&lt;/li&gt; &lt;li&gt;Delen van inzichten via overtuigende data storytelling naar diverse stakeholders.&lt;/li&gt; &lt;li&gt;Stimuleren van een data-driven mindset binnen de organisatie.&lt;/li&gt; &lt;li&gt;Actief deelnemen aan agile ceremonies en coördineren met meerdere squads.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Masterdiploma of gelijkwaardige ervaring in digitale marketing, data-analyse, economie of statistiek.&lt;/li&gt; &lt;li&gt;Minstens 4 jaar ervaring als digital/web/app analist.&lt;/li&gt; &lt;li&gt;Ervaring met &lt;strong&gt;Adobe Analytics&lt;/strong&gt; en &lt;strong&gt;Contentsquare&lt;/strong&gt; is een must.&lt;/li&gt; &lt;li&gt;Sterk in KPI-definitie, taggingstrategieën en data storytelling.&lt;/li&gt; &lt;li&gt;Pluspunten: kennis van agile methodologie en ervaring in multidisciplinaire teams&lt;/li&gt; &lt;li&gt;Nederlands, Frans en Engels&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71864745"/>
-    <published>2025-09-04T15:22:39+00:00</published>
+    <id>https://www.vdab.be/vindeenjob/vacatures/71864874</id>
+    <title>Architect - IT Strategy (KS Consulting Belgium)</title>
+    <updated>2025-12-03T16:34:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Architect – IT Strategy speel je een sleutelrol in de verdere uitbouw van de IT-strategie. Je ondersteunt de strategie- en architectuurteams bij thema’s zoals cloudtransitie, API-governance, dataproducten, lifecycle management en vernieuwde IT-principes. Je zorgt ervoor dat projecten richting geven, impact hebben en tijdig resultaten opleveren.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Ondersteunen van het IT Strategy-team bij portfoliobeheer, budgetanalyse en rapportering.&lt;/li&gt; &lt;li&gt;Voorbereiden en coördineren van overlegmomenten met management en stakeholders.&lt;/li&gt; &lt;li&gt;Uitwerken, opvolgen en afronden van actieplannen rond complexe strategische onderwerpen.&lt;/li&gt; &lt;li&gt;Input verzamelen bij experts, product owners en architecten om sterke managementpresentaties te maken.&lt;/li&gt; &lt;li&gt;Bijhouden van budgetten, backlog en dashboards voor opvolging en besluitvorming.&lt;/li&gt; &lt;li&gt;Ondersteunen in change management, communicatie en onderzoeksactiviteiten.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Minstens 5 jaar ervaring in IT-strategie, consulting of project-/programmamanagement.&lt;/li&gt; &lt;li&gt;Ervaring met strategische planning, IT-architectuur en werken met senior IT-managers (CIO, CTO, CISO).&lt;/li&gt; &lt;li&gt;Sterke kennis van verandermanagement en het begeleiden van complexe IT-initiatieven.&lt;/li&gt; &lt;li&gt;Inzicht in organisatieprocessen, besluitvorming en governance binnen grote bedrijven.&lt;/li&gt; &lt;li&gt;Analytisch, communicatief sterk en in staat om complexe materie helder te vertalen.&lt;/li&gt; &lt;li&gt;Goede kennis van Engels én actieve kennis van Nederlands en Frans.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt; &lt;li&gt;50% op kantoor, 50% thuiswerk.&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/71864874"/>
+    <published>2025-09-04T15:32:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71870418</id>
@@ -2865,108 +2865,6 @@ Concreet omvat jouw functie:
     <published>2025-11-19T08:52:51+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72454720</id>
-    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
-    <updated>2025-11-19T11:01:39+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
-&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
-&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
-&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
-&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
-&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
-&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
-&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
-&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
-&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
-&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
-&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
-&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
-&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
-&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72454720"/>
-    <published>2025-11-19T11:01:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72454925</id>
-    <title>System Engineer (CONXION)</title>
-    <updated>2025-11-19T11:16:26+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als System Engineer ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw day to day als System Engineer:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
-&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
-&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
-&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
-&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
-&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Certificeringen&lt;/p&gt; 
-&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
-&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
-&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72454925"/>
-    <published>2025-11-19T11:16:26+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72458164</id>
     <title>Cloud &amp; Datacenter Engineer - Antwerpen (LGA IT)</title>
     <updated>2025-11-19T16:05:35+00:00</updated>
@@ -2994,99 +2892,6 @@ Concreet omvat jouw functie:
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72458164"/>
     <published>2025-11-19T16:05:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72454962</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2025-11-19T11:43:08+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72454962"/>
-    <published>2025-11-19T11:43:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72454705</id>
-    <title>Digital Project Manager (CONXION)</title>
-    <updated>2025-11-19T11:42:11+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-pm-slice="1 1 []"&gt;Userfull Powered by ConXioN is op zoek naar een breed inzetbare Project Manager voor de opvolging van IT projecten. Userfull maakt deel uit van de 
-&lt;strong&gt;ConXion-Groep&lt;/strong&gt; en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;Als Project Manager benader je projecten vanuit de functioneel perspectief. Je laat de noden van de klant en de mogelijkheden inzake technische uitwerking samensmelten. Onze Project Manager staat in voor projectanalyse en waakt over de scope, planning en budget van het project.&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="EN-GB"&gt;Jouw day to day als Project Manager:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je ondersteunt onze klant bij het detecteren van hun noden en implementatie van technische oplossingen.&lt;/li&gt; 
-&lt;li&gt;Je staat in voor de projectcoördinatie van boeiende IT-projecten gebaseerd op jouw expertise en interesseveld.&lt;/li&gt; 
-&lt;li&gt;Je volgt de scope, budget, planning, resources, risico’s en kwaliteit van dichtbij op.&lt;/li&gt; 
-&lt;li&gt;Je verzekert een nauwe samenwerking met de klant, onze technische experten, het sales team en andere betrokkenen.&lt;/li&gt; 
-&lt;li&gt;Userfull werkt samen als één geheel. Waar nodig ben je gemotiveerd om andere teams te ondersteunen met taken die afwijken van jouw focus als Project Manager.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je hebt ervaring in een projectmanagement-context.&lt;/li&gt; 
-&lt;li&gt;Je bent communicatief, hebt ervaring met stakeholdermanagement én bent in staat de wensen van de klant samen te brengen met een gepaste planning en budget.&lt;/li&gt; 
-&lt;li&gt;Je kan integrerend werken en bent in staat een helicopterview te behouden over het project. Indien nodig zet je een stap terug om tot de gepaste oplossing te komen.&lt;/li&gt; 
-&lt;li&gt;Je hebt talent voor plannen en organiseren en kan dit staven vanuit eerdere werkervaringen.&lt;/li&gt; 
-&lt;li&gt;Je gaat analytisch te werk en hebt een probleemoplossende instelling.&lt;/li&gt; 
-&lt;li&gt;Ervaring met projectmanagement methodologie (zoals Six Sigma of Prince 2) is een pluspunt.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij Userfull Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;Je komt terecht in een omgeving met oog voor groei, samenwerken en autonomie. Ook snel schakelen en snelle beslissingen behoren tot ons DNA.&lt;/li&gt; 
-&lt;li&gt;Een carrièrepad met zowel horizontale als verticale doorgroeimogelijkheden: technisch, functioneel of commercieel.&lt;/li&gt; 
-&lt;li&gt;De kans om te werken in een rol dicht bij de klant, met afwisseling tussen configuratie, documentatie, opleiding en oog voor innovatie.&lt;/li&gt; 
-&lt;li&gt;Marktconforme verloning en extralegale voordelen zoals maaltijdcheques, verzekeringen, thuiswerkvergoeding, 12 ADV-dagen en een wagen of mobiliteitsbudget.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72454705"/>
-    <published>2025-11-19T11:42:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72465298</id>
@@ -3678,5 +3483,200 @@ Concreet omvat jouw functie:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Unique Select Vlaanderen (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Olen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Buchen is een toonaangevend bedrijf in &lt;strong&gt;industriële cleaning met vestigingen in Olen en Wallonië&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Unique Select gaat als selectiepartner op zoek naar een &lt;strong&gt;Technical Manager voor Buchen NV&lt;/strong&gt;, een toonaangevend bedrijf in &lt;strong&gt;industriële cleaning met vestigingen in Olen en Wallonië.&lt;/strong&gt; Buchen staat bekend om zijn&lt;strong&gt; innovatieve aanpak, duurzame projecten en flexibele service&lt;/strong&gt;. Voor hun&lt;strong&gt; technische afdeling zoeken we een gedreven leider&lt;/strong&gt; die strategisch inzicht combineert met operationele daadkracht.&lt;/p&gt;&lt;p&gt;Als &lt;strong&gt;Technical Manager draag je de eindverantwoordelijkheid&lt;/strong&gt; voor het technisch beheer van de vestiging in Olen én de activiteiten in Wallonië. Je zorgt voor een vlotte dagelijkse werking en bouwt mee aan de toekomst door te focussen op innovatie, digitalisering en duurzaamheid. Daarbij werk je nauw samen met HR, QHSE, Operations en andere interne stakeholders.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw taken en verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;	&lt;li&gt;&lt;strong&gt;Leidinggeven aan de werkplaats- en magazijnverantwoordelijke (&lt;/strong&gt;Olen &amp; Wallonië).&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;Beheren van het wagen- en machinepark&lt;/strong&gt; (± 60 vrachtwagens en leasewagens).&lt;/li&gt;	&lt;li&gt;Opvolgen van technische investeringen en uitvoeren van ROI-analyses.&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;Aankopen beheren&lt;/strong&gt;, zowel stock als investeringen voor lange termijn en speciale projecten.&lt;/li&gt;	&lt;li&gt;Verzekeringsdossiers behandelen (excl. arbeidsongevallen).&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;Coördineren van technische opleidingen&lt;/strong&gt; en het trainingscenter.&lt;/li&gt;	&lt;li&gt;Initiëren en begeleiden van innovatie- en digitaliseringsprojecten.&lt;/li&gt;	&lt;li&gt;Energie- en CO2-analyses opstellen en rapporteren.&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;KPI’s opvolgen, scorecards opstellen&lt;/strong&gt; en resultaten rapporteren.&lt;/li&gt;	&lt;li&gt;Jaarlijkse evaluaties uitvoeren en medewerkers coachend begeleiden.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;In de rol van technisch manager zoeken we voornamelijk iemand die leidinggevende ervaring kan combineren met technische kennis. Onze voorkeur gaat uit naar mensen die ervaring hebben binnen de (technische) dienstensector. &lt;/p&gt;&lt;p&gt;Verder kijken we uit naar:&lt;/p&gt;&lt;ul&gt;	&lt;li&gt;&lt;strong&gt;Master in een technische of economische richting&lt;/strong&gt;, of gelijkwaardig door ervaring.&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;Minstens 10 jaar in een industriële omgeving&lt;/strong&gt;, met sterke affiniteit voor techniek.&lt;/li&gt;	&lt;li&gt;Je bent een&lt;strong&gt; geboren people manager&lt;/strong&gt; die met verschillende karakters kan omgaan.&lt;/li&gt;	&lt;li&gt;Je bent analytisch, resultaatgericht en stressbestendig.&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;Vlotte communicatie in het Nederlands&lt;/strong&gt;, basiskennis Engels (Duits is een pluspunt).&lt;/li&gt;	&lt;li&gt;Kennis van MS Office, ervaring met SAP is een troef.&lt;/li&gt;	&lt;li&gt;Je voelt je thuis in een hands-on, collegiale en innovatieve bedrijfscultuur.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Buchen krijg je niet alleen een &lt;strong&gt;sleutelrol in een organisatie die volop inzet op duurzaamheid en innovatie,&lt;/strong&gt; maar ook de kans om echt impact te maken. Je geniet van &lt;strong&gt;veel autonomie en kan rekenen op een uitgebreide inwerkperiode &lt;/strong&gt;met ondersteuning van de huidige Technical Manager.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Reken verder op: &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;	&lt;li&gt;Een &lt;strong&gt;uitdagende en veelzijdige functie &lt;/strong&gt;in een dynamische omgeving.&lt;/li&gt;	&lt;li&gt;Veel ruimte voor opleiding en persoonlijke ontwikkeling.&lt;/li&gt;	&lt;li&gt;Een &lt;strong&gt;collegiale werksfeer &lt;/strong&gt;met korte communicatielijnen.&lt;/li&gt;	&lt;li&gt;Een aantrekkelijk loonpakket met onder meer:&lt;/li&gt;	&lt;li&gt;&lt;strong&gt;Bedrijfswagen&lt;/strong&gt;&lt;/li&gt;	&lt;li&gt;Groeps- en hospitalisatieverzekering&lt;/li&gt;	&lt;li&gt;Maaltijdcheques&lt;/li&gt;	&lt;li&gt;Bonusregeling (CAO 90 en individuele bonus)&lt;/li&gt;	&lt;li&gt;12 ADV dagen&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72546429"/>
     <published>2025-12-03T06:01:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72552234</id>
+    <title>System Engineer (CONXION)</title>
+    <updated>2025-12-03T16:04:22+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als System Engineer ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw day to day als System Engineer:&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
+&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
+&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
+&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
+&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
+&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Certificeringen&lt;/p&gt; 
+&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
+&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
+&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72552234"/>
+    <published>2025-12-03T16:04:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72552165</id>
+    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
+    <updated>2025-12-03T15:58:55+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
+&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
+&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
+&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
+&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
+&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
+&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
+&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
+&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
+&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
+&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
+&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
+&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
+&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
+&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
+&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
+&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72552165"/>
+    <published>2025-12-03T15:58:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72552290</id>
+    <title>Digital Project Manager (CONXION)</title>
+    <updated>2025-12-03T16:09:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-pm-slice="1 1 []"&gt;Userfull Powered by ConXioN is op zoek naar een breed inzetbare Project Manager voor de opvolging van IT projecten. Userfull maakt deel uit van de 
+&lt;strong&gt;ConXion-Groep&lt;/strong&gt; en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;Als Project Manager benader je projecten vanuit de functioneel perspectief. Je laat de noden van de klant en de mogelijkheden inzake technische uitwerking samensmelten. Onze Project Manager staat in voor projectanalyse en waakt over de scope, planning en budget van het project.&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="EN-GB"&gt;Jouw day to day als Project Manager:&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je ondersteunt onze klant bij het detecteren van hun noden en implementatie van technische oplossingen.&lt;/li&gt; 
+&lt;li&gt;Je staat in voor de projectcoördinatie van boeiende IT-projecten gebaseerd op jouw expertise en interesseveld.&lt;/li&gt; 
+&lt;li&gt;Je volgt de scope, budget, planning, resources, risico’s en kwaliteit van dichtbij op.&lt;/li&gt; 
+&lt;li&gt;Je verzekert een nauwe samenwerking met de klant, onze technische experten, het sales team en andere betrokkenen.&lt;/li&gt; 
+&lt;li&gt;Userfull werkt samen als één geheel. Waar nodig ben je gemotiveerd om andere teams te ondersteunen met taken die afwijken van jouw focus als Project Manager.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je hebt ervaring in een projectmanagement-context.&lt;/li&gt; 
+&lt;li&gt;Je bent communicatief, hebt ervaring met stakeholdermanagement én bent in staat de wensen van de klant samen te brengen met een gepaste planning en budget.&lt;/li&gt; 
+&lt;li&gt;Je kan integrerend werken en bent in staat een helicopterview te behouden over het project. Indien nodig zet je een stap terug om tot de gepaste oplossing te komen.&lt;/li&gt; 
+&lt;li&gt;Je hebt talent voor plannen en organiseren en kan dit staven vanuit eerdere werkervaringen.&lt;/li&gt; 
+&lt;li&gt;Je gaat analytisch te werk en hebt een probleemoplossende instelling.&lt;/li&gt; 
+&lt;li&gt;Ervaring met projectmanagement methodologie (zoals Six Sigma of Prince 2) is een pluspunt.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij Userfull Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Je komt terecht in een omgeving met oog voor groei, samenwerken en autonomie. Ook snel schakelen en snelle beslissingen behoren tot ons DNA.&lt;/li&gt; 
+&lt;li&gt;Een carrièrepad met zowel horizontale als verticale doorgroeimogelijkheden: technisch, functioneel of commercieel.&lt;/li&gt; 
+&lt;li&gt;De kans om te werken in een rol dicht bij de klant, met afwisseling tussen configuratie, documentatie, opleiding en oog voor innovatie.&lt;/li&gt; 
+&lt;li&gt;Marktconforme verloning en extralegale voordelen zoals maaltijdcheques, verzekeringen, thuiswerkvergoeding, 12 ADV-dagen en een wagen of mobiliteitsbudget.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72552290"/>
+    <published>2025-12-03T16:09:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72552301</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2025-12-03T16:09:49+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
+&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
+&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
+&lt;span&gt;data warehouses&lt;/span&gt; naar de 
+&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van 
+&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de 
+&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in 
+&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72552301"/>
+    <published>2025-12-03T16:09:49+00:00</published>
   </entry>
 </feed>
