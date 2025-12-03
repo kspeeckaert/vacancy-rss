@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-12-03T12:42:59.606676+00:00</updated>
+  <updated>2025-12-03T14:23:56.329919+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-governance-engineer/</id>
+    <title>Data Governance Engineer</title>
+    <updated>2025-12-03T12:44:49+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oude Brusselsestraat 14, 2800, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-12-03 13:44:49+00:00, last change 2025-12-03 12:44:49+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-12-03 13:44:49+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p style="margin-bottom:10pt; margin-left:0cm; margin-right:0cm; margin-top:24pt"&gt;&lt;span style="font-size:12px"&gt;&lt;span style="color:#252827"&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br /&gt;
+Je komt terecht bij een snelgroeiende speler in de datawereld waar ondernemerschap, samenwerking en initiatief centraal staan. Het team bestaat uit jonge, gedreven professionals die elkaar versterken en samen complexe uitdagingen aangaan. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:12px"&gt;Je bouwt van a tot z mee aan oplossingen voor toonaangevende klanten. Er is veel aandacht voor jouw persoonlijke groei: je carrièrepad wordt actief mee vormgegeven via coaching, kennisdeling en uitdagende projecten.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:#252827"&gt;&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+Als &lt;strong&gt;Data Governance Engineer&lt;/strong&gt; fungeer je als de essentiële &lt;strong&gt;technische schakel tussen business stakeholders en technische teams&lt;/strong&gt;. In tegenstelling tot een klassieke data engineer draait deze rol niet om puur programmeren, maar om &lt;strong&gt;communicatie, inzicht, validatie en configuratie&lt;/strong&gt; binnen data governance trajecten.&lt;br /&gt;
+Je bouwt en onderhoudt &lt;strong&gt;connecties tussen databronnen en data governance tools&lt;/strong&gt; (zoals Collibra), zet pipelines op, voert validaties uit met de business en past technische configuraties aan in de tool. Je begrijpt hoe data stroomt, wat de business nodig heeft en hoe je technische oplossingen correct vertaalt naar een begrijpbaar verhaal.&lt;br /&gt;
+Linux, cloudservices en Kubernetes vormen de onderliggende infrastructuur van de technische omgeving waarin je werkt. Python gebruik je voor analyses, integraties en het bouwen van custom scripts binnen het governance-ecosysteem. Je komt bij uiteenlopende klanten terecht (o.a. KLM, UCB, BNG) waardoor flexibiliteit, zelfstandigheid en ownership belangrijk zijn.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Kort samengevat:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je bouwt en beheert data-integraties tussen verschillende databronnen en Collibra (via connectors, API’s en custom scripts).&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je valideert de kwaliteit en representatie van data in Collibra en voert de nodige aanpassingen of herconfiguraties door.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je configureert en optimaliseert workflows, connectors en integraties binnen het governance-platform.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je voert technische analyses uit met Python, API-koppelingen en cloud-native functies.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je ondersteunt klanten bij het inzichtelijk maken van data lineage, ownership-structuren en bredere governance-processen.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je begeleidt projecten van requirements-gathering tot implementatie en onderhoudt nauw en helder contact met zowel business- als technische stakeholders.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:12px"&gt;Je verdwijnt nooit volledig in de code, je rol is een 40/60 mix tussen techniek en interactie. Je werkt nauw samen met een ervaren team, waarbij je veel ruimte krijgt voor autonomie, initiatief en eigen inbreng.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Voorbeeld projecten: &lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;KLM – Cloud migratie &amp;amp; Collibra integraties&lt;/strong&gt;&lt;br /&gt;
+Migraties van on-prem naar cloud, opzetten van connecties, validaties, het draaien van Collibra Edge op Kubernetes, Linux servers configureren, troubleshooting in complexe omgevingen.&lt;br /&gt;
+&lt;strong&gt;UCB – Custom integraties &amp;amp; API-koppelingen&lt;/strong&gt;&lt;br /&gt;
+Ontwikkeling van Python-scripts om data uit verschillende bronnen uit te lezen en correct weg te schrijven naar Collibra. Installatie en configuratie van custom connectors, gecombineerd met diepgaande technische analyses om foutmeldingen en inconsistenties in datastromen te identificeren en op te lossen.&lt;br /&gt;
+&lt;br /&gt;
+Afhankelijk van de klantcontext verschuift de focus: soms voornamelijk technisch, soms meer richting projectmanagement of validatie, en in andere gevallen vooral op integraties of het oplossen van datakwaliteitsissues. Hierdoor ontstaan uiteenlopende en inhoudelijk rijke trajecten.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:#252827"&gt;&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je hebt 2–5 jaar ervaring in data, consulting of een servicegerichte omgeving.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je hebt ervaring met, of een sterke interesse in, data-governance tooling zoals Collibra, Soda, Informatica of Preview.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je hebt een goede basis in Python, API-integraties en algemene cloudconcepten (AWS, Azure of GCP).&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je hebt ervaring of affiniteit met Linux, Docker, Kubernetes, cloud functions (zoals Lambda, Azure Functions of Cloud Functions) en bij voorkeur ook Java.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je begrijpt databanken en SQL; kennis van Cosmos DB, BigQuery, Synapse, Redshift of Dataplex is mooi meegenomen.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je bent communicatief sterk, analytisch en in staat om technische concepten helder uit te leggen aan niet-technische stakeholders.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt 36.0pt;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12px"&gt;Je beschikt over een bachelor of masterdiploma.&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:12px"&gt;&lt;strong&gt;&lt;span style="color:#252827"&gt;AANBOD:&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+Je komt terecht in een dynamische organisatie waar de beslissingslijnen kort zijn. Naast een aantrekkelijk salarispakket krijg je de ruimte om ownership te nemen, te groeien binnen jouw expertise en actief bij te dragen aan slimme, toekomstgerichte oplossingen.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Herken jij jou in deze functie? Stuur nu jouw CV naar lise@cartiere.be en &lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;bel +32 3 343 94 94 voor meer informatie.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-governance-engineer/"/>
+    <category term="Data Governance"/>
+    <published>2025-12-03T13:44:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/mlops-engineer/</id>
     <title>MLOps Engineer</title>
