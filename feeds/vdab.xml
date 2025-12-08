@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-08T13:03:02.075518+00:00</updated>
+  <updated>2025-12-08T14:44:01.325912+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3491,36 +3491,6 @@ Concreet omvat jouw functie:
     <published>2025-12-03T15:58:55+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72552290</id>
-    <title>Digital Project Manager (CONXION)</title>
-    <updated>2025-12-03T16:09:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-pm-slice="1 1 []"&gt;Userfull Powered by ConXioN is op zoek naar een breed inzetbare Project Manager voor de opvolging van IT projecten. Userfull maakt deel uit van de 
-&lt;strong&gt;ConXion-Groep&lt;/strong&gt; en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;Als Project Manager benader je projecten vanuit de functioneel perspectief. Je laat de noden van de klant en de mogelijkheden inzake technische uitwerking samensmelten. Onze Project Manager staat in voor projectanalyse en waakt over de scope, planning en budget van het project.&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="EN-GB"&gt;Jouw day to day als Project Manager:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je ondersteunt onze klant bij het detecteren van hun noden en implementatie van technische oplossingen.&lt;/li&gt; 
-&lt;li&gt;Je staat in voor de projectcoördinatie van boeiende IT-projecten gebaseerd op jouw expertise en interesseveld.&lt;/li&gt; 
-&lt;li&gt;Je volgt de scope, budget, planning, resources, risico’s en kwaliteit van dichtbij op.&lt;/li&gt; 
-&lt;li&gt;Je verzekert een nauwe samenwerking met de klant, onze technische experten, het sales team en andere betrokkenen.&lt;/li&gt; 
-&lt;li&gt;Userfull werkt samen als één geheel. Waar nodig ben je gemotiveerd om andere teams te ondersteunen met taken die afwijken van jouw focus als Project Manager.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je hebt ervaring in een projectmanagement-context.&lt;/li&gt; 
-&lt;li&gt;Je bent communicatief, hebt ervaring met stakeholdermanagement én bent in staat de wensen van de klant samen te brengen met een gepaste planning en budget.&lt;/li&gt; 
-&lt;li&gt;Je kan integrerend werken en bent in staat een helicopterview te behouden over het project. Indien nodig zet je een stap terug om tot de gepaste oplossing te komen.&lt;/li&gt; 
-&lt;li&gt;Je hebt talent voor plannen en organiseren en kan dit staven vanuit eerdere werkervaringen.&lt;/li&gt; 
-&lt;li&gt;Je gaat analytisch te werk en hebt een probleemoplossende instelling.&lt;/li&gt; 
-&lt;li&gt;Ervaring met projectmanagement methodologie (zoals Six Sigma of Prince 2) is een pluspunt.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij Userfull Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;Je komt terecht in een omgeving met oog voor groei, samenwerken en autonomie. Ook snel schakelen en snelle beslissingen behoren tot ons DNA.&lt;/li&gt; 
-&lt;li&gt;Een carrièrepad met zowel horizontale als verticale doorgroeimogelijkheden: technisch, functioneel of commercieel.&lt;/li&gt; 
-&lt;li&gt;De kans om te werken in een rol dicht bij de klant, met afwisseling tussen configuratie, documentatie, opleiding en oog voor innovatie.&lt;/li&gt; 
-&lt;li&gt;Marktconforme verloning en extralegale voordelen zoals maaltijdcheques, verzekeringen, thuiswerkvergoeding, 12 ADV-dagen en een wagen of mobiliteitsbudget.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72552290"/>
-    <published>2025-12-03T16:09:04+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72552301</id>
     <title>Senior Data Engineer (CONXION)</title>
     <updated>2025-12-03T16:09:49+00:00</updated>
@@ -3670,5 +3640,64 @@ Concreet omvat jouw functie:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en&amp;#160;oplossingen ontwerpt, bouwt en optimaliseert. Je denkt&amp;#160;mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team.&amp;#160;Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk.&amp;#160;Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen + tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm + abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk +3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72572628"/>
     <published>2025-12-05T16:54:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72581501</id>
+    <title>Senior Service Desk Engineer (CONXION)</title>
+    <updated>2025-12-08T14:55:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bieden van 
+&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
+&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Configureren van 
+&lt;span&gt;Microsoft 365&lt;/span&gt; en 
+&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt al een sterke ervaring met 
+&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt uitstekende 
+&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan vlot communiceren in het 
+&lt;strong&gt;Nederlands&lt;/strong&gt; en 
+&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72581501"/>
+    <published>2025-12-08T14:55:04+00:00</published>
   </entry>
 </feed>
