@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-10T14:45:45.463134+00:00</updated>
+  <updated>2025-12-10T16:50:32.933030+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3322,171 +3322,6 @@ Concreet omvat jouw functie:
     <published>2025-12-02T09:04:54+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72552234</id>
-    <title>System Engineer (CONXION)</title>
-    <updated>2025-12-03T16:04:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als System Engineer ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw day to day als System Engineer:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
-&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
-&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
-&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
-&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
-&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Certificeringen&lt;/p&gt; 
-&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
-&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
-&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72552234"/>
-    <published>2025-12-03T16:04:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72552165</id>
-    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
-    <updated>2025-12-03T15:58:55+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
-&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
-&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
-&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
-&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
-&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
-&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
-&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
-&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
-&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
-&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
-&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
-&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
-&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
-&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72552165"/>
-    <published>2025-12-03T15:58:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72552301</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2025-12-03T16:09:49+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72552301"/>
-    <published>2025-12-03T16:09:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72558785</id>
     <title>Teamlead BI (Robert Half)</title>
     <updated>2025-12-04T11:44:11+00:00</updated>
@@ -3575,9 +3410,127 @@ Concreet omvat jouw functie:
     <published>2025-12-05T16:54:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72581501</id>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72593149</id>
+    <title>Marketing Business Partner (Sopra Steria)</title>
+    <updated>2025-12-10T08:59:28+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;As &lt;strong&gt;Business Partner Marketing&lt;/strong&gt;, you are a senior strategic advisor who understands the business, anticipates commercial needs and turns insight into impactful marketing strategies/campaigns. You work as a sparring partner to business lines, challenging assumptions and guiding decisions to drive growth, strengthen our brand and improve client experience.&lt;/p&gt;&lt;p&gt;Closely partnering with the Marketing Director, you translate overall strategy into local execution, leading projects that generate qualified opportunities and directly support revenue. You collaborate with sales, consultants, business leaders and group marketing to ensure aligned, insight-led marketing that becomes a true engine for growth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Act as a strategic marketing advisor to business leaders, shaping commercial and strategic decisions with data-driven insight.&lt;/li&gt;&lt;li&gt;Translate business priorities into targeted marketing plans aligned with global strategy and brand direction.&lt;/li&gt;&lt;li&gt;Gather and analyse market intelligence to identify customer needs, competitor activity, trends, risks and growth opportunities.&lt;/li&gt;&lt;li&gt;Design, execute and optimise end-to-end marketing campaigns that support commercial goals and deliver measurable impact.&lt;/li&gt;&lt;li&gt;Coordinate and influence cross-functional stakeholders to ensure alignment, high-quality execution and adoption of insight-led marketing.&lt;/li&gt;&lt;li&gt;Provide clear reporting and performance evaluation of campaigns, KPIs, risks, opportunities and business impact.&lt;/li&gt;&lt;li&gt;Strengthen collaboration and communication between sales, business units, group marketing and external partners.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Senior marketing/business partnering professional with 8+ years of experience, ideally in B2B or professional services.&lt;/li&gt;&lt;li&gt;Holds a Bachelor’s or Master’s degree in Marketing, Business, Economics, or related field.&lt;/li&gt;&lt;li&gt;Fluent in English and Dutch; French is a plus.&lt;/li&gt;&lt;li&gt;Strong track record in campaign and project management, with excellent cross-functional stakeholder collaboration.&lt;/li&gt;&lt;li&gt;Skilled in stakeholder management, influencing at all organizational levels.&lt;/li&gt;&lt;li&gt;Able to translate data and insights into clear, actionable strategies.&lt;/li&gt;&lt;li&gt;Strong analytical, conceptual thinking, and storytelling/communication abilities.&lt;/li&gt;&lt;li&gt;Proficient in CRM, marketing automation, and digital marketing tools.&lt;/li&gt;&lt;li&gt;Proactive, improvement-driven, and focused on measurable impact.&lt;/li&gt;&lt;li&gt;Comfortable working across countries (Belgium/Luxembourg) and in a fast-changing, transforming environment.&lt;/li&gt;&lt;li&gt;&lt;p&gt;A resilient problem solver who thrives under change and complexity.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;This is what you’ll get from us&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the MarCom department, you’ll be at the heart of one of the key driving forces, operating across divisions and countries. You’ll balance long-term company ambitions with impactful short-term results.&lt;/p&gt;&lt;p&gt;We offer a strong employee benefits package including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Company car or mobility budget, insurance coverage, meal vouchers, eco vouchers, 12 additional holidays due to 40h work week, and more.&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you are ready to shape the world with us and take your career to the next level, we encourage you to apply!&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72593149"/>
+    <published>2025-12-10T08:59:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72593139</id>
+    <title>Service Delivery Manager  (Sopra Steria)</title>
+    <updated>2025-12-10T08:56:36+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The Service Delivery Manager is a business relationship manager. You would be responsible for maintaining strong relationships with customers and ensuring high-quality service delivery. This role focuses on defining and monitoring Service Level Agreements (SLAs), driving operational automation, and optimizing the utilization of technical and human resources. The SDM also identify new technical and business opportunities to expand the scope of managed services.&lt;/p&gt;&lt;p&gt;Key responsibilities include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Acting as the primary liaison between customers and operational teams, representing customer interests internally while safeguarding company priorities.&lt;/li&gt;&lt;li&gt;Managing operational accounts, reviewing tickets and requests, and ensuring alignment with customer expectations.&lt;/li&gt;&lt;li&gt;Preparing and validating monthly Service Level Reports and presenting them during steering committee meetings.&lt;/li&gt;&lt;li&gt;Reporting risks, issues, and business opportunities to internal stakeholders.&lt;/li&gt;&lt;li&gt;Overseeing invoicing processes, ensuring accuracy and timely payment follow-up.&lt;/li&gt;&lt;li&gt;Ensuring service delivery in compliance with contractual agreements and ITIL processes.&lt;/li&gt;&lt;li&gt;Driving Continuous Service Improvement (CSI) initiatives to enhance efficiency and quality.&lt;/li&gt;&lt;li&gt;Managing risks—operational, financial, and project-related.&lt;/li&gt;&lt;li&gt;Handling critical incidents (including outside business hours) and coordinating resolution efforts.&lt;/li&gt;&lt;li&gt;Managing change requests and small to medium-sized projects (up to approximately 100 days), including planning, cost estimation, and P&amp;amp;L accountability.&lt;/li&gt;&lt;li&gt;Supporting pre-sales activities by validating service offers and accompanying sales teams when needed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Master’s degree in a relevant field (e.g., commercial/civil engineering, computer science) or equivalent professional experience.&lt;/li&gt;&lt;li&gt;Strong pre-sales and commercial skills, including consultative selling and proposal writing.&lt;/li&gt;&lt;li&gt;Excellent written and verbal communication and presentation skills.&lt;/li&gt;&lt;li&gt;Language proficiency: Fluent in &lt;strong&gt;French, English &lt;/strong&gt;and&amp;nbsp;&lt;strong&gt;Dutch&lt;/strong&gt; fluency required&amp;nbsp;&lt;/li&gt;&lt;li&gt;Customer-oriented mindset with a strong sense of commitment.&lt;/li&gt;&lt;li&gt;Ability to think conceptually while maintaining a pragmatic approach.&lt;/li&gt;&lt;li&gt;ITIL v4 certification or equivalent.&lt;/li&gt;&lt;li&gt;Knowledge of Agile or other project management methodologies.&lt;/li&gt;&lt;li&gt;Assertive communication style and adaptability to different audiences.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Strong organizational and problem-solving skills.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;As a member of one of Europe’s largest digital solutions providers, you’ll benefit from extensive career development opportunities, both local and international. At the Sopra Steria Academy, you’ll be part of a dynamic network of 56,000 professionals at all stages of their careers. With a wide array of offices to explore, you can find your ideal location and take the next step in your career.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;We offer a generous employee benefits package that includes:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Access to our Sopra Steria training and personal development academy&lt;/li&gt;&lt;li&gt;A company car lease or mobility budget&lt;/li&gt;&lt;li&gt;A company laptop and phone&lt;/li&gt;&lt;li&gt;Private health insurance coverage&lt;/li&gt;&lt;li&gt;Meal vouchers&lt;/li&gt;&lt;li&gt;Social security and pension plan&lt;/li&gt;&lt;li&gt;A competitive salary&lt;/li&gt;&lt;li&gt;26 holiday days&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sopra Steria is implementing the tools of the future today at the world’s largest businesses across industry and financial services. By being bold together, our professionals are changing how business is done.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ready to take the next step?&lt;/strong&gt; We’re here to support you all the way and we are looking forward to you application! Pending a successful application, we’ll be in touch with further steps in the application process.&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72593139"/>
+    <published>2025-12-10T08:56:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72597307</id>
+    <title>System Engineer (CONXION)</title>
+    <updated>2025-12-10T15:50:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als System Engineer ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw day to day als System Engineer:&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
+&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
+&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
+&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
+&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
+&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Certificeringen&lt;/p&gt; 
+&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
+&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
+&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72597307"/>
+    <published>2025-12-10T15:50:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72597233</id>
+    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
+    <updated>2025-12-10T15:47:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
+&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
+&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
+&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
+&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
+&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
+&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
+&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
+&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
+&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
+&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
+&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
+&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
+&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
+&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
+&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
+&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72597233"/>
+    <published>2025-12-10T15:47:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72597666</id>
     <title>Senior Service Desk Engineer (CONXION)</title>
-    <updated>2025-12-08T14:55:04+00:00</updated>
+    <updated>2025-12-10T16:29:19+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
 &lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
 &lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
@@ -3630,23 +3583,70 @@ Concreet omvat jouw functie:
 &lt;p&gt; &lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72581501"/>
-    <published>2025-12-08T14:55:04+00:00</published>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72597666"/>
+    <published>2025-12-10T16:29:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72593149</id>
-    <title>Marketing Business Partner (Sopra Steria)</title>
-    <updated>2025-12-10T08:59:28+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;As &lt;strong&gt;Business Partner Marketing&lt;/strong&gt;, you are a senior strategic advisor who understands the business, anticipates commercial needs and turns insight into impactful marketing strategies/campaigns. You work as a sparring partner to business lines, challenging assumptions and guiding decisions to drive growth, strengthen our brand and improve client experience.&lt;/p&gt;&lt;p&gt;Closely partnering with the Marketing Director, you translate overall strategy into local execution, leading projects that generate qualified opportunities and directly support revenue. You collaborate with sales, consultants, business leaders and group marketing to ensure aligned, insight-led marketing that becomes a true engine for growth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Act as a strategic marketing advisor to business leaders, shaping commercial and strategic decisions with data-driven insight.&lt;/li&gt;&lt;li&gt;Translate business priorities into targeted marketing plans aligned with global strategy and brand direction.&lt;/li&gt;&lt;li&gt;Gather and analyse market intelligence to identify customer needs, competitor activity, trends, risks and growth opportunities.&lt;/li&gt;&lt;li&gt;Design, execute and optimise end-to-end marketing campaigns that support commercial goals and deliver measurable impact.&lt;/li&gt;&lt;li&gt;Coordinate and influence cross-functional stakeholders to ensure alignment, high-quality execution and adoption of insight-led marketing.&lt;/li&gt;&lt;li&gt;Provide clear reporting and performance evaluation of campaigns, KPIs, risks, opportunities and business impact.&lt;/li&gt;&lt;li&gt;Strengthen collaboration and communication between sales, business units, group marketing and external partners.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Senior marketing/business partnering professional with 8+ years of experience, ideally in B2B or professional services.&lt;/li&gt;&lt;li&gt;Holds a Bachelor’s or Master’s degree in Marketing, Business, Economics, or related field.&lt;/li&gt;&lt;li&gt;Fluent in English and Dutch; French is a plus.&lt;/li&gt;&lt;li&gt;Strong track record in campaign and project management, with excellent cross-functional stakeholder collaboration.&lt;/li&gt;&lt;li&gt;Skilled in stakeholder management, influencing at all organizational levels.&lt;/li&gt;&lt;li&gt;Able to translate data and insights into clear, actionable strategies.&lt;/li&gt;&lt;li&gt;Strong analytical, conceptual thinking, and storytelling/communication abilities.&lt;/li&gt;&lt;li&gt;Proficient in CRM, marketing automation, and digital marketing tools.&lt;/li&gt;&lt;li&gt;Proactive, improvement-driven, and focused on measurable impact.&lt;/li&gt;&lt;li&gt;Comfortable working across countries (Belgium/Luxembourg) and in a fast-changing, transforming environment.&lt;/li&gt;&lt;li&gt;&lt;p&gt;A resilient problem solver who thrives under change and complexity.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;This is what you’ll get from us&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the MarCom department, you’ll be at the heart of one of the key driving forces, operating across divisions and countries. You’ll balance long-term company ambitions with impactful short-term results.&lt;/p&gt;&lt;p&gt;We offer a strong employee benefits package including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Company car or mobility budget, insurance coverage, meal vouchers, eco vouchers, 12 additional holidays due to 40h work week, and more.&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you are ready to shape the world with us and take your career to the next level, we encourage you to apply!&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72593149"/>
-    <published>2025-12-10T08:59:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72593139</id>
-    <title>Service Delivery Manager  (Sopra Steria)</title>
-    <updated>2025-12-10T08:56:36+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The Service Delivery Manager is a business relationship manager. You would be responsible for maintaining strong relationships with customers and ensuring high-quality service delivery. This role focuses on defining and monitoring Service Level Agreements (SLAs), driving operational automation, and optimizing the utilization of technical and human resources. The SDM also identify new technical and business opportunities to expand the scope of managed services.&lt;/p&gt;&lt;p&gt;Key responsibilities include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Acting as the primary liaison between customers and operational teams, representing customer interests internally while safeguarding company priorities.&lt;/li&gt;&lt;li&gt;Managing operational accounts, reviewing tickets and requests, and ensuring alignment with customer expectations.&lt;/li&gt;&lt;li&gt;Preparing and validating monthly Service Level Reports and presenting them during steering committee meetings.&lt;/li&gt;&lt;li&gt;Reporting risks, issues, and business opportunities to internal stakeholders.&lt;/li&gt;&lt;li&gt;Overseeing invoicing processes, ensuring accuracy and timely payment follow-up.&lt;/li&gt;&lt;li&gt;Ensuring service delivery in compliance with contractual agreements and ITIL processes.&lt;/li&gt;&lt;li&gt;Driving Continuous Service Improvement (CSI) initiatives to enhance efficiency and quality.&lt;/li&gt;&lt;li&gt;Managing risks—operational, financial, and project-related.&lt;/li&gt;&lt;li&gt;Handling critical incidents (including outside business hours) and coordinating resolution efforts.&lt;/li&gt;&lt;li&gt;Managing change requests and small to medium-sized projects (up to approximately 100 days), including planning, cost estimation, and P&amp;amp;L accountability.&lt;/li&gt;&lt;li&gt;Supporting pre-sales activities by validating service offers and accompanying sales teams when needed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Master’s degree in a relevant field (e.g., commercial/civil engineering, computer science) or equivalent professional experience.&lt;/li&gt;&lt;li&gt;Strong pre-sales and commercial skills, including consultative selling and proposal writing.&lt;/li&gt;&lt;li&gt;Excellent written and verbal communication and presentation skills.&lt;/li&gt;&lt;li&gt;Language proficiency: Fluent in &lt;strong&gt;French, English &lt;/strong&gt;and&amp;nbsp;&lt;strong&gt;Dutch&lt;/strong&gt; fluency required&amp;nbsp;&lt;/li&gt;&lt;li&gt;Customer-oriented mindset with a strong sense of commitment.&lt;/li&gt;&lt;li&gt;Ability to think conceptually while maintaining a pragmatic approach.&lt;/li&gt;&lt;li&gt;ITIL v4 certification or equivalent.&lt;/li&gt;&lt;li&gt;Knowledge of Agile or other project management methodologies.&lt;/li&gt;&lt;li&gt;Assertive communication style and adaptability to different audiences.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Strong organizational and problem-solving skills.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;As a member of one of Europe’s largest digital solutions providers, you’ll benefit from extensive career development opportunities, both local and international. At the Sopra Steria Academy, you’ll be part of a dynamic network of 56,000 professionals at all stages of their careers. With a wide array of offices to explore, you can find your ideal location and take the next step in your career.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;We offer a generous employee benefits package that includes:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Access to our Sopra Steria training and personal development academy&lt;/li&gt;&lt;li&gt;A company car lease or mobility budget&lt;/li&gt;&lt;li&gt;A company laptop and phone&lt;/li&gt;&lt;li&gt;Private health insurance coverage&lt;/li&gt;&lt;li&gt;Meal vouchers&lt;/li&gt;&lt;li&gt;Social security and pension plan&lt;/li&gt;&lt;li&gt;A competitive salary&lt;/li&gt;&lt;li&gt;26 holiday days&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sopra Steria is implementing the tools of the future today at the world’s largest businesses across industry and financial services. By being bold together, our professionals are changing how business is done.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ready to take the next step?&lt;/strong&gt; We’re here to support you all the way and we are looking forward to you application! Pending a successful application, we’ll be in touch with further steps in the application process.&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72593139"/>
-    <published>2025-12-10T08:56:36+00:00</published>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72597372</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2025-12-10T15:56:59+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
+&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
+&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
+&lt;span&gt;data warehouses&lt;/span&gt; naar de 
+&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van 
+&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de 
+&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in 
+&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72597372"/>
+    <published>2025-12-10T15:56:59+00:00</published>
   </entry>
 </feed>
