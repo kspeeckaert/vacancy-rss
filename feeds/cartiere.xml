@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-12-10T12:43:29.467052+00:00</updated>
+  <updated>2025-12-10T14:25:46.210864+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -494,6 +494,46 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <link href="https://www.cartiere.be/jobs/data-insights-specialist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-10-24T08:43:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineer-5/</id>
+    <title>Data Engineer</title>
+    <updated>2025-11-19T07:10:17+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Brussels-Capital Region, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-19 08:10:17+00:00, last change 2025-11-19 07:10:17+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-19 08:10:17+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;BEDRIJF:&lt;/p&gt;
+
+&lt;p&gt;Deze digitale techspeler bouwt aan innovatieve platformen die dagelijks door een miljoenenpubliek worden gebruikt. Ze combineren de wendbaarheid van een scale-up met de stabiliteit en middelen van een gevestigde groep, gedreven door een sterke focus op lokale en exclusieve content. Het gebruik van hun platformen genereert een rijke stroom aan data die cruciaal is voor personalisatie, productoptimalisatie en strategische beslissingen. Om dit datalandschap verder te versterken, kijken ze uit naar een Data Engineer die graag werkt met moderne technologie en een uitgesproken data-gedreven aanpak. In deze rol neem je ownership over schaalbare datapipelines, denk je mee over de architectuur en zorg je ervoor dat data performant, betrouwbaar en end- to-end beschikbaar is voor analytics, ML-toepassingen en andere businesskritische processen.&lt;/p&gt;
+
+&lt;p&gt;JOBOMSCHRIJVING:&lt;/p&gt;
+
+&lt;p&gt;In deze rol bouw je aan een modern, cloud-based dataplatform dat een miljoenenpubliek bedient. Je ontwikkelt schaalbare datapipelines, bewaakt de performantie van het platform en zorgt voor een robuuste, end-to-end datastroom voor analytics en ML-toepassingen.&lt;/p&gt;
+
+&lt;p&gt;Wat deze job uniek maakt? Je werkt samen met twee topconsultants van een hightechbedrijf. Experts op senior niveau. Jij groeit uit tot de technische lead die hen op termijn aanstuurt en het bedrijf adviseert over het volledige data- engineeringluik. Een uitzonderlijke kans om inhoudelijke leadership op te nemen in een omgeving met enorme impact.&lt;/p&gt;
+
+&lt;p&gt;Je schakelt rechtstreeks met business-, product- en marketingteams en vertaalt hun noden naar sterke technische oplossingen. Je werkt aan projecten die voelbaar zijn in de gebruikerservaring en waarmee je het dataplatform naar het volgende niveau tilt.&lt;/p&gt;
+
+&lt;p&gt;PROFIEL:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt 2-3 jaar ervaring als Data Engineer.
+	&lt;li&gt;Je hebt ervaring met het bouwen van datapipelines in een cloudomgeving (AWS, kennis van GCP of Azure is zeker oké).
+	&lt;li&gt;Je beschikt over sterke SQL-vaardigheden. 
+	&lt;li&gt;Je houdt van autonomie, neemt graag ownership en werkt graag in een omgeving waar technologie, content en creativiteit samenkomen.
+&lt;/ul&gt;
+
+&lt;p&gt;AANBOD:&lt;/p&gt;
+
+&lt;p&gt;In deze rol maak je een tastbare impact op digitale producten die dagelijks door een groot publiek worden gebruikt. Je werkt in een innovatieve en snelgroeiende tech-omgeving met een moderne data stack, waar jouw expertise het verschil maakt.&lt;/p&gt;
+
+&lt;p&gt;Bovendien kan je doorgroeien naar een technische leadfunctie, waarbij je het bedrijf adviseert op technologisch vlak en zowel high-end consultants als interne data professionals aanstuurt. Dit alles binnen een hecht, mensgericht team waar samenwerking, leren en groeien centraal staan.&lt;/p&gt;
+
+&lt;p&gt;De cultuur geeft je veel autonomie en verantwoordelijkheid: jouw ideeën wegen door en je krijgt de ruimte om ze om te zetten in oplossingen die dingen in beweging zetten. Je komt terecht in een organisatie die data als strategisch kompas gebruikt en daar volop in investeert.&lt;/p&gt;
+
+&lt;p style="text-align: center;"&gt;&lt;em&gt;Herken jij jou in deze functie?&lt;br&gt;
+Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie. Bekijk onze website www.cartiere.be voor meer Data &amp; AI vacatures.&lt;/em&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-engineer-5/"/>
+    <category term="Data Engineering"/>
+    <published>2025-11-19T08:10:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/bi-developer/</id>
