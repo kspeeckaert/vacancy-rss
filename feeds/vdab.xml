@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-11T18:51:25.010007+00:00</updated>
+  <updated>2025-12-11T20:45:41.393492+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3582,5 +3582,50 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Visser &amp;amp; Van Baars (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Over het bedrijf&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Deze internationale organisatie is een toonaangevende speler in logistieke en maritieme oplossingen binnen Europa. Met een sterk netwerk, een duidelijke duurzaamheidsvisie en duizenden medewerkers biedt zij betrouwbare en toekomstgerichte dienstverlening in een dynamische omgeving. De onderneming is gevestigd in de regio Berchem.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Takenpakket&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Je ontwikkelt en beheert end-to-end data pipelines richting het datawarehouse en de medallion-architectuur. Je bouwt en optimaliseert ETL-processen en zorgt voor stabiele, geautomatiseerde datastromen. Je werkt met een Azure-gebaseerd platform (o.a. Databricks, Data Factory en EventHub) en automatiseert infrastructuur via Terraform. Daarnaast ontwerp je datamodellen, bewaak je datakwaliteit en werk je nauw samen met data-analisten, developers en business stakeholders.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;br&gt;&lt;br&gt;* Minimaal 5 jaar ervaring met Azure data services (Data Factory, Databricks, EventHub)&lt;br&gt;* Sterke kennis van Python, SQL, dbt en Azure DevOps&lt;br&gt;* Grondige kennis van datamodellering (Inmon, Kimball, DataVault)&lt;br&gt;* Sterk analytisch en conceptueel denkvermogen&lt;br&gt;* Ervaring met end-to-end data pipelines en DWH-architecturen&lt;br&gt;* Proactief, kwaliteitsgericht en sterk in automatisering&lt;br&gt;* Goede communicatieve vaardigheden naar zowel technische als business stakeholders&lt;br&gt;* Uitstekende kennis van het Nederlands is een absolute vereiste&lt;br&gt;* Hands-on mentaliteit met een gestructureerde manier van werken&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Het aanbod&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Je krijgt een vaste functie binnen een stabiele en groeiende organisatie. Je ontvangt een competitief salaris, aangevuld met extralegale voordelen zoals maaltijd- en ecocheques, bonussen, thuiswerkvergoeding en uitgebreide verzekeringen. Daarnaast wordt een bedrijfswagen met tankkaart voorzien, met de optie tot elektrisch rijden.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72600564"/>
     <published>2025-12-11T08:55:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72606733</id>
+    <title>Senior Projectleider (BAKKER BELGIUM)</title>
+    <updated>2025-12-11T20:41:05+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: BAKKER BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor deze functie zoeken we een ervaren projectleider die brede projecten kan begeleiden. Je bent bekend met alle facetten van projectmanagement, maar je kent ook de omgeving waarin je opereert. Je bent dan misschien geen expert op het onderwerp, maar weet wel waar het over gaat en je bent in staat de juiste vragen te stellen om het project goed te kunnen definiëren en daarna ook te kunnen beheersen. Daarnaast neem je ook een leidinggevende rol op en stuur je de projectleiders binnen Bakker Belgium aan. Op termijn slaag je erin om het team naar een hoger niveau te tillen.&lt;/p&gt; 
+&lt;p&gt;Het 
+&lt;span&gt;huidige team&lt;/span&gt; bestaat uit 5 projectleiders die elk op diverse projecten (gaande van o.a. duurzaamheid, kantoorinrichting tot efficiëntie van bepaalde productielijnen, logistieke processen) werken binnen Bakker Belgium. Je rapporteert aan het Hoofd PMO binnen Bakker Belgium.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw taken&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Jouw verantwoordelijkheden spitsen zich toe op 2 deeldomeinen: enerzijds de aansturing van het lokale projectteam en anderzijds de uitrol van het nieuwe ERP systeem;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;In je rol als leidinggevende voor de projectleiders, stuur je dit projectteam aan, bewaak je het overzicht van de verschillende projecten en initiatieven, signaleert risico’s en handelt adequaat waar nodig; je verzorgt daarbij ook de rapportage naar het management team;&lt;/li&gt; 
+&lt;li&gt;Daarnaast ben je verantwoordelijk voor de procesmatige uitrol van het nieuwe ERP-systeem (SAP), waarbij je ook rekening houdt met het nodige change management; je kan daarbij rekenen op de steun van het centrale implementatieteam; om deze taak in goede banen te leiden, bouw je een goede kennis op van de lokale processen;&lt;/li&gt; 
+&lt;li&gt;Je begeleidt zelfstandig één of meerdere projecten, afhankelijk van de business noden;&lt;/li&gt; 
+&lt;li&gt;In deze rol is stakeholdermanagement een wezenlijk onderdeel van je taken; daarbij werk je samen met teams in België en Nederland;&lt;/li&gt; 
+&lt;li&gt;Je zorgt tevens voor een goede borging en overdracht van de projecten naar de lijnorganisatie.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je hebt minimaal een bachelor diploma behaald;&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt minimaal 5 jaren ervaring met projectmanagement;&lt;/li&gt; 
+&lt;li&gt;Je bent bekend met ERP implementaties en de impact van een dergelijke implementatie op de gebruikersorganisatie (verandermanagement);&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt ervaring met het werken en denken in processen, met procesoptimalisatie en het vertalen van de bedrijfsprocessen naar een ERP omgeving;&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je weet hoe je helder kunt communiceren en hoe je een boodschap overbrengt op verschillende niveaus bij diverse stakeholders;&lt;/li&gt; 
+&lt;li&gt;Je hebt reeds ervaring als leidinggevende en beschikt over de nodige vaardigheden voor de aansturing van autonome projectleiders;&lt;/li&gt; 
+&lt;li&gt;Je bent besluitvaardig en kunt probleemoplossend en analytisch denken;&lt;/li&gt; 
+&lt;li&gt;Je werkt georganiseerd en zorgt voor het aanbrengen van structuur, houdt grip en overzicht op de planning. Je denkt daarnaast in functie van processen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als collega bij Bakker Belgium, kom je terecht in een dynamische werkomgeving met de kans om veel te leren en jezelf te ontwikkelen.&lt;/p&gt; 
+&lt;p&gt;Je ontvangt van ons een mooi salarispakket naargelang ervaring met tal van extralegale voordelen:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Maaltijdcheques van €8/per gewerkte dag;&lt;/li&gt; 
+&lt;li&gt;Ecocheques van €250/jaar;&lt;/li&gt; 
+&lt;li&gt;Maandelijkse netto onkostenvergoeding;&lt;/li&gt; 
+&lt;li&gt;Bedrijfswagen met laadpas;&lt;/li&gt; 
+&lt;li&gt;Smartphone (inclusief abonnement) en laptop;&lt;/li&gt; 
+&lt;li&gt;Hospitalisatie- en groepsverzekering;&lt;/li&gt; 
+&lt;li&gt;30 vakantiedagen (na één jaar anciënniteit);&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om een fiets te leasen aan een voordelig tarief;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Tot slot, ben je meer dan welkom op onze leuke afterwork drinks, events,…&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Een assessment maakt deel uit van de sollicitatieprocedure.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72606733"/>
+    <published>2025-12-11T20:41:05+00:00</published>
   </entry>
 </feed>
