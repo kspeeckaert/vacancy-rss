@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-12-16T12:44:58.839640+00:00</updated>
+  <updated>2025-12-16T14:27:54.370210+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-architect-2/</id>
+    <title>Data Architect</title>
+    <updated>2025-12-15T09:20:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Herestraat 49, 3000, Flemish Brabant Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-12-15 10:20:04+00:00, last change 2025-12-15 09:20:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-12-15 10:20:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Deze organisatie is een grote, kennisgedreven instelling waar maatschappelijke relevantie, innovatie en technologische complexiteit samenkomen. Ze combineert een sterke operationele werking met onderzoek en continue verbetering, en bevindt zich vandaag in een belangrijke transformatiefase op vlak van data en digitalisering.&lt;br&gt;
+De IT- en datawerking is matuur en zeer complex, met duidelijke ambities om te evolueren naar een geïntegreerd, modern dataplatform. De cultuur is open, no-nonsense en laagdrempelig: korte lijnen, weinig hiërarchie en veel vertrouwen in expertise. Inhoud primeert. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Architect bouw je mee aan het fundament van een toekomstgericht dataplatform binnen één van de meest complexe data-omgevingen van België. Je ontwerpt de end-to-end data-architectuur: van tientallen operationele en domeinspecifieke bronsystemen tot gevalideerde datasets voor BI, analyse en toekomstige AI-toepassingen. Je hertekent historisch gegroeide structuren en leidt de migratie van een legacy DWH naar een moderne, cloud-native architectuur.&lt;br&gt;
+De rol combineert strategische architectuurkeuzes met technische betrokkenheid en uitvoering. Je werkt over domeinen heen en fungeert als brug tussen business, experten en engineering. Wat je bouwt, wordt dagelijks gebruikt en heeft directe impact op besluitvorming, processen en innovatie.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;&lt;br&gt;
+•    Minstens 5 jaar ervaring als Data Architect in een complexe organisatiecontext.&lt;br&gt;
+•    Sterk in data-architectuur, modellering en DWH-design.&lt;br&gt;
+•    Technisch onderlegd en bereid om hands-on mee te bouwen waar nodig.&lt;br&gt;
+•    Analytisch sterk, behoudt overzicht en brengt rust in complexiteit.&lt;br&gt;
+•    Communicatief vaardig en in staat om verschillende stakeholders te verbinden.&lt;br&gt;
+•    Je spreekt vloeiend Nederlands.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je werkt in een grootschalige, kennisgedreven organisatie met een sterke maatschappelijke relevantie, waar data een sleutelrol speelt in zowel operationele processen als onderzoek. De omgeving kenmerkt zich door inhoudelijke complexiteit, hoge kwaliteitsstandaarden en een grote diversiteit aan mensen, waardoor je als data architect zichtbare en betekenisvolle impact kan realiseren.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-architect-2/"/>
+    <category term="BI/Data Architect"/>
+    <published>2025-12-15T10:20:04+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/cloud-platform-engineer/</id>
     <title>Cloud Platform Engineer</title>
