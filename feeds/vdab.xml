@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-17T08:51:45.314092+00:00</updated>
+  <updated>2025-12-17T10:47:52.979123+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1317,110 +1317,6 @@
     <published>2025-10-06T11:50:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72155960</id>
-    <title>Technisch Data architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2025-12-09T08:20:08+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstige job&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer moderne technologische omgeving waar je ruimte krijgt tot groei en je potentieel te volle kan ontwikkelen. De functie bevindt zich in een aangenaam team met zeer fijne persoonlijkheden. VDAB heeft ook oog voor de worklife balance van zijn medewerkers. Een functie bij VDAB heeft ook hoog maatschappelijke belang.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;De doelstelling van een technisch data-architect is het ontwerpen, implementeren en beheren van een schaalbare, veilige en efficiënte data-architectuur die de strategische en operationele doelstellingen van een organisatie ondersteunt. Dit omvat het waarborgen van de kwaliteit, integriteit, toegankelijkheid en veiligheid van data binnen de gehele organisatie.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Team intel beschikt over een klassiek DWH en een modern dataplatform met heel veel moderne technologie. De kandidaat is succesvol als hij op een soepele manier kan manoeuvreren in dit landschap en ons mee kan helpen in de migratie van DWH richting dataplatform.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Moderne context: je komt in contact met veel moderne technologieën. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw verantwoordelijkheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ontwerpen en onderhouden van de data-architectuur&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Waarborgen van datakwaliteit, -beveiliging en compliance&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Technisch leiderschap en samenwerking&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw taken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Functioneel aansturen van de data engineers&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ontwerpen van de data-architectuur, begeleiden op technisch vlak van de solutioners&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Coachen van de data engineers&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Zorgen voor datakwaliteit, -beveiliging en compliance&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Selecteren en implementeren van technologie&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Samenwerken met stakeholders en teams&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw talenten en vaardigheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Technische Skills:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ervaring in BI en minimaal 4 jaar ervaring als technisch data architect&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Diepgaande kennis in Python,NIFI, Airflow, Spark en PySpark, Cloudera Data Platform.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Diepgaande kennis in Spark Streaming, Kafka en Kafka streams, JDK talen (java, scala, groovy, ...), javascript (angular, d3, …),&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Diepgaande kennis in event verwerking en JSON, Apache AVRO &amp;amp; Parquet, Apache Iceberg, Apache Impala, Vault Speed, SingleStore, data warehousing, data vault, lakehouse architectuur&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Helder communiceren, mondeling en schriftelijk&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Soft Skills:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Analytisch Vermogen: &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Vaardigheid in het analyseren van complexe infrastructuren en het ontwikkelen van schaalbare oplossingen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Communicatievaardigheden: &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Sterk in zowel technische als niet-technische communicatie met interne en externe partijen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Probleemoplossend Vermogen: &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Snel identificeren en oplossen van technische problemen in software architecturen&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Doelgericht: &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Een sterke focus op het behalen van doelstellingen is cruciaal.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Creativiteit: &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;Flexibiliteit en creativiteit in aanpak zijn waardevol in complexe situaties&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Waar ga je werken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je werkt 1 dag in Brussel, op wandelafstand van het station Brussel Noord.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstig team &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Team Intel bestaat uit ongeveer 40 personen opgedeeld in verschillende subteams met telkens 5-8 personen. Er zijn 2 teamleiders om alles in goeie banen te leiden. Er werken verschillende profielen binnen het team: analisten, testers, data engineers. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat jij van ons mag verwachten&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een opleidingsbudget&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een laptop&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een smartphone met abonnementsformule&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Flexibele werkuren &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;●
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstig team &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Team Intel bestaat uit ongeveer 40 personen opgedeeld in verschillende subteams met telkens 5-8 personen. Er zijn 2 teamleiders om alles in goeie banen te leiden. Er werken verschillende profielen binnen het team: analisten, testers, data engineers. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;4 redenen om bij Vlaanderen Connect te werken!&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je hebt een zichtbare impact op de samenleving.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 
-&lt;strong&gt;&lt;br /&gt; &lt;/strong&gt;Op je straat, je gemeente, je regio. Op de toekomst van 6,5 miljoen mensen die er wonen, leven en werken. Op bedrijven, verenigingen en scholen. Op het welzijn van mens, dier en natuur. Op de wereld die Vlaanderen heet.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je gaat in elk project voor kwaliteit en resultaat.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Aan uitdagende projecten geen tekort. Bovendien kan je rekenen op de nieuwste technologieën en krijg je de nodige tijd en middelen om te experimenteren en te slagen. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je floreert tussen digitale experten. &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Doe er nieuwe kennis op en verdiep je. Botvier en deel je talenten, expertise en ervaringen. Neem je verantwoordelijkheid. En wij, wij begeleiden en ondersteunen je om je ambities waar te maken, waar die ook liggen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je voelt je welkom en gewaardeerd.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Naar waarde geschat voor wat je al gedaan had nog voor je naar ons kwam. En voor wat je nog voor jezelf en de samenleving kunt en wilt betekenen. In erkenning en verloning. Als professional en als mens.&lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72155960"/>
-    <published>2025-10-09T11:11:43+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72178241</id>
     <title>Data Engineer (Sogeti Belgium)</title>
     <updated>2025-12-15T14:58:59+00:00</updated>
@@ -2483,6 +2379,14 @@
     <published>2025-11-21T10:11:51+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72471250</id>
+    <title>.Net Software Engineer (Kingfisher IT)</title>
+    <updated>2025-12-17T11:16:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Veel thuiswerk mogelijk (als je dit wil)&lt;br/&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.  Je werkt van thuis of vanuit het kantoor.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Als Senior .NET Developer werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke werkervaring in .Net &lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een zeer interessant mobiliteitsbudget (voor huur of hypotheek)&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72471250"/>
+    <published>2025-11-21T11:28:13+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474786</id>
     <title>Functioneel Analist (ITENIUM)</title>
     <updated>2025-11-21T15:08:46+00:00</updated>
@@ -2755,6 +2659,14 @@
     <published>2025-11-25T13:55:04+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72506294</id>
+    <title>.Net Software Architect (Kingfisher IT)</title>
+    <updated>2025-12-17T11:16:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.  Je werkt van thuis of vanuit het kantoor.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als .NET Software Architect werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een diepgaande werkervaring in .Net &lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een interessant mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72506294"/>
+    <published>2025-11-26T14:27:03+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72505682</id>
     <title>Systems Engineer (Robert Half)</title>
     <updated>2025-11-26T13:37:57+00:00</updated>
@@ -2984,6 +2896,14 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ElmosExpert (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie zijn wij?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Voor een softwarebedrijf in de Antwerpse Kempen zijn we op zoek naar ervaren &lt;strong&gt;.NET Developers&lt;/strong&gt; om het interne team te versterken. Vanuit deze interne rol werk je mee aan uiteenlopende projecten voor verschillende klanten, maar ook aan de ontwikkeling van hun eigen SaaS-oplossingen.&lt;/p&gt;&lt;p&gt;Welke projecten je precies opneemt, hangt af van jouw ervaring en interesses. De meeste klanten bevinden zich tussen Antwerpen en Brussel, waardoor enige flexibiliteit handig is. In ruil daarvoor krijg je ook veel vrijheid: &lt;strong&gt;thuiswerk is ruim mogelijk&lt;/strong&gt; en je bepaalt je werkweek op een flexibele manier.&lt;/p&gt;&lt;p&gt;Je werkt niet alleen aan de ontwikkeling, maar bent betrokken vanaf het begin. Je overlegt regelmatig met analisten, denkt mee tijdens de analyse en vertaalt die input naar kwalitatieve software. Je werkt volgens Agile-methodes en neemt actief deel aan de verschillende fases van het traject. Daarnaast geef je op regelmatige basis demo’s aan klanten of interne stakeholders om de vooruitgang te tonen en de volgende stappen af te stemmen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Naar wie zijn we op zoek?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minstens 4 jaar relevante ervaring binnen .NET en/of Angular.&lt;/li&gt;&lt;li&gt;Sterke kennis van .NET Core, Angular, TypeScript en AWS of Azure.&lt;/li&gt;&lt;li&gt;Gestructureerde en kwalitatieve code als standaard werkwijze.&lt;/li&gt;&lt;li&gt;Teamgerichte mindset, maar ook zelfstandig sterk.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vlotte communicatie in het Nederlands en Engels.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat mag je verwachten?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salaris aangevuld met een uitgebreid pakket extralegale voordelen&lt;br&gt;(bedrijfswagen, tankkaart, maaltijdcheques, hospitalisatieverzekering, gsm-abonnement, …)&lt;/li&gt;&lt;li&gt;Flexibele werkuren en ruime mogelijkheden tot thuiswerk&lt;/li&gt;&lt;li&gt;Continue opleidings- en ontwikkelingskansen om je technische kennis up-to-date te houden&lt;/li&gt;&lt;li&gt;Doorgroeimogelijkheden binnen een stabiel bedrijf met een sterke reputatie in de sector&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72571260"/>
     <published>2025-12-05T15:31:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72572981</id>
+    <title>.Net Software Engineer (Kingfisher IT)</title>
+    <updated>2025-12-17T11:16:43+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br/&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team. Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en oplossingen ontwerpt, bouwt en optimaliseert. Je denkt mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk. Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen + tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm + abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk +3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72572981"/>
+    <published>2025-12-05T17:16:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72569449</id>
