@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-12-17T14:24:37.251007+00:00</updated>
+  <updated>2025-12-17T16:29:41.406093+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/senior-data-engineer/</id>
+    <title>Senior Data Engineer</title>
+    <updated>2025-12-17T13:35:18+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sneeuwbeslaan 14, 2610, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-12-17 14:35:18+00:00, last change 2025-12-17 13:35:18+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-12-17 14:35:18+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Voor een toonaangevend bedrijf in de logistieke sector, dat een breed scala aan transport- en vervoersdiensten aanbiedt, zoeken we een data engineer. Dit bedrijf biedt geïntegreerde logistieke oplossingen waarbij zee-, weg- en spoorvervoer worden gecombineerd, waardoor klanten profiteren van flexibele en betrouwbare transportoplossingen. Hun diensten zijn ontworpen om zowel internationale handel te vergemakkelijken als complexe supply chains te ondersteunen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Senior Data Engineer ben je verantwoordelijk voor het ontwikkelen van datastromen met behulp van Azure Data Factory en Databricks, waarbij de nadruk ligt op het modelleren en optimaliseren van ETL-processen. Je gaat meewerken aan de implementatie van DBT binnen de organisatie en speelt een sleutelrol bij de implementatie van offstream realtime data. &lt;br&gt;
+In jouw rol zorg je ervoor dat de data optimaal beschikbaar is voor de data-analisten. Dit houdt in dat je controleert of de juiste data aanwezig is, deze op de juiste manier voorbereidt en schoonmaakt. Hoewel je zelf geen visualisaties maakt, ben jij de sleutelfiguur die ervoor zorgt dat de data-analisten met betrouwbare en goed voorbereide data aan de slag kunnen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;&lt;br&gt;
+•    Je hebt minstens 5 jaar ervaring als Data Engineer. &lt;br&gt;
+•    Sterk binnen Azure services (Data Factory, Databricks). &lt;br&gt;
+•    Ervaring met de volgende tools: Terraform, Azure DevOps, Python, SQL. &lt;br&gt;
+•    Vertrouwd met Kimball en Data Vault modellen. &lt;br&gt;
+•    Je bent een bruggenbouwer en communicatief sterk. &lt;br&gt;
+•    Je handelt proactief en denkt probleemoplossend. &lt;br&gt;
+•    Je spreekt vloeiend Engels en Nederlands. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een zeer boeiende sector. De projecten waar je aan meewerkt hebben een onmiddellijke impact op de bedrijfsvoering van deze internationale speler. Daarbovenop werk je met de nieuwste technologie in een bedrijf dat ondernemend is. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/senior-data-engineer/"/>
+    <category term="Data Engineering"/>
+    <published>2025-12-17T14:35:18+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-architect-2/</id>
     <title>Data Architect</title>
@@ -1555,35 +1586,6 @@ Ben jij klaar om je carrière te lanceren? Neem dan contact op met Robbe Berben,
     <link href="https://www.cartiere.be/jobs/cartiere-connect-data-engineering/"/>
     <category term="Data Engineering"/>
     <published>2024-08-26T09:13:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer-6/</id>
-    <title>Data Engineer</title>
-    <updated>2024-08-09T05:21:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-08-09 06:21:31+00:00, last change 2024-08-09 05:21:31+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-08-09 06:21:31+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Voor een toonaangevend bedrijf in de logistieke sector, dat een breed scala aan transport- en vervoersdiensten aanbiedt, zoeken we een data engineer. Dit bedrijf biedt geïntegreerde logistieke oplossingen waarbij zee-, weg- en spoorvervoer worden gecombineerd, waardoor klanten profiteren van flexibele en betrouwbare transportoplossingen. Hun diensten zijn ontworpen om zowel internationale handel te vergemakkelijken als complexe supply chains te ondersteunen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data Engineer ben je verantwoordelijk voor het ontwikkelen van datastromen met behulp van Azure Data Factory en Databricks, waarbij de nadruk ligt op het modelleren en optimaliseren van ETL-processen. Je gaat meewerken aan de implementatie van DBT binnen de organisatie en speelt een sleutelrol bij de implementatie van offstream realtime data. &lt;br&gt;
-In jouw rol zorg je ervoor dat de data optimaal beschikbaar is voor de data-analisten. Dit houdt in dat je controleert of de juiste data aanwezig is, deze op de juiste manier voorbereidt en schoonmaakt. Hoewel je zelf geen visualisaties maakt, ben jij de sleutelfiguur die ervoor zorgt dat de data-analisten met betrouwbare en goed voorbereide data aan de slag kunnen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br&gt;
-•    Je hebt al een ruime ervaring als Data Engineer achter de rug. &lt;br&gt;
-•    Je hebt ervaring met Databricks. &lt;br&gt;
-•    Ervaring met Kafka, Azure DevOps &amp; Terraform is een grote plus.&lt;br&gt;
-•    Ervaring met DBT en Python is ook een plus. &lt;br&gt;
-•    Je ben communicatief sterk. &lt;br&gt;
-•    Je spreekt vloeiend Engels.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een zeer boeiende sector. De projecten waar je aan meewerkt hebben een onmiddellijke impact op de bedrijfsvoering van deze internationale speler. Daarbovenop werk je met de nieuwste technologie in een bedrijf dat ondernemend is. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/data-engineer-6/"/>
-    <category term="Data Engineering"/>
-    <published>2024-08-09T06:21:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ai-data-transformatie-consultant/</id>
