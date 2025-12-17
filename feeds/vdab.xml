@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-17T13:06:07.072827+00:00</updated>
+  <updated>2025-12-17T14:45:08.905468+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2861,6 +2861,14 @@
     <published>2025-11-28T10:00:39+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72529849</id>
+    <title>Application &amp; Cloud Security Engineer (Evolane)</title>
+    <updated>2025-12-17T15:06:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Evolane (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Hier bij Evolane, staat alles in het teken van het optimaliseren van bussiness applicaties in het voordeel van zowel de organisatie als de gebruiker. Onze vernieuwende IT-oplossingen maken applicaties toegankelijk, veilig en performant. We gaan altijd voor een persoonlijke aanpak met een oplossing op maat, zodat onze klanten op hun beide oren kunnen slapen. &lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Ter uitbreiding van het security team zoeken we een nieuwe collega die onze klanten helpt hun applicaties &lt;strong&gt;veiliger én sneller&lt;/strong&gt; te maken. Deze rol is de perfecte opstap voor developers én DevOps-engineers die hun kennis willen uitbreiden richting &lt;strong&gt;application security, performance optimization, observability en edge computing.&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Wat doe je als een Application &amp; Cloud Security Engineer bij Evolane?&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Implementeren en configureren van securityoplossingen zoals:&lt;/li&gt;&lt;/ul&gt;Web Application Firewall (WAF)&lt;br/&gt;Bot management&lt;br/&gt;DDoS-bescherming&lt;br/&gt;DNS-security&lt;br/&gt;Microsegmentatie&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Werken aan delivery-oplossingen zoals streaming (VOD, live) en transcoding.&lt;/li&gt;&lt;li&gt;De vertaalslag maken van applicatiecode naar performantie en beveiliging: begrijpen hoe een applicatie werkt, waar risico’s zitten en hoe deze te mitigeren.&lt;/li&gt;&lt;li&gt;Proactief beveiligen van klantomgevingen en via observability inzichten verzamelen, zodat we deze data kunnen visualiseren, analyseren en er concrete verbeteracties uit halen voor de klant.&lt;/li&gt;&lt;li&gt;Actief meedenken over security-by-design in moderne SecDevOps-omgevingen.&lt;/li&gt;&lt;li&gt;Bijdragen aan onze nieuwe edge-strategie: het uitrollen van code aan de rand van het netwerk voor o.a. paywalls, extra applicatieve controles en andere slimme oplossingen dicht bij de eindgebruiker.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Blue team vs. Red team&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;Bij security onderscheiden we vaak twee perspectieven:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Blue team: verdedigers die systemen beschermen, monitoren en aanvallen detecteren.&lt;/li&gt;&lt;li&gt;Red team: aanvallers die kwetsbaarheden zoeken en misbruiken alsof ze een hacker zijn.&lt;/li&gt;&lt;/ul&gt;Jij versterkt ons blue team. Maar hoe beter je ook de mindset van een red team begrijpt, hoe sterker jij bent in het afweren van aanvallen. Met paars zit je dus ook goed! ;-)&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring met softwareontwikkeling of DevOps en de ambitie om je verder te verdiepen in security en cloud.&lt;/li&gt;&lt;li&gt;Interesse in application security en zin om hierin te groeien.&lt;/li&gt;&lt;li&gt;Je kan zowel zelfstandig als in team werken en deelt graag je kennis met collega’s.&lt;/li&gt;&lt;li&gt;Basiskennis van netwerken en cloudplatformen.&lt;/li&gt;&lt;li&gt;Ervaring met CI/CD-processen is een plus.&lt;/li&gt;&lt;li&gt;Bachelor- of masterdiploma in informatietechnologie, netwerk, cyberbeveiliging. Geen diploma maar wel hetzelfde niveau door je ervaring in het werkveld (min. 5 jaar)? Dan zijn we even goed onder de indruk!&lt;/li&gt;&lt;li&gt;Je bent Nederlandstalig, een goede kennis van het Frans is een pluspunt.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Nice-to-have:&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Programmeerkennis en kennis van meerdere programmeertalen (Python, Javascript/TypeScript).&lt;/li&gt;&lt;li&gt;Ervaring met Akamai security &amp; delivery oplossingen.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met testing technieken.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Waarom Evolane?&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een omgeving waar je kan doorgroeien richting Application &amp; Cloud Security Specialist.&lt;/li&gt;&lt;li&gt;Een hecht team van security-experts die je ondersteunen en uitdagen.&lt;/li&gt;&lt;li&gt;Projecten waar je écht impact hebt op de veiligheid, performantie én snelheid van applicaties.&lt;/li&gt;&lt;li&gt;Innovatieve projecten waarbij je code aan de edge kan inzetten om klantoplossingen slimmer en veiliger te maken.&lt;/li&gt;&lt;li&gt;Een cultuur waarin zelfsturing, kennisdeling, observability en innovatie centraal staan.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Werken bij Evolane ziet er als volgt uit:&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;Je werkdag start met een heerlijke tas koffie of een warme kop thee in onze hub in de Waaslandse regio of gewoon gezellig bij je thuis.&lt;br/&gt;Dagelijks organiseren we een call van maximaal 30 minuten zodat je verneemt wat vandaag op de planning staat bij jou en je collega’s.Het is ineens het ideale moment om openstaande issues te bespreken en vragen te stellen aan je collega’s. &lt;br/&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Naast een aantrekkelijk maandsalaris voorzien we tal van andere voordelen. Een wagen, maaltijd- en nettovergoeding, internet en gsm abonnement, een splinternieuwe MacBook Pro, hospitalisatie- en groepsverzekering, vers fruit op het werk…&lt;br/&gt;Dankzij de constante stroom aan nieuwe opdrachten krijg je meteen de kans om jezelf te ontplooien en zo verder te groeien. Wij voorzien de gepaste opleidingen, zowel online als in binnen- en/of buitenland. &lt;br/&gt;We houden ervan om onze technische kennis te delen met het team, hiervoor organiseren we regelmatig workshops.&lt;br/&gt;Om het Evolane-familiegevoel te behouden voorzien we regelmatig teambuildings en ja…zelfs jaarlijks een event voor het hele gezin!&lt;br/&gt;Verjaardagen, speciale gelegenheden, jubilea…vergeten we niet. Evolane voorziet dan steeds een kleine attentie want voor familie en vrienden doe je dit toch ook, niet?&lt;br/&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72529849"/>
+    <published>2025-12-01T09:46:25+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72538700</id>
     <title>SAP Developer (ITZU Jobs)</title>
     <updated>2025-12-02T09:04:54+00:00</updated>
@@ -2979,230 +2987,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The Service Delivery Manager is a business relationship manager. You would be responsible for maintaining strong relationships with customers and ensuring high-quality service delivery. This role focuses on defining and monitoring Service Level Agreements (SLAs), driving operational automation, and optimizing the utilization of technical and human resources. The SDM also identify new technical and business opportunities to expand the scope of managed services.&lt;/p&gt;&lt;p&gt;Key responsibilities include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Acting as the primary liaison between customers and operational teams, representing customer interests internally while safeguarding company priorities.&lt;/li&gt;&lt;li&gt;Managing operational accounts, reviewing tickets and requests, and ensuring alignment with customer expectations.&lt;/li&gt;&lt;li&gt;Preparing and validating monthly Service Level Reports and presenting them during steering committee meetings.&lt;/li&gt;&lt;li&gt;Reporting risks, issues, and business opportunities to internal stakeholders.&lt;/li&gt;&lt;li&gt;Overseeing invoicing processes, ensuring accuracy and timely payment follow-up.&lt;/li&gt;&lt;li&gt;Ensuring service delivery in compliance with contractual agreements and ITIL processes.&lt;/li&gt;&lt;li&gt;Driving Continuous Service Improvement (CSI) initiatives to enhance efficiency and quality.&lt;/li&gt;&lt;li&gt;Managing risks—operational, financial, and project-related.&lt;/li&gt;&lt;li&gt;Handling critical incidents (including outside business hours) and coordinating resolution efforts.&lt;/li&gt;&lt;li&gt;Managing change requests and small to medium-sized projects (up to approximately 100 days), including planning, cost estimation, and P&amp;amp;L accountability.&lt;/li&gt;&lt;li&gt;Supporting pre-sales activities by validating service offers and accompanying sales teams when needed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Master’s degree in a relevant field (e.g., commercial/civil engineering, computer science) or equivalent professional experience.&lt;/li&gt;&lt;li&gt;Strong pre-sales and commercial skills, including consultative selling and proposal writing.&lt;/li&gt;&lt;li&gt;Excellent written and verbal communication and presentation skills.&lt;/li&gt;&lt;li&gt;Language proficiency: Fluent in &lt;strong&gt;French, English &lt;/strong&gt;and&amp;nbsp;&lt;strong&gt;Dutch&lt;/strong&gt; fluency required&amp;nbsp;&lt;/li&gt;&lt;li&gt;Customer-oriented mindset with a strong sense of commitment.&lt;/li&gt;&lt;li&gt;Ability to think conceptually while maintaining a pragmatic approach.&lt;/li&gt;&lt;li&gt;ITIL v4 certification or equivalent.&lt;/li&gt;&lt;li&gt;Knowledge of Agile or other project management methodologies.&lt;/li&gt;&lt;li&gt;Assertive communication style and adaptability to different audiences.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Strong organizational and problem-solving skills.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;As a member of one of Europe’s largest digital solutions providers, you’ll benefit from extensive career development opportunities, both local and international. At the Sopra Steria Academy, you’ll be part of a dynamic network of 56,000 professionals at all stages of their careers. With a wide array of offices to explore, you can find your ideal location and take the next step in your career.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;We offer a generous employee benefits package that includes:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Access to our Sopra Steria training and personal development academy&lt;/li&gt;&lt;li&gt;A company car lease or mobility budget&lt;/li&gt;&lt;li&gt;A company laptop and phone&lt;/li&gt;&lt;li&gt;Private health insurance coverage&lt;/li&gt;&lt;li&gt;Meal vouchers&lt;/li&gt;&lt;li&gt;Social security and pension plan&lt;/li&gt;&lt;li&gt;A competitive salary&lt;/li&gt;&lt;li&gt;26 holiday days&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sopra Steria is implementing the tools of the future today at the world’s largest businesses across industry and financial services. By being bold together, our professionals are changing how business is done.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ready to take the next step?&lt;/strong&gt; We’re here to support you all the way and we are looking forward to you application! Pending a successful application, we’ll be in touch with further steps in the application process.&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72593139"/>
     <published>2025-12-10T08:56:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72597233</id>
-    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
-    <updated>2025-12-10T15:47:23+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
-&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
-&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
-&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
-&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
-&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
-&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
-&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
-&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
-&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
-&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
-&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
-&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
-&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
-&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72597233"/>
-    <published>2025-12-10T15:47:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72597307</id>
-    <title>System Engineer (CONXION)</title>
-    <updated>2025-12-10T15:50:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als System Engineer ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw day to day als System Engineer:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
-&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
-&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
-&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
-&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
-&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Certificeringen&lt;/p&gt; 
-&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
-&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
-&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72597307"/>
-    <published>2025-12-10T15:50:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72597666</id>
-    <title>Senior Service Desk Engineer (CONXION)</title>
-    <updated>2025-12-10T16:29:19+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bieden van 
-&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
-&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Configureren van 
-&lt;span&gt;Microsoft 365&lt;/span&gt; en 
-&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt al een sterke ervaring met 
-&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt uitstekende 
-&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan vlot communiceren in het 
-&lt;strong&gt;Nederlands&lt;/strong&gt; en 
-&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72597666"/>
-    <published>2025-12-10T16:29:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72597372</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2025-12-10T15:56:59+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72597372"/>
-    <published>2025-12-10T15:56:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72606733</id>
@@ -3419,6 +3203,69 @@ Je bent een echte teamspeler en kan vlot samenwerken.&lt;br /&gt;
     <published>2025-12-16T09:18:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72644233</id>
+    <title>Senior WPF software engineer (Kingfisher IT)</title>
+    <updated>2025-12-17T12:30:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag in hun team sterk inzetten om deze schaalbaarheid waar te maken.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als Senior WPF software engineer krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en zorg jij voor de nieuwe ontwikkelingen. Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Sterke werkervaring met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot &lt;b&gt;freelance&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques &lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72644233"/>
+    <published>2025-12-17T12:30:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72644236</id>
+    <title>Software Architect (Kingfisher IT)</title>
+    <updated>2025-12-17T12:31:03+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag in hun team sterk inzetten om deze schaalbaarheid waar te maken.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als Software Architect krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en bepaal jij concreet de roadmap voor verdere uitbreidingen. Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Ervaring binnen software architectuur is een sterke plus&lt;/li&gt;&lt;li&gt;Minstens 5 jaar ervaring binnen .NET &amp; affiniteit met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot freelance&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques &lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72644236"/>
+    <published>2025-12-17T12:31:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72644235</id>
+    <title>FREELANCE Software Architect (Kingfisher IT)</title>
+    <updated>2025-12-17T12:31:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag in hun team sterk inzetten om deze schaalbaarheid waar te maken.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als Software Architect krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en bepaal jij concreet de roadmap voor verdere uitbreidingen. Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Ervaring binnen software architectuur is een sterke plus&lt;/li&gt;&lt;li&gt;Minstens 5 jaar ervaring binnen .NET &amp; affiniteit met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot &lt;b&gt;freelance&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques &lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72644235"/>
+    <published>2025-12-17T12:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72644992</id>
+    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
+    <updated>2025-12-17T13:21:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
+&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
+&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
+&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
+&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
+&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
+&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
+&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
+&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
+&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
+&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
+&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
+&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
+&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
+&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
+&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
+&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72644992"/>
+    <published>2025-12-17T13:21:57+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72645000</id>
     <title>System Engineer (CONXION)</title>
     <updated>2025-12-17T13:23:04+00:00</updated>
@@ -3482,43 +3329,63 @@ Je bent een echte teamspeler en kan vlot samenwerken.&lt;br /&gt;
     <published>2025-12-17T13:23:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72644992</id>
-    <title>Operations &amp; Support Manager (Azure) (CONXION)</title>
-    <updated>2025-12-17T13:21:57+00:00</updated>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72645217</id>
+    <title>Senior Service Desk Engineer (CONXION)</title>
+    <updated>2025-12-17T13:48:20+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
 &lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
 &lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
 &lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
 &lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;Als Operations &amp;amp; Support Manager ben je het eerste aanspreekpunt voor operationele en strategische vraagstukken binnen de klantenservice van ITCE. Je stuurt het supportteam aan, optimaliseert processen en zorgt voor een uitstekende klantbeleving met een sterke focus op Microsoft Azure en Azure Virtual Desktop (AVD) omgevingen.&lt;/p&gt; 
+&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
 &lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als Operations &amp;amp; Support Manager:&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/span&gt;&lt;/p&gt; 
 &lt;ul&gt; 
-&lt;li&gt;Leiding geven aan het supportteam en zorgen voor een motiverende werkomgeving.&lt;/li&gt; 
-&lt;li&gt;Bewaken en verbeteren van de kwaliteit van klantondersteuning, specifiek binnen Azure-omgevingen.&lt;/li&gt; 
-&lt;li&gt;Opstellen en uitvoeren van beleid en procedures voor de supportafdeling.&lt;/li&gt; 
-&lt;li&gt;Beheren van incidenten, changes en escalaties binnen Azure en AVD.&lt;/li&gt; 
-&lt;li&gt;Analyseren van klantvragen en klachten om trends te signaleren en verbeteringen door te voeren.&lt;/li&gt; 
-&lt;li&gt;Rapporteren aan het management over prestaties, KPI’s en klanttevredenheid.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met andere afdelingen om klantgerichte oplossingen te realiseren.&lt;/li&gt; 
-&lt;li&gt;Adviseren over optimalisatie en schaalbaarheid van AVD-omgevingen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minimaal Bachelor werk- en denkniveau.&lt;/li&gt; 
-&lt;li&gt;Minimaal 3 jaar ervaring in een leidinggevende rol binnen IT-support of service management.&lt;/li&gt; 
-&lt;li&gt;Aantoonbare ervaring met Microsoft Azure is een must. Ervaring met Azure Virtual Desktop (AVD) is een sterk pluspunt. ‍&lt;/li&gt; 
-&lt;li&gt;Kennis van identity management (Azure AD), netwerkconfiguraties en security binnen cloudomgevingen.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte instelling.&lt;/li&gt; 
-&lt;li&gt;Analytisch vermogen en ervaring met het verbeteren van processen.&lt;/li&gt; 
-&lt;li&gt;Proactief, oplossingsgericht en stressbestendig.&lt;/li&gt; 
-&lt;li&gt;Certificeringen zoals AZ-104, AZ-140 die blijk geven van je Azure expertise.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Werken bij ITCE Powered by ConXioN&lt;/strong&gt;&lt;/p&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bieden van 
+&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
+&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Configureren van 
+&lt;span&gt;Microsoft 365&lt;/span&gt; en 
+&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
 &lt;ul&gt; 
-&lt;li&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/li&gt; 
-&lt;li&gt;Als Operations &amp;amp; Support Manager heb je een uitdagende functie met veel verantwoordelijkheid.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid om impact te maken op de groei van ITCE en de ConXioN-Groep.&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan. Daarnaast hechten we belang aan een professionele klantenbenadering.&lt;/li&gt; 
-&lt;li&gt;Ruimte voor persoonlijke ontwikkeling en training in Azure-technologieën.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72644992"/>
-    <published>2025-12-17T13:21:57+00:00</published>
+&lt;li&gt; 
+&lt;p&gt;Je hebt al een sterke ervaring met 
+&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt uitstekende 
+&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan vlot communiceren in het 
+&lt;strong&gt;Nederlands&lt;/strong&gt; en 
+&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72645217"/>
+    <published>2025-12-17T13:48:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72645049</id>
@@ -3582,29 +3449,5 @@ Je bent een echte teamspeler en kan vlot samenwerken.&lt;br /&gt;
 &lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72645049"/>
     <published>2025-12-17T13:27:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72644233</id>
-    <title>Senior WPF software engineer (Kingfisher IT)</title>
-    <updated>2025-12-17T12:30:57+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag in hun team sterk inzetten om deze schaalbaarheid waar te maken.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als Senior WPF software engineer krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en zorg jij voor de nieuwe ontwikkelingen. Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Sterke werkervaring met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot &lt;b&gt;freelance&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques &lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72644233"/>
-    <published>2025-12-17T12:30:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72644236</id>
-    <title>Software Architect (Kingfisher IT)</title>
-    <updated>2025-12-17T12:31:03+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag in hun team sterk inzetten om deze schaalbaarheid waar te maken.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als Software Architect krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en bepaal jij concreet de roadmap voor verdere uitbreidingen. Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Ervaring binnen software architectuur is een sterke plus&lt;/li&gt;&lt;li&gt;Minstens 5 jaar ervaring binnen .NET &amp; affiniteit met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot freelance&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques &lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72644236"/>
-    <published>2025-12-17T12:31:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72644235</id>
-    <title>FREELANCE Software Architect (Kingfisher IT)</title>
-    <updated>2025-12-17T12:31:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag in hun team sterk inzetten om deze schaalbaarheid waar te maken.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als Software Architect krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en bepaal jij concreet de roadmap voor verdere uitbreidingen. Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Ervaring binnen software architectuur is een sterke plus&lt;/li&gt;&lt;li&gt;Minstens 5 jaar ervaring binnen .NET &amp; affiniteit met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot &lt;b&gt;freelance&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques &lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72644235"/>
-    <published>2025-12-17T12:31:00+00:00</published>
   </entry>
 </feed>
