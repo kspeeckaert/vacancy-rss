@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2025-12-18T10:45:50.244001+00:00</updated>
+  <updated>2025-12-18T13:03:01.292891+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3511,6 +3511,61 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
 &lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72645049"/>
     <published>2025-12-17T13:27:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72654244</id>
+    <title>Teamleader Data management &amp; Business intelligence (Synergie Belgium nv Hoofdkantoor)</title>
+    <updated>2025-12-18T12:02:01+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Synergie Belgium nv Hoofdkantoor (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ben jij gepassioneerd door data, business intelligence en de technologie daaromheen? &lt;p&gt;Wil jij structuur brengen in dataprocessen, een datastrategie verder uitbouwen en een team naar een hoger niveau tillen? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dan zoeken wij jou!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bij Synergie, een van de grootste uitzendgroepen in België en wereldwijd, zetten we volop in op data en innovatie om onze positie in de uitzendmarkt te versterken. &lt;p&gt;Jij kan hier een sleutelrol spelen in onze toekomst.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wat zal je job inhouden?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Als Teamleader Data Management &amp; BI leid je ons datateam en zorg je dat data optimaal wordt ingezet om onze businessdoelstellingen te ondersteunen. &lt;p&gt;Je denkt strategisch mee over datastructuren, infrastructuur, modellering, rapportering en visualisatie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Concreet:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leiden, coachen en inspireren van het datateam met focus op efficiëntie en resultaat.&lt;/li&gt;
+&lt;li&gt;Processen optimaliseren zodat enkel waardevolle activiteiten uitgevoerd worden.&lt;/li&gt;
+&lt;li&gt;Datakwaliteit, governance en datastructuren opzetten en bewaken.&lt;/li&gt;
+&lt;li&gt;BI-rapporten en dashboards ontwikkelen die management en business ondersteunen.&lt;/li&gt;
+&lt;li&gt;Datastrategie evalueren, bijsturen en verder uitbouwen in lijn met bedrijfsdoelen.&lt;/li&gt;
+&lt;li&gt;Coördineren van data- en BI-projecten, zoals migraties of nieuwe tools.&lt;/li&gt;
+&lt;li&gt;Trends en kansen signaleren om onze BI-omgeving te innoveren en automatiseren.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor of Master in IT, Data of BI, of gelijkwaardige ervaring.&lt;/li&gt;
+&lt;li&gt;Minstens 5 jaar ervaring in data management/BI, waarvan 2 jaar leidinggevende ervaring.&lt;/li&gt;
+&lt;li&gt;Sterk analytisch, probleemoplossend en gestructureerd.&lt;/li&gt;
+&lt;li&gt;Kennis van BI-tools, ETL-processen, datawarehouses en datamodellering.&lt;/li&gt;
+&lt;li&gt;Ervaring met datagovernance en het bewaken van datakwaliteit.&lt;/li&gt;
+&lt;li&gt;Communicatief sterk en in staat complexe data begrijpelijk te maken voor business en IT.&lt;/li&gt;
+&lt;li&gt;Flexibel en gewend te werken in een dynamische omgeving.&lt;/li&gt;
+&lt;li&gt;Initiatiefrijk, proactief en strategisch denkend&lt;/li&gt;
+&lt;li&gt;Uitstekend Nederlands, basis Frans.&lt;/li&gt;
+&lt;li&gt;Ervaring in de uitzend- of HR-sector is een troef.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Technische kennis:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL Server&lt;/li&gt;
+&lt;li&gt;SSIS &amp; SSRS&lt;/li&gt;
+&lt;li&gt;TimeXtender&lt;/li&gt;
+&lt;li&gt;Data warehouse modellering (Kimball)&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Power BI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Extra troeven:&lt;/strong&gt; MongoDB, PostgreSQL, GIT, Powershell, Batch scripting.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat bieden wij jou?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Een loon tussen €4500 en €5500, afhankelijk van ervaring en kennis, aangevuld met een jaarlijks bonussysteem&lt;/li&gt;
+&lt;li&gt;Bedrijfswagen met tankkaart of mobiliteitsbudget&lt;/li&gt;
+&lt;li&gt;12 ADV-dagen bovenop 20 wettelijke verlofdagen + ancieniteitsverlof&lt;/li&gt;
+&lt;li&gt;Flexibele werkuren en 2 dagen per week thuiswerken, met nettovergoeding voor thuiswerk&lt;/li&gt;
+&lt;li&gt;Laptop en gsm met abonnement&lt;/li&gt;
+&lt;li&gt;Contract van onbepaalde duur met doorgroeimogelijkheden&lt;/li&gt;
+&lt;li&gt;Professionele, dynamische werkomgeving met ruimte voor persoonlijke ontwikkeling&lt;/li&gt;
+&lt;li&gt;Extra voordelen: maaltijdcheques, ecocheques, hospitalisatieverzekering en groepsverzekering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Klaar om data om te zetten in inzichten die écht impact maken? &lt;/strong&gt;&lt;p&gt;&lt;strong&gt;Word onze teamleader en solliciteer vandaag!&lt;/strong&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72654244"/>
+    <published>2025-12-18T12:02:01+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72652368</id>
