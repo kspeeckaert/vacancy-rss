@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2025-12-19T16:28:59.029549+00:00</updated>
+  <updated>2025-12-19T18:31:42.634298+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1212,39 +1212,6 @@ Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer inform
     <link href="https://www.cartiere.be/jobs/python-developer-2/"/>
     <category term="Data Engineering"/>
     <published>2025-04-09T09:57:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/ai-director/</id>
-    <title>AI Director</title>
-    <updated>2025-03-04T16:12:16+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Luchthaven Brussel Nationaal 1K, 1930, Brussels-Capital Region, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-03-04 17:12:16+00:00, last change 2025-03-04 16:12:16+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-03-04 17:12:16+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h2 style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;&lt;span style="color:#252827"&gt;BEDRIJF:&lt;/span&gt;&lt;br /&gt;
-Deze gespecialiseerde Data &amp;amp; AI-afdeling ondersteunt bedrijven bij de meest uiteenlopende data- en AI-uitdagingen. Met een team van meer dan 70 experts combineren ze strategie, technologie en sectorinzicht. Door hun mensgerichte cultuur lijkt het alsof je voor een dynamische KMO werkt binnen een internationale omkadering. Projecten bestrijken bij hen het volledige spectrum: van strategische advies tot hands-on implementatie, met een sterke focus op change management om duurzame impact te realiseren.&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;br /&gt;
-&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;&lt;span style="color:#252827"&gt;JOBOMSCHRIJVING:&lt;/span&gt;&lt;br /&gt;
-In de rol van AI Director ben je een strategische gesprekspartner voor C-level profielen en overtuig je hen van de meerwaarde van AI-oplossingen. Je identificeert concrete opportuniteiten en vertaalt deze naar heldere strategieën en tastbare oplossingen. Als centrale figuur stimuleer je groei binnen diverse sectoren door AI-mogelijkheden om te zetten in echte business value. Je krijgt de kans om een significante impact te maken, onder andere binnen Financial Services.&lt;br /&gt;
-Tijdens dergelijke AI-transformatietrajecten werk je samen met multidisciplinaire teams en neem je verantwoordelijkheid voor zowel de oplevering van AI-oplossingen als de supervisie van jouw projectteams. Jouw impact gaat verder dan het ontwikkelen van proof of concepts: je realiseert effectieve verandering bij klanten en zorgt voor duurzame resultaten.&lt;/span&gt;&lt;/span&gt;
-
-&lt;h2 style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;&lt;span style="color:#252827"&gt;JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je hebt bewezen ervaring in het implementeren en opleveren van AI-trajecten.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je bent in staat om AI use cases te identificeren, te vertalen naar business waarde en hierover proactief voorstellen te formuleren. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li style="margin: 0.0cm 0.0cm 4.0pt 36.0pt;"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Ervaring binnen financial services: sterk begrip van bancaire organisaties en context.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li style="margin: 0.0cm 0.0cm 4.0pt 36.0pt;"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;&lt;span style="color:black"&gt;Je beschikt over sterke stakeholdermanagementvaardigheden en krijgt energie van het communiceren met C-level.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li style="margin: 0.0cm 0.0cm 0.0cm 36.0pt;"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Consultancy-ervaring is een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li style="margin: 0.0cm 0.0cm 4.0pt 36.0pt;"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je beheerst zowel het Nederlands, Frans als het Engels, zowel schriftelijk als mondeling.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;&lt;span style="color:#252827"&gt;UNIEK KARAKTER:&lt;/span&gt;&lt;br /&gt;
-Deze functie biedt een duidelijk carrièreperspectief: je start als AI Director met een duidelijk vooruitzicht om op korte termijn door te groeien naar Partner. In die rol neem je een sleutelpositie in bij het verder uitbouwen van de Data &amp;amp; AI-praktijk en het bepalen van de strategische koers van de organisatie.&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
-&lt;br /&gt;
-&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;&lt;strong style="font-weight:bold"&gt;Benieuwd naar meer?&lt;br /&gt;
-Stuur nu jouw CV naar sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie.&lt;/strong&gt;&lt;br /&gt;
-&lt;strong style="font-weight:bold"&gt;Bekijk onze website www.cartiere.be voor meer vacatures&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;</content>
-    <link href="https://www.cartiere.be/jobs/ai-director/"/>
-    <category term="AI Strategist"/>
-    <category term="Management"/>
-    <published>2025-03-04T17:12:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-ai-expert/</id>
