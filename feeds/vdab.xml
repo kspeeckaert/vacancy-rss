@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-03T06:50:49.086401+00:00</updated>
+  <updated>2026-01-03T08:46:16.567808+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -84,7 +84,11 @@
     <id>https://www.vdab.be/vindeenjob/vacatures/68327634</id>
     <title>Cloud Solution Architect (Cronos)</title>
     <updated>2025-12-19T00:04:40+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Cloud Solution Architect werk je op projectbasis bij diverse klanten waar je vanuit je expertise verantwoordelijk bent voor het uittekenen van de cloudarchitectuur en het begeleiden van klanten.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je zet de functionele eisen en bedrijfsbehoeften om in een cloudarchitectuur, wij werken hoofdzakelijk met Oracle.&lt;/li&gt;&lt;li&gt;Je maakt de vertaalslag van de architectuur naar een concrete roadmap.&lt;/li&gt;&lt;li&gt;Je adviseert over hoe de platformen moeten evolueren (in de cloud, on premise of hybride) en adviseert je technisch team bij de implementatie van de ontworpen oplossingen.&lt;/li&gt;&lt;li&gt;Naast je verantwoordelijkheden bij de klant, ondersteun je ook de uitbouw van Droppar.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;WIE WE ZOEKEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt minstens 5 jaar ervaring in het ontwerpen, implementeren en ondersteunen van grootschalige projecten&lt;/li&gt;&lt;li&gt;Je kan terugvallen op een brede IT-kennis: Oracle Cloud (of andere cloud providers), automatisatie en gangbare technologieën&lt;/li&gt;&lt;li&gt;Je hebt inzicht in automatisatie en het opzetten van pipelines (Ansible, Puppet, Gitlab of Jenkins, Terraform)&lt;/li&gt;&lt;li&gt;Kennis van Kubernetes is een plus&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met enterprise architecturen voor het design van zowel cloud, on-premise als hybride oplossingen&lt;/li&gt;&lt;li&gt;Je begrijpt de noden van de klant en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills, zowel met de klant als binnen je eigen team&lt;/li&gt;&lt;li&gt;Werken in wisselende omgevingen zie je als een meerwaarde in je job&lt;/li&gt;&lt;li&gt;Je volgt de laatste trends en ontwikkelingen om deze bij onze klanten te kunnen toepassen&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;cloud architectuur&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Droppar kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen en tankkaart;&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen;&lt;/li&gt;&lt;li&gt;Tal van social events (shortski, familiedag/weekend, afterwork drinks,…);&lt;/li&gt;&lt;li&gt;Een gepersonaliseerd groeiplan;&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/68327634"/>
     <published>2024-02-14T12:39:32+00:00</published>
   </entry>
