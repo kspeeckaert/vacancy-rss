@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-04T06:52:14.043913+00:00</updated>
+  <updated>2026-01-04T08:47:01.696349+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -288,7 +288,22 @@
     <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
     <title>Freelance Integratie developer (Cronos)</title>
     <updated>2025-12-19T00:05:35+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een ervaren integratie developer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;Als integratieontwikkelaar krijg je de mogelijkheid om te werken aan uitdagende integratieprojecten. Je zult samenwerken met klanten om hun integratiebehoeften te begrijpen en oplossingen op maat te bieden met behulp van verschillende technologieën en cloud platformen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je verantwoordelijkheden als integratieontwikkelaar omvatten het ontwikkelen en implementeren van integraties die naadloze communicatie en efficiënte gegevensuitwisseling tussen systemen mogelijk maken. Je werkt nauw samen met het team om ervoor te zorgen dat de integraties voldoen aan de vereisten en de kwaliteitsnormen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;Om succesvol te zijn als integratieontwikkelaar ben je bekend met de volgende technische vaardigheden en concepten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met één of meer programmeertalen, zoals Java, C# of Python&lt;/li&gt;&lt;li&gt;Kennis of begrip van van API’s, webservices en messaging technologieën&lt;/li&gt;&lt;li&gt;Achtergrond in integratiepatronen en -architecturen is een plus.&lt;/li&gt;&lt;li&gt;Kennis en interesse in cloud- en integratieplatformen zoals Azure, Oracle, AWS.&lt;/li&gt;&lt;li&gt;Basiskennis van SQL en databases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;API&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Integratie&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;c#&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;python&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;webservices&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;messaging technologieën&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;azure&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;aws&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;sql&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/69084449"/>
     <published>2024-07-02T09:28:39+00:00</published>
   </entry>
