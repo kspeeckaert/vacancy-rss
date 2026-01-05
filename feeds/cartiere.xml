@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-05T06:40:48.145818+00:00</updated>
+  <updated>2026-01-05T08:35:07.030074+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -219,45 +219,6 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <category term="Project Management"/>
     <category term="Management"/>
     <published>2025-12-08T16:12:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/junior-medior-data-engineer/</id>
-    <title>Junior/ Medior Data Engineer</title>
-    <updated>2025-12-04T13:35:16+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Kampenhout, Flemish Brabant Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-07-25 12:28:12+00:00, last change 2025-12-04 13:35:16+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-07-25 12:28:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
-Voor een internationaal productiebedrijf dat inzet op technologische innovatie en maatwerk, kijk ik uit naar een Junior/ Medior Data Engineer. Je komt terecht in een organisatie waar data een strategische pijler wordt. De ambitie? Voluit evolueren naar een datagedreven cultuur.&lt;br /&gt;
-&lt;br /&gt;
-Met activiteiten in meerdere landen en een heldere groeistrategie, bouwt het bedrijf aan de toekomst. De recente migratie naar Azure heeft een modern en schaalbaar fundament gelegd. Nu is het tijd voor de volgende fase: het uitbouwen van een performant, stabiel en goed beheerd enterprise dataplatform.&lt;br /&gt;
-&lt;br /&gt;
-JOBOMSCHRIJVING:&lt;br /&gt;
-Als Junior/ Medior Data Engineer maak je deel uit van het interne datateam dat verantwoordelijk is voor de ontwikkeling, uitbouw en optimalisatie van het Azure dataplatform. Je werkt mee aan kwalitatieve datamodellen, datastromen en rapporteringsstructuren die een wereldwijde organisatie ondersteunen.&lt;br /&gt;
-&lt;br /&gt;
-Je combineert technische uitvoering met nauwe samenwerking met business- en IT-stakeholders. Binnen deze rol krijg je veel ruimte om te leren, ownership te nemen en te werken met de nieuwste Microsoft-technologieën.&lt;br /&gt;
-&lt;br /&gt;
-Je ontwikkelt schaalbare data pipelines met Azure Data Factory, Azure Databricks, Azure SQL, Microsoft Fabric en Azure Data Lake. Je bouwt en optimaliseert batch en realtime datastromen. Je ontwerpt robuuste datamodellen die gebruikt worden voor rapportering, analytics en AI-toepassingen. Daarbij helpt je bij het opzetten en verfijnen van semantic modellen en dashboards (Power BI, Qlik of Tableau).&lt;br /&gt;
-&lt;br /&gt;
-Je werkt nauw samen met data architects, analisten en securityspecialisten om end-to-end datastructuren op te zetten. Je draagt ook bij aan datakwaliteit, governance en best practices binnen het data-ecosysteem. Tot slot volg je actief nieuwe technologieën in het Azure-datalandschap op en pas je deze toe binnen het platform.&lt;br /&gt;
-&lt;br /&gt;
-PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Bachelor of master in Computer Science, Data Engineering of gelijkaardig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een eerste werkervaring in data engineering achter de rug.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Azure data services (Azure Data Factory, Azure Databricks, Azure SQL, Microsoft Fabric, Azure Data Lake).&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Sterke kennis van SQL en Python (DAX is een plus).&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Begrip van ETL/ELT, datamodellering en cloud engineering.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Power BI, Qlik of Tableau is een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Oplossingsgericht, communicatief en leergierig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;AANBOD:&lt;br /&gt;
-In deze rol krijg je mee verantwoordelijkheid over het datalandschap en werk je hands-on mee aan een dataplatform in opbouw. Je staat dicht bij de business, werkt in een technische productieomgeving en krijgt veel vrijheid, ownership en ruimte om echt iets op te bouwen van binnenuit.&lt;br /&gt;
-&lt;br /&gt;
-Kan dit jouw volgende stap zijn? Stuur nu jouw CV naar robbe@cartiere.be en bel 03/369.33.09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data &amp;amp; AI vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/junior-medior-data-engineer/"/>
-    <category term="Data Engineering"/>
-    <published>2025-07-25T12:28:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-governance-engineer/</id>
