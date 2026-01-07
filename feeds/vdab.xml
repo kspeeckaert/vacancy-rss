@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-07T10:43:53.116652+00:00</updated>
+  <updated>2026-01-07T13:00:36.714221+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1077,50 +1077,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sogeti Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Capgemini Data &amp;amp; AI is looking for people who tame data in such a way that the most complex data can be easily interpreted. We are looking for a Data Engineer to help our clients in their digital transformations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;YOUR ROLE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integrate, transform and consolidate data from various structured and unstructured data systems&lt;/li&gt;&lt;li&gt;Ensure data pipelines and data stores are high-performing, efficient, organized, and reliable, given a set of business requirements and constraints&lt;/li&gt;&lt;li&gt;Create and design data models&lt;/li&gt;&lt;li&gt;&lt;p&gt;Translate functional requirements into a scalable, fit-for-use technical design&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;One more more leading Data platforms Azure, Databricks, Snowflake, Google Cloud Platform and it's infra and CI/CD context&lt;/li&gt;&lt;li&gt;Microsoft Fabric, Azure Data Factory, Synapse, Azure SQL database, Azure Devops, Azure Analysis Services, ...&lt;/li&gt;&lt;li&gt;Databricks&lt;/li&gt;&lt;li&gt;Snowflake, Snowpipe, Snowflake Native Apps, ...&lt;/li&gt;&lt;li&gt;Keen understanding of Data Modeling methodologies (Kimball, Data Vault 2.0)&lt;/li&gt;&lt;li&gt;Knowledge of Lakehouse principles and medallion architecture&lt;/li&gt;&lt;li&gt;Expert knowledge of SQL and T-SQL or DBT&lt;/li&gt;&lt;li&gt;Fluent in Dutch with professional working proficiency in English&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Relevant certificates&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;DP-203 Data Engineering on Microsoft Azure&lt;br&gt;• &amp;nbsp; &amp;nbsp;Snowpro core/advanced&lt;br&gt;• &amp;nbsp; &amp;nbsp;Databricks Lakehouse Professional&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU’LL LOVE ABOUT WORKING HERE?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Capgemini Belgium we offer flexibility in more than one way next to our hybrid way of working, where we offer you can work 70% from home, we also offer our flex abroad program. With this program you can work up to 45 days abroad, this to maintain a good work-life balance.&lt;br&gt;Next to this we also offer following additional benefits&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;Net expenses&lt;br&gt;• &amp;nbsp; &amp;nbsp;Company car or mobility budget (whatever works best for you)&lt;br&gt;• &amp;nbsp; &amp;nbsp;Health insurance&lt;br&gt;• &amp;nbsp; &amp;nbsp;Meal vouchers&lt;br&gt;• &amp;nbsp; &amp;nbsp;Pension plan&lt;br&gt;• &amp;nbsp; &amp;nbsp;Eco vouchers from €250/year.&lt;br&gt;• &amp;nbsp; &amp;nbsp;A flex plan where you can buy extra days off, update your insurance or buy home office supplies.&lt;br&gt;• &amp;nbsp; &amp;nbsp;32 vacation days.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72178241"/>
     <published>2025-10-13T09:02:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72191140</id>
-    <title>Data Governance coördinator (DMOW) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2026-01-05T08:13:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Het Departement Mobiliteit en Openbare Werken (DMOW) zoekt een data governance ambassadeur ter versterking van onze afdeling Algemene Technische Ondersteuning.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Waar kom je terecht? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Het &lt;/span&gt;&lt;span&gt;Departement Mobiliteit en Openbare Werken&lt;/span&gt;&lt;span&gt;(DMOW) doet Vlaanderen bewegen: langs de weg, over het water en door de lucht.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Onze experten in beweging zetten zich elke dag in voor een&lt;/span&gt;&lt;span&gt;veilige, slimme en duurzame mobiliteit&lt;/span&gt;&lt;span&gt;é&lt;/span&gt;&lt;span&gt;n voor de&lt;/span&gt;&lt;span&gt;hedendaagse wegen- en (lucht)haveninfrastructuur.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;We werken zowel beleidsmatig als in uitvoering mee aan verschillende&lt;/span&gt;&lt;span&gt;projecten, in Vlaanderen en ver daarbuiten. Om die brede waaier aan uitdagingen tot een goed einde te brengen, kunnen we rekenen op onze&lt;/span&gt;&lt;span&gt;experten met diverse profielen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Samen hebben we één doel: met onze inzet, teamwork en vakmanschap bijdragen tot een betere samenleving.&lt;/span&gt;&lt;span&gt;Wij zijn #experteninbeweging.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;De Data Governance Ambassadeur is een dynamische, cross-functionele functie die verantwoordelijk is voor het 
-&lt;strong&gt;ontwikkelen, implementeren en overzien van het raamwerk voor data governance&lt;/strong&gt; van de organisatie. Deze functie stimuleert initiatieven en samenwerking op het gebied van data governance, waaronder een strategie voor metadatamanagement, beleidsontwikkeling en de toepassing van best practices voor datamanagement door alle afdelingen. In nauwe samenwerking met business intelligence- en governance-teams zorg je voor organisatiebrede naleving van datastandaarden en stimuleer je een cultuur van data stewardship en -ownership. Deze functie met grote impact maakt een schaalbaar, goed beheerd data-ecosysteem mogelijk dat teams in staat stelt om zelfverzekerde, datagestuurde beslissingen te nemen in een snelle omgeving.&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Een greep uit jouw takenpakket:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je bent verantwoordelijk voor het ontwerpen, versterken en implementeren van een raamwerk voor data governance.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je beschikt over het vermogen om besluitvormers te overtuigen en draagvlak te creëren voor governance-initiatieven.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je ontwikkelt en implementeert solide metadatabeheerpraktijken.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je bouwt nieuwe werkrelaties op met proceseigenaren, IT teams en belanghebbenden en je onderhoudt deze relaties.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je&lt;/span&gt;&lt;span&gt; helpt duidelijke datarollen en -verantwoordelijkheden te definiëren en te implementeren&lt;/span&gt;&lt;span lang="NL"&gt;.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL"&gt;Je bevordert de cultuur gericht op samenwerking en overleg en je begeleidt de organisatie naar het beheer en gebruik van data.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Meer weten over de functie? Download de uitgebreide functiebeschrijving onderaan de pagina bij ‘Meer informatie’!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Naar wie zijn wij op zoek? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt minimaal een bachelordiploma.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt 5 jaar ervaring in datamanagement, data analyse of datagovernance, datakwaliteit en aanverwante disciplines.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je haalt energie uit het verkennen van onbekend terrein en je voelt je op je best in een dynamische omgeving waar ruimte is om te ontdekken, te leren en te bouwen aan iets nieuws.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je beschikt over het vermogen om zonder directe autoriteit mensen te overtuigen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je beschikt over uitstekende communicatieve vaardigheden, zowel schriftelijk als mondeling, om complexe concepten uit te leggen aan een divers publiek.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt kennis van projectmanagement om data governance-initiatieven te leiden, deliverables bij te houden en te rapporteren over de voortgang.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Plaats van tewerkstelling&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als Data Governance Ambassadeur ben je werkzaam binnen de cel IT-ondersteuning (ITO) van de afdeling Algemene Technische Ondersteuning (ATO). Deze afdeling staat het beleidsdomein Mobiliteit en Openbare Werken bij op het vlak van onder meer landmeetkunde, prijsadvies, ICT, overheidsopdrachten en eProcurement.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Het team is gehuisvest in het Marie-Elisabeth Belpairegebouw, aan het Noordstation te Brussel.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Wanneer je niet naar kantoor komt dan is thuiswerken ook een mogelijkheid. &lt;/span&gt;&lt;span&gt;Je verplaats je regelmatig naar de verschillende kantoorlocaties voor de samenwerking met de afdelingen.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat kunnen wij jou bieden? &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen Connect biedt een contract van onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een opleidingsbudget &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Mogelijkheid tot kinderopvang tijdens alle schoolvakanties aan een voordelig tarief. &lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;span&gt;Bij Vlaanderen Connect is een gezonde balans tussen werk en privé belangrijk: een werkweek van 38 uur, 28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). Verder werken wij met flexibele werkuren en bieden wij ook de mogelijkheid tot thuiswerken.&lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72191140"/>
-    <published>2025-10-14T12:44:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72197830</id>
