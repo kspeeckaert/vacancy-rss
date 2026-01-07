@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-06T22:41:52.094395+00:00</updated>
+  <updated>2026-01-07T05:00:13.641937+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1262,7 +1262,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72336788</id>
     <title>Software Developer (SmartEye)</title>
-    <updated>2025-11-01T10:57:12+00:00</updated>
+    <updated>2026-01-07T01:44:26+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SmartEye (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In je nieuwe functie ben je verantwoordelijk om het development team te begeleiden bij het bouwen van innovatieve softwareoplossingen met Symfony en Next.js (of gelijkwaardige technologieën). Als je gepassioneerd bent over technologie, oplossingsarchitectuur en leiderschap, is dit je kans om een significante impact te maken!&lt;/p&gt; 
 &lt;p&gt; &lt;/p&gt; 
 &lt;ul&gt; 
@@ -1293,50 +1293,6 @@
 &lt;span&gt;Docker en Kubernetes is een plus&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72336788"/>
     <published>2025-11-01T10:56:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72336779</id>
-    <title>Network Systems Engineer (SmartEye)</title>
-    <updated>2025-11-01T10:31:21+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SmartEye (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Wilrijk&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben jij een engineer die 
-&lt;span&gt;nieuwe dingen durft te bouwen&lt;/span&gt; en verantwoordelijkheid neemt voor het hele traject — van concept tot werking?&lt;/p&gt; 
-&lt;p&gt;Bij SmartEye krijg je de vrijheid om high-level en low-level designs te creëren, technologie te verkennen 
-&lt;em&gt;“to boldly go where no one has gone before”&lt;/em&gt; en die kennis om te zetten in 
-&lt;span&gt;duidelijke procedures&lt;/span&gt; voor onze operationele teams.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Wat je doet&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Ontwerpen van 
-&lt;span&gt;klant- en bedrijfsnetwerken&lt;/span&gt; (high &amp;amp; low level).&lt;/li&gt; 
-&lt;li&gt;Adviseren van sales en klanten in pre-sales en designtrajecten.&lt;/li&gt; 
-&lt;li&gt;Vertalen van nieuwe technologieën naar praktische implementaties en documentatie.&lt;/li&gt; 
-&lt;li&gt;Integreren van 
-&lt;span&gt;security, ISMS&lt;/span&gt; en 
-&lt;span&gt;secure development lifecycle&lt;/span&gt; in elk ontwerp.&lt;/li&gt; 
-&lt;li&gt;Hands-on meewerken aan onze digitale infrastructuur (network, compute, storage, security) en verbeterprojecten.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Jij brengt mee&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;✅ Master in Engineering of gelijkwaardige ervaring&lt;/p&gt; 
-&lt;p&gt;✅ 5+ jaar ervaring in netwerk- én systeembeheer of -design&lt;/p&gt; 
-&lt;p&gt;✅ Ervaring met een van volgende MikroTik, Cisco, Linux, Terraform, VMware/Proxmox (virtualisatie), containers en DevOps automatisatie inclusief Gitlab Pipelines is een plus&lt;/p&gt; 
-&lt;p&gt;✅ Analytisch, communicatief, en gedreven om te vernieuwen&lt;/p&gt; 
-&lt;p&gt;✅ Nederlands (C1), Engels (B2) - Plus: Frans (B1)&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; 
-&lt;span&gt;Certificering in minstens één van, of bereid om te behalen:&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;CCNP ENCOR · Terraform · CompTia Linux&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij SmartEye geloven we dat topprestaties hand in hand gaan met goed zorgen voor onze mensen. Daarom bieden we jou een sterk en evenwichtig pakket van voordelen en groeikansen:&lt;/p&gt; 
-&lt;p&gt;• Flexibel thuiswerkbeleid met een maandelijkse nettovergoeding van €154,74.&lt;/p&gt; 
-&lt;p&gt;• Hospitalisatieverzekering (DKV Premium), met uitbreidingsmogelijkheid voor gezinsleden.&lt;/p&gt; 
-&lt;p&gt;• Internet- en gsm-abonnement inclusief smartphone, mobiele data en onbeperkt bellen in België.&lt;/p&gt; 
-&lt;p&gt;• Mobiliteitsbudget (nettovergoeding voor: cash / elektrische fiets / wagen)&lt;/p&gt; 
-&lt;p&gt;• Volwaardige 13de maand&lt;/p&gt; 
-&lt;p&gt;• Maaltijdcheques van €8 per gewerkte dag.&lt;/p&gt; 
-&lt;p&gt;• Ecocheques €250 per jaar&lt;/p&gt; 
-&lt;p&gt;• 42 verlofdagen (20 wettelijke + 12 ADV + 10 feestdagen).&lt;/p&gt; 
-&lt;p&gt;• Werklaptop en moderne digitale ergonomische werkomgeving.&lt;/p&gt; 
-&lt;p&gt;• Opleidingsplan met ruimte voor persoonlijke en professionele ontwikkeling.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Kortom: een innovatieve werkomgeving waar je expertise wordt gewaardeerd en je inspanning beloond.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72336779"/>
-    <published>2025-11-01T10:31:21+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72343527</id>
@@ -2300,14 +2256,6 @@
 &lt;span&gt;Microsoft Fabric&lt;/span&gt;. • Kennis van Power BI en het MS Azure PaaS data platform is een pluspunt. • Een zelfstandige, gestructureerde manier van werken. • Sterk probleemoplossend vermogen en zin voor initiatief. • Onmiddellijke indiensttreding bij onze klant • De juiste verloning conform je ervaringen • Deel uitmaken van een mooi familiebedrijf • Deel uitmaken van een wereldspeler die nooit stilstaat, verandering en innovatie sterk omarmt. • Zeer veel doorgroei mogelijkheden.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72505585"/>
     <published>2025-11-26T13:28:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72524625</id>
-    <title>Java Solutions Analyst (Kingfisher IT)</title>
-    <updated>2026-01-05T10:35:49+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een softwarebedrijf in het centrum van Antwerpen zijn we op zoek naar een Java Solutions Analyst. Het bedrijf heeft zelf, van scratch, een op maat gemaakte software ontwikkeld die internationaal wordt gebruikt. &lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Als Java Solutions Analyst kom je terecht in een Agile-omgeving binnen een hoog aangeschreven IT-team. Je overlegt met externe stakeholders om hun requirements te analyseren en vertaalt deze naar functionele oplossingen binnen de software. Daarbij optimaliseer je bestaande features op basis van hun noden of implementeer je nieuwe functionaliteiten.&lt;/p&gt;&lt;p&gt;Je werkt met Java en Spring Boot, en stelt API’s op om de software te integreren binnen applicatielandschap van klanten.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor in IT of gelijkwaardige ervaring.&lt;/li&gt;&lt;li&gt;Ervaring met analyse, development en/of communicatie is een sterke troef.&lt;/li&gt;&lt;li&gt;Je bent communicatief zeer sterk en gaat vlot in gesprek over technische behoeften.&lt;/li&gt;&lt;li&gt;Je hebt kennis van Java, Spring Boot en API-integraties.&lt;/li&gt;&lt;li&gt;Je spreekt vloeiend Nederlands en Engels.&lt;/li&gt;&lt;li&gt;Je bent analytisch ingesteld en denkt probleemoplossend.&lt;/li&gt;&lt;li&gt;Je combineert graag je technische expertise met je communicatieve vaardigheden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, aangevuld met nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques (€ 8)&lt;/li&gt;&lt;li&gt;Een uitgebreide hospitalisatieverzekering (inclusief ambulante zorgen)&lt;/li&gt;&lt;li&gt;Groepsverzekering&lt;/li&gt;&lt;li&gt;Flexibele mobiliteitsopties&lt;/li&gt;&lt;li&gt;Laptop, smartphone én abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen&lt;/li&gt;&lt;li&gt;Mogelijkheid tot 80% thuiswerk&lt;/li&gt;&lt;li&gt;Een vlot bereikbare locatie op slechts 5 minuten wandelen van station Antwerpen-Centraal&lt;/li&gt;&lt;li&gt;De kans om mee te bouwen aan internationaal gebruikte, op maat gemaakte software&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72524625"/>
-    <published>2025-11-28T17:02:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72518520</id>
