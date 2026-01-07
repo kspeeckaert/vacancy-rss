@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-07T08:50:07.528038+00:00</updated>
+  <updated>2026-01-07T10:43:53.116652+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -406,14 +406,17 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69414814</id>
     <title>.NET Developer (met ervaring) (More2B)</title>
-    <updated>2025-12-18T15:01:24+00:00</updated>
+    <updated>2026-01-07T10:40:57+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: More2B (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Westmeerbeek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In opdracht voor onze klant in Westmeerbeek (Hulshout) is More2B op zoek naar een ervaren .NET Developer:&lt;/p&gt; 
 &lt;p&gt; &lt;/p&gt; 
 &lt;p&gt;Als .NET ontwikkelaar weet je dat software nooit stilstaat.&lt;/p&gt; 
 &lt;p&gt;Samen met je collega's sta je mee in voor de technische realisatie en ondersteuning van de producten.&lt;/p&gt; 
 &lt;p&gt;Je zal ontwikkelen met de nieuwste Microsoft .Net technologieën en krijgt de kans om mee te denken bij de ontwikkeling van nieuwe toepassingen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Je ontwikkelt software voor openbare besturen (steden en gemeentes).&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;p&gt;Je bent een gedreven .NET-professional met een uitstekende technologische kennis.&lt;/p&gt; 
+&lt;p&gt;Je bent vertrouwd met het .NET framework, .NET Core, WPF, REST/SOAP webservices en C#;&lt;/p&gt; 
+&lt;p&gt;Kennis van SQL en Entity Framework is een troef;&lt;/p&gt; 
+&lt;p&gt;Visual Studio, Azure DevOps en GIT zijn je favoriete speeltuin;&lt;/p&gt; 
+&lt;p&gt;Unittesten is geen loze belofte voor jou en je weet dat je binnen het SCRUM proces het beste van jezelf kan &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
 &lt;li&gt;Je bent een gedreven 
 &lt;span&gt;.NET&lt;/span&gt;-professional met verschillende jaren ervaring;&lt;/li&gt; 
 &lt;li&gt;Je bent vertrouwd met het 
@@ -1616,34 +1619,6 @@
     <published>2025-11-13T13:52:26+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72392285</id>
-    <title>ICT-manager in scholengroep SCOOP (Scholengroep SCOOP)</title>
-    <updated>2025-11-13T10:53:47+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Scholengroep SCOOP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wil jij meewerken aan de digitale toekomst van onze scholen? Heb je ervaring in een leidinggevende functie en met de ICT-werking van een grote organisatie? Dan is deze vacature iets voor jou.&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Scholengroep SCOOP heeft een performante ICT-afdeling, die ten dienste staat van onze 24 onderwijsinstellingen en de centrale diensten van SCOOP. Onze organisatie heeft 1500 personeelsleden, die onderwijs aanbieden aan bijna 10.000 leerlingen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;De ICT'ers werken deels vanuit de hoofdzetel in Vilvoorde en deels lokaal in onze GO!-scholen in &lt;/span&gt;&lt;span&gt;Grimbergen, Vilvoorde, Machelen, Zaventem, Kampenhout, Kortenberg, Tervuren, Overijse en Hoeilaart&lt;/span&gt;. Als ICT-manager sla jij de brug en neem je de leiding over het hele team.&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;De ICT-dienst is verantwoordelijk voor de uitbouw en het onderhoud van het ICT-netwerk, voor het serverbeheer en de automatisering en standaardisatie van de systemen in de scholen. De dienst volgt de ontwikkelingen op het vlak van hardware en software en adviseert de scholen in het aankoopbeleid ter zake. Een overzicht van ons digitaal ecosysteem vind je hier: &lt;/span&gt;&lt;span&gt;&lt;em&gt;https://sites.google.com/scoop.be/digitaalbeleidscoop/ecosysteem?authuser=0&lt;/em&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Als ICT-manager zorg je ervoor dat alles in goede banen geleid wordt. Je zorgt ervoor dat de scholen prima ondersteund worden en dat het ICT-team hierin een duidelijke en belangrijke rol kan spelen. Je coördineert de ICT-projecten. Daarnaast geef je advies over toekomstige ontwikkelingen in de ICT en het ICT-beleid van de scholengroep. Je wordt daarin bijgestaan door onze coördinator digitaal beleid, die zich focust op wat de scholen nodig hebben voor hun pedagogisch digitaal beleid en welke evoluties zich op dat vlak afspelen.&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Je hebt wellicht al begrepen dat we ons team graag versterken met iemand die uitdagingen systematisch kan analyseren en aanpakken en denkt in mogelijkheden en toekomstgerichte kansen. Belangrijk is dat je leidinggevende ervaring hebt en sterk bent in managementvaardigheden. Je biedt structuur en duidelijkheid aan het team en de organisatie. Je werkt vlot samen met anderen en neemt graag de leiding. Je zorgt voor een goede teamgeest en kan medewerkers motiveren, in hun sterkte zetten en hun noden en wensen capteren. Je neemt initiatief en kan doorzetten, ook als er uitdagingen zijn. Je durft beslissingen nemen. Je leert graag bij en je geeft je kennis en ervaring spontaan door aan anderen in de organisatie. Je maakt er een erezaak van om de scholen en schoolteams zo optimaal mogelijk van dienst te zijn. Je werkt zelfstandig, maar zoekt overleg waar nodig.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je hebt leidinggevende ervaring.&lt;/p&gt; 
-&lt;p&gt;Je hebt de vaardigheden om een team aan te sturen, te ondersteunen, te motiveren en te evalueren.&lt;/p&gt; 
-&lt;p&gt;Je hebt kennis van de ICT-werking en ICT-systemen van een grote organisatie.&lt;/p&gt; 
-&lt;p&gt;Je hebt visie en daadkracht om een beleid uit te zetten en te realiseren.&lt;/p&gt; 
-&lt;p&gt;Je kan goed zelfstandig werken en samenwerken.&lt;/p&gt; 
-&lt;p&gt;Je bent leergierig en wil graag bijleren in alles wat jouw team en de scholengroep op ICT-vlak kan versterken.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Je komt terecht in de centrale diensten van SCOOP, waar een ervaren team met veel enthousiasme en inzet onze scholen ondersteunt.&lt;/p&gt; 
-&lt;p&gt;Je wordt bij je start ondersteund door de HR-manager en de coördinator digitaal beleid.&lt;/p&gt; 
-&lt;p&gt;Je kan diverse opleidingen volgen om je vaardigheden en kennis te versterken.&lt;/p&gt; 
-&lt;p&gt;De aanstelling gebeurt contractueel of statutair, naargelang je situatie. Na positieve evaluatie kan de aanstelling verlengd worden en van onbepaalde duur worden.&lt;/p&gt; 
-&lt;p&gt;Je verloning gebeurt volgens de barema's van de Vlaamse overheid (departement onderwijs), waarbij bijkomend rekening gehouden wordt met de leidinggevende taken die je opneemt.&lt;/p&gt; 
-&lt;p&gt;Je voert vaak dienstverplaatsingen uit naar onze verschillende instellingen. Daarvoor krijg je een bedrijfswagen ter beschikking.&lt;/p&gt; 
-&lt;p&gt;Je krijgt een gsm, laptop en gsm-abonnement.&lt;/p&gt; 
-&lt;p&gt;Glijdende werktijden zijn van toepassing.&lt;/p&gt; 
-&lt;p&gt;Een ruime vakantieregeling, grotendeels gelijk aan de schoolvakanties en met compensatiedagen.&lt;/p&gt; 
-&lt;p&gt;De startdatum voor deze functie ligt bij voorkeur in januari/februari 2026, maar is bespreekbaar.&lt;/p&gt; 
-&lt;p&gt;Meer informatie over scholengroep SCOOP vind je op www.scoop.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72392285"/>
-    <published>2025-11-13T10:53:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72409120</id>
     <title>Senior System Engineer (CLOVR)</title>
     <updated>2025-11-13T08:44:08+00:00</updated>
@@ -2783,7 +2758,7 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72656616</id>
     <title>Functioneel Analist (More2B)</title>
-    <updated>2025-12-18T15:00:51+00:00</updated>
+    <updated>2026-01-07T10:38:54+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: More2B (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Westmeerbeek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Voor onze klant in Westmeerbeek is More2B op zoek naar een Functioneel Analist.&lt;/span&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Als Functioneel analist ben je gedreven om processen in kaart te brengen en toekomstige softwareoplossingen uit te tekenen.
 &lt;br /&gt; Je kan zelfstandig werken en bent niet bang om je te verdiepen in complexe materie.  Je bent in staat om een de brug te vormen tussen de business en het ontwikkelteam.
@@ -3515,5 +3490,33 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Robert Half (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Dendermonde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Robert Half is currently recruiting a Lead IT Infrastructure Engineer.&lt;/p&gt;&lt;p&gt;Join one of Europe's leading organizations with a global footprint, driving innovative solutions and sustainable strategies. The company operates across a variety of sectors, maintaining a strong dedication to technological advancement and operational excellence.&lt;/p&gt;&lt;p&gt;The scope of responsibilities for this job include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You are the main point of contact for infrastructure-related incidents and projects;&lt;/li&gt;&lt;li&gt;You handle the installation, configuration, and upkeep of servers, networks, storage systems, firewalls, Wi-Fi, backups, and IT facility components such as UPS systems, racks, cabling, and cooling infrastructure;&lt;/li&gt;&lt;li&gt;You oversee daily performance monitoring of infrastructure, conduct risk analyses, and implement measures to ensure stability;&lt;/li&gt;&lt;li&gt;You develop infrastructure solutions that comply with enterprise standards while working alongside Automation teams on OT-specific infrastructure needs;&lt;/li&gt;&lt;li&gt;You collaborate with the HUB-based Senior System Administrator to guarantee high availability, effective disaster recovery, and business continuity;&lt;/li&gt;&lt;li&gt;You take charge of infrastructure projects, including network upgrades, modernizing data centers, and managing hybrid cloud solutions, keeping downtime to a minimum;&lt;/li&gt;&lt;li&gt;You ensure documentation is accurate, maintain comprehensive disaster recovery plans, and contribute to compliance efforts, such as adhering to NIS2 regulations;&lt;/li&gt;&lt;li&gt;You play a key role in long-term IT planning by creating multi-year roadmaps, managing budgets, and supporting data center modernization and consolidation initiatives;&lt;/li&gt;&lt;li&gt;You work in partnership with Cyber Security, SecOps, and business leaders to maintain security protocols, compliance standards, and reliable IT support.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;The requested qualifications for this job include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You hold a bachelor's or master's degree in computer science, IT Infrastructure, or equivalent by experience;&lt;/li&gt;&lt;li&gt;You have a minimum of 12 years of professional experience in IT infrastructure management;&lt;/li&gt;&lt;li&gt;Experience in industrial or OT-heavy environments (chemicals, pharma, manufacturing) is a strong asset;&lt;/li&gt;&lt;li&gt;You possess senior-level expertise in Cisco networking, VMware, enterprise storage, backup systems, and virtualization;&lt;/li&gt;&lt;li&gt;You have demonstrated proficiency in disaster recovery, high availability, OT infrastructure, and IT facilities such as UPS, racks, and cabling;&lt;/li&gt;&lt;li&gt;You excel at independently leading and executing infrastructure projects;&lt;/li&gt;&lt;li&gt;You thrive on troubleshooting, preventive problem-solving, and technical innovation;&lt;/li&gt;&lt;li&gt;You are comfortable interfacing with technical staff, business managers, and vendors to achieve shared goals;&lt;/li&gt;&lt;li&gt;Certifications in Cisco, VMware, Microsoft Azure, or equivalent infrastructure expertise are an advantage;&lt;/li&gt;&lt;li&gt;You are fluent in Dutch and English. Knowledge of French adds extra value.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;What does the company offer?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A competitive salary package tailored to your expertise and experience;&lt;/li&gt;&lt;li&gt;Opportunities for growth, with support from leadership and access to innovative IT solutions;&lt;/li&gt;&lt;li&gt;Engagement in high-impact, strategic projects within Belgium and across Europe;&lt;/li&gt;&lt;li&gt;An inclusive workplace culture prioritizing learning, collaboration, and cutting-edge technology. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Are you interested in this challenging position? Or would you like to have more information? Apply today!&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72763289"/>
     <published>2026-01-06T10:28:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72772440</id>
+    <title>ICT-manager in scholengroep SCOOP (Scholengroep SCOOP)</title>
+    <updated>2026-01-07T09:54:16+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Scholengroep SCOOP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wil jij meewerken aan de digitale toekomst van onze scholen? Heb je ervaring in een leidinggevende functie en met de ICT-werking van een grote organisatie? Dan is deze vacature iets voor jou.&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;Scholengroep SCOOP heeft een performante ICT-afdeling, die ten dienste staat van onze 24 onderwijsinstellingen en de centrale diensten van SCOOP. Onze organisatie heeft 1500 personeelsleden, die onderwijs aanbieden aan bijna 10.000 leerlingen.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;De ICT'ers werken deels vanuit de hoofdzetel in Vilvoorde en deels lokaal in onze GO!-scholen in &lt;/span&gt;&lt;span&gt;Grimbergen, Vilvoorde, Machelen, Zaventem, Kampenhout, Kortenberg, Tervuren, Overijse en Hoeilaart&lt;/span&gt;. Als ICT-manager sla jij de brug en neem je de leiding over het hele team.&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;De ICT-dienst is verantwoordelijk voor de uitbouw en het onderhoud van het ICT-netwerk, voor het serverbeheer en de automatisering en standaardisatie van de systemen in de scholen. De dienst volgt de ontwikkelingen op het vlak van hardware en software en adviseert de scholen in het aankoopbeleid ter zake. Een overzicht van ons digitaal ecosysteem vind je hier: &lt;/span&gt;&lt;span&gt;&lt;em&gt;https://sites.google.com/scoop.be/digitaalbeleidscoop/ecosysteem?authuser=0&lt;/em&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Als ICT-manager zorg je ervoor dat alles in goede banen geleid wordt. Je zorgt ervoor dat de scholen prima ondersteund worden en dat het ICT-team hierin een duidelijke en belangrijke rol kan spelen. Je coördineert de ICT-projecten. Daarnaast geef je advies over toekomstige ontwikkelingen in de ICT en het ICT-beleid van de scholengroep. Je wordt daarin bijgestaan door onze coördinator digitaal beleid, die zich focust op wat de scholen nodig hebben voor hun pedagogisch digitaal beleid en welke evoluties zich op dat vlak afspelen.&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;Je hebt wellicht al begrepen dat we ons team graag versterken met iemand die uitdagingen systematisch kan analyseren en aanpakken en denkt in mogelijkheden en toekomstgerichte kansen. Belangrijk is dat je leidinggevende ervaring hebt en sterk bent in managementvaardigheden. Je biedt structuur en duidelijkheid aan het team en de organisatie. Je werkt vlot samen met anderen en neemt graag de leiding. Je zorgt voor een goede teamgeest en kan medewerkers motiveren, in hun sterkte zetten en hun noden en wensen capteren. Je neemt initiatief en kan doorzetten, ook als er uitdagingen zijn. Je durft beslissingen nemen. Je leert graag bij en je geeft je kennis en ervaring spontaan door aan anderen in de organisatie. Je maakt er een erezaak van om de scholen en schoolteams zo optimaal mogelijk van dienst te zijn. Je werkt zelfstandig, maar zoekt overleg waar nodig.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je hebt leidinggevende ervaring.&lt;/p&gt; 
+&lt;p&gt;Je hebt de vaardigheden om een team aan te sturen, te ondersteunen, te motiveren en te evalueren.&lt;/p&gt; 
+&lt;p&gt;Je hebt kennis van de ICT-werking en ICT-systemen van een grote organisatie.&lt;/p&gt; 
+&lt;p&gt;Je hebt visie en daadkracht om een beleid uit te zetten en te realiseren.&lt;/p&gt; 
+&lt;p&gt;Je kan goed zelfstandig werken en samenwerken.&lt;/p&gt; 
+&lt;p&gt;Je bent leergierig en wil graag bijleren in alles wat jouw team en de scholengroep op ICT-vlak kan versterken.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Je komt terecht in de centrale diensten van SCOOP, waar een ervaren team met veel enthousiasme en inzet onze scholen ondersteunt.&lt;/p&gt; 
+&lt;p&gt;Je wordt bij je start ondersteund door de HR-manager en de coördinator digitaal beleid.&lt;/p&gt; 
+&lt;p&gt;Je kan diverse opleidingen volgen om je vaardigheden en kennis te versterken.&lt;/p&gt; 
+&lt;p&gt;De aanstelling gebeurt contractueel of statutair, naargelang je situatie. Na positieve evaluatie kan de aanstelling verlengd worden en van onbepaalde duur worden.&lt;/p&gt; 
+&lt;p&gt;Je verloning gebeurt volgens de barema's van de Vlaamse overheid (departement onderwijs), waarbij bijkomend rekening gehouden wordt met de leidinggevende taken die je opneemt.&lt;/p&gt; 
+&lt;p&gt;Je voert vaak dienstverplaatsingen uit naar onze verschillende instellingen. Daarvoor krijg je een bedrijfswagen ter beschikking.&lt;/p&gt; 
+&lt;p&gt;Je krijgt een gsm, laptop en gsm-abonnement.&lt;/p&gt; 
+&lt;p&gt;Glijdende werktijden zijn van toepassing.&lt;/p&gt; 
+&lt;p&gt;Een ruime vakantieregeling, grotendeels gelijk aan de schoolvakanties en met compensatiedagen.&lt;/p&gt; 
+&lt;p&gt;De startdatum voor deze functie ligt bij voorkeur in januari/februari 2026, maar is bespreekbaar.&lt;/p&gt; 
+&lt;p&gt;Meer informatie over scholengroep SCOOP vind je op www.scoop.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72772440"/>
+    <published>2026-01-07T09:54:16+00:00</published>
   </entry>
 </feed>
