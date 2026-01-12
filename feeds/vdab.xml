@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-12T05:10:26.939382+00:00</updated>
+  <updated>2026-01-12T06:54:34.068603+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -932,7 +932,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71887083</id>
     <title>Functioneel analist (AHOVOKS) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2025-11-10T07:42:45+00:00</updated>
+    <updated>2026-01-12T07:12:37+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;Inleiding&lt;/strong&gt;&lt;/p&gt; 
 &lt;p&gt;Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een analist.&lt;/p&gt; 
