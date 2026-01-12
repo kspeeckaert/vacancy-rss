@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-12T06:54:34.068603+00:00</updated>
+  <updated>2026-01-12T08:48:51.934348+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2737,14 +2737,6 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
 &lt;p&gt;&lt;strong&gt;Klaar om data om te zetten in inzichten die écht impact maken? &lt;/strong&gt;&lt;p&gt;&lt;strong&gt;Word onze teamleader en solliciteer vandaag!&lt;/strong&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72654244"/>
     <published>2025-12-18T12:02:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72652368</id>
-    <title>Full Stack (Integration) Developer (Compusearch)</title>
-    <updated>2025-12-18T10:25:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Compusearch (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Door de frequente overnames binnen onze organisatie ontstaat telkens de uitdaging om IT-systemen van nieuwe ondernemingen naadloos te integreren. Elk overgenomen bedrijf werkt met eigen ERP-, CRM- en e-commerceplatformen, die gekoppeld moeten worden aan ons centrale IT-landschap. Een efficiënte integratie is cruciaal om de bedrijfsprocessen soepel te laten verlopen en alle systemen optimaal samen te laten werken.&lt;/p&gt;&lt;p&gt;Als Full-Stack Developer speel je een sleutelrol in deze IT-centralisatie. Je werkt nauw samen met interne teams en stakeholders om de integratie van e-commerceplatformen en ERP-systemen (MS Dynamics) te realiseren. Via ons integratieplatform zorg je ervoor dat diverse systemen – zoals ERP, CRM en e-commerce – moeiteloos met elkaar communiceren. Dit betekent niet alleen een technische koppeling, maar ook het garanderen van een efficiënte datastroom, zodat de juiste informatie op het juiste moment beschikbaar is voor de business.&lt;/p&gt;&lt;p&gt;Met jouw expertise draag je bij aan een toekomstgericht IT-landschap.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimaal 5 jaar ervaring in development binnen een B2B-context.&lt;/li&gt;&lt;li&gt;Ervaring met back-end ontwikkeling: .NET, C# kennis is een must.&lt;/li&gt;&lt;li&gt;Grondige kennis van SQL.&lt;/li&gt;&lt;li&gt;Pluspunten:&lt;ul&gt;&lt;li&gt;Kennis van EDI, API-integraties (RESTful API’s) en message bus systemen (bijvoorbeeld RabbitMQ).&lt;/li&gt;&lt;li&gt;Ervaring met integratietools zoals iHub of vergelijkbare platforms.&lt;/li&gt;&lt;li&gt;Ervaring met e-commerce platformen en ERP-systemen (bijvoorbeeld MS Dynamics).&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Sterke communicatieve vaardigheden en het vermogen om met verschillende stakeholders te schakelen.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ambitieus, proactief en enthousiast om te werken in een groeiende omgeving.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Ambitie:&lt;/strong&gt; Je wordt onderdeel van een succesvolle en groeiende onderneming met een duidelijke toekomstvisie.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Je werkt met de nieuwste technologieën en helpt bij het opbouwen van een schaalbaar en toekomstgericht IT-landschap (Drupal commerce, PHP, N-tier en Clean architecture, RabbitMQ, GitHub, Azure DevOps, D365F&amp;amp;O (microservices)).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Doorgroeimogelijkheden:&lt;/strong&gt; Door de voortdurende groei binnen het bedrijf krijg je de kans om jezelf verder te ontwikkelen en door te groeien.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Aantrekkelijk salarispakket:&lt;/strong&gt; Inclusief een bedrijfswagen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Flexibiliteit:&lt;/strong&gt; Mogelijkheid om twee dagen per week vanuit huis te werken + een moderne en inspirerende werkomgeving.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Innovatie:&lt;/strong&gt; Door voortdurende investeringen in R&amp;amp;D blijven we innoveren en groeien.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Klaar om de volgende stap te zetten in je carrière? Solliciteer nu en maak deel uit van ons dynamische team!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72652368"/>
-    <published>2025-12-18T10:25:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72652413</id>
