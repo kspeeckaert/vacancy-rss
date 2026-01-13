@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-13T14:28:39.686852+00:00</updated>
+  <updated>2026-01-13T16:34:44.840548+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -52,6 +52,65 @@ Stuur nu jouw CV naar sander@cartiere.be en bel +32 3 343 94 95 voor meer inform
     <category term="AI Strategist"/>
     <category term="Management"/>
     <published>2025-03-04T17:12:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/fabric-lead/</id>
+    <title>Fabric Lead</title>
+    <updated>2026-01-12T07:56:42+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Flemish Brabant Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-12 08:56:42+00:00, last change 2026-01-12 07:56:42+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-12 08:56:42+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p style="margin-bottom:10pt; margin-left:0cm; margin-right:0cm; margin-top:24pt"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
+Sinds 2017 bouwt deze vooruitstrevende dataconsultancypartner aan dataverhalen die impact maken. Met een uitgesproken Microsoft-first mindset helpen ze organisaties om data om te zetten in blijvende waarde, van moderne dataplatformen en sterke governance tot analytics, low-code, automatisatie en AI. Altijd doordacht, schaalbaar en met oog voor duurzame adoptie, zodat oplossingen niet alleen werken, maar blijven werken.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Dat doen ze met een team van 50 gedreven specialisten die in cross-functionele teams en over sectoren heen samenwerken voor een brede waaier aan klanten. Microsoft Fabric staat centraal in hun toekomstvisie: vanaf dag één worden klanten meegenomen in een slimme, robuuste architectuur die meegroeit met hun ambities. Een omgeving waar inhoud, innovatie en samenwerking samenkomen en waar je elke dag voelt dat je mee bouwt aan iets dat ertoe doet.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+JOBOMSCHRIJVING:&lt;br /&gt;
+Als Fabric Lead sta je mee aan het stuur van alles wat met Microsoft Fabric te maken heeft. Je bewaart het overzicht over alle initiatieven, maar zit vooral dicht op de actie: bouwen, ontwerpen, finetunen. Je werkt actief mee op projecten, zet mee het eigen Fabric-framework neer en vertaalt visie naar toekomstgerichte architecturen die blijven meegroeien. Bij nieuwe trajecten neem je vanzelf de lead en fungeer je als inhoudelijke sparringpartner voor de projectteams.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Je impact reikt verder dan projecten alleen. In presales stap je mee in klantgesprekken, luister je scherp naar hun uitdagingen en vertaal je die naar heldere, doordachte Fabric-oplossingen. Je helpt mee offertes en roadmaps vorm te geven en zorgt dat keuzes technisch én strategisch kloppen. Intern ben jij het ankerpunt voor Fabric: je bewaakt best practices, deelt kennis en tilt collega’s mee naar een hoger niveau.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Je werkt rechtstreeks samen met de Managing Partner en krijgt het vertrouwen en de ruimte om het Fabric-verhaal niet alleen uit te voeren, maar echt mee te bepalen. Dit is een rol voor iemand die energie haalt uit ownership, inhoudelijke diepgang en het bouwen aan iets dat zichtbaar groeit samen met mensen die evenveel ambitie en goesting meebrengen als jij.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+JOUW PROFIEL&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul style="margin-bottom:0.0in; margin-top:0.0in; unicode-bidi:embed"&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je hebt minstens vijf jaar ervaring in complexe data- en BI-omgevingen.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je beschikt over diepgaande kennis van Azure en hebt ervaring met Microsoft Fabric.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je bent sterk in SQL en vertrouwd met dataplatformarchitecturen zoals medallion en Kimball.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je communiceert vlot, bent leergierig en hebt een gezonde drive om te blijven groeien.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je denkt en werkt als een echte teamspeler.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je ervaring met DBT, Power BI en/of Databricks is een plus.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li style="margin-top: 0;margin-bottom: 0;vertical-align: middle;"&gt;
+	&lt;p&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;Je spreekt en schrijft vloeiend Nederlands en Engels; kennis van het Frans is mooi meegenomen.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="margin-bottom:0px; margin-top:0px; vertical-align:middle"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style="margin-bottom:0px; margin-top:0px; vertical-align:middle"&gt;&lt;span style="font-size:12.0px"&gt;&lt;span style="font-family:Calibri,Verdana,Geneva,sans-serif"&gt;UNIEK KARAKTER:&lt;br /&gt;
+Hier stap je binnen in een omgeving waar menselijkheid primeert en hiërarchie plaatsmaakt voor vertrouwen. Geen klassieke consultancystructuur, wel een cultuur waarin je ruimte krijgt om te groeien, te experimenteren en altijd kan terugvallen op ervaren collega’s. Het team bestaat uit sterke senior profielen, wat zorgt voor inhoudelijke diepgang, scherpe sparring en continue kennisdeling op hoog niveau.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Als Fabric Lead werk je tegelijk aan meerdere projecten, van gerichte, kortlopende trajecten tot grootschalige implementaties met echte impact. Die variatie houdt je scherp en geeft je een breed perspectief. Je bepaalt bovendien zelf hoe je groeit: met veel autonomie en actieve ondersteuning voor opleidingen, internationale conferenties en events. Tel daar een cross-industriële aanpak bij op en je krijgt een projectportfolio dat blijft uitdagen, inspireren en energie geven, elke dag opnieuw.&lt;br /&gt;
+&amp;nbsp;&lt;br /&gt;
+Benieuwd naar meer?&lt;br /&gt;
+Stuur nu jouw CV naar sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie.&lt;br /&gt;
+Bekijk onze website &lt;a href="http://www.cartiere.be"&gt;www.cartiere.be&lt;/a&gt; voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/fabric-lead/"/>
+    <category term="Solution Architect"/>
+    <category term="BI/Data Architect"/>
+    <category term="Data Engineering"/>
+    <published>2026-01-12T08:56:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-a-z/</id>
