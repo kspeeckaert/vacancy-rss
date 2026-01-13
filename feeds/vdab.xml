@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-13T10:43:26.696006+00:00</updated>
+  <updated>2026-01-13T13:03:30.253955+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -928,51 +928,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: KS Consulting Belgium (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Vilvoorde - Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij een ervaren Data Engineer met passie voor data-integratie en rapportering? Wij zoeken een expert die een sleutelrol wil spelen in de transformatie naar een moderne SAP-omgeving. Je werkt op het snijvlak van data-analyse, reporting en HR-core systemen en helpt de organisatie naar een hoger niveau in data-gedreven beslissingen.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functie omschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Leiding nemen in de migratie van &lt;strong&gt;UNV naar UNX&lt;/strong&gt; binnen SAP BO.&lt;/li&gt; &lt;li&gt;Optimaliseren van &lt;strong&gt;SAP BW-datastructuren&lt;/strong&gt; en zorgen voor naadloze integratie.&lt;/li&gt; &lt;li&gt;Opzetten en onderhouden van &lt;strong&gt;ETL-processen&lt;/strong&gt; (SAP HR, SAP BW, Oracle, SQL).&lt;/li&gt; &lt;li&gt;Bouwen van robuuste datapijplijnen en uitvoeren van validaties en kwaliteitscontroles.&lt;/li&gt; &lt;li&gt;Samenwerken met &lt;strong&gt;IT, HR Analytics en business stakeholders&lt;/strong&gt; om noden te vertalen naar efficiënte data-oplossingen.&lt;/li&gt; &lt;li&gt;Ondersteunen bij rapportageontwikkeling in SAP BO en integratie met tools zoals &lt;strong&gt;Power BI&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Delen van kennis en training geven rond de nieuwe &lt;strong&gt;UNX-omgeving&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Bachelor of Master in &lt;strong&gt;Informatica, Data Analytics of gelijkaardig&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Minstens 6 jaar ervaring&lt;/strong&gt; in data engineering, met focus op &lt;strong&gt;SAP BW, SAP BO en UNV/UNX-transformatie&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Sterke kennis van &lt;strong&gt;SQL, Oracle, SAS EG&lt;/strong&gt;; ervaring met &lt;strong&gt;SAP 4HANA, DAX, Python&lt;/strong&gt; is een plus.&lt;/li&gt; &lt;li&gt;Ervaring in een &lt;strong&gt;bank- of financiële omgeving&lt;/strong&gt; is gewenst; kennis van HR-data is een troef.&lt;/li&gt; &lt;li&gt;Talenkennis: &lt;strong&gt;Nederlands, Frans en Engels&lt;/strong&gt; op professioneel niveau.&lt;/li&gt; &lt;li&gt;Certificaten in &lt;strong&gt;Power BI, SAP, SAS&lt;/strong&gt; zijn een pluspunt.&lt;/li&gt; &lt;li&gt;Analytisch sterk en probleemoplossend ingesteld.&lt;/li&gt; &lt;li&gt;Communicatief vlot en een echte teamspeler.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Dadelijk vast contract&lt;/li&gt; &lt;li&gt;Een vooruitstrevend high Tech bedrijf met no nonsens cultuur&lt;/li&gt; &lt;li&gt;Mooie verloning met vele extra legale voordelen&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71888828"/>
     <published>2025-09-08T15:46:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71887083</id>
-    <title>Functioneel analist (AHOVOKS) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2026-01-12T07:12:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Inleiding&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen (AHOVOKS) van de Vlaamse Overheid zoeken we een analist.&lt;/p&gt; 
-&lt;p&gt;Ben jij op zoek naar een nieuwe uitdaging waarbij je als analist wil meewerken aan de lancering en uitwerking van innovatieprojecten dan ben jij misschien wel onze ideale kandidaat! &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Waar kom je terecht? &lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Je treedt in dienst van Vlaanderen Connect, met een contract voor onbepaalde duur, en je wordt voor lange termijn (minstens 3 à 5 jaar) ter beschikking gesteld aan het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. &lt;/p&gt; 
-&lt;p&gt;AHOVOKS heeft als missie het levenslang en levensbreed kwalificatiegericht leren voor iedereen mogelijk te maken. Het agentschap heeft als visie om de Vlaamse bevolking meer te laten deelnemen aan levenslang leren, de kwaliteit en het aanbod van de leermogelijkheden te verbeteren en om een efficiënte overheidsorganisatie te zijn die kan inspelen op de actuele en toekomstige maatschappelijke noden en evoluties.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als medewerker van AHOVOKS werk je samen met jouw collega’s aan de realisatie van deze missie en help je hiermee burgers.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Je takenpakket bestaat onder andere uit volgende uitdagingen: &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Onderzoeken en uitdiepen van behoeften om tot een goede probleemstelling te komen.&lt;/li&gt; 
-&lt;li&gt;Uitwerken van ontwerpen (iteratief en incrementeel, in afstemming met belanghebbenden: kernproces, onwikkelteams, ...).&lt;/li&gt; 
-&lt;li&gt;Ondersteunen bij de implementatie van een ontwerp (aanspreekpunt en expert voor ontwikkelaars, gebruikers, ...).&lt;/li&gt; 
-&lt;li&gt;Ondersteunen van product owner (IT) en proceseigenaar (afdelingen) bij het bereiken van een verandering, identificeren van de MVP.&lt;/li&gt; 
-&lt;li&gt;Vertalen van behoeften en ontwerp naar behapbare stukken in afstemming met de product owner en ontwikkelaars.&lt;/li&gt; 
-&lt;li&gt;Ondersteunen bij de operationele werking (aanspreekpunt voor functionele vragen, probleemanalyse bij escalatie, ...)&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Naar wie zijn wij op zoek? &lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;We zijn op zoek naar iemand die zich constructief kritisch opstelt en fungeert als klankbord voor de collega's binnen de afdelingen om zo tot een sterk en gepast product te komen. Iemand met goede communicatievaardigheden, die tot een effectieve afstemming komt met belanghebbenden binnen IT en binnen de afdelingen. Sterke betrokkenheid met de doelstellingen van de afdelingen en de producten waarvoor analyses opgeleverd worden, is een must. Leergierigheid en een sterk analysevermogen moeten ervoor zorgen dat de analist snel leert en inzicht verwerft om zich vlot in te werken in de kernprocessen en in IT-oplossingen. Iemand met minstens 3 jaar functierelevante werkervaring.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat kunnen wij jou bieden?
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Vlaanderen connect biedt een contract van onbepaalde duur en een competitief salarispakket met:
-&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;•
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een mobiliteitsbudget&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;•
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)
-&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;•
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten)
-&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;•
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een groepsverzekering
-&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;•
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een opleidingsbudget
-&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;•
-&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Mogelijkheid tot kinderopvang tijdens alle schoolvakanties aan een voordelig tarief.
-&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Bij Vlaanderen connect is een gezonde balans tussen werk en privé belangrijk: een werkweek van 38 uur, 28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). Verder werken wij met flexibele werkuren en bieden wij ook de mogelijkheid tot thuiswerken.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71887083"/>
-    <published>2025-09-08T13:03:19+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/71893670</id>
@@ -2690,7 +2645,7 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72671137</id>
     <title>System Engineer (On IT)</title>
-    <updated>2025-12-19T14:26:05+00:00</updated>
+    <updated>2026-01-13T12:12:29+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Malle&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ad-hoc interventies &lt;/strong&gt;&lt;/p&gt; 
 &lt;ul type="disc"&gt; 
 &lt;li&gt;&lt;span lang="NL"&gt;Uitvoeren van snelle en doelgerichte interventies bij klanten (bv vervangen en configureren van switches en firewalls)&lt;/span&gt;&lt;/li&gt; 
@@ -3306,14 +3261,6 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
     <published>2026-01-06T09:28:46+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72763289</id>
-    <title>Lead IT Infrastructure Engineer (Robert Half)</title>
-    <updated>2026-01-06T10:28:13+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Robert Half (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Dendermonde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Robert Half is currently recruiting a Lead IT Infrastructure Engineer.&lt;/p&gt;&lt;p&gt;Join one of Europe's leading organizations with a global footprint, driving innovative solutions and sustainable strategies. The company operates across a variety of sectors, maintaining a strong dedication to technological advancement and operational excellence.&lt;/p&gt;&lt;p&gt;The scope of responsibilities for this job include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You are the main point of contact for infrastructure-related incidents and projects;&lt;/li&gt;&lt;li&gt;You handle the installation, configuration, and upkeep of servers, networks, storage systems, firewalls, Wi-Fi, backups, and IT facility components such as UPS systems, racks, cabling, and cooling infrastructure;&lt;/li&gt;&lt;li&gt;You oversee daily performance monitoring of infrastructure, conduct risk analyses, and implement measures to ensure stability;&lt;/li&gt;&lt;li&gt;You develop infrastructure solutions that comply with enterprise standards while working alongside Automation teams on OT-specific infrastructure needs;&lt;/li&gt;&lt;li&gt;You collaborate with the HUB-based Senior System Administrator to guarantee high availability, effective disaster recovery, and business continuity;&lt;/li&gt;&lt;li&gt;You take charge of infrastructure projects, including network upgrades, modernizing data centers, and managing hybrid cloud solutions, keeping downtime to a minimum;&lt;/li&gt;&lt;li&gt;You ensure documentation is accurate, maintain comprehensive disaster recovery plans, and contribute to compliance efforts, such as adhering to NIS2 regulations;&lt;/li&gt;&lt;li&gt;You play a key role in long-term IT planning by creating multi-year roadmaps, managing budgets, and supporting data center modernization and consolidation initiatives;&lt;/li&gt;&lt;li&gt;You work in partnership with Cyber Security, SecOps, and business leaders to maintain security protocols, compliance standards, and reliable IT support.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;The requested qualifications for this job include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You hold a bachelor's or master's degree in computer science, IT Infrastructure, or equivalent by experience;&lt;/li&gt;&lt;li&gt;You have a minimum of 12 years of professional experience in IT infrastructure management;&lt;/li&gt;&lt;li&gt;Experience in industrial or OT-heavy environments (chemicals, pharma, manufacturing) is a strong asset;&lt;/li&gt;&lt;li&gt;You possess senior-level expertise in Cisco networking, VMware, enterprise storage, backup systems, and virtualization;&lt;/li&gt;&lt;li&gt;You have demonstrated proficiency in disaster recovery, high availability, OT infrastructure, and IT facilities such as UPS, racks, and cabling;&lt;/li&gt;&lt;li&gt;You excel at independently leading and executing infrastructure projects;&lt;/li&gt;&lt;li&gt;You thrive on troubleshooting, preventive problem-solving, and technical innovation;&lt;/li&gt;&lt;li&gt;You are comfortable interfacing with technical staff, business managers, and vendors to achieve shared goals;&lt;/li&gt;&lt;li&gt;Certifications in Cisco, VMware, Microsoft Azure, or equivalent infrastructure expertise are an advantage;&lt;/li&gt;&lt;li&gt;You are fluent in Dutch and English. Knowledge of French adds extra value.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;What does the company offer?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A competitive salary package tailored to your expertise and experience;&lt;/li&gt;&lt;li&gt;Opportunities for growth, with support from leadership and access to innovative IT solutions;&lt;/li&gt;&lt;li&gt;Engagement in high-impact, strategic projects within Belgium and across Europe;&lt;/li&gt;&lt;li&gt;An inclusive workplace culture prioritizing learning, collaboration, and cutting-edge technology. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Are you interested in this challenging position? Or would you like to have more information? Apply today!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72763289"/>
-    <published>2026-01-06T10:28:13+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72772440</id>
     <title>ICT-manager in scholengroep SCOOP (Scholengroep SCOOP)</title>
     <updated>2026-01-07T09:54:16+00:00</updated>
@@ -3453,5 +3400,85 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zal instaan voor het ontwerpen, coderen en testen Java-gebaseerde applicaties, waarbij je gebruikmaakt van frameworks zoals Spring en Hibernate.​ Ook werk je met technologieën als Generics, Lambdas, SQL, Typescript, Angular, React,...&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Als consultant werk je nauw samen je (langdurige) klant om hun eisen te begrijpen met en te sparren, advies te bieden en ontwikkel je op maat gemaakte software oplossingen die aan deze behoeften voldoen.​&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot zorg je voor het up-to-date houden van applicaties, voer je prestatieverbeteringen door en los je technische problemen op om de efficiëntie en betrouwbaarheid van de systemen te waarborgen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een portie ervaring, we kijken uit naar een minimum van 5 jaar binnen softwareontwikkeling.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een sterke kennis van Java, daarnaast heb je een goede kennis van Angular of React. Ervaring is SQL of No-SQL database(s), Scrum, Kanban of DevOps is een grote troef!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief en kan je zowel zelfstandig als in team werken&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €3800 - €5000, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met bijhorende laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, ambulante verzekering en een netto vergoeding! Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Geniet van een uitstekende work-life balance met de vrijheid om twee dagen op locatie bij de klant te werken en de overige drie dagen waar jij het wil, op kantoor of vanuit je home office.&lt;/li&gt;&lt;li&gt;Daarnaast profiteer je van flexibele werkuren voor maximale efficiëntie en 32 vakantiedagen, zodat je op tijd en stond kunt ontspannen!&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je wordt onderdeel van een warme, maar dynamische KMO waar kwaliteit en groei centraal staan. Je krijgt ondersteuning van je competence coach, een ervaren developer die zelf actief in het veld staat én van de CEO, die altijd openstaat voor vragen en jouw ontwikkeling stimuleert. Elke maand kom je samen met collega's om cases te bespreken, nieuwe inzichten te delen, trainingen te volgen en inspirerende lezingen bij te wonen. Wil je je verdiepen in een nieuwe technologie? Dankzij een opleidingsbudget blijf je jezelf continu ontwikkelen en groeien. Kortom, hier staat jouw ontwikkeling nooit stil!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72817279"/>
     <published>2026-01-13T09:38:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72819541</id>
+    <title>IT Datacenter Manager (LGA IT)</title>
+    <updated>2026-01-13T12:35:56+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Steenokkerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;u&gt;&lt;strong&gt;&lt;span&gt;Wat je gaat doen&lt;/span&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Operaties runnen &amp;amp; bewaken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Zorgdragen voor de dagelijkse werking van ons datacenter&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Incidenten razendsnel identificeren, escaleren en oplossen&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Preventief onderhoud en capaciteitsplanning organiseren&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Processen &amp;amp; governance verfijnen&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Meebouwen aan kwaliteits- en veiligheidskaders (ITIL/ISO-stijl)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;SLA&amp;rsquo;s, risicoanalyses, auditmateriaal en rapportering opvolgen&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Change management in goede banen leiden&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Projecten &amp;amp; evoluties sturen&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Grote datacenterprojecten co&amp;ouml;rdineren: uitbreiding, migraties en technologievernieuwing&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Nieuwe systemen testen en live brengen met impactanalyse en fallback&amp;shy;plannen&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Stakeholders &amp;amp; leveranciers aansturen&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Externe partners, technische teams en facilities (Power/HVAC/Netwerk) synchroniseren&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Budgetten opstellen, onderhandelen en monitoren&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;&lt;u&gt;&lt;strong&gt;&lt;span&gt;Wie je bent&lt;/span&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Je bent niet enkel een techneut, je bent een denker &amp;eacute;n doener:&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Ervaring met datacenter&amp;shy;infrastructuren, servers, netwerken, storage en redundantie-conceptenur&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Je durft beslissingen te nemen en verantwoordelijkheid te dragen&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;IT governance (bijv. ITIL/ISO) is geen onbekende meer voor jou&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Je spreekt vloeiend Nederlands &amp;amp; Engels (Frans is een plus)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;&lt;u&gt;&lt;strong&gt;&lt;span&gt;Wat je hiervoor terug krijgt&lt;/span&gt;&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Een sleutelpositie binnen een missie-kritische IT-omgeving&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Hybride werken &amp;amp; flexibiliteit&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Aantrekkelijk salaris + extralegale voordelen&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Ruimte om processen, teams en resultaten &amp;eacute;cht te ownen&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Samenwerking met topteams in IT, Facilities en Operations&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72819541"/>
+    <published>2026-01-13T12:35:56+00:00</published>
   </entry>
 </feed>
