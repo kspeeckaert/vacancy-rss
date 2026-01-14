@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-14T20:41:09.923938+00:00</updated>
+  <updated>2026-01-14T22:42:32.127036+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -109,11 +109,7 @@
     <id>https://www.vdab.be/vindeenjob/vacatures/68371995</id>
     <title>Oracle Database Administrator (Cronos)</title>
     <updated>2025-12-19T00:05:10+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wat ga je doen?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nieuwe database omgevingen ontwerpen en implementeren.&lt;/li&gt;&lt;li&gt;Omgevingen up-to-date houden met de nieuwste technologische ontwikkelingen door de best mogelijke oplossingen voor te stellen en deze te implementeren.&lt;/li&gt;&lt;li&gt;Omgevingen optimaliseren op het gebied van architectuur, beschikbaarheid en prestaties.&lt;/li&gt;&lt;li&gt;Proactieve en corrigerende acties ondernemen om serviceonderbrekingen te voorkomen en op te lossen.&lt;/li&gt;&lt;li&gt;Diensten van hoge kwaliteit leveren aan onze klanten en hun vertrouwen behouden door professioneel maar persoonlijk te communiceren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Hoe zit het met jou?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Als Oracle DBA voel je jezelf thuis in bovenstaande onderwerpen. Je wilt nog steeds groeien en je technische vaardigheden verbeteren. We kunnen op je rekenen omdat je verantwoordelijkheid en ownership neemt. Je bent alleen tevreden met de beste oplossing voor je klant.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;oracle&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;databases&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat we je te bieden hebben:&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Je gaat deel uitmaken van een leuke en dynamische werkomgeving met geweldige collega's, waar iedereen altijd klaar staat om te helpen. Om je collega's beter te leren kennen, organiseren we gedurende het jaar meerdere evenementen &amp; leuke activiteiten.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Naast een competitief salaris met extralegale voordelen (bedrijfswagen, laptop, telefoon, ... ), krijg je de kans om opgeleid te worden, te groeien en de beste te worden in je vakgebied.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tot slot garanderen we een gezonde balans tussen werk en privé.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/68371995"/>
     <published>2024-02-22T16:45:29+00:00</published>
   </entry>
