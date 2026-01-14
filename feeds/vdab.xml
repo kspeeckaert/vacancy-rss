@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-13T22:42:38.857798+00:00</updated>
+  <updated>2026-01-14T05:07:25.003936+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -688,62 +688,6 @@
     <published>2025-04-07T08:50:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/70834702</id>
-    <title>Web Developer .NET - Azure (POSGARD)</title>
-    <updated>2025-11-07T00:44:49+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: POSGARD (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;POSGARD ondersteunt klanten bij het nog efficiënter runnen van de horecazaak en food shop. De food &amp;amp; beverages markten zijn in volle beweging. Nu zoeken wij nieuwe collega’s voor ons tof team in groei.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span lang="NL"&gt;POSGARD &lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt;zoekt 
-&lt;strong&gt;web developer&lt;/strong&gt; met +5 jaar ervaring &lt;/span&gt;&lt;span&gt;om ons ontwikkelingsteam te versterken, dat instaat voor de ontwikkeling, het testen en onderhoud van de 
-&lt;strong&gt;gebruiksvriendelijke food &amp;amp; drinks tech applicaties&lt;/strong&gt; van POSGARD in .NET omgeving&lt;/span&gt;&lt;span&gt; 
-&lt;span lang="NL"&gt;- kantoor 10 min ten zuiden van Antwerpen (geen files!).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;In samenwerking met het team zoek je mee naar innovatieve oplossingen die antwoord bieden op de noden van onze klanten, waarbij analytisch en creatief denken belangrijk zijn. Je begrijpt dat ook bestaande applicaties gemoderniseerd dienen te worden naast het ontwikkelen van volledig nieuwe features en applicaties op basis van de laatste technologie.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Je ontwikkelt graag applicaties die 
-&lt;strong&gt;door veel gebruikers worden gewaardeerd&lt;/strong&gt; waarbij je het belang inziet van de stabiliteit, het onderhoud en de support van de applicaties op (middel)lange termijn.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je bent verantwoordelijk om op zelfstandige basis oplossingen te implementeren. Na jaren ervaring op te hebben gedaan bij het ontwikkelen en onderhouden van specifieke applicaties bij een bedrijf of verschillende opdrachtgevers zoek je nu een echt waardevolle uitdaging bij een bedrijf met eigen producten en services, daarom solliciteer je direct bij ons.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Zowel de 
-&lt;strong&gt;kwaliteit van de code&lt;/strong&gt; als het 
-&lt;strong&gt;uiteindelijke resultaat&lt;/strong&gt; zijn belangrijk voor je.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Ook jij ziet dat de wereld naar slimme software oplossingen in combinatie met eenvoudig te gebruiken hardware gaat. Wij bieden je de opleiding en winning team om dit te bereiken! Je weet dat handige tools er zijn om het (werkend) leven eenvoudig te maken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul type="disc"&gt; 
-&lt;li&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt minimaal hoger onderwijs werk- en denkniveau&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je ziet in dat pro-actieve communicatie en opvolging veel tijd en gedoe bespaart&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je bent een doorzetter en helpt graag andere mensen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt een goede beheersing van in elk geval de Engelse taal&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je sluit graag iets af en laat je niet afleiden op de momenten dat je meters zuivere code maakt&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je werkt graag constructief samen met het team op een professionele en collegiale manier&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Als iets mis zou gaan neem je verantwoordelijkheid&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Specifiek:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Zeer goed begrip van .NET 4.0 tot 8.0 en C#&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Zeer goed begrip van OO en Design Patterns&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring in het ontwikkelen van Web Applicaties met 
-&lt;strong&gt;ASP.NET MVC&lt;/strong&gt; 5 en REST gebaseerde API’s met ASP.NET Web API&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring met Azure&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Zeer goed begrip van 
-&lt;strong&gt;HTML, CSS3 en JavaScript&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring met Bootstrap en jQuery&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring in het ontwikkelen van WPF 
-&lt;strong&gt; &lt;/strong&gt;applicaties is een plus&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring in het gebruik van Azure SQL Database / SQL CE in combinatie met het Entity Framework (optioneel in combinatie met Code-First en Code-first Migraties)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring met of interesse in Mobiele apps / Maui / Xamarin / Kotlin wordt gezien als een plus&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Het Development, Design &amp;amp; Support team van POSGARDkijkt uit naar de 
-&lt;strong&gt;samenwerking met de nieuwe collega&lt;/strong&gt; om de projecten voor onze klanten naar nog hogere niveaus te brengen!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Het Team biedt u 
-&lt;strong&gt;verantwoordelijkheid in bestaande en uitdagende innovatieve projecten&lt;/strong&gt;, super producten voor restaurants &amp;amp; food&amp;amp; drinks shops die een belangrijke rol spelen in onze maatschappij en naast dit alles een mooi salaris pakket.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
-&lt;li&gt;Werken aan duurzame software oplossingen met veel eindgebruikers&lt;/li&gt; 
-&lt;li&gt;Streven naar best-practice code &amp;amp; oplossingen&lt;/li&gt; 
-&lt;li&gt;Uitstekende begeleiding die je verder doet groeien&lt;/li&gt; 
-&lt;li&gt;Werk aan uitdagende projecten op hoog niveau&lt;/li&gt; 
-&lt;li&gt;Goede werksfeer met het toffe team&lt;/li&gt; 
-&lt;li&gt;Opleidingsmogelijkheden&lt;/li&gt; 
-&lt;li&gt;Een goed salaris en/of bedrijfswagen&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/70834702"/>
-    <published>2025-04-09T21:37:16+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70895241</id>
     <title>.Net Developer (Antwerpen) (ELMOS EXPERT)</title>
     <updated>2026-01-09T13:13:49+00:00</updated>
@@ -1034,30 +978,6 @@
     <published>2025-10-13T09:02:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72197159</id>
-    <title>Senior Frontend React Developer (Madison Recruitment)</title>
-    <updated>2025-10-15T09:15:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze partner ben ik op zoek naar een &lt;strong&gt;Senior Fullstack Developer&lt;/strong&gt;. Ze zijn gelegen in regio Mechelen, waar je op hun site ook hun producten werkende kan zien.&lt;/p&gt;&lt;p dir="ltr"&gt;Als Senior Fullstack Developer werk je samen met andere gepassioneerde en ervaren developers aan de ontwikkeling van complexe en innovatieve in-house gebruikte softwareproducten.&lt;/p&gt;&lt;p dir="ltr"&gt;Je maakt deel uit van een &lt;strong&gt;Scrum&lt;/strong&gt;-team dat zich toelegt op het bouwen van robuuste, veilige en schaalbare applicaties met behulp van de nieuwste technologieën.&lt;/p&gt;&lt;p dir="ltr"&gt;Je krijgt de mogelijkheid om deel te nemen aan &lt;strong&gt;uitdagende en boeiende projecten&lt;/strong&gt;, waarbij je je kennis en vaardigheden voortdurend kunt verbeteren.&lt;/p&gt;&lt;p dir="ltr"&gt;Je zorgt voor een &lt;strong&gt;naadloze integratie van de frontend (React) van de applicaties&lt;/strong&gt; en werkt nauw samen met de rest van het team om de gebruikerservaring van de applicaties te verbeteren.&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je behaalde een &lt;strong&gt;bachelor- of masterdiploma&lt;/strong&gt; in een relevante opleiding (Toegepaste Informatica, Software Engineering…)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt minstens 6 jaar ervaring in frontend ontwikkeling van applicaties in React&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tech stack van het development team: &lt;strong&gt;C#, .NET 6/7, Entity Framework, AspNetCore, Angular, React, Azure&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een grondige kennis van RESTful API’s, ASP.NET Web API in het bijzonder en daarnaast ervaring met GIT/&lt;strong&gt;Azure DevOps&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Pluspunten: ervaring in .NET en Azure cloud development&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het Nederlands en het Engels&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Onze partner biedt een loonpakket aan dat aangevuld wordt met o.a.&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bedrijfsrestaurant met zeer gunstige prijzen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen (full electric) met laadkaart&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;20 + 9 verlofdagen (39,5 urenweek)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;1 à 2 thuiswerkdagen per week&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Glijtijd: kerntijd is tussen 10.00 -15.00u&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sportiever naar kantoor? Als je +50% met de fiets komt, voorziet onze partner een (elektrische) fiets die door hen wordt onderhouden&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Jaarlijks 1 dag vrijwilligerswerk tijdens de werkuren&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;#LI-ED1&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72197159"/>
-    <published>2025-10-15T09:15:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72197830</id>
-    <title>Senior Fullstack .NET/React Developer (Madison Recruitment)</title>
-    <updated>2025-10-15T10:19:50+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze partner ben ik op zoek naar een &lt;strong&gt;Senior Fullstack Developer&lt;/strong&gt;. Ze zijn gelegen in regio Mechelen, waar je op hun site ook hun producten werkende kan zien.&lt;/p&gt;&lt;p dir="ltr"&gt;Als Senior Fullstack Developer werk je samen met andere gepassioneerde en ervaren developers aan de ontwikkeling van complexe en innovatieve in-house gebruikte softwareproducten.&lt;/p&gt;&lt;p dir="ltr"&gt;Je maakt deel uit van een &lt;strong&gt;Scrum&lt;/strong&gt;-team dat zich toelegt op het bouwen van robuuste, veilige en schaalbare applicaties met behulp van de nieuwste technologieën.&lt;/p&gt;&lt;p dir="ltr"&gt;Je krijgt de mogelijkheid om deel te nemen aan &lt;strong&gt;uitdagende en boeiende projecten&lt;/strong&gt;, waarbij je je kennis en vaardigheden voortdurend kunt verbeteren.&lt;/p&gt;&lt;p dir="ltr"&gt;Je zorgt voor een naadloze integratie van zowel de &lt;strong&gt;backend (.NET C#) als de frontend (React) &lt;/strong&gt;van de applicaties en werkt nauw samen met de rest van het team om de gebruikerservaring van de applicaties te verbeteren.&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je behaalde een &lt;strong&gt;bachelor- of masterdiploma&lt;/strong&gt; in een relevante opleiding (Toegepaste Informatica, Software Engineering…)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt minstens 6 jaar ervaring met het fullstack ontwikkelen van applicaties in .NET en React&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tech stack van het development team: &lt;strong&gt;C#, .NET 6/7, Entity Framework, AspNetCore, Angular, React, Azure&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een grondige kennis van RESTful API’s, ASP.NET Web API in het bijzonder en daarnaast ervaring met GIT/&lt;strong&gt;Azure DevOps&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Pluspunten: Azure cloud development&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het Nederlands en het Engels&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Onze partner biedt een loonpakket aan dat aangevuld wordt met o.a.&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bedrijfsrestaurant met zeer gunstige prijzen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen (full electric) met laadkaart&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;20 + 9 verlofdagen (39,5 urenweek)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;1 à 2 thuiswerkdagen per week&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Glijtijd: kerntijd is tussen 10.00 -15.00u&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sportiever naar kantoor? Als je +50% met de fiets komt, voorziet onze partner een (elektrische) fiets die door hen wordt onderhouden&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Jaarlijks 1 dag vrijwilligerswerk tijdens de werkuren&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;#LI-ED1&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72197830"/>
-    <published>2025-10-15T10:19:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72196975</id>
-    <title>Senior .NET Developer (Madison Recruitment)</title>
-    <updated>2025-10-15T08:55:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor onze partner ben ik op zoek naar een &lt;strong&gt;Senior .NET Developer&lt;/strong&gt;. Ze zijn gelegen in regio Mechelen, waar je op hun site ook hun producten werkende kan zien.&lt;/p&gt;&lt;p dir="ltr"&gt;Als Senior .NET Developer werk je samen met andere gepassioneerde en ervaren developers aan de ontwikkeling van complexe en innovatieve in-house gebruikte softwareproducten.&lt;/p&gt;&lt;p dir="ltr"&gt;Je maakt deel uit van een &lt;strong&gt;Scrum&lt;/strong&gt;-team dat zich toelegt op het bouwen van robuuste, veilige en schaalbare applicaties met behulp van de nieuwste technologieën.&lt;/p&gt;&lt;p dir="ltr"&gt;Je krijgt de mogelijkheid om deel te nemen aan &lt;strong&gt;uitdagende en boeiende projecten&lt;/strong&gt;, waarbij je je kennis en vaardigheden voortdurend kunt verbeteren.&lt;/p&gt;&lt;p dir="ltr"&gt;Je zorgt voor een naadloze integratie van de &lt;strong&gt;backend (.NET C#) &lt;/strong&gt;van de applicaties en werkt nauw samen met de rest van het team om de gebruikerservaring van de applicaties te verbeteren.&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p dir="ltr"&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je behaalde een &lt;strong&gt;bachelor- of masterdiploma&lt;/strong&gt; in een relevante opleiding (Toegepaste Informatica, Software Engineering…)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt minstens 6 jaar ervaring met het ontwikkelen van applicaties in .NET&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tech stack van het development team: &lt;strong&gt;C#, .NET 6/7, Entity Framework, AspNetCore, Angular, React, Azure&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een grondige kennis van RESTful API’s, ASP.NET Web API in het bijzonder en daarnaast ervaring met GIT/&lt;strong&gt;Azure DevOps&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Pluspunten: ervaring in React + Azure cloud development&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het Nederlands en het Engels&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Onze partner biedt een loonpakket aan dat aangevuld wordt met o.a.&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bedrijfsrestaurant met zeer gunstige prijzen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen (full electric) met laadkaart&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;20 + 9 verlofdagen (39,5 urenweek)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;1 à 2 thuiswerkdagen per week&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Glijtijd: kerntijd is tussen 10.00 -15.00u&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sportiever naar kantoor? Als je +50% met de fiets komt, voorziet onze partner een (elektrische) fiets die door hen wordt onderhouden&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Jaarlijks 1 dag vrijwilligerswerk tijdens de werkuren&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;#LI-ED1&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72196975"/>
-    <published>2025-10-15T08:55:12+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72252559</id>
     <title>Senior Identity and Access Management Consultant  (Xylos)</title>
     <updated>2025-12-18T10:28:40+00:00</updated>
@@ -1336,41 +1256,6 @@
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72365833"/>
     <published>2025-11-05T17:40:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72373692</id>
-    <title>2nd line IT Support Representative (B-SKILLED)</title>
-    <updated>2025-11-06T12:48:57+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: B-SKILLED (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Meise&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;em&gt;&lt;span&gt;&lt;span lang="FR-BE"&gt;Prime&lt;/span&gt;&lt;span lang="EN-GB"&gt; responsibilities&lt;/span&gt;&lt;span lang="FR-BE"&gt; of the 2nd line IT support&lt;/span&gt;&lt;span lang="EN-GB"&gt; representative&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Act as an escalation point for the 1st line helpdesk staff when issues are too complex, take up too much time, or require specific knowledge and skills for resolution at 1st line support&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="FR-BE"&gt;Assist 1st line support in correctly handing over the issue ensuring users do not need to re-explain themselves a second time&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL-BE"&gt;Pick up from where 1st line support stopped and work through to final resolution witht the end user&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL-BE"&gt;Assume full ownership of any assigned issue and stay in close contact with the end user where needed and appropriate&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL-BE"&gt;Inform the end user of any and all next steps or actions&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL-BE"&gt;Engage with 3rd party hardware- , software- and service vendors on an as-needed basis&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="FR-BE"&gt;Consult the web, FAQ’s, knowledge bases, 3rd party support teams, people in your network, etc… to speed up resolution times&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="FR-BE"&gt;Troubleshoot complex issues at various levels : hardware, OS, application, network, security, cloud, virtualization layer, storage, …&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="FR-BE"&gt;Document unknown issues in relevant call management systems and/or knowledge databases&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="NL-BE"&gt;Share your knowledge and experience&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="FR-BE"&gt;Create post-mortem analysis reports for resolved high-impact issues.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;span lang="FR-BE"&gt;&lt;span&gt;In a nutshell: use your extensive IT knowledge, skills and experience to solve complex issues when 1st line support runs out of options&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Klantgericht en communicatief. Positieve attitude.&lt;/li&gt; 
-&lt;li&gt;Hands-on aanpak.&lt;/li&gt; 
-&lt;li&gt;Eerdere ervaring in ondersteunen van IT users, netwerken, servers en storage&lt;/li&gt; 
-&lt;li&gt;Professionele uitstraling.&lt;/li&gt; 
-&lt;li&gt;Flexibel (wat plaats van opdracht betreft)&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Een marktconform maandsalaris&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="NL-BE"&gt;&lt;span&gt;Een netto dagvergoeding van 10€ per effectief gewerkte dag&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="NL-BE"&gt;&lt;span&gt;Firmawagen of mobiliteitsbudget&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="NL-BE"&gt;&lt;span&gt;Eco-cheques&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="NL-BE"&gt;&lt;span&gt;Hospitalisatieverzekering&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="NL-BE"&gt;&lt;span&gt;Compensatiedagen voor 40u werkweek i.p.v. 38u&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span lang="NL-BE"&gt;&lt;span&gt;Gevarieerd werk in een jonge en dynamische omgeving met tal van leermogelijkheden&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72373692"/>
-    <published>2025-11-06T12:48:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72371888</id>
@@ -2178,14 +2063,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ElmosExpert (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie zijn wij?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Voor een softwarebedrijf in de Antwerpse Kempen zijn we op zoek naar ervaren &lt;strong&gt;.NET Developers&lt;/strong&gt; om het interne team te versterken. Vanuit deze interne rol werk je mee aan uiteenlopende projecten voor verschillende klanten, maar ook aan de ontwikkeling van hun eigen SaaS-oplossingen.&lt;/p&gt;&lt;p&gt;Welke projecten je precies opneemt, hangt af van jouw ervaring en interesses. De meeste klanten bevinden zich tussen Antwerpen en Brussel, waardoor enige flexibiliteit handig is. In ruil daarvoor krijg je ook veel vrijheid: &lt;strong&gt;thuiswerk is ruim mogelijk&lt;/strong&gt; en je bepaalt je werkweek op een flexibele manier.&lt;/p&gt;&lt;p&gt;Je werkt niet alleen aan de ontwikkeling, maar bent betrokken vanaf het begin. Je overlegt regelmatig met analisten, denkt mee tijdens de analyse en vertaalt die input naar kwalitatieve software. Je werkt volgens Agile-methodes en neemt actief deel aan de verschillende fases van het traject. Daarnaast geef je op regelmatige basis demo’s aan klanten of interne stakeholders om de vooruitgang te tonen en de volgende stappen af te stemmen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Naar wie zijn we op zoek?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minstens 4 jaar relevante ervaring binnen .NET en/of Angular.&lt;/li&gt;&lt;li&gt;Sterke kennis van .NET Core, Angular, TypeScript en AWS of Azure.&lt;/li&gt;&lt;li&gt;Gestructureerde en kwalitatieve code als standaard werkwijze.&lt;/li&gt;&lt;li&gt;Teamgerichte mindset, maar ook zelfstandig sterk.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vlotte communicatie in het Nederlands en Engels.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat mag je verwachten?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salaris aangevuld met een uitgebreid pakket extralegale voordelen&lt;br&gt;(bedrijfswagen, tankkaart, maaltijdcheques, hospitalisatieverzekering, gsm-abonnement, …)&lt;/li&gt;&lt;li&gt;Flexibele werkuren en ruime mogelijkheden tot thuiswerk&lt;/li&gt;&lt;li&gt;Continue opleidings- en ontwikkelingskansen om je technische kennis up-to-date te houden&lt;/li&gt;&lt;li&gt;Doorgroeimogelijkheden binnen een stabiel bedrijf met een sterke reputatie in de sector&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72571260"/>
     <published>2025-12-05T15:31:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72572981</id>
-    <title>.Net Software Engineer (Kingfisher IT)</title>
-    <updated>2026-01-12T10:15:44+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br/&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team. Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en oplossingen ontwerpt, bouwt en optimaliseert. Je denkt mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk. Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen + tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm + abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk +3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72572981"/>
-    <published>2025-12-05T17:16:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72569449</id>
