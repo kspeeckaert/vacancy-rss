@@ -2,9 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-15T14:29:06.467958+00:00</updated>
+  <updated>2026-01-15T16:37:32.932615+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/teamlead-data-engineering/</id>
+    <title>Teamlead Data Engineering</title>
+    <updated>2026-01-15T15:10:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:10:04+00:00, last change 2026-01-15 15:10:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:10:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br&gt;
+&lt;br&gt;
+De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Team Lead Data Engineering ben je verantwoordelijk voor het technisch ontwerp, de&lt;br&gt;
+kwaliteit en de schaalbaarheid van het data-landschap. Je combineert een sterk hands-on data engineering profiel met inhoudelijk leiderschap en coaching. Hoewel dit geen klassieke people management rol is, neem je wel de technische eindverantwoordelijkheid over data engineering- en BI-projecten en fungeer je als inhoudelijke sparringpartner voor data-analisten, AI-profielen en stakeholders.&lt;br&gt;
+&lt;br&gt;
+In deze rol ontwerp, bouw en onderhoud je schaalbare data pipelines in een moderne cloud data omgeving. Je staat in voor de ingestie van data uit verschillende bronnen, het opzetten van efficiënte lakehouse-architecturen en het optimaliseren van bestaande oplossingen op vlak van performantie, schaalbaarheid en kost. Je werkt dagelijks hands-on met PySpark, Python en SQL en neemt onderbouwde technische beslissingen rond architectuur en data-oplossingen. Daarnaast ondersteun je bij datamodellering en BI- en dashboarding-oplossingen, en coach je data engineers en data-analisten inhoudelijk in hun verdere groei. Je volgt data-projecten op van A tot Z, met oog voor haalbaarheid, prioriteiten, risico’s en timing.&lt;br&gt;
+&lt;br&gt;
+JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt 5 jaar ervaring als Data Engineer.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke kennis van Fabric of PySpark met Python en SQL.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Data Lakehouse architecture.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt idealiter kennis van Data Governance en security.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
+Je bouwt mee aan een schaalbaar en future-proof data platform met grote technische impact in een organisatie waar data en AI strategisch belangrijk zijn. Je werkt nauw samen met data, BI en innovatie en krijgt veel autonomie en vertrouwen binnen een mensgerichte cultuur waar authenticiteit, respect en samenwerking centraal staan. Er zijn geen vastgeroeste structuren, er is ruimte om het technisch juist en duurzaam te doen.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/teamlead-data-engineering/"/>
+    <category term="Data Engineering"/>
+    <published>2026-01-15T16:10:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/medior-data-analist/</id>
+    <title>Medior Data Analist</title>
+    <updated>2026-01-15T15:05:41+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:05:41+00:00, last change 2026-01-15 15:05:41+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:05:41+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br&gt;
+&lt;br&gt;
+De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Medior Data Analist speel je een sleutelrol op het kruispunt tussen data, business en AI. De focus ligt hoofdzakelijk op rapportering, maar evenzeer op het begrijpen, verklaren en challengen van cijfers en inzichten. Je combineert operationele analyses met proactieve monitoring van KPI’s, dashboarding en visualisatie, ondersteuning van AI- en data science projecten en inhoudelijke coaching van een junior data analist.&lt;br&gt;
+&lt;br&gt;
+In deze rol ontwerp, bouw en onderhoud je Power BI dashboards die intensief gebruikt worden binnen de organisatie. Daarnaast voer je ad-hoc SQL-analyses uit naar aanleiding van businessvragen en monitor je zelfstandig KPI’s om trends en afwijkingen tijdig te detecteren. Wanneer prestaties afwijken, ga je dieper in de data om verklarende analyses te maken, bijvoorbeeld rond ziekteverzuim, klantengedrag, conversie of churn. Je levert actief input voor AI- en voorspellende modellen door hypotheses aan te reiken, features te definiëren en resultaten mee te interpreteren. Hoewel requirements grotendeels door business analisten worden aangebracht, wordt verwacht dat je deze kritisch beoordeelt en inhoudelijk uitdaagt. Datakwaliteit bewaak je continu en verbeter je waar nodig. Daarnaast neem je een coachende rol op ten aanzien van de junior data analist.&lt;br&gt;
+&lt;br&gt;
+JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt 4 jaar ervaring als Data Analist.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke kennis van Power BI, DAX en SQL.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Ervaring met Fabric, data modelleren of Data Governance zijn een plus.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent kritisch en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
+Je hebt een impactvolle rol binnen een organisatie waar data en AI strategisch belangrijk zijn. Er is veel ruimte om mee richting te geven aan hoe data wordt ingezet en werkt daarvoor nauw samen met data, AI en innovatie binnen een moderne data-architectuur met focus op Microsoft Fabric en Power BI. Je komt terecht in een mensgerichte cultuur zonder vastgeroeste BI-structuren.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/medior-data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-01-15T16:05:41+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ai-director/</id>
     <title>AI Director</title>
