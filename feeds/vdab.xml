@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-16T08:47:53.191533+00:00</updated>
+  <updated>2026-01-16T10:42:26.702906+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3464,5 +3464,59 @@ This is a unique opportunity to work at the heart of Belgium's digital evolution
 &lt;p&gt;Professionele bachelor of gelijkwaardig door ervaring.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72835362"/>
     <published>2026-01-15T09:44:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72845335</id>
+    <title>Data Platform &amp; Insights Lead (Ami Connect)</title>
+    <updated>2026-01-16T09:58:05+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Ami Connect (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een advies- en dienstverleningsbedrijf uit 
+&lt;strong&gt;Diegem&lt;/strong&gt; zijn we op zoek naar een 
+&lt;strong&gt;Data Platfom &amp;amp; Insights Lead&lt;/strong&gt;. Deze onderneming helpt organisaties betere beslissingen te nemen over risico’s en mensen.Het bedrijf ondersteunt klanten met oplossingen rond risicomanagement, verzekeringen, herverzekering, employee benefits en human capital consultancy.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;In deze rol combineer je strategisch inzicht met hands-on uitvoering: je bepaalt niet alleen de visie, maar bouwt ook actief mee aan de oplossingen die die visie waarmaken.&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Je leidt de 
+&lt;strong&gt;transformatie van het bestaande data warehouse naar een moderne, schaalbare en self-service analytics omgeving, gebaseerd op Azure Databricks en geïntegreerd met AWS-native services binnen het DASP-ecosysteem&lt;/strong&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;&lt;strong&gt;Ontwerpen en bouwen van een modern data platform voor operationele rapportering en geavanceerde analytics&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Leiden van de 
+&lt;strong&gt;migratie van legacy systemen naar een cloud-native&lt;/strong&gt;, self-service analytics omgeving.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ontwikkelen en onderhouden van performante en schaalbare datapipelines en datamodellen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Opleveren van duidelijke en impactvolle dashboards en semantische modellen in &lt;/span&gt;&lt;span&gt;Power BI&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Samenwerken met internationale data- en engineeringteams rond architectuur, governance en standaarden.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Bewaken van betrouwbaarheid, dataveiligheid en governance over de volledige datacyclus.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Optreden als sparringpartner voor de business en vertalen van behoeften naar duurzame data-oplossingen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;strong&gt;Minstens 5 jaar ervaring in data engineering, BI development of analytics architectuur.&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Aantoonbare ervaring met het 
+&lt;strong&gt;ontwerpen en opleveren van end-to-end data-oplossingen&lt;/strong&gt; in de cloud.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Sterke 
+&lt;strong&gt;kennis van &lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;SQL, datamodellering en data-orchestratie.&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ervaring met &lt;/span&gt;&lt;strong&gt;Power BI&lt;/strong&gt;&lt;span&gt; en basiskennis van &lt;/span&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;span&gt; of andere scriptingtalen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Inzicht in moderne data-architecturen zoals lakehouse-modellen, semantische lagen en self-service BI.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Sterke communicatieve vaardigheden en vlot schakelen tussen business en IT.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Vloeiend in &lt;/span&gt;&lt;span&gt;Engels&lt;/span&gt;&lt;span&gt;; kennis van &lt;/span&gt;&lt;span&gt;Nederlands en/of Frans&lt;/span&gt;&lt;span&gt; is een grote troef.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je voelt je comfortabel in een internationale context met verschillende culturen en tijdzones.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;brutoloon tussen de €4000 en  €5000&lt;/strong&gt; aangevuld met een 
+&lt;strong&gt;pakket aan extralegale voordelen&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;netto vergoeding&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Maaltijdcheques van €8/dag&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;bedrijfswagen met laadoplossing&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Verschillende verzekeringen: pensioenplan, hospitalisatie,…&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;gsm + abonnement&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;strong&gt;jaarlijkse bonus&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;li&gt;&lt;strong&gt;20 wettelijke vakantiedagen + 6ADV dagen&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Flexibiliteit:
+&lt;strong&gt; thuiswerk (woensdag en vrijdag zijn kantoordagen) en glijdende uren&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een team waar je 
+&lt;strong&gt;impact&lt;/strong&gt; kan maken en kan groeien&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72845335"/>
+    <published>2026-01-16T09:58:05+00:00</published>
   </entry>
 </feed>
