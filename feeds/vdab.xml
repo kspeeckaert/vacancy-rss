@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-15T22:40:51.410561+00:00</updated>
+  <updated>2026-01-16T04:58:51.110115+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -391,7 +391,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69231322</id>
     <title>DATA STEWARD - ANALYST (Cronos)</title>
-    <updated>2025-12-15T00:01:57+00:00</updated>
+    <updated>2026-01-16T00:01:01+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;You are responsible in bridging the gap between business and IT. We are interested in professionals having this unique experience with functional analysis in complex business and data environments. The ability to understand the client needs, participate in requirements gathering and functional analysis is fundamental to deliver effective data solutions.  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;You will be:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;participating in and reviewing data diagnosis and assessment activities&lt;/li&gt;&lt;li&gt;driving and participating in functional and system requirements analysis&lt;/li&gt;&lt;li&gt;translating the business needs into technical requirements&lt;/li&gt;&lt;li&gt;Implementing data modeling design / review&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Your qualifications are:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Practical functional knowledge of the following capabilities is required:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;5+ years of working experience in data and functional analysis&lt;/li&gt;&lt;li&gt;5+ years of functional experience with data management platforms such as Collibra, Informatica, Alation, TIBCO, SAS, IBM... is a plus&lt;/li&gt;&lt;li&gt;an analytical and creative mind&lt;/li&gt;&lt;li&gt;solid organizational skills including attention to detail and multi-tasking skills&lt;/li&gt;&lt;li&gt;proven ability to deliver in time&lt;/li&gt;&lt;li&gt;preferably trilingual: English (requirement) and/or Dutch, French&lt;/li&gt;&lt;li&gt;good communication and presentation skills, both written and oral&lt;/li&gt;&lt;li&gt;strong interpersonal skills, such as being able to work in a team as well as autonomously&lt;/li&gt;&lt;li&gt;flexibility and ableness to work under pressure&lt;/li&gt;&lt;li&gt;hands-on mentality, despite functional focus of the job&lt;/li&gt;&lt;li&gt;willingness to travel in Belgium and potentially abroad&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Your academic requirements are:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Bachelor or Master’s degree&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Datalumen is an equal opportunities employer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Primary Location: Belgium&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Job Level: Senior - Expert&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Contract Type: Payroll, contractors and freelance&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;TIBCO&lt;/p&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;p&gt;SAS&lt;/p&gt;&lt;/li&gt;
@@ -2262,70 +2262,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;The sky’s the limit with cloud computing, so you’ll need to use skills of virtualization, containerization, and orchestration using tools like Kubernetes and Docker to design, deploy, and manage cloud-based solutions. We pride ourselves on our secure, compliant, efficient and well-optimized cloud solutions. You’ll feel at home working with cloud-native development, serverless architectures, and DevOps practices. To take cloud adoption to its fullest extent, you’ll use your analytical and governance skills, problem-solving abilities, and cross-functional team collaboration to drive innovation and efficiency in cloud environments.&lt;/p&gt;&lt;p&gt;Keeping our systems running smoothly and optimally will be your ultimate goal as our (Cloud) System Engineer. Your days will consist of automating and maintaining our systems as well as developing scripts that optimize our infrastructure and align cloud systems to always serve our business goals. You’ll use your expertise in cloud platforms (Azure &amp;amp; AWS), automation frameworks, containerization, virtualization, networking, and security practices to drive digital transformation. Our goal is to build reliable and cost-efficient systems. As a (Cloud) System Engineer, you’ll make it happen by designing, implementing, and supporting scalable cloud environments, streamlining deployment processes and reducing manual interventions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;We’re seeking passionate colleagues who are eager to push the boundaries in digital transformation and technology consulting. At Sopra Steria, you’ll have the opportunity to grow your skills in a constructive, collaborative team environment, working on impactful projects that drive change for our clients. If you thrive on challenge and meet (most of) the qualifications below, we look forward to your application!&lt;/p&gt;&lt;p&gt;&lt;strong&gt;You’ll have knowledge and experience of the following:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor’s&amp;nbsp;or Master’s degree in computer science or a relevant equivalent&lt;/li&gt;&lt;li&gt;5 years of experience in infrastructure projects&lt;/li&gt;&lt;li&gt;Eperience with cloud services such as Microsoft Azure, AzureAD, EMS, Office365, AWS etc.&lt;/li&gt;&lt;li&gt;Broad knowledge of networking, system and information architectures, storage concepts, virtualization, containers, automation, Microsoft Azure, Office 365, security and management&lt;/li&gt;&lt;li&gt;Scripting and automation: Powershell, VBSript, Bash, Ansible etc.&lt;/li&gt;&lt;li&gt;Experience with methodologies such as project management, ITIL, etc. or are willing to get certified&lt;/li&gt;&lt;li&gt;Fluent in English and Dutch/French&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What we can offer you&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a member of one of Europe’s largest digital solutions providers, you’ll benefit from extensive career development opportunities, both local and international. At the Sopra Steria Academy, you’ll be part of a dynamic network of 56,000 professionals at all stages of their careers. With a wide array of offices to explore, you can find your ideal location and take the next step in your career.&lt;/p&gt;&lt;p&gt;You’ll become a part of a major Tech player in Europe recognized for its consulting, digital services, and software development. On top of that, you’ll join the Business Line DPS (Digital Platform Services) and join the team of infrastructure and architecture experts: hybrid systems engineers, network and security engineers, Linux consultants, cloud native engineers and cloud solution architects.&lt;br&gt;Our teams help our clients with data center management and data center setup and maintenance. We offer on-premise and cloud solutions, both public and private. This is because we believe in a solution that fits our customers' unique context and business strategy. Often that is a healthy combination of cloud and on-premise.&lt;/p&gt;&lt;p&gt;Our employees are known for making bold choices and delivering results. Work among high-level professionals at the forefront of corporate software solutions and innovation at Europe’s Leading Digital Service Provider.&lt;/p&gt;&lt;p&gt;We offer a generous employee benefits package that includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A variety of perks, such as mobility options (including a company car), insurance coverage, meal vouchers, eco-cheques, and more.&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&lt;/li&gt;&lt;li&gt;The opportunity to connect with fellow Sopra Steria colleagues at various team events.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;People are the cornerstone of our success. That’s why we aspire to be bolder together. Our goal is to build high-functioning teams and healthy team environments that inspire and help each other to deliver excellence for each of our customers.&lt;/p&gt;&lt;p&gt;Excited about this job opportunity? Ready to shape the world with us? Great! We are looking forward to your application!&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want to know what happens next?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The recruitment process typically begins with the first step, where the recruiter screens candidates based on their qualifications and fit for the role. This is followed by the second step, where candidates undergo more in-depth evaluations, including technical assessments and an interview with the capacity manager to assess both technical skills and team compatibility. The third step involves the company reviewing feedback and aligning on a potential offer. Finally, in the final step, the candidate receives a formal job offer.&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72632695"/>
     <published>2025-12-16T10:19:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72631896</id>
-    <title>Hays - .NET Developer (ictjob.be)</title>
-    <updated>2025-12-17T09:18:20+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Lier&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je maakt software op maat van de klant en werkt mee aan boeiende en leerrijke projecten. Daarbij doorloop je de volledige ontwikkelingscyclus van ontwikkelen over testen tot eventuele support en onderhoud.&lt;p&gt;&lt;strong&gt;De arbeidsvoorwaarden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;
-Een omgeving waar je echt jezelf kan zijn&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Een job met veel groeimogelijkheden&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Een aantrekkelijk loonpakket&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Een leuke collegiale sfeer en veel vrijheid&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Solliciteer direct op deze vacature&lt;/strong&gt;&lt;/p&gt;
-
-Heb je interesse in deze job? Solliciteer dan snel online en stuur ons je CV, of bel ons op voor meer informatie.&lt;br /&gt;
-
-Is deze job niet helemaal wat je zoekt, maar ben je wel op zoek naar een nieuwe functie? Aarzel niet om ons te contacteren voor een vertrouwelijk gesprek over je carrièremogelijkheden.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-
-&lt;li&gt;
-Je hebt een Master of Bachelor Toegepaste Informatica of gelijkaardig.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Je hebt minimaal 5 jaar ervaring als softwareontwikkelaar.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Je bent een echte teamspeler en kan vlot samenwerken.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-.NET kent geen geheimen voor jou.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72631896"/>
-    <published>2025-12-16T09:18:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72644233</id>
