@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-19T10:46:39.351410+00:00</updated>
+  <updated>2026-01-19T13:05:04.094752+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3278,89 +3278,9 @@
     <published>2026-01-16T13:58:18+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849399</id>
-    <title>Full Stack JAVA Developer (PeakPeople)</title>
-    <updated>2026-01-16T15:00:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full-stack Java Developer&lt;/p&gt; 
-&lt;p&gt;Je kent het wel: projecten waar je 
-&lt;em&gt;echt&lt;/em&gt; impact hebt, collega’s die samenwerken vanzelfsprekend maken en een werkomgeving waar je kan groeien zonder constant van project naar project te moeten springen.
-&lt;br /&gt;Exact dat biedt mijn klant.&lt;/p&gt; 
-&lt;p&gt;Ze zoeken een 
-&lt;strong&gt;Full Stack Java Developer&lt;/strong&gt; die graag verantwoordelijkheid neemt, houdt van helderheid en voelt dat het tijd is voor een plek waar je werk ertoe doet — in plaats van alleen maar tickets weg te werken.&lt;/p&gt; 
-&lt;p&gt; Wat je gaat doen&lt;/p&gt; 
-&lt;p&gt;Geen loze buzzwords, geen eindeloze lagen management. Wel:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bouwen aan Java backends die stevig, modern en clean zijn.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Werken aan front-end interfaces (Angular of React) die logisch, snel en gebruiksvriendelijk zijn.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Meedenken over de architectuur, codekwaliteit en technische keuzes — jouw stem telt hier.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Samenwerken met een team van ontwikkelaars die kiezen voor professionaliteit én menselijkheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Features uitwerken van analyse tot release, zodat jij het eindresultaat ziet van wat je bouwt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; Waarom jij hier op je plaats zit&lt;/p&gt; 
-&lt;p&gt;Omdat jij iemand bent die:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;graag end-to-end werkt (van idee tot oplevering),&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;houdt van een omgeving waar kwaliteit primeert boven snelheid,&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;verantwoordelijkheid neemt en initiatief apprecieert,&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;niet alleen codeert, maar meedenkt, verbetert en richting geeft,&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;zin heeft om te werken in een stabiel, mensgericht bedrijf waar mensen blijven — niet komen en gaan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; Jouw toolbox&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Java / Spring (Boot)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Angular of React&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;SQL / relationele databases&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;REST APIs&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;CI/CD en moderne development practices&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Basiskennis DevOps (bonuspunten, geen must)&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt; Wat je ervoor terugkrijgt&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een sterk loonpakket op maat van jouw ervaring&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Flexibele uren + mogelijkheid tot telewerk&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Opleidingsbudget &amp;amp; coaching&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Stabiele werkomgeving met realistische verwachtingen&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Collega’s die talent, inzet en eerlijkheid waarderen&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt; Waarom mensen hier graag werken&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je krijgt vertrouwen én autonomie: geen micromanagement.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt in een hecht team waar iedereen elkaar vooruit helpt.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je wordt gewaardeerd als mens, niet als resource.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je leert van ervaren ontwikkelaars die je technisch sterker maken.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt op projecten met lange termijn impact, geen wegwerpmissies.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je krijgt ruimte om te groeien in de richting die jij belangrijk vindt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt; Zin in een plek waar jij écht kan groeien?&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Stuur me een bericht en ik vertel je graag meer over mijn klant, het team, de projecten en waarom dit voor veel developers een 
-&lt;strong&gt;blijvers-plek&lt;/strong&gt; wordt — geen tussenstop.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849399"/>
-    <published>2026-01-16T15:00:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849370</id>
     <title>Full Stack .NET Developer (PeakPeople)</title>
-    <updated>2026-01-16T14:57:53+00:00</updated>
+    <updated>2026-01-19T11:46:52+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voor mijn klant — een mensgerichte IT-consultancy die kwaliteit belangrijker vindt dan volume&lt;/strong&gt;&lt;/p&gt; 
 &lt;p&gt;Mijn klant is een 
 &lt;strong&gt;IT-consultancy bedrijf&lt;/strong&gt; dat developers niet ziet als “resources”, maar als vakmensen.
@@ -3464,7 +3384,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849340</id>
     <title>Full Stack Developer (PeakPeople)</title>
-    <updated>2026-01-16T14:53:55+00:00</updated>
+    <updated>2026-01-19T11:47:25+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full Stack Developer&lt;/p&gt; 
 &lt;p&gt;Ben jij de developer die niet alleen code schrijft, maar ook slimme oplossingen bedenkt die écht werken?
 &lt;br /&gt;Dan zoeken we jou. Als 
@@ -3524,6 +3444,86 @@
 &lt;strong&gt;Klaar om je stempel te drukken als Full Stack Developer?&lt;/strong&gt; Stuur ons vandaag nog je cv en laat van je horen!&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72849340"/>
     <published>2026-01-16T14:53:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72849399</id>
+    <title>Full Stack JAVA Developer (PeakPeople)</title>
+    <updated>2026-01-19T11:46:15+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full-stack Java Developer&lt;/p&gt; 
+&lt;p&gt;Je kent het wel: projecten waar je 
+&lt;em&gt;echt&lt;/em&gt; impact hebt, collega’s die samenwerken vanzelfsprekend maken en een werkomgeving waar je kan groeien zonder constant van project naar project te moeten springen.
+&lt;br /&gt;Exact dat biedt mijn klant.&lt;/p&gt; 
+&lt;p&gt;Ze zoeken een 
+&lt;strong&gt;Full Stack Java Developer&lt;/strong&gt; die graag verantwoordelijkheid neemt, houdt van helderheid en voelt dat het tijd is voor een plek waar je werk ertoe doet — in plaats van alleen maar tickets weg te werken.&lt;/p&gt; 
+&lt;p&gt; Wat je gaat doen&lt;/p&gt; 
+&lt;p&gt;Geen loze buzzwords, geen eindeloze lagen management. Wel:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bouwen aan Java backends die stevig, modern en clean zijn.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Werken aan front-end interfaces (Angular of React) die logisch, snel en gebruiksvriendelijk zijn.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Meedenken over de architectuur, codekwaliteit en technische keuzes — jouw stem telt hier.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Samenwerken met een team van ontwikkelaars die kiezen voor professionaliteit én menselijkheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Features uitwerken van analyse tot release, zodat jij het eindresultaat ziet van wat je bouwt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; Waarom jij hier op je plaats zit&lt;/p&gt; 
+&lt;p&gt;Omdat jij iemand bent die:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;graag end-to-end werkt (van idee tot oplevering),&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;houdt van een omgeving waar kwaliteit primeert boven snelheid,&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;verantwoordelijkheid neemt en initiatief apprecieert,&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;niet alleen codeert, maar meedenkt, verbetert en richting geeft,&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;zin heeft om te werken in een stabiel, mensgericht bedrijf waar mensen blijven — niet komen en gaan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; Jouw toolbox&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Java / Spring (Boot)&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Angular of React&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;SQL / relationele databases&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;REST APIs&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;CI/CD en moderne development practices&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Basiskennis DevOps (bonuspunten, geen must)&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt; Wat je ervoor terugkrijgt&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een sterk loonpakket op maat van jouw ervaring&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Flexibele uren + mogelijkheid tot telewerk&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Opleidingsbudget &amp;amp; coaching&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Stabiele werkomgeving met realistische verwachtingen&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Collega’s die talent, inzet en eerlijkheid waarderen&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt; Waarom mensen hier graag werken&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je krijgt vertrouwen én autonomie: geen micromanagement.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je werkt in een hecht team waar iedereen elkaar vooruit helpt.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je wordt gewaardeerd als mens, niet als resource.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je leert van ervaren ontwikkelaars die je technisch sterker maken.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je werkt op projecten met lange termijn impact, geen wegwerpmissies.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je krijgt ruimte om te groeien in de richting die jij belangrijk vindt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt; Zin in een plek waar jij écht kan groeien?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Stuur me een bericht en ik vertel je graag meer over mijn klant, het team, de projecten en waarom dit voor veel developers een 
+&lt;strong&gt;blijvers-plek&lt;/strong&gt; wordt — geen tussenstop.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72849399"/>
+    <published>2026-01-16T15:00:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849175</id>
@@ -3619,6 +3619,14 @@
 &lt;strong&gt;impact&lt;/strong&gt; kan maken en kan groeien&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72845335"/>
     <published>2026-01-16T09:58:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72858985</id>
+    <title>Application Manager Finance &amp; ERP (VAN MOER GROUP)</title>
+    <updated>2026-01-19T11:34:42+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: VAN MOER GROUP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Van Moer Logistics&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Van Moer Logistics is een groeiende logistieke dienstverlener, actief in transport en distributie, opslag, binnenvaartactiviteiten en tankcontainerlogistiek. Ons doel is om de logistieke processen van onze klanten naadloos te ondersteunen en te optimaliseren.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Van Moer Logistics is de voorbije jaren sterk gegroeid, wat heeft geleid tot een complex IT- en applicatielandschap met nauwe verwevenheid tussen Finance en Operations. Om onze aanhoudende groei verder te ondersteunen en voor het verder uitbouwen van onze financi&amp;euml;le applicaties, IT-architectuur en integraties, zoeken wij een &lt;strong&gt;Application Manager Finance &amp;amp; ERP &lt;/strong&gt;die mee ownership neemt over het finance applicatielandschap en de onderliggende ERP-backbone.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Wil je deel uitmaken van een dynamisch team, in een groot Belgisch familiebedrijf? Kom werken bij Van Moer Logistics en bouw mee aan onze toekomst!&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw rol&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Deze rol combineert &lt;strong&gt;operationeel applicatiebeheer&lt;/strong&gt;, &lt;strong&gt;tactische co&amp;ouml;rdinatie&lt;/strong&gt; en &lt;strong&gt;strategische betrokkenheid&lt;/strong&gt;. Je bouwt mee aan een future-proof finance- en ERP-landschap voor Van Moer Logistics. Je fungeert als scharnier tussen Finance, IT en Operations en speelt een sleutelrol in een belangrijke transformatiefase van de groep.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operationeel &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Je zorgt ervoor dat de finance applicaties dagelijks betrouwbaar en correct functioneren:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Eerste- en tweedelijn support voor finance-gerelateerde applicaties.&lt;/li&gt;&lt;li&gt;Beheer van upgrades, releases, testscenario&amp;rsquo;s en testplannen.&lt;/li&gt;&lt;li&gt;Opvolging van incidenten en structurele verbeteracties.&lt;/li&gt;&lt;li&gt;Ondersteuning van de Finance-afdeling bij correct gebruik en interpretatie van applicaties.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tactisch &amp;ndash; ownership en co&amp;ouml;rdinatie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Je neemt ownership over het applicatielandschap en fungeert als centrale spil tussen stakeholders:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;SPOC voor externe applicatie- en ERP-leveranciers.&lt;/li&gt;&lt;li&gt;Inschatten en vertalen van functionele noden van Finance naar concrete oplossingen.&lt;/li&gt;&lt;li&gt;Prioriteiten bepalen en afstemmen met Finance, IT en Operations.&lt;/li&gt;&lt;li&gt;Co&amp;ouml;rdinatie en opvolging van integraties tussen finance applicaties en operationele systemen (TMS, WMS, TOS, &amp;hellip;)&lt;/li&gt;&lt;li&gt;Actieve deelname aan het Application Management Comit&amp;eacute;, waar roadmap, knelpunten en best practices worden besproken&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Strategisch &amp;ndash; toekomst en transformatie&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Je draagt actief bij aan de toekomstige IT- en ERP-architectuur van Van Moer Logistics:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meewerken aan het ERP-migratietraject (Dynamics 365 BC &amp;rarr; cloud of alternatief, afhankelijk van de ERP-selectie en overnemen van het project management.&lt;/li&gt;&lt;li&gt;Mee vormgeven van de toekomstige finance backbone en integratielaag.&lt;/li&gt;&lt;li&gt;Bewaken van architectuurprincipes, datastromen, schaalbaarheid en future-proofheid.&lt;/li&gt;&lt;li&gt;Sparringpartner voor Finance en IT bij strategische keuzes rond applicaties en digitalisering.&lt;/li&gt;&lt;li&gt;Voorbereiden van een mogelijke verdere convergentie tussen Finance-ERP en operationele systemen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Welk profiel zoeken we?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimaal 3 tot 4 jaar aantoonbare ervaring met ERP- en finance applicaties.&lt;/li&gt;&lt;li&gt;Ervaring met application management in een complexe omgeving met meerdere applicaties en integraties.&lt;/li&gt;&lt;li&gt;Sterke projectmanagementvaardigheden en ervaring met het co&amp;ouml;rdineren van IT- en ERP-projecten.&lt;/li&gt;&lt;li&gt;Inzicht in IT-architectuur en integraties tussen financi&amp;euml;le en operationele systemen.&lt;/li&gt;&lt;li&gt;Sterk in stakeholdermanagement, prioriteiten stellen en verwachtingsmanagement.&lt;/li&gt;&lt;li&gt;Hands-on ingesteld, maar met voldoende senioriteit om ownership op te nemen.&lt;/li&gt;&lt;li&gt;Analytisch, gestructureerd en probleemoplossend.&lt;/li&gt;&lt;li&gt;Kennis van specifieke ERP-systemen (bv. Dynamics 365 BC, SAP).&lt;/li&gt;&lt;li&gt;Bereid om voornamelijk te werken vanuit het hoofdkantoor in Zwijndrecht.&lt;/li&gt;&lt;li&gt;Je spreekt goed Nederlands en Engels.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ons aanbod&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een sleutelrol in een groeiende, ambitieuze organisatie in volle transformatie.&lt;/li&gt;&lt;li&gt;Veel autonomie en impact op de toekomstige architectuur van de groep.&lt;/li&gt;&lt;li&gt;Je komt terecht in een dynamisch team op ons gloednieuw hoofdkantoor in Zwijndrecht.&lt;/li&gt;&lt;li&gt;Marktconform loon met tal van extralegale voordelen (bedrijfswagen, verzekeringen, maaltijdcheques, &amp;hellip;)&lt;/li&gt;&lt;li&gt;Werkplek in ons gloednieuw hoofdkantoor in Zwijndrecht.&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72858985"/>
+    <published>2026-01-19T11:31:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72858239</id>
