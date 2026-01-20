@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-20T13:06:19.686392+00:00</updated>
+  <updated>2026-01-20T14:51:45.129605+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3685,11 +3685,144 @@
     <published>2026-01-20T08:38:00+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72870575</id>
+    <title>Full Stack Developer (Spring Boot &amp; Angular) (CEPA)</title>
+    <updated>2026-01-20T14:21:16+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CEPA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Heb jij ervaring met API-ontwikkeling in Spring Boot en ben je bekend met Angular? Werk je graag aan zowel de backend als de frontend en haal je plezier uit het bouwen van robuuste en schaalbare applicaties? Dan is deze uitdaging iets voor jou! Lees snel verder.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Meebouwen aan een modern IT-landschap van morgen.&lt;/li&gt; 
+&lt;li&gt;Ontwikkelen en onderhouden van RESTful API's met Spring Boot.&lt;/li&gt; 
+&lt;li&gt;Werken aan dynamische en performante frontend-applicaties met Angular.&lt;/li&gt; 
+&lt;li&gt;Bijdragen aan het ontwerpen en uitwerken van schaalbare en efficiënte architecturen.&lt;/li&gt; 
+&lt;li&gt;Je bent een gewaardeerd teamlid: je neemt initiatief, helpt richting geven en motiveert collega’s.&lt;/li&gt; 
+&lt;li&gt;Hands-on werken aan code en meedenken over technische keuzes en architectuur.&lt;/li&gt; 
+&lt;li&gt;Zorgen voor een vlotte integratie tussen frontend en backend componenten.&lt;/li&gt; 
+&lt;li&gt;Actief bijdragen aan code reviews, testing en CI/CD pipelines.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Minimaal 5 jaar ervaring met Spring Boot en Angular.&lt;/li&gt; 
+&lt;li&gt;Sterke kennis van REST API's, JWT/OAuth2, database design (JPA/Hibernate) en cloud-oplossingen.&lt;/li&gt; 
+&lt;li&gt;Hands-on ervaring met TypeScript, RxJS en moderne Angular best practices.&lt;/li&gt; 
+&lt;li&gt;Inzicht in relationele databases en praktische kennis van SQL.&lt;/li&gt; 
+&lt;li&gt;Je werkt gestructureerd en verantwoordelijk, en weet problemen zelfstandig aan te pakken.&lt;/li&gt; 
+&lt;li&gt;Je hebt een hands-on mentaliteit en gaat uitdagingen niet uit de weg.&lt;/li&gt; 
+&lt;li&gt;Sterke communicatieve vaardigheden en een proactieve mindset.&lt;/li&gt; 
+&lt;li&gt;Ervaring met DevOps-tools (Docker, Kubernetes, CI/CD) is een plus.&lt;/li&gt; 
+&lt;li&gt;Eventuele kennis van PowerShell is mooi meegenomen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Naast een loon dat met jou meegroeit, krijg je bij ons tal van extralegale voordelen, zoals maaltijdcheques, fietsvergoeding, een hospitalisatieverzekering en groepsverzekering. Om je loonpakket volledig op jouw maat af te stemmen hebben we ook een cafetariaplan. Hierin kan je een stuk van je eindejaarspremie en bonus omzetten in andere leuke voordelen. 
+&lt;br /&gt;We vertellen je hier graag meer over tijdens je sollicitatiegesprek.&lt;/li&gt; 
+&lt;li&gt;We moedigen je tijdens je loopbaan aan om jezelf verder te ontplooien als persoon én als professional. Je kan verschillende opleidingen en workshops volgen waarin je je hard en soft skills verder aanscherpt.&lt;/li&gt; 
+&lt;li&gt;Bij Cepa ontvangen we je met open armen – nog voor je gestart bent! Je mag rekenen op een uitgebreide onboarding waarbij we je uitstekend begeleiden vanaf dat je je contract ondertekent tot je enkele maanden in dienst bent.&lt;/li&gt; 
+&lt;li&gt;En de collegialiteit blijft groot! Via CepaConnect zetten we allerlei initiatieven op poten om onze collega’s te verbinden en te zorgen voor hun welzijn.&lt;/li&gt; 
+&lt;li&gt;Een goeie work-life balance vinden we erg belangrijk. Voor heel wat jobs kunnen we afspraken maken rond thuiswerk, flexibele uren … Meer ontdek je tijdens ons gesprek.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Wens je meer te weten over onze activiteiten, surf gerust naar www.cepa.be.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;locatie:&lt;/span&gt; Antwerpen&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Werk jij mee aan een veilige en drugsvrije haven? &lt;/span&gt;Dan is het belangrijk dat je een positieve veiligheidsscreening hebt of bereid bent toestemming te geven zodat wij deze voor jou kunnen aanvragen.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72870575"/>
+    <published>2026-01-20T14:21:16+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72866888</id>
     <title>SAP Developer (ITZU Jobs)</title>
     <updated>2026-01-20T09:36:58+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITZU Jobs (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je bouwt en verbetert custom SAP-programma’s in nauwe samenwerking met de functionele SAP-analisten (MM/SD en FI/CO).&lt;/li&gt;&lt;li&gt;Je vertaalt functionele requirements naar een sterk technisch ontwerp en kwalitatieve code.&lt;/li&gt;&lt;li&gt;Je denkt actief mee over architectuur, integraties en best practices, samen met het SAP-team, andere IT-applicaties en de business.&lt;/li&gt;&lt;li&gt;Je optimaliseert bestaande toepassingen en pakt proactief verbeterpunten aan.&lt;/li&gt;&lt;li&gt;Je bewaakt de dagelijkse werking van het SAP-systeem en garandeert stabiliteit en performantie. Bij incidenten onderneem je meteen actie en ondersteun je collega’s bij analyse en oplossing.&lt;/li&gt;&lt;li&gt;Je neemt de technische lead in grote trajecten zoals de overstap naar S/4HANA, cloudmigraties, upgrades, system copies en andere technische interventies.&lt;/li&gt;&lt;li&gt;Je blijft op de hoogte van nieuwe ontwikkelingen binnen SAP en de bredere IT-wereld&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring: Minstens vijf jaar ervaring in ABAP-ontwikkeling en bij voorkeur al kennis van S/4HANA. Je bent vertrouwd met MM/SD en FI/CO. Ervaring of affiniteit met retail is mooi meegenomen.&lt;/li&gt;&lt;li&gt;Expertise: Je blinkt uit in het ontwerpen, ontwikkelen en verbeteren van SAP-oplossingen en houdt altijd de stabiliteit, kwaliteit en performantie in de gaten.&lt;/li&gt;&lt;li&gt;Talen: Je spreekt vlot Nederlands, hebt een goede mondelinge en schriftelijke kennis van het Frans en beheerst Engels op een degelijk niveau.&lt;/li&gt;&lt;li&gt;Persoonlijkheid: Analytisch, oplossingsgericht, hands-on en met een sterke can-do mentaliteit. Je neemt ownership over jouw applicaties en oplossingen.&lt;/li&gt;&lt;li&gt;Communicatie: Je werkt zelfstandig aan design en code, maar functioneert ook sterk in teamcontext en ondersteunt collega’s wanneer nodig.&lt;/li&gt;&lt;li&gt;Cultuur: Je hebt een drive om continu bij te leren en kiest bewust voor een voltijdse rol waarin je bijdraagt aan de groei van onze klant.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een competitief salaris met een uitgebreid pakket extralegale voordelen, waaronder maaltijdcheques, ecocheques, personeelskortingen en mogelijkheden tot thuiswerk.&lt;/li&gt;&lt;li&gt;Bedrijfswagen&lt;/li&gt;&lt;li&gt;Flexibele werk- en vakantieregeling.&lt;/li&gt;&lt;li&gt;Een uitdagende werkomgeving binnen een financieel gezonde en groeiende organisatie.&lt;/li&gt;&lt;li&gt;Een no-nonsense cultuur waarin persoonlijke groei en teamwork centraal staan.&lt;/li&gt;&lt;li&gt;Toegang tot een uitgebreid pakket opleidingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72866888"/>
     <published>2026-01-20T09:25:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72870860</id>
+    <title>Senior Salesforce administrator &amp; Platform Owner (CAW GROEP)</title>
+    <updated>2026-01-20T14:42:42+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CAW GROEP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Borgerhout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span lang="NL"&gt;&lt;span&gt;1 &lt;/span&gt;&lt;/span&gt;&lt;span lang="NL"&gt;FUNCTIEOMSCHRIJVING&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;&lt;span&gt;1.1 &lt;/span&gt;&lt;/span&gt;&lt;span lang="NL"&gt;Plaats in de organisatie&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Als Senior Salesforce Administrator &amp;amp; Platform Owner neem je de technische leiding over het cliëntvolgsysteem (CVS) van 11 CAW’s. Je bewaakt de architectuur, bouwt nieuwe functionaliteiten en zorgt ervoor dat hulpverleners vlot en veilig met Salesforce kunnen werken. Je combineert diepgaande technische kennis met een stevige helikopterview en zin voor maatschappelijk relevante projecten.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;1.2 &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Je neemt de technische leiding over het Salesforce-platform voor 11 CAW’s&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;1.3 Je combineert configuratie, lichte development en architectuur&lt;/p&gt; 
+&lt;p&gt;1.4 Je werkt in een maatschappelijke context met veel impact en autonomie&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;De Senior Salesforce Administrator maakt deel uit van het 
+&lt;span&gt;&lt;strong&gt;Beheerteam CVS&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;Het team werkt autonoom en is verantwoordelijk voor de inrichting, werking en doorontwikkeling van het cliëntvolgsysteem voor 11 CAW’s.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Hoedanigheid:&lt;/strong&gt;&lt;/span&gt; Medewerker met senior technische expertise en architecturale verantwoordelijkheid&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Rapporteert aan:&lt;/strong&gt;&lt;/span&gt; Teamlead Beheerteam CVS&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;Werkt samen met:&lt;/strong&gt;&lt;/span&gt; Softwareleverancier, lokale experts CVS, data-analisten, functioneel experten, Strategisch Governance Team.&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;&lt;span&gt;1.5 &lt;/span&gt;&lt;/span&gt;&lt;span lang="NL"&gt;Resultaatsgebieden&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;1.5.1 &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Technisch beheer en configuratie van het cliëntvolgsysteem&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Je bouwt en beheert het Salesforce-platform waarop het CVS draait. Het Salesforce-platform ondersteunt 11 organisaties en 3000 actieve gebruikers.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Resultaat:&lt;/strong&gt; een stabiel, performant, veilig en gebruiksvriendelijk cliëntvolgsysteem.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="EN-US"&gt;&lt;span&gt;1.5.2 &lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US"&gt;Architectuur &amp;amp; platformevolutie&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Je neemt eigenaarschap over de 
+&lt;span&gt;&lt;strong&gt;technische architectuur&lt;/strong&gt;&lt;/span&gt; van het volledige CVS-ecosysteem.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Resultaat:&lt;/strong&gt; een systeem dat future-proof blijft en correct aansluit op de CAW-architectuur en governance.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="EN-US"&gt;&lt;span&gt;1.5.3 &lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US"&gt;Ontwikkelen van lichte maatwerkfunctionaliteit&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Naast configuratie werk je ook aan beperkte ontwikkeltaken.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Resultaat:&lt;/strong&gt; gerichte uitbreidingen die het werk van gebruikers vlotter maken, zonder het systeem zwaarder of ingewikkelder te maken.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;1.5.4 &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Validatie van wijzigingen binnen de governance&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Het Beheerteam CVS valideert alle wijzigingen aan het systeem.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Resultaat:&lt;/strong&gt;&lt;/span&gt; wijzigingen zijn correct, veilig, consistent en sluiten aan bij de CVS-visie.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;1.5.5 &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Ondersteuning aan CAW’s en interne partners&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Je zorgt ervoor dat lokale experten en gebruikers de juiste ondersteuning krijgen.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Resultaat:&lt;/strong&gt; CAW’s kunnen zelfstandig werken binnen de juiste kaders.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="EN-US"&gt;&lt;span&gt;1.5.6 &lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US"&gt;Kwaliteit, veiligheid en continuïteit&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Je borgt dat het systeem voldoet aan alle wettelijke, technische en interne normen.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Resultaat:&lt;/strong&gt;&lt;/span&gt; het cliëntvolgsysteem blijft veilig, betrouwbaar en compliant.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span lang="NL"&gt;2 &lt;/span&gt;&lt;span lang="NL"&gt;COMPETENTIEPROFIEL&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;2.1 &lt;/span&gt;&lt;span lang="NL"&gt;Kerncompetenties&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Klantgerichtheid:&lt;/strong&gt; je bouwt oplossingen die het werk van hulpverleners eenvoudiger maken. Je vertaalt.functionele noden naar technische oplossingen en omgekeerd.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Integriteit:&lt;/strong&gt; je werkt professioneel en zorgvuldig met persoonsgegevens.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Samenwerken:&lt;/strong&gt; je schakelt vlot met lokale experts, leverancier en teamleden.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Openheid:&lt;/strong&gt; je staat open voor feedback en nieuwe inzichten vanuit de sector.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Eigenaarschap:&lt;/strong&gt; je neemt verantwoordelijkheid voor het platform én het resultaat.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Ondernemen:&lt;/strong&gt; je durft technische keuzes en groei voorstellen.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;2.2 &lt;/span&gt;&lt;span lang="NL"&gt;Functiespecifieke competenties&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Technische analyse:&lt;/strong&gt; complexe processen doorgronden en vertalen naar Salesforce.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Architecturale visie:&lt;/strong&gt; denken in schaalbare oplossingen en heldere kaders.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Configureren &amp;amp; ontwikkelen:&lt;/strong&gt; flows, Apex, LWC, integraties.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Probleemoplossend denken:&lt;/strong&gt; snel en zelfstandig technische issues aanpakken.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Beheer &amp;amp; governance:&lt;/strong&gt; werken binnen duidelijke rollen, verantwoordelijkheden en SLA’s.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Communiceren:&lt;/strong&gt; technische concepten helder uitleggen aan niet-technische profielen.&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;strong&gt;Kwaliteitsbewaking:&lt;/strong&gt; kritisch op datakwaliteit en systeemstabiliteit.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;2.3 &lt;/span&gt;&lt;span lang="NL"&gt;Vaktechnische competenties&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="EN-US"&gt;· &lt;/span&gt;&lt;span lang="EN-US"&gt;Sterke kennis van Salesforce (flows, datamodel, security model).&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;· 
+&lt;span lang="EN-US"&gt;Ervaring met Salesforce Nonprofit Cloud &lt;/span&gt;&lt;span lang="EN-US"&gt;Salesforce Administrator, Salesforce Platform App Builder, &lt;/span&gt;Salesforce Nonprofit Cloud zijn een plus!&lt;/p&gt; 
+&lt;p&gt;· Basis tot gevorderde kennis van Apex, LWC, API’s en integraties.&lt;/p&gt; 
+&lt;p&gt;· Inzicht in procesanalyse en systeeminrichting.&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="EN-US"&gt;· &lt;/span&gt;&lt;span lang="EN-US"&gt;Ervaring met rapportage in Salesforce (Reports/Dashboards).&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;· Begrip van datamodellering en masterdata.&lt;/p&gt; 
+&lt;p&gt;· Basiskennis van privacywetgeving (GDPR) en security.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;2.4 &lt;/span&gt;&lt;span lang="NL"&gt;Diploma / ervaring&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;· Geen specifiek diploma vereist; ervaring primeert.&lt;/p&gt; 
+&lt;p&gt;· Minstens 8 jaar relevante werkervaring.&lt;/p&gt; 
+&lt;p&gt;· Minstens 5 jaar relevante ervaring in Salesforce-administratie waarvan bij voorkeur 3 jaar in een vergelijkbare complexe omgeving.&lt;/p&gt; 
+&lt;p&gt;· Sectorervaring in welzijn is een plus, geen must.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een voltijdse job ( 38u/w) voor onbepaalde duur waarbij je onmiddellijk van start kan gaan. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Verloning volgens sectorbarema 
+&lt;strong&gt;L1&lt;/strong&gt; PC 319.01 met extralegale voordelen.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Relevante anciënniteit wordt mee in overweging genomen.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Standplaats: Antwerpen, met mogelijkheid thuiswerk.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Enthousiast &amp;amp; ambitieus team met een open bedrijfscultuur, met ruimte voor eigen denken en inbreng van ideeën.&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72870860"/>
+    <published>2026-01-20T14:42:42+00:00</published>
   </entry>
 </feed>
