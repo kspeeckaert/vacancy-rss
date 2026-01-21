@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-21T14:51:11.112628+00:00</updated>
+  <updated>2026-01-21T17:02:31.128933+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1511,7 +1511,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474786</id>
     <title>Functioneel Analist (ITENIUM)</title>
-    <updated>2025-11-21T15:08:46+00:00</updated>
+    <updated>2026-01-21T16:02:44+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Londerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
 &lt;strong&gt;gepassioneerde functioneel analist&lt;/strong&gt; met de 
 &lt;strong&gt;drive&lt;/strong&gt; om de business te leren kennen en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
@@ -1597,7 +1597,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474631</id>
     <title>Full Stack Java Developer (ITENIUM)</title>
-    <updated>2025-11-21T15:01:24+00:00</updated>
+    <updated>2026-01-21T16:02:22+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Londerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="2"&gt;Wij zijn op zoek naar een 
 &lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om te blijven leren en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
 &lt;p data-path-to-node="3"&gt;&lt;strong&gt;Heb jij&lt;/strong&gt;&lt;/p&gt; 
