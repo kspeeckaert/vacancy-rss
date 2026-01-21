@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-20T22:44:14.101108+00:00</updated>
+  <updated>2026-01-21T05:05:09.375937+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -727,7 +727,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70810242</id>
     <title>Azure Integration Expert (Cronos)</title>
-    <updated>2025-12-20T00:01:50+00:00</updated>
+    <updated>2026-01-21T00:01:31+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw rol in vijf kernwoorden&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Expertise&lt;/strong&gt;: ontwerp, implementeer en optimaliseer Azure-integratiearchitecturen - van strategie tot uitvoering.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Leiderschap&lt;/strong&gt;: begeleid klanten naar de beste cloud-native oplossingen en zorg voor succesvolle integraties.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Presales mindset:&lt;/strong&gt; werk samen met de Managing Partner aan de strategische groei en verkoop van Azure-oplossingen.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Flexibiliteit&lt;/strong&gt;: wissel moeiteloos tussen technische specialist en strategisch adviseur.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Strategisch inzicht:&lt;/strong&gt; jij kijkt verder dan vandaag en bouwt oplossingen die toekomstbestendig zijn.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat jij in huis hebt&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Algemene integratieprincipes en - Patterns zijn voor jou vanzelfsprekend en&lt;/strong&gt; kennen geen geheimen meer.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Diepgaande Azure-kennis:&lt;/strong&gt; Azure Integration Services, Azure API Management, Service Bus, Logic Apps, Functions - jij beheerst het als geen ander.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Code-kennis:&lt;/strong&gt; je hebt een solide basis in .NET/C# en begrijpt de fundamenten van Python of Java.&lt;/li&gt;&lt;li&gt;&lt;strong style="color: rgb(0, 0, 0);"&gt;Bonuspunten&lt;/strong&gt;&lt;span style="color: rgb(0, 0, 0);"&gt;: ervaring met automatisering, DevOps-principes en Infrastructure as Code&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;p&gt;Azure Integration Services&lt;/p&gt;&lt;/li&gt;
@@ -895,66 +895,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Port of Antwerp-Bruges (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Zin om mee de architecturale richtlijnen en standaarden te definiëren, bewaken en handhaven bij Nxtport?&lt;/span&gt;&lt;/p&gt;&lt;strong&gt;Jouw uitdaging&lt;/strong&gt;&lt;p&gt;&lt;span&gt;Vanuit Solution Architecture &amp;amp; Governance neem je de verantwoordelijk voor het definiëren, bewaken en handhaven van architecturale richtlijnen en standaarden binnen de organisatie. Deze rol fungeert als “gatekeeper” voor solution designs en zorgt voor alignment met de bredere enterprise- en domeinarchitectuur.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Kerntaken en verantwoordelijkheden:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Architecturale governance:&lt;/strong&gt; Ontwikkelen en handhaven van architecturale principes, richtlijnen en standaarden.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Cross-team alignment:&lt;/strong&gt; Samenwerken met productteams om architecturale keuzes af te stemmen en duplicatie of technische schuld te vermijden.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Solution design:&lt;/strong&gt; Ontwerpen van technische oplossingen op basis van business requirements, architecturale richtlijnen en technologische mogelijkheden.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Technische review en goedkeuring:&lt;/strong&gt; Beoordelen van solution designs en technische implementaties op conformiteit met de architectuurvisie.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Stakeholder communicatie:&lt;/strong&gt; Fungeren als brug tussen Business stakeholders, product owners, development teams, security, en infrastructuur.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;strong&gt;Roadmap en strategie:&lt;/strong&gt; Bijdragen aan de lange termijn technologie-roadmap en strategische keuzes.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Je werkt nauw samen met:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Product Owners &amp;amp; Business Analysts&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Technical Architects en Technical Leads&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Software development teams&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Security en Infrastructure teams&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;KPI’s en succescriteria:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Consistentie en herbruikbaarheid van architecturale componenten&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Vermindering van technical Debt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Tevredenheid van development teams over architecturale ondersteuning&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Aantal goedgekeurde designs zonder herontwerp&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Jouw profiel&lt;/strong&gt;&lt;ul type="disc"&gt;&lt;li&gt;&lt;span&gt;Minimaal 5 jaar ervaring als solution architect of in een vergelijkbare technische leiderschapsrol&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Diepgaande kennis van moderne softwarearchitectuur (cloud-native, microservices, API-first, etc.)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met architecturale governance en het werken in een scaled agile omgeving&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Sterke communicatieve vaardigheden en stakeholdermanagement&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met enterprise architectuur frameworks (zoals TOGAF, SAFe, etc.) is een plus&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Je hebt ervaring met Azure stack, Cloud development, C# .net, Blazor, Domain-Driven Design, Test-Driven Development&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met Infrastructure as Code (vb Terraform) is een bonus alsook met werken in Agile /Scrum teams met tools als Jira of Azure Boards&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Nederlands is een vereiste, Engels een pluspunt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;Durf, verbinding en eenvoud…&amp;nbsp; Dat zijn waarden waar jij je helemaal in kan vinden.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Ons aanbod&lt;/strong&gt;&lt;p&gt;&lt;span&gt;Werken bij&amp;nbsp;&lt;/span&gt;&lt;span&gt;Nxtport&lt;/span&gt;&lt;span&gt; betekent bijdragen aan de digitale toekomst van een wereldhaven. Je wordt deel van een dynamisch en gedreven team waar samenwerking centraal staan. Je kunt rekenen op een veelzijdige functie met impact en ruimte voor initiatief. Daarnaast bieden wij jou een aantrekkelijk salaris, aangevuld met een uitgebreid pakket extralegale voordelen (waaronder de mogelijkheid tot een bedrijfswagen, maaltijd- en ecocheques, hospitalisatieverzekering voor jou en je gezin, gsm, laptop, een hybride werkomgeving,…). NxtPort heeft 2 operationele werkplekken: het Havenhuis (Zaha Hadidplein 1, 2030 Antwerpen) en the Beacon (Sint-Pietersvliet 7, 2000 Antwerpen).&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Je werkt in een hybride omgeving waarbij 2 dagen onsite en de andere dagen remote van thuis uit&lt;/span&gt;&lt;/p&gt;&lt;strong&gt;Interesse?&lt;/strong&gt;&lt;p&gt;&lt;span&gt;Heb je interesse voor deze vacature, bezorg ons dan zo snel mogelijk je CV en motivatiebrief via de knop ‘solliciteer’.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We sluiten de vacature af zodra we een geschikte kandidaat gevonden hebben.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Meer informatie over het&amp;nbsp;&lt;/span&gt;&lt;span&gt;selectieproces&lt;/span&gt;&lt;span&gt;&amp;nbsp;en&amp;nbsp;&lt;/span&gt;&lt;span&gt;onze waarden&lt;/span&gt;&lt;span&gt;&amp;nbsp;vind je op onze jobsite.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Iedereen welkom bij Port of Antwerp-Bruges. We geloven in de kracht van verschil en diversiteit, één met de wereld rondom ons.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/71893670"/>
     <published>2025-09-09T08:43:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72008395</id>
-    <title>.NET Developer (MOoN R&amp;C)</title>
-    <updated>2025-11-14T11:55:34+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: MOoN R&amp;amp;C (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Heist-Op-Den-Berg&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben jij een ervaren .NET developer die graag meebouwt aan innovatieve ICT-oplossingen? Dan zijn wij op zoek naar jou!&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Wat verwachten wij van jou?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Grondige kennis van .NET Framework, VB.NET en C#&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;strong&gt;WinForms&lt;/strong&gt; is een sterke plus&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Intensief gebruik van 
-&lt;strong&gt;SQL Server&lt;/strong&gt;: stored procedures, functies, complexe queries, transacties, indexen, triggers en constraints zijn voor jou vertrouwd terrein&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met werken op grote databases: je begrijpt de impact van queries en weet hoe je deze kan optimaliseren&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Kennis van 
-&lt;strong&gt;ASP.NET Services&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Kennis van 
-&lt;strong&gt;CSLA&lt;/strong&gt; is een pluspunt, maar geen vereiste&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent een zelfstandige en gemotiveerde ontwikkelaar die kwaliteit hoog in het vaandel draagt&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een echte teamplayer die graag bijleert, meedenkt en bijspringt waar nodig&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je vindt zelfstandig je weg in grote en complexe projecten, met ondersteuning van collega’s en documentatie&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent mondig en deelt graag je mening&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Een aantrekkelijk loonpakket&lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Mogelijkheid tot 
-&lt;strong&gt;hybride werken&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Netto vergoeding&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Maaltijdcheques&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;38-urenweek&lt;/strong&gt; met 24 verlofdagen (20 wettelijke + 1 extra dag per gewerkt kwartaal)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een mooi pakket aan 
-&lt;strong&gt;extralegale voordelen&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Afwisselende job met veel uitdagingen en verantwoordelijkheden&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Interessante en gevarieerde projecten&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Informele werkomgeving met creatieve collega’s&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Veel aandacht voor een gezonde 
-&lt;strong&gt;work-life balance&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Leuke activiteiten georganiseerd door een feestcomité&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72008395"/>
-    <published>2025-09-22T09:49:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72017616</id>
@@ -1567,14 +1507,6 @@
 &lt;li&gt;&lt;span&gt;Een onderneming waarin je je verantwoordelijkheden kan en mag opnemen, je kan groeien in de richting die je zelf mee bepaalt en waar je ondersteuning krijgt.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72464086"/>
     <published>2025-11-20T12:41:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72469737</id>
-    <title>.Net Software Engineer (Kingfisher Recruitment)</title>
-    <updated>2025-11-21T10:11:51+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior .NET Developer werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke werkervaring in .Net&amp;#160;&lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Veel thuiswerk mogelijk (als je dit wil)&lt;br&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.&amp;#160; Je werkt van thuis of vanuit het kantoor.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een zeer interessant mobiliteitsbudget (voor huur of hypotheek)&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72469737"/>
-    <published>2025-11-21T10:11:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474786</id>
