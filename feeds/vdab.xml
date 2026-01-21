@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-21T08:52:14.950359+00:00</updated>
+  <updated>2026-01-21T10:48:50.828328+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3756,5 +3756,31 @@
 &lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Enthousiast &amp;amp; ambitieus team met een open bedrijfscultuur, met ruimte voor eigen denken en inbreng van ideeën.&lt;/span&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72870860"/>
     <published>2026-01-20T14:42:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72875582</id>
+    <title>Medior Java / Angular Developer (ElmosExpert)</title>
+    <updated>2026-01-21T09:57:41+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ElmosExpert (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Full Stack Developer maak je deel uit van ons development team en werk je mee aan de verdere ontwikkeling en optimalisatie van bedrijf kritische applicaties en platformen. Deze applicaties ondersteunen dagelijks meer dan 10.000 arbeiders, waardoor kwaliteit, stabiliteit en nauwkeurigheid centraal staan.&lt;/p&gt; 
+&lt;p&gt;Je werkt in een stabiele, professionele en ISO-gecertificeerde IT-omgeving, waar eigen ontwikkeling primeert en waar ruimte is voor innovatie en continue verbetering.&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Ontwikkelen van zowel front-end (Angular) als back-end (Spring Boot / Java) componenten&lt;/li&gt; 
+&lt;li&gt;Meewerken aan meerdere interne platformen en applicaties&lt;/li&gt; 
+&lt;li&gt;Verdeling van je tijd: ±80% development / ±20% testing&lt;/li&gt; 
+&lt;li&gt;Actief deelnemen aan een Scrum-werking (daily stand-ups, nauwe samenwerking met analisten, developers en product owners)&lt;/li&gt; 
+&lt;li&gt;Schrijven van kwaliteitsvolle, onderhoudbare code met aandacht voor performantie en security&lt;/li&gt; 
+&lt;li&gt;Meedenken over UX/UI en gebruiksvriendelijkheid van de applicaties&lt;/li&gt; 
+&lt;li&gt;Samenwerken in een hecht team waar code reviews en kennisdeling vanzelfsprekend zijn&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Ongeveer 5 jaar relevante ervaring met&lt;/li&gt; 
+&lt;li&gt;Angular &amp;amp; JavaScript&lt;/li&gt; 
+&lt;li&gt;Spring Boot / Java&lt;/li&gt; 
+&lt;li&gt;Ervaring met een 50/50 verdeling tussen front-end en back&lt;/li&gt; 
+&lt;li&gt;Proactief en verantwoordelijk&lt;/li&gt; 
+&lt;li&gt;Zeer nauwkeurig en kwaliteitsgericht&lt;/li&gt; 
+&lt;li&gt;Teamplayer met een pragmatische houding (“voetjes op de grond”)&lt;/li&gt; 
+&lt;li&gt;Idealiter woonachtig in of rond Antwerpen&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;ElmosExpert is onderdeel van Elmos N.V. en levert een ‘try&amp;amp;hire’-dienst. Je krijgt je de kans om je toekomstige werkgever te leren kennen. Bij ons werk je als consultant bij de klant voor een periode van 12 maanden. Op het einde van deze inloopperiode kun je vast in dienst treden.&lt;/p&gt; 
+&lt;p&gt;Verder bieden we jou een erg aantrekkelijke verloning aangevuld met een groot pakket extralegale voordelen (maaltijdcheques, hospitalisatie, GSM, flexibele uren, thuiswerk,…). Daarnaast kan je genieten van voldoende en continue opleidingsmogelijkheden om ook zelf technologisch te blijven evolueren en zijn er ook heel wat doorgroeimogelijkheden binnen het bedrijf met een sterke merknaam.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72875582"/>
+    <published>2026-01-21T09:57:41+00:00</published>
   </entry>
 </feed>
