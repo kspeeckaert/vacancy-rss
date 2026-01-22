@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-22T14:50:50.122019+00:00</updated>
+  <updated>2026-01-22T16:55:26.909410+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3797,6 +3797,88 @@
     <published>2026-01-22T15:13:58+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72890390</id>
+    <title>Full stack .NET developer (SODIWE)</title>
+    <updated>2026-01-22T16:19:07+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SODIWE (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als full stack .NET developer bouw je mee aan de verdere ontwikkeling en uitbreiding van onze interne software-oplossingen. Je werkt end-to-end: van backend logica in 
+&lt;strong&gt;&lt;span&gt;C# (.NET / C# 10)&lt;/span&gt;&lt;/strong&gt; tot een gebruiksvriendelijke frontend in 
+&lt;strong&gt;&lt;span&gt;Angular&lt;/span&gt;&lt;/strong&gt;, en een performante databanklaag in 
+&lt;strong&gt;&lt;span&gt;SQL Server&lt;/span&gt;&lt;/strong&gt;.&lt;/p&gt; 
+&lt;p&gt;Je komt terecht in een team van vier waar iedereen ownership opneemt en waar je een directe impact hebt op het eindresultaat. Je denkt actief mee over technische keuzes, werkt gestructureerd aan nieuwe functionaliteiten en zorgt ervoor dat bestaande software stabiel en onderhoudbaar blijft.&lt;/p&gt; 
+&lt;p&gt;Bij Sodiwe zetten we sterk in op 
+&lt;strong&gt;&lt;span&gt;codekwaliteit, testbaarheid en duurzame softwareontwikkeling&lt;/span&gt;&lt;/strong&gt;. We combineren waar het nuttig is het beste van 
+&lt;strong&gt;&lt;span&gt;object-oriented&lt;/span&gt;&lt;/strong&gt; en 
+&lt;strong&gt;&lt;span&gt;functionele principes&lt;/span&gt;&lt;/strong&gt; in C#, en werken met duidelijke architecturale richtlijnen (o.a. 
+&lt;strong&gt;&lt;span&gt;DDD&lt;/span&gt;&lt;/strong&gt; en 
+&lt;strong&gt;&lt;span&gt;hexagonal architecture&lt;/span&gt;&lt;/strong&gt;) om onze oplossingen robuust en evolueerbaar te houden.&lt;/p&gt; 
+&lt;p&gt;Je werkt in een moderne ontwikkelomgeving waar we bewust investeren in efficiëntie en kwaliteit, met o.a. 
+&lt;strong&gt;&lt;span&gt;AI-assisted coding waar het waarde toevoegt&lt;/span&gt;&lt;/strong&gt; en sterke 
+&lt;strong&gt;&lt;span&gt;engineering practices&lt;/span&gt;&lt;/strong&gt; zoals code reviews, refactoring en testing.&lt;/p&gt; 
+&lt;p&gt;Concreet ga je aan de slag met:&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;ontwikkelen van nieuwe backend features en API’s in 
+&lt;strong&gt;&lt;span&gt;C# / .NET&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;bouwen en onderhouden van frontend functionaliteiten in 
+&lt;strong&gt;&lt;span&gt;Angular&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;schrijven en optimaliseren van 
+&lt;strong&gt;&lt;span&gt;SQL Server queries&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;analyseren, oplossen en voorkomen van issues (met aandacht voor kwaliteit op lange termijn)&lt;/li&gt; 
+&lt;li&gt;meedenken over architectuur, structuur en verdere technische verbeteringen&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je bent een veelzijdige full stack developer die graag verantwoordelijkheid opneemt en energie krijgt van het bouwen aan kwalitatieve software in een klein team. Je combineert een pragmatische mindset met oog voor structuur, onderhoudbaarheid en codekwaliteit.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je hebt sterke ervaring met:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span&gt;C# en .NET&lt;/span&gt;&lt;/strong&gt; (.NET Core/.NET 6+)&lt;/li&gt; 
+&lt;li&gt;het bouwen van 
+&lt;strong&gt;&lt;span&gt;WebAPI’s&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span&gt;SQL Server&lt;/span&gt;&lt;/strong&gt; en het schrijven van performante, leesbare queries&lt;/li&gt; 
+&lt;li&gt;frontend ontwikkeling met 
+&lt;strong&gt;&lt;span&gt;Angular&lt;/span&gt;&lt;/strong&gt; (of een gelijkaardig modern framework zoals React/Vue, met bereidheid om over te stappen naar Angular)&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span&gt;TypeScript&lt;/span&gt;&lt;/strong&gt;, 
+&lt;strong&gt;&lt;span&gt;HTML5&lt;/span&gt;&lt;/strong&gt; en 
+&lt;strong&gt;&lt;span&gt;CSS&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span&gt;Entity Framework&lt;/span&gt;&lt;/strong&gt; en 
+&lt;strong&gt;&lt;span&gt;LINQ&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;&lt;span lang="EN-US"&gt;asynchronous programming&lt;/span&gt;&lt;/strong&gt;&lt;span lang="EN-US"&gt; (Task-based, async/await)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;een sterke basiskennis van 
+&lt;strong&gt;&lt;span&gt;design patterns&lt;/span&gt;&lt;/strong&gt; en het schrijven van duidelijke, gestructureerde code&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je werkt graag op een manier die kwaliteit ondersteunt:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;je schrijft code die 
+&lt;strong&gt;&lt;span&gt;testbaar&lt;/span&gt;&lt;/strong&gt; en 
+&lt;strong&gt;&lt;span&gt;onderhoudsvriendelijk&lt;/span&gt;&lt;/strong&gt; is&lt;/li&gt; 
+&lt;li&gt;je staat open voor 
+&lt;strong&gt;&lt;span&gt;code reviews&lt;/span&gt;&lt;/strong&gt;, feedback en continu verbeteren&lt;/li&gt; 
+&lt;li&gt;je denkt mee over betere oplossingen, en durft bestaande code te 
+&lt;strong&gt;&lt;span&gt;refactoren&lt;/span&gt;&lt;/strong&gt; waar nodig&lt;/li&gt; 
+&lt;li&gt;ervaring met 
+&lt;strong&gt;&lt;span&gt;unit testing&lt;/span&gt;&lt;/strong&gt; (en TDD als plus) is een meerwaarde&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Pluspunten (maar geen must):&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;interesse of ervaring in 
+&lt;strong&gt;&lt;span&gt;functioneel programmeren&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;affiniteit met 
+&lt;strong&gt;&lt;span&gt;DDD&lt;/span&gt;&lt;/strong&gt;, clean code en modulaire architectuur&lt;/li&gt; 
+&lt;li&gt;ervaring met 
+&lt;strong&gt;&lt;span&gt;hexagonal / clean architecture&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;ervaring met 
+&lt;strong&gt;&lt;span&gt;Docker / containerized development&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;basiskennis van 
+&lt;strong&gt;&lt;span&gt;Linux&lt;/span&gt;&lt;/strong&gt; en vlot kunnen werken via de 
+&lt;strong&gt;&lt;span&gt;command line&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="EN-US"&gt;goede kennis van 
+&lt;strong&gt;&lt;span&gt;Git&lt;/span&gt;&lt;/strong&gt; (branching, pull requests, conflict resolution)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;We bieden je &lt;/span&gt;&lt;span&gt;een 
+&lt;strong&gt;zelfstandige&lt;/strong&gt;, 
+&lt;strong&gt;verantwoordelijke&lt;/strong&gt; functie. Je komt terecht in een dynamische, stabiele organisatie met een boeiende visie waar er ruimte is voor bijscholing en verdere ontwikkeling. Verder hechten we veel belang aan een goed evenwicht tussen werk en privé.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Je krijgt een voltijds contract van onbepaalde duur.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw salaris is 
+&lt;strong&gt;aantrekkelijk&lt;/strong&gt;, aangevuld met 
+&lt;strong&gt;extralegale voordelen:&lt;/strong&gt; bedrijfswagen, laptop, smartphone met abonnement, ruim aantal vakantiedagen (wettelijk verlof + 12 dagen werktijdverkorting + 3 dagen flexibiliteitsverlof + 5 dagen extra na 1 jaar anciënniteit, pro rata jouw tewerkstellingsbreuk), maaltijdcheques, eindejaarspremie, groepsverzekering en een hospitalisatieverzekering voor het hele gezin. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72890390"/>
+    <published>2026-01-22T16:19:07+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72889800</id>
     <title>.NET Architect (OMETA)</title>
     <updated>2026-01-22T15:19:17+00:00</updated>
@@ -3835,5 +3917,43 @@
 &lt;li&gt;&lt;span&gt;Gratis koffie en een modern kantoor met state-of-the-art apparatuur.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72889800"/>
     <published>2026-01-22T15:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72890341</id>
+    <title>Environment Art Director (SALTY LEMON ENTERTAINMENT)</title>
+    <updated>2026-01-22T16:11:52+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SALTY LEMON ENTERTAINMENT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Salty Lemon is voor de roei app EXR (exrgame.com) is op zoek naar een 
+&lt;strong data-start="24" data-end="55"&gt;Senior Environment Art Director&lt;/strong&gt; om leiding te geven aan het creëren en verbeteren van onze in-game maps. Je bent verantwoordelijk voor het tot leven brengen van echte en fantasierijke locaties op een geoptimaliseerde en visueel sterke manier, in nauwe samenwerking met ons bestaande team.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p data-start="0" data-end="40"&gt;&lt;strong data-start="0" data-end="40"&gt;Belangrijkste verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-start="42" data-end="486"&gt; 
+&lt;li data-start="42" data-end="110"&gt; 
+&lt;p data-start="44" data-end="110"&gt;Ontwerpen, bouwen en optimaliseren van nieuwe omgevingen en maps&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="111" data-end="163"&gt; 
+&lt;p data-start="113" data-end="163"&gt;Verbeteren en doorontwikkelen van bestaande maps&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="164" data-end="206"&gt; 
+&lt;p data-start="166" data-end="206"&gt;Ervaring met de volledige art pipeline&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="207" data-end="290"&gt; 
+&lt;p data-start="209" data-end="290"&gt;Vaststellen en verbeteren van standaarden voor visuele kwaliteit en performance&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="291" data-end="337"&gt; 
+&lt;p data-start="293" data-end="337"&gt;Nauw samenwerken met artists en developers&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="338" data-end="403"&gt; 
+&lt;p data-start="340" data-end="403"&gt;Kennis delen, teamleden begeleiden en het art team versterken&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="404" data-end="486"&gt; 
+&lt;p data-start="406" data-end="486"&gt;Snel kunnen schakelen binnen een snel ontwikkelproces met maandelijkse updates&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li data-start="16" data-end="57"&gt; 
+&lt;p data-start="18" data-end="57"&gt;5+ jaar ervaring in de game-industrie&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="58" data-end="139"&gt; 
+&lt;p data-start="60" data-end="139"&gt;Senior profiel met minimaal één gereleasete game of een vergelijkbaar project&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="140" data-end="215"&gt; 
+&lt;p data-start="142" data-end="215"&gt;Sterke ervaring met meerdere 3D-tools (Maya, Blender, 3ds Max, Houdini)&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="216" data-end="256"&gt; 
+&lt;p data-start="218" data-end="256"&gt;Gedegen ervaring met werken in Unity&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li data-start="257" data-end="319"&gt; 
+&lt;p data-start="259" data-end="319"&gt;Comfortabel werken binnen een klein, flexibel en warm team&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72890341"/>
+    <published>2026-01-22T16:11:52+00:00</published>
   </entry>
 </feed>
