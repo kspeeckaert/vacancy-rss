@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-22T08:51:01.491850+00:00</updated>
+  <updated>2026-01-22T10:47:34.079270+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1499,6 +1499,14 @@
 &lt;li&gt;&lt;span&gt;Een onderneming waarin je je verantwoordelijkheden kan en mag opnemen, je kan groeien in de richting die je zelf mee bepaalt en waar je ondersteuning krijgt.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72464086"/>
     <published>2025-11-20T12:41:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72469737</id>
+    <title>.Net Software Engineer (Kingfisher Recruitment)</title>
+    <updated>2026-01-22T10:04:50+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior .NET Developer werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke werkervaring in .Net&amp;#160;&lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Veel thuiswerk mogelijk (als je dit wil)&lt;br&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.&amp;#160; Je werkt van thuis of vanuit het kantoor.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een zeer interessant mobiliteitsbudget (voor huur of hypotheek)&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72469737"/>
+    <published>2025-11-21T10:11:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474786</id>
@@ -3314,70 +3322,6 @@
     <published>2026-01-16T14:57:53+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849340</id>
-    <title>Full Stack Developer (PeakPeople)</title>
-    <updated>2026-01-19T11:47:25+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full Stack Developer&lt;/p&gt; 
-&lt;p&gt;Ben jij de developer die niet alleen code schrijft, maar ook slimme oplossingen bedenkt die écht werken?
-&lt;br /&gt;Dan zoeken we jou. Als 
-&lt;strong&gt;Full Stack Developer&lt;/strong&gt; bouw je mee aan uitdagende projecten in een moderne stack, samen met een hecht team dat kennis deelt, elkaar uitdaagt en plezier maakt.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Wat ga je doen? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt met 
-&lt;strong&gt;.NET 6, Angular en SQL&lt;/strong&gt; als je vaste toolkit.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ook 
-&lt;strong&gt;Entity Framework, Docker en Git&lt;/strong&gt; komen vaak langs in je projecten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bonuspunten (maar geen must) als je ervaring hebt met 
-&lt;strong&gt;Linq, Azure DevOps, OAuth of Keycloak&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je denkt analytisch en brengt graag 
-&lt;strong&gt;vernieuwende ideeën&lt;/strong&gt; in.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent kritisch waar het moet, maar blijft altijd positief ingesteld.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je combineert zelfstandigheid met teamwork en springt in waar collega’s je nodig hebben.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Deadlines? Jij houdt het hoofd koel en behoudt structuur.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt idealiter 
-&lt;strong&gt;7 jaar ervaring&lt;/strong&gt; als developer.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent sterk in 
-&lt;strong&gt;probleemoplossend denken&lt;/strong&gt; en proactief in je aanpak.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je communiceert helder, durft je mening te geven en hebt gevoel voor humor.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je voelt je thuis in een team dat elkaar versterkt en samen successen viert.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat mag je verwachten?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een groeiende omgeving met een 
-&lt;strong&gt;informele cultuur&lt;/strong&gt; en meet-ups waar kennis delen centraal staat.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een 
-&lt;strong&gt;aantrekkelijk loonpakket&lt;/strong&gt; met extralegale voordelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt; en een gezonde work/life balance.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een cultuur waarin 
-&lt;strong&gt;iedere stem telt&lt;/strong&gt; – jouw mening maakt een verschil.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Investering in jouw 
-&lt;strong&gt;opleiding en ontwikkeling&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Leuke extra’s: sportieve challenges, cafébezoekjes, een jaarlijkse teambuilding en andere gezellige activiteiten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Kortom: je krijgt hier niet alleen een job, maar een plek waar je kan groeien, impact maken én plezier beleven.&lt;/p&gt; 
-&lt;p&gt; 
-&lt;strong&gt;Klaar om je stempel te drukken als Full Stack Developer?&lt;/strong&gt; Stuur ons vandaag nog je cv en laat van je horen!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849340"/>
-    <published>2026-01-16T14:53:55+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849399</id>
     <title>Full Stack JAVA Developer (PeakPeople)</title>
     <updated>2026-01-19T11:46:15+00:00</updated>
@@ -3456,6 +3400,70 @@
 &lt;strong&gt;blijvers-plek&lt;/strong&gt; wordt — geen tussenstop.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72849399"/>
     <published>2026-01-16T15:00:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72849340</id>
+    <title>Full Stack Developer (PeakPeople)</title>
+    <updated>2026-01-19T11:47:25+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full Stack Developer&lt;/p&gt; 
+&lt;p&gt;Ben jij de developer die niet alleen code schrijft, maar ook slimme oplossingen bedenkt die écht werken?
+&lt;br /&gt;Dan zoeken we jou. Als 
+&lt;strong&gt;Full Stack Developer&lt;/strong&gt; bouw je mee aan uitdagende projecten in een moderne stack, samen met een hecht team dat kennis deelt, elkaar uitdaagt en plezier maakt.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Wat ga je doen? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je werkt met 
+&lt;strong&gt;.NET 6, Angular en SQL&lt;/strong&gt; als je vaste toolkit.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ook 
+&lt;strong&gt;Entity Framework, Docker en Git&lt;/strong&gt; komen vaak langs in je projecten.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bonuspunten (maar geen must) als je ervaring hebt met 
+&lt;strong&gt;Linq, Azure DevOps, OAuth of Keycloak&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je denkt analytisch en brengt graag 
+&lt;strong&gt;vernieuwende ideeën&lt;/strong&gt; in.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent kritisch waar het moet, maar blijft altijd positief ingesteld.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je combineert zelfstandigheid met teamwork en springt in waar collega’s je nodig hebben.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Deadlines? Jij houdt het hoofd koel en behoudt structuur.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt idealiter 
+&lt;strong&gt;7 jaar ervaring&lt;/strong&gt; als developer.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent sterk in 
+&lt;strong&gt;probleemoplossend denken&lt;/strong&gt; en proactief in je aanpak.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je communiceert helder, durft je mening te geven en hebt gevoel voor humor.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je voelt je thuis in een team dat elkaar versterkt en samen successen viert.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat mag je verwachten?&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een groeiende omgeving met een 
+&lt;strong&gt;informele cultuur&lt;/strong&gt; en meet-ups waar kennis delen centraal staat.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een 
+&lt;strong&gt;aantrekkelijk loonpakket&lt;/strong&gt; met extralegale voordelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt; en een gezonde work/life balance.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een cultuur waarin 
+&lt;strong&gt;iedere stem telt&lt;/strong&gt; – jouw mening maakt een verschil.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Investering in jouw 
+&lt;strong&gt;opleiding en ontwikkeling&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Leuke extra’s: sportieve challenges, cafébezoekjes, een jaarlijkse teambuilding en andere gezellige activiteiten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Kortom: je krijgt hier niet alleen een job, maar een plek waar je kan groeien, impact maken én plezier beleven.&lt;/p&gt; 
+&lt;p&gt; 
+&lt;strong&gt;Klaar om je stempel te drukken als Full Stack Developer?&lt;/strong&gt; Stuur ons vandaag nog je cv en laat van je horen!&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72849340"/>
+    <published>2026-01-16T14:53:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849175</id>
@@ -3790,5 +3798,13 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;In deze rol ontwikkel je innovatieve applicaties die dagelijks impact maken bij duizenden gebruikers. Je denkt mee over architectuur, technologie en zet volop in op kwaliteitsvolle code.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je ontwikkelt back-end applicaties en API's met .NET Core/ASP.NET en werkt aan microservices-architectuur. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Daarnaast focus je op performantie, schaalbaarheid en cloud deployment. Je schrijft tests, werkt nauw samen met collega's uit verschillende disciplines en draagt actief bij aan code reviews en technische optimalisaties.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een sterke ervaring als .Net developer, we mikken op een minimum van 5 jaar ervaring. Bij voorkeur beschik je over een hoger diploma. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Door jouw ervaring heb je uitstekende kennis van .Net, ervaring in Azure of AWS is een must. Kennis van Blazor, Angular of React is mooi meegenomen! Ervaring in Docker/Kubernetes zijn alvast sterke troeven.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot heb je een proactieve mindset, ben je flexibel en druk je jezelf vlot uit in het Nederlands!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een brutoloon tussen €4.000 en €5.000 op basis van ervaring, waardoor jouw expertise eerlijk wordt beloond.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een premium elektrische bedrijfswagen met ongelimiteerde laadpas en een laadpaal aan huis! Zo ga je steeds duurzaam de baan op zonder extra kosten.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;De hoogste onkostenvergoedingen in de markt en een compleet voordelenpakket inclusief verzekeringen, maaltijdcheques, laptop en gsm! Kleine extra's die echt het verschil maken op je netto loon. Met als kers op de taart een jaarlijkse winstbonus.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een uitstekende work-life balance dankzij flexibele werkuren en 3 dagen thuiswerk. Bovendien geniet je van 32 vakantiedagen zodat je op tijd en stond kan genieten van de zon of sneeuw.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een uitgebreid budget voor trainingen, certificeringen, opleidingen en seminaries, zodat jij dé expert in je vak wordt en blijft!&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot kom je terecht in een warme onderneming die jouw belangen hoog in het vaandel draagt, geen gigantische consultancy waar je een nummer bent maar een zeer persoonlijke werkgever die jouw groei en voorkeuren centraal zet!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Interesse of vragen? Neem gerust contact op via &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72884388"/>
     <published>2026-01-22T08:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72885874</id>
+    <title>Senior Full Stack Developer (P&amp;V)</title>
+    <updated>2026-01-22T11:18:28+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: P&amp;amp;V (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij gepassioneerd door Java Full Stack development, met een sterke interesse in analyse, architectuur en innovatie? Wil je werken in een omgeving waar jouw technische expertise echt impact heeft? Dan is deze functie iets voor jou.&lt;br&gt; &amp;nbsp;&lt;br&gt; Als&amp;nbsp;&lt;b&gt;Senior Java Developer&amp;nbsp;&lt;/b&gt;speel je een sleutelrol tussen business en IT. Je analyseert noden, vertaalt deze naar robuuste technische oplossingen en werkt nauw samen met architecten, analisten en testers om kwalitatieve applicaties te bouwen.&lt;br&gt; Daarnaast neem je een technische voortrekkersrol op: je begeleidt en coacht meer junior developers en draagt bij aan de technische en architecturale evolutie van het Digital Competence Center.&lt;br&gt; &amp;nbsp;&lt;br&gt; Wat jij dagelijks bouwt:&lt;br&gt; &amp;nbsp;&lt;br&gt; ▶️ Businessbehoeften analyseren en vertalen naar duidelijke en haalbare technische oplossingen&lt;br&gt; ▶️ Java Full Stack-applicaties ontwerpen, ontwikkelen, documenteren en onderhouden, zodat ze geïntegreerd, schaalbaar en futureproof zijn&lt;br&gt; ▶️ Begeleiden en coachen van juniors, code reviews uitvoeren en hun groei ondersteunen&lt;br&gt; ▶️ Actief meedenken over architectuur, performantie, security en best practices&lt;br&gt; ▶️ Samenwerken met alle stakeholders om kwaliteit, stabiliteit en efficiëntie van oplossingen te garanderen&lt;br&gt; ▶️ Testomgevingen voorbereiden en testers ondersteunen tijdens het uitvoeren van tests&lt;br&gt; ▶️ Bijdragen aan de continue verbetering van onze werkmethodes binnen een agile context&lt;br&gt; Wat jij meebrengt:&lt;br&gt; &amp;nbsp;&lt;br&gt; ✅ Aantoonbare ervaring als Java Full Stack Developer&lt;br&gt; ✅ Kennis van Java, Spring, REST APIs, HTML/CSS, JavaScript en React&lt;br&gt; ✅ Kennis van IT-architectuurprincipes (microservices, API-integraties, ...)&lt;br&gt; ✅ Vermogen om architecturale keuzes te onderbouwen en te verbeteren&lt;br&gt; ✅ Sterke analytische vaardigheden en communicatieve skills&lt;br&gt; ✅ Ervaring met Agile/Scrum, Git, CI/CD, Jira&lt;br&gt; ✅ Goede kennis van het Nederlands en het Engels&lt;br&gt; &amp;nbsp;&lt;br&gt; Wat je bij ons zal leren en versterken:&lt;br&gt; &amp;nbsp;&lt;br&gt; 💡 Werken in de digitale kern van een toekomstgerichte competence center&lt;br&gt; 💡 Je expertise verdiepen in architectuur, integratiepatronen en moderne technologieën&lt;br&gt; 💡 Je vaardigheden in coaching en technisch leiderschap verder ontwikkelen&lt;br&gt; 💡 Samenwerken binnen multidisciplinaire teams (IT, business, testing, architectuur)&lt;br&gt; 💡 Analyse-, documentatie- en kwaliteitspraktijken versterken binnen een agile deliverymodel&lt;br&gt; &amp;nbsp;&lt;br&gt; Competenties die wij waarderen:&lt;br&gt; &amp;nbsp;&lt;br&gt; ✔️ Kritisch en oplossingsgericht denkvermogen&lt;br&gt; ✔️ Natuurlijk technisch leiderschap en zin om kennis te delen&lt;br&gt; ✔️ Duidelijke, gestructureerde en professionele communicatie&lt;br&gt; ✔️ Kwaliteitsbewustzijn, autonomie en verantwoordelijkheid&lt;br&gt; ✔️ Teamspirit, engagement en het vermogen om collega's te laten groeien&lt;br&gt; &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;b&gt;Ons aanbod&lt;/b&gt;&lt;br&gt; -&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Contracttype: onbepaalde duur&lt;br&gt; -&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Werklocatie:&amp;nbsp;Antwerpen in combinatie met thuiswerken&lt;br&gt; Desguinlei 92, 2018 Antwerpen&lt;br&gt; Koningsstraat 151, 1210 Brussel&lt;br&gt; -&amp;nbsp;Extralegale voordelen: De P&amp;amp;V Groep biedt heel wat extralegale voordelen zoals maaltijdcheques, hospitalisatie- en groepsverzekering, ecocheques, een bedrijfsrestaurant, een cafetariaplan, flexibele werktijden en telewerkmogelijkheden, maar ook personeelskortingen bij verschillende partners (en een auto voor bepaalde functies).&lt;br&gt; &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;b&gt;Waarom werken voor de P&amp;amp;V Groep?&lt;/b&gt;&lt;br&gt; - De P&amp;amp;V Groep is een&amp;nbsp;&lt;b&gt;coöperatieve verzekeringsmaatschappij&lt;/b&gt;&amp;nbsp;die verzekeringen toegankelijk wil maken voor zoveel mogelijk mensen. Daarnaast leveren we een actieve bijdrage aan een meer solidaire samenleving via onze ecologische en maatschappelijke projecten. Onze Stichting P&amp;amp;V ondersteunt actief burgerschap en komt op tegen de...&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72885874"/>
+    <published>2026-01-22T11:18:28+00:00</published>
   </entry>
 </feed>
