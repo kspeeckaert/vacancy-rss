@@ -2,9 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-23T08:33:31.960767+00:00</updated>
+  <updated>2026-01-23T10:29:22.555279+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/energy-data-engineer-architect-greenfield/</id>
+    <title>Energy Data Engineer/Architect (greenfield)</title>
+    <updated>2026-01-19T11:56:29+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-19 12:56:29+00:00, last change 2026-01-19 11:56:29+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-19 12:56:29+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;West-Vlaanderen – interne functie – greenfield data omgeving&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Deze organisatie is een toonaangevende energiemakelaar met een sterke internationale aanwezigheid en helpt bedrijven structureel besparen op hun energiekosten. Recent werd een zusterbedrijf opgericht dat zich volledig richt op duurzame energieoplossingen. Daarmee draagt de groep actief bij aan de transitie naar een groenere toekomst.&lt;br&gt;
+Door de snelle groei van deze scale-up komt er steeds meer data beschikbaar. Vandaag ligt de focus op het slim structureren, centraliseren en benutten van die data. Als Data Engineer/Architect kom je terecht in een jong, hecht en hands-on IT-team met korte communicatielijnen. Je bouwt mee aan innovatieve data-oplossingen die impact hebben op alle entiteiten binnen de groep.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Engineer/Architect werk je mee aan de opbouw van de volledige data-infrastructuur en het toekomstige data platform. Het doel? Eén centrale, schaalbare data-oplossing voor de hele organisatie.&lt;br&gt;
+Concreet:
+&lt;ul&gt;
+	&lt;li&gt;Je ontwikkelt en onderhoudt data pipelines en ELT-processen op basis van interne en klantdata;
+	&lt;li&gt;Je werkt mee aan de opzet en optimalisatie van het data warehouse;
+	&lt;li&gt;Je vertaalt business requirements naar een doordachte technische architectuur;
+	&lt;li&gt;Je stemt af met interne stakeholders en externe partners;
+	&lt;li&gt;Je ondersteunt samen met de Data Analyst bij dashboards en visualisaties.
+&lt;/ul&gt;
+Je komt terecht in een pragmatische omgeving zonder bestaande DWH-structuur, maar met budget, vertrouwen en ruimte om te experimenteren. Dit zonder strikte procedures of “black box”-denken.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minstens 3 jaar ervaring als Data Engineer.
+	&lt;li&gt;Je hebt sterke kennis van SQL en Python, ervaring met ETL/ELT-processen.
+	&lt;li&gt;Je hebt ervaring met data-modellering en begrijpt hoe je databases en datawarehouses structureert.
+	&lt;li&gt;Je communiceert helder, ook met niet-technische stakeholders.
+	&lt;li&gt;Je bent hands-on, een teamplayer, dynamisch, proactief en neemt verantwoordelijkheid. 
+	&lt;li&gt;Ervaring met CI/CD en het opzetten van databases vanaf nul is een sterke troef.
+	&lt;li&gt;Je beheerst zowel Nederlands als Engels goed.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Het bedrijf biedt een open en informele cultuur, met een sterke collegiale sfeer waarin iedereen elkaar ondersteunt. Je krijgt veel kansen om initiatief te nemen, projecten op te pakken en bij te leren, met ruimte om te experimenteren en fouten te maken. Het is een echte greenfield-opportuniteit, waarbij je van nul kan bouwen, directe impact kan maken en jouw ideeën direct kan realiseren. De snelgroeiende, dynamische scale-up stimuleert ondernemerschap, verantwoordelijkheid en initiatief, biedt doorgroeimogelijkheden binnen de organisatie en een goede work-life balans. Daarnaast geniet je van een aantrekkelijk pakket met een wagen en mooie extra voordelen. Bovendien draag je dagelijks bij aan een groene en koolstofvrije wereld.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/energy-data-engineer-architect-greenfield/"/>
+    <category term="Data Engineering"/>
+    <published>2026-01-19T12:56:29+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/bi-analist/</id>
     <title>BI Analist</title>
