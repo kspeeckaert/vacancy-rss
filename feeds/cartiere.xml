@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-27T14:34:13.676957+00:00</updated>
+  <updated>2026-01-27T16:33:12.735661+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/masterdata/</id>
+    <title>Masterdata</title>
+    <updated>2026-01-27T15:06:01+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-13 10:08:07+00:00, last change 2026-01-27 15:06:01+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-13 10:08:07+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;JOBOMSCHRIJVING:&lt;br /&gt;
+&lt;br /&gt;
+Deze Belgische onderneming is uitgegroeid tot een wereldspeler waar duurzame oplossingen en toekomstgerichte producten centraal staan. Innovatie zit in het DNA: internationaal erkend als trendsetter, biedt het bedrijf een cultuur waarin medewerkers de ruimte krijgen om nieuwe ideeën te ontwikkelen. Je ervaart hier de impact en middelen van een wereldspeler, gecombineerd met de flexibiliteit en nabijheid van een Vlaamse organisatie. Ondanks de grootte blijft de sfeer open, vlak en bijzonder collegiaal.&lt;br /&gt;
+&lt;br /&gt;
+Als Master Data Specialist speel je een sleutelrol in het beschikbaar maken van betrouwbare, consistente en toegankelijke data. Jouw werk tilt cijfers naar een hoger niveau en helpt het bedrijf beslissingen te nemen die innovatie, duurzaamheid en groei écht versnellen.&lt;br /&gt;
+&lt;br /&gt;
+PROFIEL:&lt;br /&gt;
+&lt;br /&gt;
+Je hebt idealiter ervaring binnen binnen een gelijkaardige rol en bent analytisch, gedreven en bent op zoek naar een omgeving waarin je zaken in handen kan nemen. Daarnaast heb je kennis van:&amp;nbsp;&lt;br /&gt;
+-&amp;nbsp;&amp;nbsp; &amp;nbsp;Kennis van SAP en Excel.&lt;br /&gt;
+-&amp;nbsp;&amp;nbsp; &amp;nbsp;Power BI-ervaring is een pluspunt.&amp;nbsp;&lt;br /&gt;
+-&amp;nbsp;&amp;nbsp; &amp;nbsp;Je spreekt vloeiend Nederlands.&amp;nbsp;&lt;br /&gt;
+-&amp;nbsp;&amp;nbsp; &amp;nbsp;Je combineert goesting met gedrevenheid om in data te duiken.&lt;br /&gt;
+&lt;br /&gt;
+AANBOD:&lt;br /&gt;
+&lt;br /&gt;
+Als Master Data Specialist maak je data tot het fundament van innovatie en duurzame groei. Je werkt in een internationale groep met de nabijheid van een familiaal bedrijf, waar samenwerking, initiatief en ontwikkeling centraal staan.&lt;br /&gt;
+Je krijgt een warm team, een competitief loonpakket met wagen en 36 vakantiedagen.&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;Herken jij jou in deze functie?&amp;nbsp;&lt;br /&gt;
+Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;</content>
+    <link href="https://www.cartiere.be/jobs/masterdata/"/>
+    <category term="Master Data Manager"/>
+    <published>2026-01-13T10:08:07+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/energy-data-engineer-architect-greenfield/</id>
     <title>Energy Data Engineer/Architect (greenfield)</title>
