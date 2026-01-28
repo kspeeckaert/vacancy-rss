@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-28T06:54:43.241996+00:00</updated>
+  <updated>2026-01-28T08:52:16.058825+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1590,7 +1590,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474849</id>
     <title>Data Engineer (ITENIUM)</title>
-    <updated>2025-11-28T10:00:39+00:00</updated>
+    <updated>2026-01-28T08:22:06+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Londerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
 &lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om zijn/haar vaardigheden voortdurend te blijven leren en verbeteren.&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt; 
@@ -1647,7 +1647,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72518433</id>
     <title>Data Analist @itenium (ITENIUM)</title>
-    <updated>2025-11-28T09:34:30+00:00</updated>
+    <updated>2026-01-28T08:21:50+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Londerzeel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een gepassioneerde en getalenteerde ontwikkelaar met de gedrevenheid om te blijven leren en zijn/haar vaardigheden te verbeteren&lt;/p&gt; 
 &lt;ul&gt; 
 &lt;li&gt; 
@@ -3443,14 +3443,6 @@
     <published>2026-01-21T09:57:41+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72878102</id>
-    <title>Full Stack Developer (Spring Boot &amp; Angular) (Spilberg)</title>
-    <updated>2026-01-21T12:30:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Spilberg (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een toonaangevende organisatie in een sterk gereguleerde en operationeel kritische omgeving zoeken we een Full Stack Developer die energie haalt uit het bouwen van schaalbare applicaties met impact. Je komt terecht in een team dat werkt aan een modern IT-landschap waar veiligheid, samenwerking en innovatie centraal staan.&lt;/p&gt;Jouw rol&lt;p&gt;&lt;br&gt;Je bouwt mee aan robuuste oplossingen van backend tot frontend en denkt actief mee over technische keuzes en architectuur.&amp;nbsp;&lt;br&gt;Wat je gaat doen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontwikkelen en onderhouden van REST API's met Spring Boot&lt;/li&gt;&lt;li&gt;Bouwen van performante frontend-applicaties met Angular&lt;/li&gt;&lt;li&gt;Meedenken over schaalbaarheid, performantie en security&lt;/li&gt;&lt;li&gt;Zorgen voor een vlotte integratie tussen backend- en frontendcomponenten&lt;/li&gt;&lt;li&gt;Bijdragen aan code reviews, testing en CI/CD pipelines&lt;/li&gt;&lt;li&gt;&lt;p&gt;Actief initiatief nemen binnen het team en collega's technisch ondersteunen&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Jouw profiel&lt;ul&gt;&lt;li&gt;Minstens 5 jaar ervaring met Spring Boot en Angular&lt;/li&gt;&lt;li&gt;Sterke kennis van REST, JWT/OAuth2, JPA/Hibernate en cloudconcepten&lt;/li&gt;&lt;li&gt;Hands-on ervaring met TypeScript, RxJS en moderne Angular best practices&lt;/li&gt;&lt;li&gt;Goede kennis van SQL en relationele databases&lt;/li&gt;&lt;li&gt;Gestructureerde, zelfstandige manier van werken en een proactieve mindset&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pluspunten: ervaring met Docker/Kubernetes/CI/CD en/of PowerShell&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Aanbod&lt;ul&gt;&lt;li&gt;Competitief loonpakket aangevuld met extralegale voordelen (o.a. maaltijdcheques, verzekeringen, fietsvergoeding)&lt;/li&gt;&lt;li&gt;Cafetariaplan voor extra flexibiliteit in je pakket&lt;/li&gt;&lt;li&gt;Opleidingen &amp;amp; workshops om je verder te ontwikkelen (hard &amp;amp; soft skills)&lt;/li&gt;&lt;li&gt;Sterke onboarding en een teamcultuur met aandacht voor welzijn&lt;/li&gt;&lt;li&gt;Thuiswerk en flexibele uren bespreekbaar, afhankelijk van de rol&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72878102"/>
-    <published>2026-01-21T12:30:41+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72884388</id>
     <title>Full-Stack .Net Consultant (Kwery)</title>
     <updated>2026-01-22T08:12:19+00:00</updated>
@@ -3649,14 +3641,6 @@
 &lt;p data-start="259" data-end="319"&gt;Comfortabel werken binnen een klein, flexibel en warm team&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72890341"/>
     <published>2026-01-22T16:11:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72893729</id>
-    <title>Local IT Manager (Michael Page International (Belgium))</title>
-    <updated>2026-01-23T09:16:59+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Michael Page International (Belgium) (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Our client is a well-established international industrial group, recognized for its engineering excellence, precision and reliability.&lt;br&gt;&lt;br&gt;They are looking for a Local IT Manager to take ownership of IT operations within the Belgian entity.&lt;br&gt;&lt;br&gt;This role is key to ensuring stable, secure and efficient IT services for local users, while acting as a trusted link with a centralized Global IT organization.&lt;/p&gt;&lt;p&gt;- Ensure the day-to-day stability, security and performance of the local IT environment.&lt;br&gt;&lt;br&gt;- Act as Local Process Coordinator, supporting and optimizing local business processes in alignment with global standards.&lt;br&gt;&lt;br&gt;- Manage and support core business applications, including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;SAP (ERP - finance, HR and other modules),&lt;/li&gt;&lt;li&gt;Microsoft 365 (used as a CRM solution),&lt;/li&gt;&lt;li&gt;CPQ tools for quotation management,&lt;/li&gt;&lt;li&gt;SIS for planning and work orders of the technical service department.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;- Manage IT assets and end-user equipment, including laptops, peripherals and mobile devices (installation, replacement, lifecycle management).&lt;br&gt;&lt;br&gt;- Provide first-level IT support and user training for standard office and business applications.&lt;br&gt;&lt;br&gt;- Install, configure and evaluate software solutions in line with corporate IT standards and security policies.&lt;br&gt;&lt;br&gt;- Coordinate with Global IT teams, participate in global meetings and manage escalations when required.&lt;br&gt;&lt;br&gt;- Manage and follow up on external service providers (telecom, infrastructure-related services, utilities).&lt;br&gt;&lt;br&gt;- Take on a local facility coordination role, including the follow-up and planning of maintenance for alarm systems, electrical installations, solar panels, air conditioning and sanitary systems.&lt;br&gt;&lt;br&gt;- Support and maintain local systems such as access control, CCTV and time &amp;amp; attendance solutions.&lt;br&gt;&lt;br&gt;- Ensure compliance with IT security, data protection and regulatory requirements at local level.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Degree or professional training in IT, Computer Science, or equivalent practical experience.&lt;/li&gt;&lt;li&gt;Several years of experience in IT support, system administration or local IT coordination.&lt;/li&gt;&lt;li&gt;Solid knowledge of Windows environments, hardware, end-user computing and basic networking.&lt;/li&gt;&lt;li&gt;Good understanding of IT security principles, access rights, backups and incident handling.&lt;/li&gt;&lt;li&gt;Experience working with centralized or international IT organizations is a strong advantage.&lt;/li&gt;&lt;li&gt;Strong service-oriented mindset with a pragmatic and solution-driven approach.&lt;/li&gt;&lt;li&gt;Hands-on mentality, able to work autonomously in a structured and reliable way.&lt;/li&gt;&lt;li&gt;Ability to prioritize tasks, manage incidents and maintain operational continuity.&lt;/li&gt;&lt;li&gt;High sense of responsibility regarding data protection, security and compliance.&lt;/li&gt;&lt;li&gt;Strong communication skills, comfortable interacting in an international, multicultural environment.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fluent English is mandatory; additional languages (French &amp;amp; Dutch) are an asset.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Proposal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Join a financially solid and reputable company with a stable environment, providing long-term career security.&lt;/li&gt;&lt;li&gt;Collaborate with global teams and participate in cross-border projects, enhancing your intercultural communication skills.&lt;/li&gt;&lt;li&gt;Extra-Legal Benefits: Company car or mobility allowance, meal vouchers, supplementary health insurance, annual bonus or profit-sharing, and flexible/hybrid work arrangements.&lt;/li&gt;&lt;li&gt;Collaborative &amp;amp; Quality-Driven Culture: Work in a professional environment that values quality, operational excellence, and individual contributions, where you can see the direct impact of your work.&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72893729"/>
-    <published>2026-01-23T09:16:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72893531</id>
