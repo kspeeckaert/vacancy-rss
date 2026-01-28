@@ -2,9 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-28T10:32:13.925549+00:00</updated>
+  <updated>2026-01-28T12:50:40.168832+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineer-a-z/</id>
+    <title>Data Engineer (A-Z)</title>
+    <updated>2026-01-28T10:44:22+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie:  Sint-Clarastraat 48, 8000, Brugge, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-20 11:57:53+00:00, last change 2026-01-28 10:44:22+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-20 11:57:53+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Je komt terecht in een grote, stabiele organisatie met een sterke maatschappelijke rol en een zeer divers klantenbestand. De organisatie combineert een mensgerichte cultuur met een duidelijke langetermijnvisie en investeert sterk in digitalisering en data. Ondanks de grote van de organisatie wordt er gewerkt met korte communicatielijnen en heerst er een open, toegankelijke sfeer.&lt;br&gt;
+&lt;br&gt;
+Momenteel bevindt de organisatie zich in een belangrijke transformatie naar een meer data-gedreven werking. Data krijgt een centrale plaats binnen de besluitvorming en de optimalisatie van processen. In dit kader wordt het nieuwe data- en BI-team verder uitgebouwd om nog betere ondersteuning te bieden. Er wordt gewerkt met een moderne technologie stack en er is veel ruimte voor verbetering, innovatie en groei.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Data Engineer (A-Z) ben je verantwoordelijk voor het ontwikkelen, verbeteren en onderhouden van BI- en data-oplossingen. Je vertaalt functionele vereisten naar technische implementaties en bouwt robuuste data pipelines, datamodellen en toepassingen die voldoen aan zowel functionele als non-functionele vereisten.&lt;br&gt;
+&lt;br&gt;
+Je werkt mee aan analyses en technische ontwerpen en zorgt voor kwalitatieve, performante en veilige oplossingen binnen de vastgelegde architectuur en standaarden. Je staat in voor het inschatten van werk, het opleveren van features en het oplossen van incidenten.&lt;br&gt;
+&lt;br&gt;
+Daarnaast neem je een actieve rol op in DevOps-activiteiten. Je zet CI/CD pipelines op en onderhoudt deze, voert deployments uit en bewaakt de kwaliteit van de toepassingen via monitoring, testing en security controls. Je bent end-to-end mee verantwoordelijk voor de applicaties in beheer, van build tot support. Ook testing, documentatie en ondersteuning van het supportteam maken deel uit van je takenpakket.&lt;br&gt;
+&lt;br&gt;
+JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;3 jaar ervaring als Data Engineer/ Analist.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke ervaring met SQL en de Microsoft Stack.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Power BI, DAX en Databricks. Idealiter met alle 3 de tools, &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;anders verwachten ze wel interesse in de missende zaken.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief en Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt sterke analytisch en bent graag hands on technisch bezig.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
+Je krijgt de kans om mee te bouwen aan een data- en BI-landschap dat nog volop in ontwikkeling is, met veel impact en zichtbaarheid binnen de organisatie. Je werkt in een moderne data-omgeving met sterke focus op kwaliteit en samenwerking.&lt;br&gt;
+&lt;br&gt;
+Daarnaast geniet je van een stabiele werkomgeving, flexibele werkuren, de mogelijkheid tot thuiswerk en een gezonde work-life balance. De organisatie combineert de zekerheid van een grote speler met de dynamiek en ambitie van een omgeving in volle transformatie.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-engineer-a-z/"/>
+    <category term="BI Developer"/>
+    <category term="BI/Data Analyst"/>
+    <category term="Data Engineering"/>
+    <published>2025-08-20T11:57:53+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/masterdata/</id>
     <title>Masterdata</title>
@@ -294,46 +334,6 @@ Bekijk onze website &lt;a href="http://www.cartiere.be"&gt;www.cartiere.be&lt;/a
     <category term="BI/Data Architect"/>
     <category term="Data Engineering"/>
     <published>2026-01-12T08:56:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer-a-z/</id>
-    <title>Data Engineer (A-Z)</title>
-    <updated>2026-01-08T17:39:23+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie:  Sint-Clarastraat 48, 8000, Brugge, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-20 11:57:53+00:00, last change 2026-01-08 17:39:23+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-20 11:57:53+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Je komt terecht in een grote, stabiele organisatie met een sterke maatschappelijke rol en een zeer divers klantenbestand. De organisatie combineert een mensgerichte cultuur met een duidelijke langetermijnvisie en investeert sterk in digitalisering en data. Ondanks de grote van de organisatie wordt er gewerkt met korte communicatielijnen en heerst er een open, toegankelijke sfeer.&lt;br&gt;
-&lt;br&gt;
-Momenteel bevindt de organisatie zich in een belangrijke transformatie naar een meer data-gedreven werking. Data krijgt een centrale plaats binnen de besluitvorming en de optimalisatie van processen. In dit kader wordt het nieuwe data- en BI-team verder uitgebouwd om nog betere ondersteuning te bieden. Er wordt gewerkt met een moderne technologie stack en er is veel ruimte voor verbetering, innovatie en groei.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-Als Data Engineer (A-Z) ben je verantwoordelijk voor het ontwikkelen, verbeteren en onderhouden van BI- en data-oplossingen. Je vertaalt functionele vereisten naar technische implementaties en bouwt robuuste data pipelines, datamodellen en toepassingen die voldoen aan zowel functionele als non-functionele vereisten.&lt;br&gt;
-&lt;br&gt;
-Je werkt mee aan analyses en technische ontwerpen en zorgt voor kwalitatieve, performante en veilige oplossingen binnen de vastgelegde architectuur en standaarden. Je staat in voor het inschatten van werk, het opleveren van features en het oplossen van incidenten.&lt;br&gt;
-&lt;br&gt;
-Daarnaast neem je een actieve rol op in DevOps-activiteiten. Je zet CI/CD pipelines op en onderhoudt deze, voert deployments uit en bewaakt de kwaliteit van de toepassingen via monitoring, testing en security controls. Je bent end-to-end mee verantwoordelijk voor de applicaties in beheer, van build tot support. Ook testing, documentatie en ondersteuning van het supportteam maken deel uit van je takenpakket.&lt;br&gt;
-&lt;br&gt;
-JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;3 jaar ervaring als Data Engineer/ Analist.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke ervaring met SQL en de Microsoft Stack.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Power BI, DAX en Databricks. Idealiter met alle 3 de tools, &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;anders verwachten ze wel interesse in de missende zaken.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief en Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt sterke analytisch en bent graag hands on technisch bezig.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
-Je krijgt de kans om mee te bouwen aan een data- en BI-landschap dat nog volop in ontwikkeling is, met veel impact en zichtbaarheid binnen de organisatie. Je werkt in een moderne data-omgeving met sterke focus op kwaliteit en samenwerking.&lt;br&gt;
-&lt;br&gt;
-Daarnaast geniet je van een stabiele werkomgeving, flexibele werkuren, de mogelijkheid tot thuiswerk en een gezonde work-life balance. De organisatie combineert de zekerheid van een grote speler met de dynamiek en ambitie van een omgeving in volle transformatie.&lt;br&gt;
-&lt;br&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-engineer-a-z/"/>
-    <category term="BI Developer"/>
-    <category term="BI/Data Analyst"/>
-    <category term="Data Engineering"/>
-    <published>2025-08-20T11:57:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ai-engineer/</id>
