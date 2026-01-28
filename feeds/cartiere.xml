@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-28T14:33:35.621836+00:00</updated>
+  <updated>2026-01-28T16:40:15.658383+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -34,6 +34,43 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;</content>
     <link href="https://www.cartiere.be/jobs/master-data-specialist/"/>
     <category term="Master Data Manager"/>
     <published>2026-01-13T10:08:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-analytics-expert/</id>
+    <title>Data Analytics Expert</title>
+    <updated>2026-01-28T14:21:14+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Flemish Brabant Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-28 15:21:14+00:00, last change 2026-01-28 14:21:14+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-28 15:21:14+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Deze organisatie is een sterk uitgebouwde retailgroep met een netwerk van zelfstandige winkels, actief in een gespecialiseerde consumentenmarkt. De focus ligt op deskundig advies, lokale verankering en duurzame klantrelaties. Het centrale hoofdkantoor ondersteunt de winkels met een breed dienstenpakket: aankoop, marketing, communicatie, IT en operationele begeleiding. Vanuit die centrale werking wordt sterk ingezet op professionalisering, schaalbaarheid en datagedreven besluitvorming, zodat elke winkel maximaal kan presteren en groeien. &lt;br&gt;
+&lt;br&gt;
+Het data departement speelt hierin een sleutelrol. Zij voorziet winkels, marketing, category management en IT van inzichten die dagelijkse beslissingen slimmer, consistenter en commerciëler maken. Om die werking verder te versterken, kijken we uit naar een data analyst die analyses vertaalt naar concreet advies en actief meebouwt aan een toekomstgerichte data-architectuur.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Analyst speel je een centrale rol in het maximaal benutten van klanten- en verkoopdata. Je combineert analytische diepgang met een sterk businessgevoel en neemt ownership over analyses en initiatieven die rechtstreeks bijdragen aan omzetgroei, klantenretentie en relevantie.&lt;br&gt;
+&lt;br&gt;
+In nauwe samenwerking met de data lead analyseer je commerciële data, bouw je gerichte segmentaties en Power BI-dashboards, en vertaal je inzichten naar concrete, onmiddellijk inzetbare aanbevelingen voor winkels, marketing, category management en management.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je hebt een hoger diploma.
+	&lt;li&gt;Je hebt 3 tot 5 jaar ervaring in een relevante rol.
+	&lt;li&gt;Je hebt sterke ervaring met SQL, Power BI, DAX en Python. 
+	&lt;li&gt;Je hebt inzicht in ETL-processen en datamodellering.
+	&lt;li&gt;Je beschikt over een stevig analytisch fundament.
+	&lt;li&gt;Ervaring in retail, FMCG of e-commerce is een grote plus is.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een bedrijf met een duidelijke ambitie om verder te groeien in data-gedreven werken, waar jouw inzichten zichtbaar impact hebben op commerciële en operationele beslissingen. Je krijgt de ruimte en het vertrouwen om ownership te nemen, samen te werken met betrokken business- en datateams en mee te bouwen aan een stevige datafundering. Daarnaast mag je rekenen op een competitief salarispakket in lijn met je ervaring, aangevuld met extra voordelen, flexibiliteit en een werkomgeving die inzet op professionalisering, autonomie en duurzame samenwerking.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/data-analytics-expert/"/>
+    <category term="BI/Data Analyst"/>
+    <category term="Data Engineering"/>
+    <published>2026-01-28T15:21:14+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-a-z/</id>
