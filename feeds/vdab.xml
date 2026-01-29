@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-29T13:17:40.157366+00:00</updated>
+  <updated>2026-01-29T15:00:34.899511+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2933,113 +2933,72 @@
     <published>2026-01-16T13:58:18+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849370</id>
-    <title>Full Stack .NET Developer (PeakPeople)</title>
-    <updated>2026-01-19T11:46:52+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Voor mijn klant — een mensgerichte IT-consultancy die kwaliteit belangrijker vindt dan volume&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Mijn klant is een 
-&lt;strong&gt;IT-consultancy bedrijf&lt;/strong&gt; dat developers niet ziet als “resources”, maar als vakmensen.
-&lt;br /&gt;Ze groeien bewust, duurzaam en met aandacht voor de mens achter de code.
-&lt;br /&gt;Om hun team te versterken zoeken ze een 
-&lt;strong&gt;Full Stack .NET Developer&lt;/strong&gt; die waarde wil creëren — bij klanten én in zichzelf.&lt;/p&gt; 
-&lt;p&gt;Als jij houdt van variatie, technische diepgang én een omgeving die jou ondersteunt in je ontwikkeling, dan ga je je hier helemaal thuis voelen.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; 
-&lt;strong&gt;Waarom jij past binnen deze IT-consultancy&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Consultancy betekent bij mijn klant géén blind schakelen tussen projecten.
-&lt;br /&gt;Wel:&lt;/p&gt; 
+    <id>https://www.vdab.be/vindeenjob/vacatures/72849340</id>
+    <title>Full Stack Developer (PeakPeople)</title>
+    <updated>2026-01-29T14:34:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Heist-Op-Den-Berg&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full Stack Developer&lt;/p&gt; 
+&lt;p&gt;Ben jij de developer die niet alleen code schrijft, maar ook slimme oplossingen bedenkt die écht werken? 
+&lt;br /&gt;Dan zoeken we jou. Als 
+&lt;strong&gt;Full Stack Developer&lt;/strong&gt; bouw je mee aan uitdagende projecten in een moderne stack, samen met een hecht team dat kennis deelt, elkaar uitdaagt en plezier maakt.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Wat ga je doen? &lt;/strong&gt;&lt;/p&gt; 
 &lt;ul&gt; 
 &lt;li&gt; 
-&lt;p&gt;opdrachten die bij jouw niveau en interesses passen&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Je werkt met 
+&lt;strong&gt;.NET 6, Angular en SQL&lt;/strong&gt; als je vaste toolkit.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;coaching en sparring met seniors met +20 jaar ervaring&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Ook 
+&lt;strong&gt;Entity Framework, Docker en Git&lt;/strong&gt; komen vaak langs in je projecten.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;tijd om te leren en sterker te worden&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Bonuspunten (maar geen must) als je ervaring hebt met 
+&lt;strong&gt;Linq, Azure DevOps, OAuth of Keycloak&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;een cultuur waarin jij nooit een nummer bent&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Je denkt analytisch en brengt graag 
+&lt;strong&gt;vernieuwende ideeën&lt;/strong&gt; in.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;klanten die gekozen worden op basis van waarden én match&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Hier bouw je niet alleen software, maar ook een carrière waar je trots op bent.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; Technische stack waar je je in thuis voelt&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Frontend:&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Je bent kritisch waar het moet, maar blijft altijd positief ingesteld.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je combineert zelfstandigheid met teamwork en springt in waar collega’s je nodig hebben.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Deadlines? Jij houdt het hoofd koel en behoudt structuur.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
 &lt;ul&gt; 
 &lt;li&gt; 
-&lt;p&gt;JavaScript / TypeScript&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Je hebt idealiter 
+&lt;strong&gt;7 jaar ervaring&lt;/strong&gt; als developer.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;SASS, SCSS of Post-CSS&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Je bent sterk in 
+&lt;strong&gt;probleemoplossend denken&lt;/strong&gt; en proactief in je aanpak.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;Angular, React of Vue.js&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Je communiceert helder, durft je mening te geven en hebt gevoel voor humor.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;RxJS en/of Redux&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Backend:&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Je voelt je thuis in een team dat elkaar versterkt en samen successen viert.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat mag je verwachten?&lt;/p&gt; 
 &lt;ul&gt; 
 &lt;li&gt; 
-&lt;p&gt;.NET Core&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Een groeiende omgeving met een 
+&lt;strong&gt;informele cultuur&lt;/strong&gt; en meet-ups waar kennis delen centraal staat.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;Entity Framework&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Een 
+&lt;strong&gt;aantrekkelijk loonpakket&lt;/strong&gt; met extralegale voordelen.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;ASP.NET Web API &amp;amp; REST&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt; en een gezonde work/life balance.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;LINQ, Generics, async/await&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Een cultuur waarin 
+&lt;strong&gt;iedere stem telt&lt;/strong&gt; – jouw mening maakt een verschil.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;Unit Testing&lt;/p&gt; &lt;/li&gt; 
+&lt;p&gt;Investering in jouw 
+&lt;strong&gt;opleiding en ontwikkeling&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
 &lt;li&gt; 
-&lt;p&gt;Azure of AWS&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Extra’s die je sterker maken:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;SQL of NoSQL databanken&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Design Patterns &amp;amp; Dependency Injection&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Scrum / Kanban&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;DevOps &amp;amp; Continuous Integration&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt; Wie jij bent&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je voelt je thuis in consultancy of wil die wereld ontdekken&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je neemt verantwoordelijkheid voor wat je bouwt&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt graag zelfstandig, maar geniet evenveel van teamwork&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent leergierig en houdt van moderne technologie&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je stelt vragen, denkt mee en durft kritische keuzes te maken&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je spreekt vloeiend Nederlands en hebt een goede basis Engels&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt; Wat mijn klant jou biedt&lt;/p&gt; 
-&lt;p&gt;Een consultancy-omgeving waar 
-&lt;strong&gt;kwaliteit, coaching en menselijkheid&lt;/strong&gt; centraal staan:&lt;/p&gt; 
-&lt;p&gt;✨ Intensieve begeleiding door senior experts (20+ jaar ervaring)
-&lt;br /&gt;✨ Een persoonlijk groeiplan + opleidingen afgestemd op jou
-&lt;br /&gt;✨ Technisch uitdagende projecten, zonder “project-hoppen”&lt;/p&gt; 
-&lt;p&gt;Bovendien:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Competitief loon (maximum € 5.750,00 bruto)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bedrijfswagen + tankkaart&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Mobiele telefoon&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;32 vakantiedagen (incl. ADV)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Hospitalisatie- &amp;amp; groepsverzekering&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Maaltijdcheques &amp;amp; ecocheques&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Hechte teamsfeer &amp;amp; leuke events&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; 
-&lt;strong&gt;Klaar om te groeien als developer, niet alleen te functioneren?&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Solliciteer snel, ik vertel je graag meer over de projecten en waarom deze consultancy een plek is waar developers écht floreren.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849370"/>
-    <published>2026-01-16T14:57:53+00:00</published>
+&lt;p&gt;Leuke extra’s: sportieve challenges, cafébezoekjes, een jaarlijkse teambuilding en andere gezellige activiteiten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Kortom: je krijgt hier niet alleen een job, maar een plek waar je kan groeien, impact maken én plezier beleven.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Klaar om je stempel te drukken als Full Stack Developer?&lt;/strong&gt; Stuur ons vandaag nog je cv en laat van je horen!&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72849340"/>
+    <published>2026-01-16T14:53:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849399</id>
     <title>Full Stack JAVA Developer (PeakPeople)</title>
-    <updated>2026-01-19T11:46:15+00:00</updated>
+    <updated>2026-01-29T14:32:03+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full-stack Java Developer&lt;/p&gt; 
 &lt;p&gt;Je kent het wel: projecten waar je 
 &lt;em&gt;echt&lt;/em&gt; impact hebt, collega’s die samenwerken vanzelfsprekend maken en een werkomgeving waar je kan groeien zonder constant van project naar project te moeten springen.
@@ -3115,70 +3074,6 @@
 &lt;strong&gt;blijvers-plek&lt;/strong&gt; wordt — geen tussenstop.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72849399"/>
     <published>2026-01-16T15:00:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849340</id>
-    <title>Full Stack Developer (PeakPeople)</title>
-    <updated>2026-01-19T11:47:25+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full Stack Developer&lt;/p&gt; 
-&lt;p&gt;Ben jij de developer die niet alleen code schrijft, maar ook slimme oplossingen bedenkt die écht werken?
-&lt;br /&gt;Dan zoeken we jou. Als 
-&lt;strong&gt;Full Stack Developer&lt;/strong&gt; bouw je mee aan uitdagende projecten in een moderne stack, samen met een hecht team dat kennis deelt, elkaar uitdaagt en plezier maakt.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Wat ga je doen? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt met 
-&lt;strong&gt;.NET 6, Angular en SQL&lt;/strong&gt; als je vaste toolkit.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ook 
-&lt;strong&gt;Entity Framework, Docker en Git&lt;/strong&gt; komen vaak langs in je projecten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bonuspunten (maar geen must) als je ervaring hebt met 
-&lt;strong&gt;Linq, Azure DevOps, OAuth of Keycloak&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je denkt analytisch en brengt graag 
-&lt;strong&gt;vernieuwende ideeën&lt;/strong&gt; in.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent kritisch waar het moet, maar blijft altijd positief ingesteld.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je combineert zelfstandigheid met teamwork en springt in waar collega’s je nodig hebben.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Deadlines? Jij houdt het hoofd koel en behoudt structuur.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt idealiter 
-&lt;strong&gt;7 jaar ervaring&lt;/strong&gt; als developer.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent sterk in 
-&lt;strong&gt;probleemoplossend denken&lt;/strong&gt; en proactief in je aanpak.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je communiceert helder, durft je mening te geven en hebt gevoel voor humor.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je voelt je thuis in een team dat elkaar versterkt en samen successen viert.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat mag je verwachten?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een groeiende omgeving met een 
-&lt;strong&gt;informele cultuur&lt;/strong&gt; en meet-ups waar kennis delen centraal staat.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een 
-&lt;strong&gt;aantrekkelijk loonpakket&lt;/strong&gt; met extralegale voordelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt; en een gezonde work/life balance.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een cultuur waarin 
-&lt;strong&gt;iedere stem telt&lt;/strong&gt; – jouw mening maakt een verschil.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Investering in jouw 
-&lt;strong&gt;opleiding en ontwikkeling&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Leuke extra’s: sportieve challenges, cafébezoekjes, een jaarlijkse teambuilding en andere gezellige activiteiten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Kortom: je krijgt hier niet alleen een job, maar een plek waar je kan groeien, impact maken én plezier beleven.&lt;/p&gt; 
-&lt;p&gt; 
-&lt;strong&gt;Klaar om je stempel te drukken als Full Stack Developer?&lt;/strong&gt; Stuur ons vandaag nog je cv en laat van je horen!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849340"/>
-    <published>2026-01-16T14:53:55+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849175</id>
@@ -3370,7 +3265,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72866888</id>
     <title>SAP Developer (ITZU Jobs)</title>
-    <updated>2026-01-29T13:26:40+00:00</updated>
+    <updated>2026-01-29T15:05:32+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITZU Jobs (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je bouwt en verbetert custom SAP-programma’s in nauwe samenwerking met de functionele SAP-analisten (MM/SD en FI/CO).&lt;/li&gt;&lt;li&gt;Je vertaalt functionele requirements naar een sterk technisch ontwerp en kwalitatieve code.&lt;/li&gt;&lt;li&gt;Je denkt actief mee over architectuur, integraties en best practices, samen met het SAP-team, andere IT-applicaties en de business.&lt;/li&gt;&lt;li&gt;Je optimaliseert bestaande toepassingen en pakt proactief verbeterpunten aan.&lt;/li&gt;&lt;li&gt;Je bewaakt de dagelijkse werking van het SAP-systeem en garandeert stabiliteit en performantie. Bij incidenten onderneem je meteen actie en ondersteun je collega’s bij analyse en oplossing.&lt;/li&gt;&lt;li&gt;Je neemt de technische lead in grote trajecten zoals de overstap naar S/4HANA, cloudmigraties, upgrades, system copies en andere technische interventies.&lt;/li&gt;&lt;li&gt;Je blijft op de hoogte van nieuwe ontwikkelingen binnen SAP en de bredere IT-wereld&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring: Minstens vijf jaar ervaring in ABAP-ontwikkeling en bij voorkeur al kennis van S/4HANA. Je bent vertrouwd met MM/SD en FI/CO. Ervaring of affiniteit met retail is mooi meegenomen.&lt;/li&gt;&lt;li&gt;Expertise: Je blinkt uit in het ontwerpen, ontwikkelen en verbeteren van SAP-oplossingen en houdt altijd de stabiliteit, kwaliteit en performantie in de gaten.&lt;/li&gt;&lt;li&gt;Talen: Je spreekt vlot Nederlands, hebt een goede mondelinge en schriftelijke kennis van het Frans en beheerst Engels op een degelijk niveau.&lt;/li&gt;&lt;li&gt;Persoonlijkheid: Analytisch, oplossingsgericht, hands-on en met een sterke can-do mentaliteit. Je neemt ownership over jouw applicaties en oplossingen.&lt;/li&gt;&lt;li&gt;Communicatie: Je werkt zelfstandig aan design en code, maar functioneert ook sterk in teamcontext en ondersteunt collega’s wanneer nodig.&lt;/li&gt;&lt;li&gt;Cultuur: Je hebt een drive om continu bij te leren en kiest bewust voor een voltijdse rol waarin je bijdraagt aan de groei van onze klant.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een competitief salaris met een uitgebreid pakket extralegale voordelen, waaronder maaltijdcheques, ecocheques, personeelskortingen en mogelijkheden tot thuiswerk.&lt;/li&gt;&lt;li&gt;Bedrijfswagen&lt;/li&gt;&lt;li&gt;Flexibele werk- en vakantieregeling.&lt;/li&gt;&lt;li&gt;Een uitdagende werkomgeving binnen een financieel gezonde en groeiende organisatie.&lt;/li&gt;&lt;li&gt;Een no-nonsense cultuur waarin persoonlijke groei en teamwork centraal staan.&lt;/li&gt;&lt;li&gt;Toegang tot een uitgebreid pakket opleidingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72866888"/>
     <published>2026-01-20T09:25:52+00:00</published>
@@ -3950,6 +3845,112 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Senior Java Developer krijg je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in Java ontwikkeling&lt;/li&gt;&lt;li&gt;Je houdt van technische uitdagingen en wil blijven bijleren en bent analytisch ingesteld&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.&lt;br/&gt;&lt;br/&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72931891"/>
     <published>2026-01-28T10:25:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72943220</id>
+    <title>Senior Implementatie Consultant  (Kwery)</title>
+    <updated>2026-01-29T14:25:38+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Temse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor een gevestigde en groeiende IT-dienstverlener in Temse zoek ik naar een implementatie consultant. De organisatie ontwikkelt en implementeert ERP-, POS- en e-commerceoplossingen voor bedrijven actief in retail en groothandel en ondersteunt daarbij zowel nationale als internationale klanten. Door een sterke marktpositie en een duidelijke langetermijnvisie blijft het bedrijf verder uitbreiden.&lt;/p&gt;&lt;p dir="ltr"&gt;Je komt terecht in een zeer familiale cultuur, waar iedereen elkaar kent. Vanuit een hedendaags kantoor in Temse wordt dagelijks gewerkt aan complexe ERP-trajecten waarbij kwaliteit, structuur en heldere communicatie centraal staan.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Coördineren van ERP- en retailimplementaties, inclusief de opvolging van externe integraties zoals EDI, logistieke platformen en online verkoopkanalen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Instaan voor de planning en bewaking van scope, budget en deadlines van lopende projecten.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Afstemmen tussen technische ontwikkelteams en klanten uit de operationele omgeving.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Onderhouden van het eerste klantcontact en actief bouwen aan langdurige samenwerkingen via duidelijke en transparante communicatie.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Beheren van meerdere projecten tegelijk en zorgen voor een efficiënte samenwerking tussen alle betrokken partijen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een bachelor- of masteropleiding in een IT-gerelateerde functie aangevuld met minimaal zes jaar relevante ervaring binnen ERP-projectomgevingen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sterke communicatieve vaardigheden in het Nederlands en het Frans.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Grondige kennis van SQL en Excel en een goed begrip van functionele en technische ERP-implementaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Aantoonbare interesse in retail- en/of groothandelsprocessen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een gestructureerde, assertieve en klantgerichte manier van werken.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een bruto maandsalaris tussen €4.500 en €6.000, aangevuld met een uitgebreid pakket aan extralegale voordelen zoals bedrijfswagen, laptop, gsm en internetvergoeding.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een voltijdse, stabiele functie met doorgroeiperspectief binnen een ambitieuze IT-organisatie.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Afwisselende projecten voor klanten actief in mode en lifestyle.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een informele bedrijfscultuur met korte communicatielijnen en een vlakke structuur.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Veel autonomie en de ruimte om daadwerkelijk impact te hebben op projecten en interne werking.&lt;br /&gt; Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72943220"/>
+    <published>2026-01-29T14:25:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72943130</id>
+    <title>Project manager (ictjob.be)</title>
+    <updated>2026-01-29T14:17:58+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Context&lt;br /&gt;
+
+ &lt;br /&gt;
+
+We are looking for a Project Manager to lead a new strategic customer loyalty initiative within the retail sector, including the development of a web platform and a mobile application.&lt;br /&gt;
+
+The role is strongly business- and marketing-oriented, with a focus on customer engagement, omnichannel experience, and value creation.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Mission&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Manage digital projects related to customer loyalty and retail marketing&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Drive projects end-to-end: ideation, planning, execution, go-live, and follow-up&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Ensure delivery on scope, timeline, budget, and quality&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Coordinate marketing, business, IT, and external partners&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Manage risks, changes, and dependencies&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Lead testing phases and user acceptance with business teams&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Ensure alignment with PMO standards and governance&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Customer &amp; Marketing Focus&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Translate retail marketing and loyalty strategies into digital solutions&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Work on customer journeys, omnichannel engagement, and mobile usage&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Actively propose improvements to enhance customer experience and retention&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Profile&lt;br /&gt;
+
+ &lt;br /&gt;
+
+5+ years of experience in digital or IT project management&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Strong experience in retail digital projects (web and mobile)&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Background in customer loyalty, CRM, or marketing platforms&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Familiar with Agile methodologies and modern digital ecosystems&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Excellent communication and stakeholder management skills&lt;br /&gt;
+
+ &lt;br /&gt;
+
+Proactive, customer-centric, and results-oriented mindset&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72943130"/>
+    <published>2026-01-29T14:17:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72943037</id>
+    <title>Project Manager | ERP (Kwery)</title>
+    <updated>2026-01-29T14:09:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;Voor een snelgroeiende ICT-solution provider uit Sint - Niklaas zoek ik naar een ervaren ERP Project Manager. Het bedrijf is gespecialiseerd in ERP-software, kassasystemen en e-commerceoplossingen voor retail en groothandel. Ze werken tevens voor een internationale klantenportefeuille. Door de aanhoudende groei blijft de organisatie investeren in kwalitatieve oplossingen en ervaren profielen.&lt;/p&gt;&lt;p dir="ltr"&gt;Je komt terecht in een stabiel en modern familiebedrijf waar professionaliteit en persoonlijke aanpak centraal staan. Vanuit een hedendaagse werkomgeving wordt dagelijks gewerkt aan uitdagende ERP- en retailprojecten, met veel aandacht voor samenwerking en duurzame klantenrelaties.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je staat in voor de implementatie, opvolging en support van ERP- en retailprojecten, inclusief externe koppelingen zoals EDI, marketplaces en logistieke systemen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je bewaakt de timing, scope en het budget van projecten en stuurt bij waar nodig.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je vormt de verbindende schakel tussen de softwareontwikkelaars en de klanten uit de operationele business.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je treedt op als centraal aanspreekpunt voor klanten en zet in op transparante communicatie en langetermijnrelaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je behoudt het overzicht over meerdere projecten en zorgt voor een vlotte samenwerking tussen alle betrokken partijen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een bachelor- of masterdiploma gecombineerd met minstens zes jaar relevante ervaring in een gelijkaardige rol.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Vlotte communicatie in het Nederlands en het Frans is geen probleem voor jou, zowel mondeling als schriftelijk.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Goede kennis van SQL en Excel en inzicht in functionele en technische aspecten van ERP-implementaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt affiniteit met retail en/of wholesale en een sterke interesse in bedrijfsprocessen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een gestructureerde, assertieve en communicatief sterke werkstijl is precies hoe je te werk gaat.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een competitief bruto maandsalaris tussen €4.500 en €6.000, aangevuld met extralegale voordelen zoals een bedrijfswagen, laptop, telefoon en internetvergoeding.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een familiale werkomgeving met korte beslissingslijnen en een vlakke organisatiestructuur.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Autonomie in de functie en de mogelijkheid om een duidelijke impact te hebben op projecten en organisatie.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een vaste functie met doorgroeimogelijkheden binnen een snelgroeiend IT-bedrijf.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een gevarieerd klanten- en projectenportfolio binnen de mode- en lifestylesector.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72943037"/>
+    <published>2026-01-29T14:09:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72940558</id>
