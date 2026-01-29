@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-01-29T08:59:46.462867+00:00</updated>
+  <updated>2026-01-29T10:58:13.287886+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3378,27 +3378,53 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72870860</id>
     <title>Senior Salesforce administrator &amp; Platform Owner (CAW GROEP)</title>
-    <updated>2026-01-23T16:39:08+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CAW GROEP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Borgerhout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior Salesforce Administrator &amp;amp; Platform Owner neem je de technische leiding over het cliëntvolgsysteem (CVS) voor 11 CAW’s en 3000 gebruikers. Je bewaakt de architectuur, bouwt nieuwe functionaliteiten, ondersteunt lokale experten en zorgt voor een veilig, performant en gebruiksvriendelijk platform.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Jouw verantwoordelijkheden&lt;/p&gt; 
-&lt;p&gt;- Technisch beheer &amp;amp; configuratie&lt;/p&gt; 
-&lt;p&gt;- Architectuur &amp;amp; platformevolutie&lt;/p&gt; 
-&lt;p&gt;- Licht maatwerk &amp;amp; kwaliteitsbewaking&lt;/p&gt; 
-&lt;p&gt;- Governance &amp;amp; afstemming&lt;/p&gt; 
-&lt;p&gt;- Ondersteuning &amp;amp; documentatie&lt;/p&gt; 
-&lt;p&gt;- Kwaliteit &amp;amp; veiligheid&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Jouw profiel&lt;/p&gt; 
-&lt;p&gt;- Expert in Salesforce-configuratie (flows, datamodel, security)&lt;/p&gt; 
-&lt;p&gt;- Ervaring met Apex, LWC, API’s en integraties&lt;/p&gt; 
-&lt;p&gt;- Procesanalyse, datamodellering, GDPR-kennis&lt;/p&gt; 
-&lt;p&gt;- Min. 8 jaar relevante ervaring, min. 5 jaar Salesforce-administratie&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Een voltijdse job ( 38u/w) voor onbepaalde duur waarbij je onmiddellijk van start kan gaan. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Verloning volgens sectorbarema 
-&lt;strong&gt;L1&lt;/strong&gt; PC 319.01 met extralegale voordelen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Relevante anciënniteit wordt mee in overweging genomen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Standplaats: Antwerpen, met mogelijkheid thuiswerk.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span&gt;· &lt;/span&gt;&lt;/span&gt;&lt;span&gt;Enthousiast &amp;amp; ambitieus team met een open bedrijfscultuur, met ruimte voor eigen denken en inbreng van ideeën.&lt;/span&gt;&lt;/p&gt;</content>
+    <updated>2026-01-29T09:44:24+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CAW GROEP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Borgerhout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;i&gt;&lt;span data-olk-copy-source="MessageBody"&gt;Bouw mee aan een digitaal platform met échte maatschappelijke impact&lt;/span&gt;&lt;/i&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Wil jij jouw technische Salesforce-expertise inzetten voor een maatschappelijk relevant project? Heb je zin om eigenaarschap te nemen over een complex platform dat dagelijks het werk van hulpverleners ondersteunt? Dan is deze functie bij de CAW Groep iets voor jou.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;b&gt;&lt;span&gt;Jouw rol&lt;/span&gt;&lt;/b&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Als 
+&lt;b&gt;Senior Salesforce Administrator &amp;amp; Platform Owner&lt;/b&gt; neem je de technische leiding over het cliëntvolgsysteem (CVS) van 
+&lt;b&gt;11 Centra voor Algemeen Welzijnswerk (CAW’s)&lt;/b&gt;, goed voor zo’n 
+&lt;b&gt;3000 gebruikers&lt;/b&gt;. Jij bewaakt de architectuur, bouwt nieuwe functionaliteiten en zorgt ervoor dat het platform stabiel, veilig en gebruiksvriendelijk blijft.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Je combineert 
+&lt;b&gt;diepgaande technische kennis&lt;/b&gt; met een 
+&lt;b&gt;helikopterview&lt;/b&gt;, werkt autonoom en hebt een duidelijke stem in de verdere evolutie van het platform.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Je maakt deel uit van het 
+&lt;b&gt;Beheerteam CVS&lt;/b&gt; en werkt nauw samen met lokale experten, data-analisten, functioneel experten, een softwareleverancier en het Strategisch Governance Team.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;b&gt;&lt;span&gt;Wat ga je doen?&lt;/span&gt;&lt;/b&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Je beheert en configureert het Salesforce-platform (objecten, flows, security, automations, SSO…).&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je neemt eigenaarschap over de 
+&lt;b&gt;technische architectuur&lt;/b&gt; en bewaakt de samenhang en toekomstbestendigheid.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je analyseert en implementeert schaalbare oplossingen en begeleidt integraties met externe systemen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je ontwikkelt beperkte maatwerkoplossingen (Apex / LWC) en stuurt externe partners aan bij complexere ontwikkeling.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je valideert wijzigingen binnen de CVS-governance en bewaakt kwaliteit, veiligheid en compliance.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je ondersteunt lokale experten en fungeert als 2e/3e-lijnsondersteuning bij complexe vragen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je bouwt mee aan documentatie, richtlijnen, training en onboarding.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;Wie ben jij?&lt;/span&gt;&lt;/b&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Je hebt 
+&lt;b&gt;sterke ervaring met Salesforce&lt;/b&gt; (flows, datamodel, security).&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je hebt 
+&lt;b&gt;minstens 8 jaar relevante werkervaring&lt;/b&gt;, waarvan 
+&lt;b&gt;5 jaar in Salesforce-administratie&lt;/b&gt; in een complexe omgeving.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je denkt architecturaal, werkt gestructureerd en durft technische keuzes maken.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je kan technische concepten helder uitleggen aan niet-technische collega’s.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je werkt zorgvuldig met data en hebt oog voor privacy en security.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ervaring met 
+&lt;b&gt;Nonprofit Cloud&lt;/b&gt;, 
+&lt;b&gt;Apex, LWC en integraties&lt;/b&gt; is een grote plus.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Affiniteit met de welzijnssector is mooi meegenomen, maar geen vereiste.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;b&gt;&lt;span data-olk-copy-source="MessageBody"&gt;Wat bieden wij jou?&lt;/span&gt;&lt;/b&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;b&gt;voltijdse functie (38u/week)&lt;/b&gt; van onbepaalde duur.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Verloning volgens 
+&lt;b&gt;barema L1 – PC 319.01&lt;/b&gt;, met extralegale voordelen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Relevante anciënniteit wordt meegenomen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;b&gt;&lt;span&gt;Standplaats Antwerpen&lt;/span&gt;&lt;/b&gt;&lt;span&gt;, met mogelijkheid tot thuiswerk.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een 
+&lt;b&gt;gedreven en warm team&lt;/b&gt;, met ruimte voor initiatief, autonomie en eigen ideeën.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;De kans om te werken aan een platform dat er écht toe doet.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72870860"/>
     <published>2026-01-20T14:42:42+00:00</published>
   </entry>
