@@ -2,9 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-01-30T10:38:15.770125+00:00</updated>
+  <updated>2026-01-30T12:55:44.540387+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/master-data-specialist-2/</id>
+    <title>Master Data Specialist</title>
+    <updated>2026-01-30T07:57:59+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-30 08:57:59+00:00, last change 2026-01-30 07:57:59+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-30 08:57:59+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;BEDRIJF&lt;br&gt;
+&lt;br&gt;
+Deze internationale industriële groep bevindt zich in een duidelijke transitie: van historisch gegroeide, lokale systemen naar meer centralisatie, governance en databetrouwbaarheid. Actief over meerdere landen en continenten, met complexe supply chains en kritische productieprocessen, is correcte data hier geen luxe maar een voorwaarde om te kunnen sturen.&lt;br&gt;
+&lt;br&gt;
+De cultuur is open, familiaal en no-nonsense. Er wordt verwacht dat mensen ownership nemen, maar daar staat vertrouwen en autonomie tegenover. Data zit niet in een hoekje van IT, maar rechtstreeks in het hart van de business.&lt;br&gt;
+ &lt;br&gt;
+JOBOMSCHRIJVING&lt;br&gt;
+&lt;br&gt;
+Als Master Data Management Specialist zorg jij dat de fundamenten van het datalandschap kloppen. Jij bent degene die structuur brengt in verspreide, historisch gegroeide master data en ervoor zorgt dat data correct, consistent en betrouwbaar is over landen, systemen en processen heen.&lt;br&gt;
+&lt;br&gt;
+Je gaat actief in overleg met stakeholders uit supply chain, operations, finance en IT om data te begrijpen aan de bron. Je stelt de juiste vragen: wat betekent deze data? Waar ontstaat deze? Hoe wordt ze gebruikt? En wat is nodig om ze betrouwbaar te maken? Kortom je durft processen kritisch te bevragen. &lt;br&gt;
+Dit is geen administratieve rol. Je zit midden in de organisatie, volgt data actief op en zorgt dat definities, controles en afspraken ook echt nageleefd worden. Wat jij doet, heeft directe impact op planning, voorraad, leverbetrouwbaarheid, rapportering en compliance. Dit is een rol voor iemand die graag communiceert, afstemt en verbindt, en tegelijk de discipline heeft om datakwaliteit structureel te bewaken.&lt;br&gt;
+ &lt;br&gt;
+PROFIEL&lt;br&gt;
+&lt;br&gt;
+Ervaring met Master Data Management in een ERP-gedreven omgeving&lt;br&gt;
+Sterke affiniteit met SAP (bij voorkeur MM / supply chain)&lt;br&gt;
+Technisch voldoende onderlegd om data zelf te analyseren en valideren (SQL, queries, vergelijkingen)&lt;br&gt;
+Inzicht in datakwaliteit, datadefinities en controles&lt;br&gt;
+Sterk in communicatie en overleg met de business&lt;br&gt;
+Je begrijpt businessprocessen en durft ze challengen op basis van data&lt;br&gt;
+Gestructureerd, nauwkeurig en volhardend&lt;br&gt;
+ &lt;br&gt;
+AANBOD&lt;br&gt;
+&lt;br&gt;
+Je stapt in een rol waarin Master Data een centrale plaats inneemt binnen de organisatie. Geen administratieve bijrol, maar een functie waarin je structureel meebouwt aan kwaliteit, betrouwbaarheid en gedeelde afspraken. Je werkt rechtstreeks samen met business en IT, krijgt het vertrouwen om autonoom te handelen binnen een compacte data-organisatie en speelt een actieve rol in het uitbouwen van governance, standaarden en datakwaliteit op groepsniveau.&lt;br&gt;
+ &lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Interesse?&lt;br&gt;
+Cartière begeleidt deze zoektocht in exclusiviteit.&lt;br&gt;
+Wil je weten of deze rol past bij jouw ervaring en motivatie, dan plannen we graag een inhoudelijk gesprek.&lt;/em&gt;&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/master-data-specialist-2/"/>
+    <category term="Master Data Manager"/>
+    <published>2026-01-30T08:57:59+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/master-data-specialist/</id>
     <title>Master Data Specialist</title>
