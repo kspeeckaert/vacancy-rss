@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-01T22:44:32.408181+00:00</updated>
+  <updated>2026-02-02T05:46:08.007564+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1615,25 +1615,6 @@
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72496091"/>
     <published>2025-11-25T14:10:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72505585</id>
-    <title>Data Engineer (NOUVALL ENGINEERING SERVICES BELGIUM)</title>
-    <updated>2025-11-26T13:28:53+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: NOUVALL ENGINEERING SERVICES BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Data Engineer ben je verantwoordelijk voor de technische ondersteuning van ons Data-team en de verdere uitbouw van onze Fabric-omgeving. Je helpt bij het opzetten en optimaliseren van data pipelines, zorgt voor een stabiele en veilige datastroom en waakt over data governance en kwaliteit. Dankzij jouw werk bouwen we een stevige fundering voor diverse rapportages en analyses binnen Tabaknatie. Van onze logistieke activiteiten tot alle ondersteunende processen. 
-&lt;br /&gt;&lt;br /&gt; • Ontwerpen, bouwen en onderhouden van data pipelines en modelleren van datasets binnen Microsoft Fabric. 
-&lt;br /&gt;• Optimaliseren van de data-infrastructuur voor betrouwbaarheid, schaalbaarheid en prestaties. 
-&lt;br /&gt;• Beheren en implementeren van data governance en waarborgen van data security en kwaliteit. 
-&lt;br /&gt;• Opvolgen en onderhouden van de CI/CD-omgeving. 
-&lt;br /&gt;• Ondersteunen van het IT en Data-Team bij diverse Projecten. 
-&lt;br /&gt;• Meewerken aan innovatieve projecten en nieuwe technologieën verkennen binnen Fabric en de bredere Microsoft Data Stack. 
-&lt;br /&gt;&lt;br /&gt;Je profiel Je bent een zelfstandige en analytische professional met een passie voor data-engineering. Je werkt proactief, denkt in oplossingen en schakelt vlot tussen verschillende afdelingen om hun databehoeften te vertalen naar efficiënte oplossingen.&lt;/p&gt; 
-&lt;p&gt;&lt;br /&gt;Wat breng je mee? 
-&lt;br /&gt;&lt;br /&gt; • Ervaring met SQL, 
-&lt;span&gt;Python&lt;/span&gt; (PySpark) en een goede kennis van datamodellering en ETL-processen. • Aandacht voor data governance, security en compliance. • Ervaring met 
-&lt;span&gt;Microsoft Fabric&lt;/span&gt;. • Kennis van Power BI en het MS Azure PaaS data platform is een pluspunt. • Een zelfstandige, gestructureerde manier van werken. • Sterk probleemoplossend vermogen en zin voor initiatief. • Onmiddellijke indiensttreding bij onze klant • De juiste verloning conform je ervaringen • Deel uitmaken van een mooi familiebedrijf • Deel uitmaken van een wereldspeler die nooit stilstaat, verandering en innovatie sterk omarmt. • Zeer veel doorgroei mogelijkheden.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72505585"/>
-    <published>2025-11-26T13:28:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474849</id>
