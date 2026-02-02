@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-02T07:22:29.751266+00:00</updated>
+  <updated>2026-02-02T09:02:51.255644+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -612,7 +612,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70491765</id>
     <title>Data Engineer (Tabaknatie)</title>
-    <updated>2025-12-03T10:21:05+00:00</updated>
+    <updated>2026-02-02T08:01:36+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Tabaknatie (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wil jij een sleutelrol spelen in de opbouw van een modern dataplatform en ervoor zorgen dat data op een efficiënte en betrouwbare manier beschikbaar wordt gesteld voor analyse en rapportering? Bij Tabaknatie zijn we volop bezig met de implementatie van Microsoft Fabric en zoeken we een Data Engineer om ons team te versterken.&lt;/p&gt; 
 &lt;p&gt;Als Data Engineer ben je verantwoordelijk voor de technische ondersteuning van ons Data-team en de verdere uitbouw van onze Fabric-omgeving. Je helpt bij het opzetten en optimaliseren van data pipelines, zorgt voor een stabiele en veilige datastroom en waakt over data governance en kwaliteit. Dankzij jouw werk bouwen we een stevige fundering voor diverse rapportages en analyses binnen Tabaknatie. Van onze logistieke activiteiten tot alle ondersteunende processen.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie zoeken we? &lt;/p&gt; 
 &lt;p&gt;Je bent een zelfstandige en analytische professional met een passie voor data-engineering. Je denkt in oplossingen en hebt een proactieve houding. Je werkt graag samen met verschillende departementen om hun data-noden te vertalen.&lt;/p&gt; 
@@ -915,14 +915,6 @@
 &lt;br /&gt;● An attractive salary with lots of extra benefits&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72169474"/>
     <published>2025-10-10T14:57:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72178241</id>
-    <title>Data Engineer (Sogeti Belgium)</title>
-    <updated>2025-12-15T14:58:59+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sogeti Belgium (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Capgemini Data &amp;amp; AI is looking for people who tame data in such a way that the most complex data can be easily interpreted. We are looking for a Data Engineer to help our clients in their digital transformations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;YOUR ROLE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Integrate, transform and consolidate data from various structured and unstructured data systems&lt;/li&gt;&lt;li&gt;Ensure data pipelines and data stores are high-performing, efficient, organized, and reliable, given a set of business requirements and constraints&lt;/li&gt;&lt;li&gt;Create and design data models&lt;/li&gt;&lt;li&gt;&lt;p&gt;Translate functional requirements into a scalable, fit-for-use technical design&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;YOUR PROFILE&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;One more more leading Data platforms Azure, Databricks, Snowflake, Google Cloud Platform and it's infra and CI/CD context&lt;/li&gt;&lt;li&gt;Microsoft Fabric, Azure Data Factory, Synapse, Azure SQL database, Azure Devops, Azure Analysis Services, ...&lt;/li&gt;&lt;li&gt;Databricks&lt;/li&gt;&lt;li&gt;Snowflake, Snowpipe, Snowflake Native Apps, ...&lt;/li&gt;&lt;li&gt;Keen understanding of Data Modeling methodologies (Kimball, Data Vault 2.0)&lt;/li&gt;&lt;li&gt;Knowledge of Lakehouse principles and medallion architecture&lt;/li&gt;&lt;li&gt;Expert knowledge of SQL and T-SQL or DBT&lt;/li&gt;&lt;li&gt;Fluent in Dutch with professional working proficiency in English&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Relevant certificates&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;DP-203 Data Engineering on Microsoft Azure&lt;br&gt;• &amp;nbsp; &amp;nbsp;Snowpro core/advanced&lt;br&gt;• &amp;nbsp; &amp;nbsp;Databricks Lakehouse Professional&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU’LL LOVE ABOUT WORKING HERE?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Capgemini Belgium we offer flexibility in more than one way next to our hybrid way of working, where we offer you can work 70% from home, we also offer our flex abroad program. With this program you can work up to 45 days abroad, this to maintain a good work-life balance.&lt;br&gt;Next to this we also offer following additional benefits&lt;/p&gt;&lt;p&gt;&lt;br&gt;• &amp;nbsp; &amp;nbsp;Net expenses&lt;br&gt;• &amp;nbsp; &amp;nbsp;Company car or mobility budget (whatever works best for you)&lt;br&gt;• &amp;nbsp; &amp;nbsp;Health insurance&lt;br&gt;• &amp;nbsp; &amp;nbsp;Meal vouchers&lt;br&gt;• &amp;nbsp; &amp;nbsp;Pension plan&lt;br&gt;• &amp;nbsp; &amp;nbsp;Eco vouchers from €250/year.&lt;br&gt;• &amp;nbsp; &amp;nbsp;A flex plan where you can buy extra days off, update your insurance or buy home office supplies.&lt;br&gt;• &amp;nbsp; &amp;nbsp;32 vacation days.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72178241"/>
-    <published>2025-10-13T09:02:03+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72206372</id>
@@ -3900,51 +3892,171 @@
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72949396</id>
-    <title>IT Project Manager (ictjob.be)</title>
-    <updated>2026-01-30T11:18:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;b&gt;Your new role&lt;/b&gt;&lt;br&gt; &amp;nbsp;&lt;br&gt; As IT Project Manager, you will be responsible for coordinating several technical projects both&amp;nbsp;&lt;b&gt;hardware &amp;amp; software related,&lt;/b&gt;&amp;nbsp;from early discussions with customers to final delivery. Your work combines planning, customer interaction and hands-on follow-up. Key responsibilities include:&lt;br&gt; &amp;nbsp;&lt;br&gt; &lt;b&gt;Project Initiation&lt;/b&gt;&lt;br&gt;
+    <title>Hays - IT Project Manager (ictjob.be)</title>
+    <updated>2026-02-02T09:18:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;As IT Project Manager, you will be responsible for coordinating several technical projects both Hardware &amp; software related, from early discussions with customers to final delivery. Your work combines planning, customer interaction and hands-on follow-up. Key responsibilities include:&lt;br /&gt;
+&lt;br /&gt;
+Project initiation&lt;br /&gt;
+
 &lt;ul&gt;
- &lt;li&gt;Participating in pre-sales activities together with the Account Managers (assessing feasibility, gathering technical requirements, supporting proposal preparation).&lt;/li&gt;
- &lt;li&gt;Providing input on timelines, scope and resources before project kick-off.&lt;/li&gt;
- &lt;li&gt;Ensuring a smooth transition from quotation phase to project execution.&lt;/li&gt;
-&lt;/ul&gt; &lt;b&gt;Project Planning &amp;amp; Coordination&lt;/b&gt;&lt;br&gt;
+
+&lt;li&gt;Participating in pre-Sales activities together with the Account Managers (assessing feasibility, gathering technical requirements, supporting proposal preparation)
+&lt;/li&gt;
+
+&lt;li&gt;Providing input on timelines, scope and resources before project kick-off
+&lt;/li&gt;
+
+&lt;li&gt;Ensuring a smooth transition from quotation phase to project execution
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+Project planning &amp; coordination&lt;br /&gt;
+
 &lt;ul&gt;
- &lt;li&gt;Creating project plans, defining scope, milestones and resource allocation.&lt;/li&gt;
- &lt;li&gt;Leading project kick-off meetings and ensuring all stakeholders are aligned.&lt;/li&gt;
- &lt;li&gt;Managing several short-cycle projects at the same time, switching focus quickly and efficiently.&lt;/li&gt;
- &lt;li&gt;Coordinating activities with internal teams such as development, production and customer service.&lt;/li&gt;
- &lt;li&gt;Keeping project documentation accurate and up to date.&lt;/li&gt;
-&lt;/ul&gt; &lt;b&gt;Execution, Follow-up &amp;amp; Reporting&lt;/b&gt;&lt;br&gt;
+
+&lt;li&gt;Creating project plans, defining scope, milestones and resource allocation
+&lt;/li&gt;
+
+&lt;li&gt;Leading project kick-off meetings and ensuring all stakeholders are aligned
+&lt;/li&gt;
+
+&lt;li&gt;Managing several short-cycle projects at the same time, switching focus quickly and efficiently
+&lt;/li&gt;
+
+&lt;li&gt;Coordinating activities with internal teams such as development, production and customer service
+&lt;/li&gt;
+
+&lt;li&gt;Keeping project documentation accurate and up to date
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+Execution, follow-up &amp; reporting&lt;br /&gt;
+
 &lt;ul&gt;
- &lt;li&gt;Monitoring project progress and adjusting schedules when necessary.&lt;/li&gt;
- &lt;li&gt;Identifying risks early and escalating when milestones or deadlines are at risk.&lt;/li&gt;
- &lt;li&gt;Preparing clear and regular project updates, including progress and revenue tracking.&lt;/li&gt;
- &lt;li&gt;Ensuring that commercial agreements are respected, including handling scope changes with the Account Manager.&lt;/li&gt;
-&lt;/ul&gt; &lt;b&gt;Customer Interaction &amp;amp; Representation&lt;/b&gt;&lt;br&gt;
+
+&lt;li&gt;Monitoring project progress and adjusting schedules when necessary
+&lt;/li&gt;
+
+&lt;li&gt;Identifying risks early and escalating when milestones or deadlines are at risk
+&lt;/li&gt;
+
+&lt;li&gt;Preparing clear and regular project updates, including progress and revenue tracking
+&lt;/li&gt;
+
+&lt;li&gt;Ensuring that commercial agreements are respected, including handling scope changes with the Account Manager
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+Customer interaction &amp; representation&lt;br /&gt;
+
 &lt;ul&gt;
- &lt;li&gt;Acting as the primary point of contact for customers throughout the project lifecycle.&lt;/li&gt;
- &lt;li&gt;Representing the company professionally during meetings with customers, including senior Project Managers from major international organisations.&lt;/li&gt;
- &lt;li&gt;Communicating in a confident, structured and solution-oriented manner.&lt;/li&gt;
- &lt;li&gt;Handling issues calmly and independently, maintaining a clear overview under pressure.&lt;/li&gt;
-&lt;/ul&gt; &lt;b&gt;General Expectations&lt;/b&gt;&lt;br&gt;
+
+&lt;li&gt;Acting as the primary point of contact for customers throughout the project lifecycle
+&lt;/li&gt;
+
+&lt;li&gt;Representing the company professionally during meetings with customers, including senior Project Managers from major international organisations
+&lt;/li&gt;
+
+&lt;li&gt;Communicating in a confident, structured and solution-oriented manner
+&lt;/li&gt;
+
+&lt;li&gt;Handling issues calmly and independently, maintaining a clear overview under pressure
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+General expectations&lt;br /&gt;
+
 &lt;ul&gt;
- &lt;li&gt;Switching easily between different tasks and priorities.&lt;/li&gt;
- &lt;li&gt;Maintaining a professional attitude and strong presentation skills at all times.&lt;/li&gt;
- &lt;li&gt;Collaborating closely with colleagues in a young and dynamic team environment.&lt;/li&gt;
-&lt;/ul&gt; &lt;b&gt;Your profile&lt;/b&gt;&lt;br&gt;
+
+&lt;li&gt;Switching easily between different tasks and priorities
+&lt;/li&gt;
+
+&lt;li&gt;Maintaining a professional attitude and strong presentation skills at all times
+&lt;/li&gt;
+
+&lt;li&gt;Collaborating closely with colleagues in a young and dynamic team environment
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What you'll get in return&lt;/strong&gt;&lt;/p&gt;
+
+Our client offers a varied role with plenty of diversity and responsibility within a pleasant and modern working environment. You will join an autonomous, dynamic and growing organisation based in Zwijndrecht. There is a positive attitude among employees, with a strong emphasis on team spirit. This organisation provides a challenging position within IT and many opportunities for professional development. Coaching, training and development programmes are offered by the company.&lt;br /&gt;
+&lt;br /&gt;
+In addition, you can count on an attractive salary package with extra-legal benefits&lt;br /&gt;
+
 &lt;ul&gt;
- &lt;li&gt;You bring a combination of technical insight, maturity and strong organisational skills.&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;5 to 7 years&lt;/b&gt;&amp;nbsp;of&amp;nbsp;&lt;b&gt;experience&amp;nbsp;&lt;/b&gt;as a Project Manager, ideally in a technical environment&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Bachelor&lt;/b&gt;'s degree in a technical field or equivalent experience&lt;/li&gt;
- &lt;li&gt;Excellent command of&amp;nbsp;&lt;b&gt;Dutch&amp;nbsp;&lt;/b&gt;and&amp;nbsp;&lt;b&gt;English&lt;/b&gt;, strong ability to communicate in&amp;nbsp;&lt;b&gt;French&lt;/b&gt;, fluency in German is a plus but not required&lt;/li&gt;
- &lt;li&gt;Ability to manage&amp;nbsp;&lt;b&gt;multiple&amp;nbsp;&lt;/b&gt;concurrent&amp;nbsp;&lt;b&gt;projects&amp;nbsp;&lt;/b&gt;and switch between&amp;nbsp;&lt;b&gt;priorities&amp;nbsp;&lt;/b&gt;smoothly&lt;/li&gt;
- &lt;li&gt;Strong presentation and&amp;nbsp;&lt;b&gt;communication skills&lt;/b&gt;, comfortable representing the company externally&lt;/li&gt;
- &lt;li&gt;Able to remain calm under pressure and maintain a&amp;nbsp;&lt;b&gt;structured approach&lt;/b&gt;&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Confident&lt;/b&gt;, not timid, and capable of interacting with senior Project Managers on the client side&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Quick learner&lt;/b&gt;&amp;nbsp;with the ability to understand complex technical products&lt;/li&gt;
- &lt;li&gt;&lt;b&gt;Team-oriented&lt;/b&gt;, proactive communicator with solid knowledge of&amp;nbsp;&lt;b&gt;Microsoft Office&lt;/b&gt;&amp;nbsp;and&amp;nbsp;&lt;b&gt;MS Project&lt;/b&gt;&lt;/li&gt;
- &lt;li&gt;Willingness to travel when required (occasionally)&lt;/li&gt;
-&lt;/ul&gt; &lt;b&gt;What you'll get in return&lt;/b&gt;&lt;br&gt; &amp;nbsp;&lt;br&gt; Our client offers a varied role with plenty of diversity and responsibility within a...&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+
+&lt;li&gt;Company car
+&lt;/li&gt;
+
+&lt;li&gt;Meal vouchers of
+&lt;/li&gt;
+
+&lt;li&gt;Group insurance
+&lt;/li&gt;
+
+&lt;li&gt;Hospitalisation insurance
+&lt;/li&gt;
+
+&lt;li&gt;Eco-cheques
+&lt;/li&gt;
+
+&lt;li&gt;32 days of holiday
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+You will join a collaborative and agile organisation that values autonomy, direct impact and close teamwork.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;You bring a combination of technical insight, maturity and strong organisational skills.
+&lt;/li&gt;
+
+&lt;li&gt;5 to 7 years of experience as a Project Manager, ideally in a technical environment
+&lt;/li&gt;
+
+&lt;li&gt;Bachelor's degree in a technical field or equivalent experience
+&lt;/li&gt;
+
+&lt;li&gt;Excellent command of Dutch and English, strong ability to communicate in French, fluency in German is a plus but not required
+&lt;/li&gt;
+
+&lt;li&gt;Ability to manage multiple concurrent projects and switch between priorities smoothly
+&lt;/li&gt;
+
+&lt;li&gt;Strong presentation and communication skills, comfortable representing the company externally
+&lt;/li&gt;
+
+&lt;li&gt;Able to remain calm under pressure and maintain a structured approach
+&lt;/li&gt;
+
+&lt;li&gt;Confident, not timid, and capable of interacting with senior Project Managers on the client side
+&lt;/li&gt;
+
+&lt;li&gt;Quick learner with the ability to understand complex technical products
+&lt;/li&gt;
+
+&lt;li&gt;Team-oriented, proactive communicator with solid knowledge of Microsoft Office and MS Project
+&lt;/li&gt;
+
+&lt;li&gt;Willingness to travel when required (occasionally)
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;What you need to do now&lt;/strong&gt;&lt;/p&gt;
+
+Are you interested in this role? Please contact Alexia Brosens from Hays Brussels or click 'apply now' to forward an up-to-date copy of your CV, or call us now.&lt;br /&gt;
+
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career.&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72949396"/>
     <published>2026-01-30T11:18:31+00:00</published>
   </entry>
