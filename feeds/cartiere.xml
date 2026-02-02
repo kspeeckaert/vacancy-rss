@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-02T10:49:04.146059+00:00</updated>
+  <updated>2026-02-02T13:01:24.266263+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1409,37 +1409,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</cont
     <link href="https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/"/>
     <category term="BI/Data Analyst"/>
     <published>2024-05-22T09:34:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/application-specialist/</id>
-    <title>Application Specialist</title>
-    <updated>2025-09-23T06:53:24+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Brussels-Capital Region, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-09-23 07:53:24+00:00, last change 2025-09-23 06:53:24+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-09-23 07:53:24+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;COMPANY:&lt;/strong&gt;&lt;br&gt;
-We are currently looking for an Application Specialist for a leading company in the media sector. This organization works on a variety of projects where data, strategy, and creativity come together. Operating in a dynamic environment, the focus is on innovation, collaboration, and generating relevant insights.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOB DESCRIPTION:&lt;/strong&gt;&lt;br&gt;
-As an Application Specialist, you are responsible for bridging business needs with the capabilities of applications such as Salesforce, Hubspot, and other tools interconnected through APIs. You work within the marketing data team and take ownership of the various applications and the campaigns that rely on them. You analyze business requirements, identify the necessary data and integrations, and translate them into practical solutions.&lt;br&gt;
-You manage projects from start to finish: coordinating stakeholders, testing new functionalities, overseeing implementation, and ensuring smooth rollouts. Along the way, you document processes and create playbooks so that solutions can be reused for future projects. You contribute to the integration of new systems and interfaces, monitor the performance of existing tools, and act as the point of contact for users, vendors, and the IT department.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFILE:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;You are proficient in Excel.
-	&lt;li&gt;First experience or a strong affinity for technology and applications.
-	&lt;li&gt;Strong interest in APIs, integrations, and data flows (no coding required).
-	&lt;li&gt;Independent, communicative, and taking ownership.
-	&lt;li&gt;Project-oriented, structured, and hands-on.
-	&lt;li&gt;You speak French and have a good working knowledge of English.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;OFFER:&lt;/strong&gt;&lt;br&gt;
-This international company is characterized by a familial and open atmosphere. You have a high level of impact in your role — illustrated by the fact that you can simply walk into the CEO’s office if you have a great idea.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Are you passionate about data and naturally curious?&lt;br&gt;
-Send your resume to delphine@cartiere.be and call +32 33 43 94 92 for more information.&lt;br&gt;
-Visit our website www.cartiere.be for more BI, data, AI and ML-opportunities.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/application-specialist/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-09-23T07:53:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/functioneel-data-analist/</id>
