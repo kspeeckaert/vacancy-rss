@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-03T08:57:47.485237+00:00</updated>
+  <updated>2026-02-03T11:02:07.367832+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2539,14 +2539,6 @@
     <published>2026-01-06T09:58:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72762865</id>
-    <title>Head of IT (Robert Half)</title>
-    <updated>2026-01-06T09:57:06+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Robert Half (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Robert Half is op zoek naar een gedreven en ervaren Head of IT (m/v/x) om een leidinggevende en strategische rol te vervullen binnen een dynamische organisatie in de regio Antwerpen.&lt;/p&gt;&lt;p&gt;Het bedrijf is actief binnen een internationale context en hecht veel waarde aan innovatie, procesoptimalisatie en klantgerichtheid.&lt;/p&gt;&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je motiveert en stuurt verschillende IT-teams aan , totaal ongeveer 9 medewerkers;&lt;/li&gt;&lt;li&gt;Je draagt bij aan Data Governance en BI/rapportageprocessen door strategische en operationele oplossingen uit te werken;&lt;/li&gt;&lt;li&gt;Je ontwikkelt en implementeert de lokale IT-strategie die in lijn ligt met de bedrijfsdoelstellingen;&lt;/li&gt;&lt;li&gt;Je optimaliseert IT-processen en bedrijfsdata om de efficiëntie binnen de organisatie te verhogen;&lt;/li&gt;&lt;li&gt;Je fungeert als operationeel aanspreekpunt en werkt nauw samen met verschillende afdelingen en internationale IT-structuren;&lt;/li&gt;&lt;li&gt;Je leidt initiatieven voor IT-innovatie en ziet toe op naleving van lokale en internationale databeveiligingsstandaarden.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Jouw profiel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt minimaal 8 jaar ervaring in IT, waarvan minstens 4 jaar in een leidinggevende functie;&lt;/li&gt;&lt;li&gt;Je hebt ruime ervaring met data en BI platformen, idealiter Power BI;&lt;/li&gt;&lt;li&gt;Je beschikt over sterke analytische vaardigheden en strategisch inzicht ondersteund door kennis van data-analyse en procesoptimalisatie;&lt;/li&gt;&lt;li&gt;Je hebt een vloeiende kennis Nederlands en Engels, en kennis van andere talen is een pluspunt;&lt;/li&gt;&lt;li&gt;Je hebt een achtergrond in de aansturing van IT-serviceteams met een klantgerichte focus;&lt;/li&gt;&lt;li&gt;Ervaring in een internationale matrixorganisatie is een voorkeur;&lt;/li&gt;&lt;li&gt;Je bent een gedreven, communicatief sterke leider die teams weet te inspireren en resultaten weet te behalen;&lt;/li&gt;&lt;li&gt;Je bent comfortabel met hands-on werken binnen het data- en BI-domein.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Het aanbod:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een vaste, voltijdse functie met veel variatie, verantwoordelijkheid en ruimte voor eigen initiatief;&lt;/li&gt;&lt;li&gt;Een competitief salarispakket inclusief extralegale voordelen zoals maaltijdcheques, een hospitalisatie- en pensioenplan, een bedrijfswagen met tankkaart en eco- en vakantievouchers;&lt;/li&gt;&lt;li&gt;Een flexibel thuiswerkbeleid waarbij je 2 dagen vanuit huis kan werken;&lt;/li&gt;&lt;li&gt;Opleidingsmogelijkheden om zowel technische als sociale ontwikkeling te stimuleren;&lt;/li&gt;&lt;li&gt;Werk binnen een internationaal kader dat je kansen biedt voor verdere professionele groei en procesoptimalisatie. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ben je klaar voor een uitdagende en ambitieuze stap in je carrière? Solliciteer vandaag nog via Robert Half en laat je talent schitteren!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72762865"/>
-    <published>2026-01-06T09:57:06+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72762436</id>
     <title>Full-Stack Developer | EU Digital Services (Sander)</title>
     <updated>2026-01-13T17:25:38+00:00</updated>
@@ -4226,6 +4218,54 @@ If this job isn't quite right for you, but you are looking for a new position, p
 &lt;li&gt;&lt;strong&gt;Health &amp;amp; gear&lt;/strong&gt;: Een top laptop en smartphone (incl. abonnement en budget) die je ook privé mag gebruiken. Daarnaast ben je uitstekend verzekerd via onze DKV hospitalisatie- en ambulante verzekering én een groepsverzekering (3% bijdrage werkgever, zonder eigen inleg).&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72968162"/>
     <published>2026-02-02T13:54:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72974795</id>
+    <title>Full Stack .NET Developer (Randstad Digital)</title>
+    <updated>2026-02-03T10:18:20+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;.Senior Full-Stack Developer (.NET &amp; Azure)&lt;br /&gt;
+
+&lt;b&gt;De Opdracht&lt;/b&gt;  Als Full-Stack Developer werk je aan de uitbouw van nieuwe, schaalbare webapplicaties binnen een Azure-omgeving. Je wordt onderdeel van een professioneel productteam dat verantwoordelijk is voor de volledige levenscyclus van digitale oplossingen van innovatieve dashboards voor asset management tot het implementeren van slimme AI-toepassingen en collaboratieve platformen.&lt;br /&gt;
+
+&lt;b&gt;Jouw Profiel&lt;/b&gt; Je bent een gedreven ontwikkelaar die graag eigenaarschap neemt over complexe uitdagingen. Je beschikt over:&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;
+&lt;b&gt;Ruime ervaring:&lt;/b&gt; Minimaal 6 jaar ervaring als Full-Stack Developer, met recente projectervaring in 2025-2026.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;b&gt;Backend Expertise:&lt;/b&gt; Diepgaande kennis van .NET (C#), ASP.NET Core en Entity Framework. Je bent vertrouwd met moderne architectuurprincipes en microservices.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;b&gt;Frontend Skills:&lt;/b&gt; Minimaal 8 jaar ervaring met Angular, inclusief TypeScript, RxJs en moderne styling-technieken (HTML5/SCSS).&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;b&gt;Cloud &amp; Infra:&lt;/b&gt; Je bent thuis in het Azure-ecosysteem, specifiek met Azure DevOps, Azure Kubernetes Service (AKS) en containerisatie via Docker.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;b&gt;Data &amp; Security:&lt;/b&gt; Ervaring met MS SQL Server, het beveiligen van applicaties via OAuth/OpenID Connect en het ontsluiten van data via RESTful API's.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;b&gt;Methodiek en Samenwerking&lt;/b&gt; Je bent een voorstander van Agile werken en hebt bij voorkeur ervaring binnen een SAFe-context. Je communiceert vlot in het Nederlands en Engels. Gezien de focus op kennisdeling en teamdynamiek, ben je wekelijks 2 tot 3 dagen aanwezig op kantoor. We zoeken een collega die verder kijkt dan de code; je denkt mee over de technische roadmap en de inzet van nieuwe technologieën om de business vooruit te helpen.&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72974795"/>
+    <published>2026-02-03T10:18:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72974115</id>
