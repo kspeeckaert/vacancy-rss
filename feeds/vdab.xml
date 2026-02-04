@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-04T07:11:50.109825+00:00</updated>
+  <updated>2026-02-04T09:01:31.067206+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1776,14 +1776,6 @@
     <published>2025-12-05T13:44:57+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72593149</id>
-    <title>Marketing Business Partner (Sopra Steria)</title>
-    <updated>2025-12-10T08:59:28+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;As &lt;strong&gt;Business Partner Marketing&lt;/strong&gt;, you are a senior strategic advisor who understands the business, anticipates commercial needs and turns insight into impactful marketing strategies/campaigns. You work as a sparring partner to business lines, challenging assumptions and guiding decisions to drive growth, strengthen our brand and improve client experience.&lt;/p&gt;&lt;p&gt;Closely partnering with the Marketing Director, you translate overall strategy into local execution, leading projects that generate qualified opportunities and directly support revenue. You collaborate with sales, consultants, business leaders and group marketing to ensure aligned, insight-led marketing that becomes a true engine for growth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Act as a strategic marketing advisor to business leaders, shaping commercial and strategic decisions with data-driven insight.&lt;/li&gt;&lt;li&gt;Translate business priorities into targeted marketing plans aligned with global strategy and brand direction.&lt;/li&gt;&lt;li&gt;Gather and analyse market intelligence to identify customer needs, competitor activity, trends, risks and growth opportunities.&lt;/li&gt;&lt;li&gt;Design, execute and optimise end-to-end marketing campaigns that support commercial goals and deliver measurable impact.&lt;/li&gt;&lt;li&gt;Coordinate and influence cross-functional stakeholders to ensure alignment, high-quality execution and adoption of insight-led marketing.&lt;/li&gt;&lt;li&gt;Provide clear reporting and performance evaluation of campaigns, KPIs, risks, opportunities and business impact.&lt;/li&gt;&lt;li&gt;Strengthen collaboration and communication between sales, business units, group marketing and external partners.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Senior marketing/business partnering professional with 8+ years of experience, ideally in B2B or professional services.&lt;/li&gt;&lt;li&gt;Holds a Bachelor’s or Master’s degree in Marketing, Business, Economics, or related field.&lt;/li&gt;&lt;li&gt;Fluent in English and Dutch; French is a plus.&lt;/li&gt;&lt;li&gt;Strong track record in campaign and project management, with excellent cross-functional stakeholder collaboration.&lt;/li&gt;&lt;li&gt;Skilled in stakeholder management, influencing at all organizational levels.&lt;/li&gt;&lt;li&gt;Able to translate data and insights into clear, actionable strategies.&lt;/li&gt;&lt;li&gt;Strong analytical, conceptual thinking, and storytelling/communication abilities.&lt;/li&gt;&lt;li&gt;Proficient in CRM, marketing automation, and digital marketing tools.&lt;/li&gt;&lt;li&gt;Proactive, improvement-driven, and focused on measurable impact.&lt;/li&gt;&lt;li&gt;Comfortable working across countries (Belgium/Luxembourg) and in a fast-changing, transforming environment.&lt;/li&gt;&lt;li&gt;&lt;p&gt;A resilient problem solver who thrives under change and complexity.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;This is what you’ll get from us&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the MarCom department, you’ll be at the heart of one of the key driving forces, operating across divisions and countries. You’ll balance long-term company ambitions with impactful short-term results.&lt;/p&gt;&lt;p&gt;We offer a strong employee benefits package including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Company car or mobility budget, insurance coverage, meal vouchers, eco vouchers, 12 additional holidays due to 40h work week, and more.&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you are ready to shape the world with us and take your career to the next level, we encourage you to apply!&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72593149"/>
-    <published>2025-12-10T08:59:28+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72600694</id>
     <title>Security Engineer - Antwerpen (Tergos)</title>
     <updated>2026-01-22T18:25:17+00:00</updated>
@@ -2196,6 +2188,65 @@
     <published>2025-12-22T09:17:56+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72694507</id>
+    <title>Senior Service Desk Engineer (CONXION)</title>
+    <updated>2025-12-24T10:40:06+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bieden van 
+&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
+&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Configureren van 
+&lt;span&gt;Microsoft 365&lt;/span&gt; en 
+&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt al een sterke ervaring met 
+&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt uitstekende 
+&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan vlot communiceren in het 
+&lt;strong&gt;Nederlands&lt;/strong&gt; en 
+&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72694507"/>
+    <published>2025-12-24T10:40:06+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72694757</id>
     <title>System Engineer (CONXION)</title>
     <updated>2025-12-24T11:06:00+00:00</updated>
@@ -2258,65 +2309,6 @@
 &lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72694757"/>
     <published>2025-12-24T11:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72694507</id>
-    <title>Senior Service Desk Engineer (CONXION)</title>
-    <updated>2025-12-24T10:40:06+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bieden van 
-&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
-&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Configureren van 
-&lt;span&gt;Microsoft 365&lt;/span&gt; en 
-&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt al een sterke ervaring met 
-&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt uitstekende 
-&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan vlot communiceren in het 
-&lt;strong&gt;Nederlands&lt;/strong&gt; en 
-&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72694507"/>
-    <published>2025-12-24T10:40:06+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72694675</id>
@@ -4319,5 +4311,198 @@ If this job isn't quite right for you, but you are looking for a new position, p
 &lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt; Wat wij bieden&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Werken in een jong AI-team dat impactgedreven is&lt;/li&gt;&lt;li&gt;Projecten waar AI écht proces- en organisatiewerking verandert&lt;/li&gt;&lt;li&gt;Autonomie, vertrouwen en permanente ontwikkelingsruimte&lt;/li&gt;&lt;li&gt;Directe samenwerking met onze enable-, built- en empower-teams&lt;/li&gt;&lt;li&gt;De kans om AI-trajecten van A tot Z mee vorm te geven&lt;/li&gt;&lt;li&gt;De Cronos Groep achter ons betekent sterke voordelen, een groot netwerk en extra ontwikkelkansen&lt;/li&gt;&lt;li&gt;Competitief loon, doorgroeimogelijkheden en een team met veel goesting&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;MAXQlabs is de plek voor mensen die verandering willen versnellen.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72975978"/>
     <published>2026-02-03T11:52:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72984461</id>
+    <title>Senior Service Desk Engineer (CONXION)</title>
+    <updated>2026-02-04T09:23:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
+&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;ITCE&lt;/strong&gt; maakt deel uit van de 
+&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
+&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
+&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
+&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
+&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bieden van 
+&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
+&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Configureren van 
+&lt;span&gt;Microsoft 365&lt;/span&gt; en 
+&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt al een sterke ervaring met 
+&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt uitstekende 
+&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan vlot communiceren in het 
+&lt;strong&gt;Nederlands&lt;/strong&gt; en 
+&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72984461"/>
+    <published>2026-02-04T09:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72984156</id>
+    <title>System Engineer (CONXION)</title>
+    <updated>2026-02-04T09:06:35+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
+&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Als 
+&lt;strong&gt;System Engineer&lt;/strong&gt; ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw day to day als System Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
+&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
+&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
+&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
+&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
+&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;Certificeringen&lt;/p&gt; 
+&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
+&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
+&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Er zijn 
+&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72984156"/>
+    <published>2026-02-04T09:06:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72984169</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2026-02-04T09:08:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
+&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
+&lt;p&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
+&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
+&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
+&lt;span&gt;data warehouses&lt;/span&gt; naar de 
+&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van 
+&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de 
+&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in 
+&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72984169"/>
+    <published>2026-02-04T09:08:31+00:00</published>
   </entry>
 </feed>
