@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-04T09:01:31.067206+00:00</updated>
+  <updated>2026-02-04T11:00:21.899657+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1776,6 +1776,14 @@
     <published>2025-12-05T13:44:57+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72572628</id>
+    <title>.Net Software Engineer (Kingfisher Recruitment)</title>
+    <updated>2026-02-04T09:52:13+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en&amp;#160;oplossingen ontwerpt, bouwt en optimaliseert. Je denkt&amp;#160;mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team.&amp;#160;Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk.&amp;#160;Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen + tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm + abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk +3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72572628"/>
+    <published>2025-12-05T16:54:03+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72600694</id>
     <title>Security Engineer - Antwerpen (Tergos)</title>
     <updated>2026-01-22T18:25:17+00:00</updated>
@@ -2188,192 +2196,6 @@
     <published>2025-12-22T09:17:56+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72694507</id>
-    <title>Senior Service Desk Engineer (CONXION)</title>
-    <updated>2025-12-24T10:40:06+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;ITCE&lt;/span&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bieden van 
-&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
-&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Configureren van 
-&lt;span&gt;Microsoft 365&lt;/span&gt; en 
-&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt al een sterke ervaring met 
-&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt uitstekende 
-&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan vlot communiceren in het 
-&lt;strong&gt;Nederlands&lt;/strong&gt; en 
-&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72694507"/>
-    <published>2025-12-24T10:40:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72694757</id>
-    <title>System Engineer (CONXION)</title>
-    <updated>2025-12-24T11:06:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als 
-&lt;strong&gt;System Engineer&lt;/strong&gt; ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als System Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
-&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
-&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
-&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
-&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
-&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Certificeringen&lt;/p&gt; 
-&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
-&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
-&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72694757"/>
-    <published>2025-12-24T11:06:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72694675</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2025-12-24T11:02:17+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72694675"/>
-    <published>2025-12-24T11:02:17+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72713515</id>
     <title>Consultant Epowerhr (BCS Epowerhr)</title>
     <updated>2025-12-29T11:33:15+00:00</updated>
@@ -2561,34 +2383,34 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72808757</id>
     <title>Senior .Net Software Engineer (Kingfisher IT)</title>
-    <updated>2026-01-12T11:01:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;4 dagen thuiswerk mogelijk (als je wil)&lt;br/&gt;Een snelgroeiende en gevestigde Belgische softwareorganisatie ontwikkelt haar eigen bedrijfsapplicaties die bij klanten in diverse sectoren worden geïmplementeerd, uitgebreid en continu verbeterd. Dankzij de sterke instroom aan nieuwe projecten breidt het developmentteam verder uit. De cultuur binnen de organisatie is vlak, informeel en collegiaal, met korte lijnen en veel aandacht voor samenwerking, kennisdeling en ownership.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je schrijft robuuste code in .Net en zorgt voor continue verbetering van hun software, dit in projectwerking voor complexe omgevingen. De software wordt intern gebouwd én nauw geïntegreerd met de klantomgevingen, dus je impact reikt verder dan enkel development, je bent mee een drijvende kracht in de lange termijnrelatie met de klant.&lt;br/&gt;Je komt terecht in een moderne, technisch sterke omgeving met een developmentafdeling verdeeld over kleinere teams van 6 à 7 mensen. Binnen die teams heerst een open sfeer waarin kennisdelen en elkaar helpen vanzelfsprekend zijn.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT is een grote plus&lt;/li&gt;&lt;li&gt;Sterke werkervaring met .NET&lt;/li&gt;&lt;li&gt;Kennis van Angular of andere JavaScript frameworks is een plus&lt;/li&gt;&lt;li&gt;Je bent analytisch en oplossingsgericht ingesteld&lt;/li&gt;&lt;li&gt;Je werkt graag samen in een team maar kan ook zelfstandig verantwoordelijkheid opnemen&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Brutoloon o.b.v. jouw ervaringsniveau&lt;/li&gt;&lt;li&gt;Bedrijfswagen + tank/laadkaart&lt;/li&gt;&lt;li&gt;4 dagen per week thuiswerk en een uitstekende work/life balance&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;Voordelen PC200&lt;/li&gt;&lt;li&gt;GSM-abonnement&lt;/li&gt;&lt;li&gt;Sport-abonnement&lt;/li&gt;&lt;li&gt;Opleiding en persoonlijke ontwikkeling als kern van je groeipad&lt;/li&gt;&lt;li&gt;Een hecht team met leuke teambuildings, sportieve uitdagingen en afterworkactiviteiten&lt;/li&gt;&lt;/ul&gt;</content>
+    <updated>2026-02-04T10:03:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;4 dagen thuiswerk mogelijk (als je wil)&lt;br/&gt;Een snelgroeiende en gevestigde Belgische softwareorganisatie ontwikkelt haar eigen bedrijfsapplicaties die bij klanten in diverse sectoren worden geïmplementeerd, uitgebreid en continu verbeterd. Dankzij de sterke instroom aan nieuwe projecten breidt het developmentteam verder uit. De cultuur binnen de organisatie is vlak, informeel en collegiaal, met korte lijnen en veel aandacht voor samenwerking, kennisdeling en ownership.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je schrijft robuuste code in .Net en zorgt voor continue verbetering van hun software, dit in projectwerking voor complexe omgevingen. De software wordt intern gebouwd én nauw geïntegreerd met de klantomgevingen, dus je impact reikt verder dan enkel development, je bent mee een drijvende kracht in de lange termijnrelatie met de klant.&lt;br/&gt;Je komt terecht in een moderne, technisch sterke omgeving met een developmentafdeling verdeeld over kleinere teams van 6 à 7 mensen. Binnen die teams heerst een open sfeer waarin kennisdelen en elkaar helpen vanzelfsprekend zijn.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT is een grote plus&lt;/li&gt;&lt;li&gt;Sterke werkervaring met .NET&lt;/li&gt;&lt;li&gt;Kennis van Angular of andere JavaScript frameworks is een plus&lt;/li&gt;&lt;li&gt;Je bent analytisch en oplossingsgericht ingesteld&lt;/li&gt;&lt;li&gt;Je werkt graag samen in een team maar kan ook zelfstandig verantwoordelijkheid opnemen&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Brutoloon o.b.v. jouw ervaringsniveau&lt;/li&gt;&lt;li&gt;Bedrijfswagen   tank/laadkaart&lt;/li&gt;&lt;li&gt;4 dagen per week thuiswerk en een uitstekende work/life balance&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;Voordelen PC200&lt;/li&gt;&lt;li&gt;GSM-abonnement&lt;/li&gt;&lt;li&gt;Sport-abonnement&lt;/li&gt;&lt;li&gt;Opleiding en persoonlijke ontwikkeling als kern van je groeipad&lt;/li&gt;&lt;li&gt;Een hecht team met leuke teambuildings, sportieve uitdagingen en afterworkactiviteiten&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72808757"/>
     <published>2026-01-12T11:01:54+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72808464</id>
+    <title>.Net Software Architect (Kingfisher IT)</title>
+    <updated>2026-02-04T10:01:43+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.  Je werkt van thuis of vanuit het kantoor.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als .NET Software Architect werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een diepgaande werkervaring in .Net &lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen ( tanken) of een interessant mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72808464"/>
+    <published>2026-01-12T10:36:40+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72808582</id>
     <title>Senior Functioneel Analist (Kingfisher IT)</title>
-    <updated>2026-01-12T10:48:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze onderneming is een snelgroeiende Belgische softwareontwikkeling-expert, opgericht en geleid door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technische know-how begeleiden ze lokale ondernemingen naar het volgende niveau in hun digitalisatie. Binnen de organisatie heerst een open en collegiale cultuur waar samenwerking, kennisdeling en persoonlijke ontwikkeling centraal staan.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;In deze rol werk je aan langdurige en uitdagende softwareprojecten binnen complexe omgevingen. Je verdiept je in de processen van de klant en vertaalt hun noden naar duidelijke en haalbare oplossingen voor het ontwikkelteam. Daarbij sta je in nauw contact met zowel de business als de developers, zodat functionele vereisten helder worden uitgewerkt en correct worden geïmplementeerd. Je neemt de tijd om mee te denken over verbeteringen, begeleidt de analyse van nieuwe features en zorgt ervoor dat de oplossingen echt waarde creëren. Dankzij jouw inzicht en communicatieve aanpak maak je de brug tussen idee en realiteit, en draag je rechtstreeks bij aan de kwaliteit en efficiëntie van de eindproducten.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT, business of gelijkaardig&lt;/li&gt;&lt;li&gt;Je hebt een sterke ervaring als Functional/Business Analyst of in een gelijkaardige rol&lt;/li&gt;&lt;li&gt;Je kan vlot bruggen slaan tussen business en IT en begrijpt technische contexten.&lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief sterk en klantgericht ingesteld.&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat deze onderneming uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke groei. Je krijgt persoonlijke coaching, een op maat gemaakt carrièreplan met trainingen en de kans om jezelf voortdurend te ontwikkelen.&lt;br/&gt;Daarbovenop mag je rekenen op:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren en ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;</content>
+    <updated>2026-02-04T10:02:24+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze onderneming is een snelgroeiende Belgische softwareontwikkeling-expert, opgericht en geleid door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technische know-how begeleiden ze lokale ondernemingen naar het volgende niveau in hun digitalisatie. Binnen de organisatie heerst een open en collegiale cultuur waar samenwerking, kennisdeling en persoonlijke ontwikkeling centraal staan.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;In deze rol werk je aan langdurige en uitdagende softwareprojecten binnen complexe omgevingen. Je verdiept je in de processen van de klant en vertaalt hun noden naar duidelijke en haalbare oplossingen voor het ontwikkelteam. Daarbij sta je in nauw contact met zowel de business als de developers, zodat functionele vereisten helder worden uitgewerkt en correct worden geïmplementeerd. Je neemt de tijd om mee te denken over verbeteringen, begeleidt de analyse van nieuwe features en zorgt ervoor dat de oplossingen echt waarde creëren. Dankzij jouw inzicht en communicatieve aanpak maak je de brug tussen idee en realiteit, en draag je rechtstreeks bij aan de kwaliteit en efficiëntie van de eindproducten.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT, business of gelijkaardig&lt;/li&gt;&lt;li&gt;Je hebt een sterke ervaring als Functional/Business Analyst of in een gelijkaardige rol&lt;/li&gt;&lt;li&gt;Je kan vlot bruggen slaan tussen business en IT en begrijpt technische contexten.&lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief sterk en klantgericht ingesteld.&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat deze onderneming uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke groei. Je krijgt persoonlijke coaching, een op maat gemaakt carrièreplan met trainingen en de kans om jezelf voortdurend te ontwikkelen.&lt;br/&gt;Daarbovenop mag je rekenen op:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen   tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren en ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72808582"/>
     <published>2026-01-12T10:48:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72808463</id>
     <title>.Net Software Engineer (Kingfisher IT)</title>
-    <updated>2026-01-12T10:36:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Veel thuiswerk mogelijk (als je dit wil)&lt;br/&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.  Je werkt van thuis of vanuit het kantoor.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Als Senior .NET Developer werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke werkervaring in .Net &lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een zeer interessant mobiliteitsbudget (voor huur of hypotheek)&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    <updated>2026-02-04T10:01:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Veel thuiswerk mogelijk (als je dit wil)&lt;br/&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.  Je werkt van thuis of vanuit het kantoor.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;Als Senior .NET Developer werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke werkervaring in .Net &lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen ( tanken) of een zeer interessant mobiliteitsbudget (voor huur of hypotheek)&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72808463"/>
     <published>2026-01-12T10:36:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72808464</id>
-    <title>.Net Software Architect (Kingfisher IT)</title>
-    <updated>2026-01-12T10:36:40+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Duffel&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze gevestigde waarde met meer dan 25 jaar ervaring in softwareontwikkeling en als familiaal IT-bedrijf staan ze gekend om keer op keer kwaliteit te leveren aan een divers portfolio aan klanten, met uitdagingen groot en klein. Ze begeleiden hun klanten bij het ontwikkelen van veilige, schaalbare en performante softwareoplossingen, vaak in de cloud met Azure en in .Net.  Je werkt van thuis of vanuit het kantoor.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Als .NET Software Architect werk je in team aan uitdagende projecten waarbij jij verantwoordelijk bent voor het architecturale plaatje en het ontwerpen en ontwikkelen van back-endoplossingen. Je komt terecht in een team van ervaren professionals die elkaar ondersteunen en kennis delen. Ze hechten veel belang aan technische opvolging en kwaliteit, wat zich vertaalt in regelmatige feedback en ondersteuning.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Bachelor- of Masterdiploma in IT (of gelijkaardig)&lt;/li&gt;&lt;li&gt;Je hebt een diepgaande werkervaring in .Net &lt;/li&gt;&lt;li&gt;Je bent analytisch, communicatief en een team player&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De bedrijfscultuur is informeel en gericht op samenwerking. Er wordt geïnvesteerd in jouw persoonlijke en professionele groei (opleidingen), met aandacht voor een goede werk-privébalans. Kom je graag vaker naar kantoor? Geen probleem!&lt;/p&gt;&lt;p&gt;Natuurlijk staat daar een aantrekkelijk loonpakket tegenover inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;mooi salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen (+tanken) of een interessant mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;gsm+abo&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;flexibiliteit&lt;/li&gt;&lt;li&gt;80% thuiswerk&lt;/li&gt;&lt;li&gt;vakantiedagen&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72808464"/>
-    <published>2026-01-12T10:36:40+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72809450</id>
@@ -3146,7 +2968,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72867530</id>
     <title>.Net Software Engineer (Kingfisher IT)</title>
-    <updated>2026-01-20T10:19:15+00:00</updated>
+    <updated>2026-02-04T10:05:54+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br/&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team. Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en oplossingen ontwerpt, bouwt en optimaliseert. Je denkt mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk. Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen   tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm   abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk  3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72867530"/>
     <published>2026-01-20T10:19:15+00:00</published>
@@ -3682,7 +3504,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72932295</id>
     <title>.Net Expert (Kingfisher IT)</title>
-    <updated>2026-01-28T11:04:18+00:00</updated>
+    <updated>2026-02-04T10:07:58+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Dendermonde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je bent verantwoordelijk voor het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen en juniors te coachen.&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in .Net / C# ontwikkeling&lt;/li&gt;&lt;li&gt;Je houdt van technische uitdagingen en wil blijven bijleren en bent analytisch ingesteld&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen   tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72932295"/>
     <published>2026-01-28T11:04:18+00:00</published>
@@ -3690,7 +3512,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72932287</id>
     <title>Java/TypeScript Software Engineer (Kingfisher IT)</title>
-    <updated>2026-01-28T11:03:55+00:00</updated>
+    <updated>2026-02-04T10:07:52+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je bent verantwoordelijk voor het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen en juniors te coachen.&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in Java&lt;/li&gt;&lt;li&gt;Kennis van een JavaScript framework: Angular, React, Vue...&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen   tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72932287"/>
     <published>2026-01-28T11:03:55+00:00</published>
@@ -3698,7 +3520,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72932263</id>
     <title>Senior Java Ontwikkelaar (Kingfisher IT)</title>
-    <updated>2026-01-28T11:02:43+00:00</updated>
+    <updated>2026-02-04T10:07:47+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Start bij een snelgroeiende Belgische software ontwikkeling-expert opgericht en beheerd door IT-developers, met een sterke focus op innovatie en de groei van hun medewerkers. Vanuit hun technisch know-how begeleiden ze lokale ondernemingen naar het volgende technische niveau in hun digitalisatie.Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je zult betrokken zijn bij het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je krijgt je de kans om te werken aan uitdagende en langdurige projecten bij complexe omgevingen en dit met moderne technologieën, talen, frameworks en cloud-omgevingen. Je bent verantwoordelijk voor het volledige ontwikkelproces, van analyse tot implementatie, en krijgt de ruimte om je technische expertise verder te ontwikkelen en juniors te coachen.&lt;br/&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een bachelor- of masterdiploma in IT of gelijkwaardige ervaring&lt;/li&gt;&lt;li&gt;Je hebt een zeer sterke ervaring in Java&lt;/li&gt;&lt;li&gt;Kennis van front-end frameworks is een plus&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;li&gt;Je bent zelfstandig én teamgericht, en voelt je goed in een rol met verantwoordelijkheid&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat hen uniek maakt, is de combinatie van een innovatieve werkomgeving met een sterke focus op samenwerking en persoonlijke ontwikkeling. Ze bieden persoonlijke coaching, carrièreplannen met op maat gemaakte trainingen en leuke teambuildingactiviteiten.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutoloon, afgestemd op jouw ervaring&lt;/li&gt;&lt;li&gt;Premium bedrijfswagen   tankkaart&lt;/li&gt;&lt;li&gt;Mooie netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;Laptop, smartphone en gsm-abonnement&lt;/li&gt;&lt;li&gt;32 vakantiedagen (inclusief 12 ADV)&lt;/li&gt;&lt;li&gt;Hybride werken: tot 3 dagen per week van thuis uit&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: glijdende werkuren, ruimte voor balans&lt;/li&gt;&lt;li&gt;Een persoonlijk opleidingsbudget en coachingstraject&lt;/li&gt;&lt;li&gt;Regelmatig leuke teambuildingactiviteiten en een collegiale sfeer&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72932263"/>
     <published>2026-01-28T11:02:43+00:00</published>
@@ -4245,49 +4067,56 @@ If this job isn't quite right for you, but you are looking for a new position, p
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72974795</id>
-    <title>Full Stack .NET Developer (Randstad Digital)</title>
-    <updated>2026-02-03T10:18:20+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;.Senior Full-Stack Developer (.NET &amp; Azure)&lt;br /&gt;
+    <title>Randstad Digital - Full Stack .NET Developer (Randstad Digital)</title>
+    <updated>2026-02-04T10:18:22+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;De Opdracht Als Full-stack Developer werk je aan de uitbouw van nieuwe, schaalbare webapplicaties binnen een Azure-omgeving. Je wordt onderdeel van een professioneel productteam dat verantwoordelijk is voor de volledige levenscyclus van digitale oplossingen van innovatieve dashboards voor asset management tot het implementeren van slimme AI-toepassingen en collaboratieve platformen.&lt;p&gt;&lt;strong&gt;Methodiek en samenwerking &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
 
-&lt;b&gt;De Opdracht&lt;/b&gt;  Als Full-Stack Developer werk je aan de uitbouw van nieuwe, schaalbare webapplicaties binnen een Azure-omgeving. Je wordt onderdeel van een professioneel productteam dat verantwoordelijk is voor de volledige levenscyclus van digitale oplossingen van innovatieve dashboards voor asset management tot het implementeren van slimme AI-toepassingen en collaboratieve platformen.&lt;br /&gt;
+&lt;li&gt;Je bent een voorstander van Agile werken en hebt bij voorkeur ervaring binnen een SAFe-context. Je communiceert vlot in het Nederlands en Engels.
+&lt;/li&gt;
 
-&lt;b&gt;Jouw Profiel&lt;/b&gt; Je bent een gedreven ontwikkelaar die graag eigenaarschap neemt over complexe uitdagingen. Je beschikt over:&lt;br /&gt;
+&lt;li&gt;Gezien de focus op kennisdeling en teamdynamiek, ben je wekelijks 2 tot 3 dagen aanwezig op kantoor.
+&lt;/li&gt;
+
+&lt;li&gt;We zoeken een collega die verder kijkt dan de code; je denkt mee over de technische roadmap en de inzet van nieuwe technologieën om de business vooruit te helpen.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+
+Je bent een gedreven ontwikkelaar die graag eigenaarschap neemt over complexe uitdagingen. Je beschikt over:&lt;br /&gt;
 
 &lt;ul&gt;
 
 &lt;li&gt;
-&lt;b&gt;Ruime ervaring:&lt;/b&gt; Minimaal 6 jaar ervaring als Full-Stack Developer, met recente projectervaring in 2025-2026.&lt;br /&gt;
+Ruime ervaring: Minimaal 6 jaar ervaring als Full-stack Developer, met recente projectervaring in 2025-2026.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;b&gt;Backend Expertise:&lt;/b&gt; Diepgaande kennis van .NET (C#), ASP.NET Core en Entity Framework. Je bent vertrouwd met moderne architectuurprincipes en microservices.&lt;br /&gt;
+Backend Expertise: Diepgaande kennis van .NET (C#), ASP.NET Core en Entity Framework. Je bent vertrouwd met moderne architectuurprincipes en MicroServices.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;b&gt;Frontend Skills:&lt;/b&gt; Minimaal 8 jaar ervaring met Angular, inclusief TypeScript, RxJs en moderne styling-technieken (HTML5/SCSS).&lt;br /&gt;
+Frontend Skills: Minimaal 8 jaar ervaring met Angular, inclusief TypeScript, RxJS en moderne styling-technieken (HTML5/SCSS).&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;b&gt;Cloud &amp; Infra:&lt;/b&gt; Je bent thuis in het Azure-ecosysteem, specifiek met Azure DevOps, Azure Kubernetes Service (AKS) en containerisatie via Docker.&lt;br /&gt;
+Cloud &amp; Infra: Je bent thuis in het Azure-ecosysteem, specifiek met Azure DevOps, Azure Kubernetes Service (AKS) en containerisatie via Docker.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;b&gt;Data &amp; Security:&lt;/b&gt; Ervaring met MS SQL Server, het beveiligen van applicaties via OAuth/OpenID Connect en het ontsluiten van data via RESTful API's.&lt;br /&gt;
+Data &amp; Security: Ervaring met MS SQL Server, het beveiligen van applicaties via OAuth/OpenID Connect en het ontsluiten van data via RESTful API's.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
-&lt;/ul&gt;
-
-&lt;b&gt;Methodiek en Samenwerking&lt;/b&gt; Je bent een voorstander van Agile werken en hebt bij voorkeur ervaring binnen een SAFe-context. Je communiceert vlot in het Nederlands en Engels. Gezien de focus op kennisdeling en teamdynamiek, ben je wekelijks 2 tot 3 dagen aanwezig op kantoor. We zoeken een collega die verder kijkt dan de code; je denkt mee over de technische roadmap en de inzet van nieuwe technologieën om de business vooruit te helpen.&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72974795"/>
     <published>2026-02-03T10:18:20+00:00</published>
   </entry>
