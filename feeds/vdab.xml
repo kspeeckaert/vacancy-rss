@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-05T07:19:09.022553+00:00</updated>
+  <updated>2026-02-05T09:03:37.590849+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3111,14 +3111,6 @@
 &lt;p&gt;Verder bieden we jou een erg aantrekkelijke verloning aangevuld met een groot pakket extralegale voordelen (maaltijdcheques, hospitalisatie, GSM, flexibele uren, thuiswerk,…). Daarnaast kan je genieten van voldoende en continue opleidingsmogelijkheden om ook zelf technologisch te blijven evolueren en zijn er ook heel wat doorgroeimogelijkheden binnen het bedrijf met een sterke merknaam.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72875582"/>
     <published>2026-01-21T09:57:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72878102</id>
-    <title>Full Stack Developer (Spring Boot &amp; Angular) (Spilberg)</title>
-    <updated>2026-01-29T09:20:24+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Spilberg (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een toonaangevende organisatie in een sterk gereguleerde en operationeel kritische omgeving zoeken we een Full Stack Developer die energie haalt uit het bouwen van schaalbare applicaties met impact. Je komt terecht in een team dat werkt aan een modern IT-landschap waar veiligheid, samenwerking en innovatie centraal staan.&lt;/p&gt;Jouw rol&lt;p&gt;&lt;br&gt;Je bouwt mee aan robuuste oplossingen van backend tot frontend en denkt actief mee over technische keuzes en architectuur.&amp;nbsp;&lt;br&gt;Wat je gaat doen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontwikkelen en onderhouden van REST API's met Spring Boot&lt;/li&gt;&lt;li&gt;Bouwen van performante frontend-applicaties met Angular&lt;/li&gt;&lt;li&gt;Meedenken over schaalbaarheid, performantie en security&lt;/li&gt;&lt;li&gt;Zorgen voor een vlotte integratie tussen backend- en frontendcomponenten&lt;/li&gt;&lt;li&gt;Bijdragen aan code reviews, testing en CI/CD pipelines&lt;/li&gt;&lt;li&gt;&lt;p&gt;Actief initiatief nemen binnen het team en collega's technisch ondersteunen&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Jouw profiel&lt;ul&gt;&lt;li&gt;Minstens 5 jaar ervaring met Spring Boot en Angular&lt;/li&gt;&lt;li&gt;Sterke kennis van REST, JWT/OAuth2, JPA/Hibernate en cloudconcepten&lt;/li&gt;&lt;li&gt;Hands-on ervaring met TypeScript, RxJS en moderne Angular best practices&lt;/li&gt;&lt;li&gt;Goede kennis van SQL en relationele databases&lt;/li&gt;&lt;li&gt;Gestructureerde, zelfstandige manier van werken en een proactieve mindset&lt;/li&gt;&lt;li&gt;&lt;p&gt;Pluspunten: ervaring met Docker/Kubernetes/CI/CD en/of PowerShell&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Aanbod&lt;ul&gt;&lt;li&gt;Competitief loonpakket aangevuld met extralegale voordelen (o.a. maaltijdcheques, verzekeringen, fietsvergoeding)&lt;/li&gt;&lt;li&gt;Cafetariaplan voor extra flexibiliteit in je pakket&lt;/li&gt;&lt;li&gt;Opleidingen &amp;amp; workshops om je verder te ontwikkelen (hard &amp;amp; soft skills)&lt;/li&gt;&lt;li&gt;Sterke onboarding en een teamcultuur met aandacht voor welzijn&lt;/li&gt;&lt;li&gt;Thuiswerk en flexibele uren bespreekbaar, afhankelijk van de rol&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72878102"/>
-    <published>2026-01-21T12:30:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72884388</id>
