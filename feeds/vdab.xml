@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-05T11:02:53.061699+00:00</updated>
+  <updated>2026-02-05T13:19:06.504737+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2566,14 +2566,6 @@
     <published>2026-01-14T10:13:25+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72828545</id>
-    <title>Senior System / Cloud Engineer | 2-3d Remote  (Kwery)</title>
-    <updated>2026-01-14T13:40:50+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Beheren, monitoren en optimaliseren van on-premise en cloudinfrastructuren (WINTEL, Microsoft 365, Azure, AWS) met focus op stabiliteit, security en performance.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Oplossen van complexe incidenten en escalaties in samenwerking met tweedelijns support, inclusief begeleiding en kennisdeling.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Proactief verbeteren en future-proof maken van de IT-omgeving via optimalisaties, migraties en infrastructuurprojecten.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Minimaal 10 jaar ervaring als System Engineer met diepgaande expertise in Microsoft-omgevingen (Windows Server, Windows 11, Active Directory/Entra ID, Microsoft 365, Azure) en AWS.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sterke technische achtergrond in virtualisatie, netwerken, serverbeheer, migraties, monitoring, back-up en security.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je neemt ownership, denkt oplossingsgericht, communiceert vlot en professioneel in het Nederlands en Engels.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitief salaris tussen €4.500 en €6.200 bruto, passend bij jouw ervaring en expertise, met extra bonussen en eindejaarsvergoeding.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Flexibele mobiliteit: bedrijfswagen met laadpas of een persoonlijk mobiliteitsbudget naar keuze.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ruim pakket aan secundaire voordelen zoals maaltijdcheques, groeps- en hospitalisatieverzekering.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Moderne werkplek volledig uitgerust met laptop, smartphone en abonnement, plus de mogelijkheid tot hybride werken (tot 50% remote).&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;32 vakantiedagen en extra aandacht voor een gezonde werk-privébalans.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Inspirerende en innovatieve IT-omgeving binnen een dynamisch team dat kennisdeling en samenwerking stimuleert.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72828545"/>
-    <published>2026-01-14T13:40:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72830265</id>
     <title>Security Analytics Engineer | Davinsi Labs (Proximus Group)</title>
     <updated>2026-01-14T15:37:35+00:00</updated>
@@ -3024,14 +3016,6 @@
 &lt;p&gt;&lt;span&gt;Werk jij mee aan een veilige en drugsvrije haven? &lt;/span&gt;Dan is het belangrijk dat je een positieve veiligheidsscreening hebt of bereid bent toestemming te geven zodat wij deze voor jou kunnen aanvragen.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72870575"/>
     <published>2026-01-20T14:21:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72866888</id>
-    <title>SAP Developer (ITZU Jobs)</title>
-    <updated>2026-01-29T15:05:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITZU Jobs (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je bouwt en verbetert custom SAP-programma’s in nauwe samenwerking met de functionele SAP-analisten (MM/SD en FI/CO).&lt;/li&gt;&lt;li&gt;Je vertaalt functionele requirements naar een sterk technisch ontwerp en kwalitatieve code.&lt;/li&gt;&lt;li&gt;Je denkt actief mee over architectuur, integraties en best practices, samen met het SAP-team, andere IT-applicaties en de business.&lt;/li&gt;&lt;li&gt;Je optimaliseert bestaande toepassingen en pakt proactief verbeterpunten aan.&lt;/li&gt;&lt;li&gt;Je bewaakt de dagelijkse werking van het SAP-systeem en garandeert stabiliteit en performantie. Bij incidenten onderneem je meteen actie en ondersteun je collega’s bij analyse en oplossing.&lt;/li&gt;&lt;li&gt;Je neemt de technische lead in grote trajecten zoals de overstap naar S/4HANA, cloudmigraties, upgrades, system copies en andere technische interventies.&lt;/li&gt;&lt;li&gt;Je blijft op de hoogte van nieuwe ontwikkelingen binnen SAP en de bredere IT-wereld&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring: Minstens vijf jaar ervaring in ABAP-ontwikkeling en bij voorkeur al kennis van S/4HANA. Je bent vertrouwd met MM/SD en FI/CO. Ervaring of affiniteit met retail is mooi meegenomen.&lt;/li&gt;&lt;li&gt;Expertise: Je blinkt uit in het ontwerpen, ontwikkelen en verbeteren van SAP-oplossingen en houdt altijd de stabiliteit, kwaliteit en performantie in de gaten.&lt;/li&gt;&lt;li&gt;Talen: Je spreekt vlot Nederlands, hebt een goede mondelinge en schriftelijke kennis van het Frans en beheerst Engels op een degelijk niveau.&lt;/li&gt;&lt;li&gt;Persoonlijkheid: Analytisch, oplossingsgericht, hands-on en met een sterke can-do mentaliteit. Je neemt ownership over jouw applicaties en oplossingen.&lt;/li&gt;&lt;li&gt;Communicatie: Je werkt zelfstandig aan design en code, maar functioneert ook sterk in teamcontext en ondersteunt collega’s wanneer nodig.&lt;/li&gt;&lt;li&gt;Cultuur: Je hebt een drive om continu bij te leren en kiest bewust voor een voltijdse rol waarin je bijdraagt aan de groei van onze klant.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een competitief salaris met een uitgebreid pakket extralegale voordelen, waaronder maaltijdcheques, ecocheques, personeelskortingen en mogelijkheden tot thuiswerk.&lt;/li&gt;&lt;li&gt;Bedrijfswagen&lt;/li&gt;&lt;li&gt;Flexibele werk- en vakantieregeling.&lt;/li&gt;&lt;li&gt;Een uitdagende werkomgeving binnen een financieel gezonde en groeiende organisatie.&lt;/li&gt;&lt;li&gt;Een no-nonsense cultuur waarin persoonlijke groei en teamwork centraal staan.&lt;/li&gt;&lt;li&gt;Toegang tot een uitgebreid pakket opleidingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72866888"/>
-    <published>2026-01-20T09:25:52+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72870860</id>
@@ -4402,5 +4386,100 @@ Data &amp; Security: Ervaring met MS SQL Server, het beveiligen van applicaties 
 &lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72984169"/>
     <published>2026-02-04T09:08:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72994997</id>
+    <title>Projectleider telecom (XTRA Interim Antwerpen)</title>
+    <updated>2026-02-05T12:48:35+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: XTRA Interim Antwerpen (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Projectleider Telecom – Breng België in de hoogste versnelling
+&lt;p&gt;&lt;strong&gt;Ben jij klaar om het netwerk van de toekomst uit te rollen?&lt;/strong&gt;&lt;p&gt;
+Dit bedrijf is een van de pioniers in glasvezeltechnologie en telecominfrastructuur. Voor één van de grootste telecomprojecten in België zoeken we een ervaren &lt;strong&gt;projectleider telecom&lt;/strong&gt; met visie, daadkracht en organisatietalent. Iemand die werven van A tot Z in goede banen leidt, zonder het menselijke aspect uit het oog te verliezen.&lt;/p&gt;&lt;strong&gt;Hoe pak je dit precies aan?&lt;/strong&gt;
+&lt;p&gt;Jij leidt jouw projecten alsof het je eigen zaak is. Kort samengevat:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+ &lt;p&gt;Je bent verantwoordelijk voor de &lt;strong&gt;volledige uitvoering&lt;/strong&gt; van telecomprojecten: van studie en ontwerp tot oplevering.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je stuurt een team van &lt;strong&gt;werfleiders en onderaannemers&lt;/strong&gt; aan, en bent regelmatig op het terrein aanwezig.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je bent het centrale aanspreekpunt voor &lt;strong&gt;klanten, opdrachtgevers en stakeholders&lt;/strong&gt;.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je bewaakt &lt;strong&gt;budgetten, KPI’s en deadlines&lt;/strong&gt;, en vertaalt die op een duidelijke manier naar je team.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je staat in voor de &lt;strong&gt;administratieve en financiële opvolging&lt;/strong&gt; en rapporteert aan de Business Unit Manager Telecom.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je denkt proactief mee in oplossingen én bewaakt de balans tussen kwaliteit, veiligheid en klantgerichtheid.&lt;/p&gt;
+ 
+&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Welke troeven neem je mee?&lt;/strong&gt;
+&lt;ul&gt;
+ &lt;li&gt;
+ &lt;p&gt;Je hebt een &lt;strong&gt;bachelor of master&lt;/strong&gt; in een technische richting (industrieel ingenieur, elektrotechniek, ICT…) of gelijkwaardige ervaring in de telecomsector.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je hebt voeling met &lt;strong&gt;telecom of ICT&lt;/strong&gt; en een passie voor infrastructuur.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je bent communicatief sterk en weet teams op een positieve manier te sturen.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je werkt hands-on, denkt oplossingsgericht en behoudt het overzicht.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je bent tweetalig (NL/FR) of durft je in beide talen vlot uit te drukken.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je bent een leider, maar ook een coach – iemand die anderen motiveert en laat groeien.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je houdt van duidelijke afspraken, slimme processen én duurzame keuzes.&lt;/p&gt;
+ 
+ &lt;/li&gt;&lt;li&gt;
+ &lt;p&gt;Je beschikt over een &lt;strong&gt;rijbewijs B&lt;/strong&gt;.&lt;/p&gt;
+ 
+&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat willen zij je graag bieden in ruil voor je inzet en expertise?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Een sterk loonpakket aangevuld met:&lt;/strong&gt;
+
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;ecocheques&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;eindejaarspremie&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;groepsverzekering&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;hospitalisatieverzekering&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;koopkrachtpremie&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;bedrijfswagen&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;laadkaart&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;12 ADV-dagen&lt;/strong&gt;
+ &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Laptop &amp; gsm&lt;/strong&gt;
+ &lt;/li&gt;&lt;/ul&gt;
+ 
+ &lt;strong&gt;Doorgroeien en bijleren&lt;/strong&gt;
+ &lt;strong&gt;Een vergoeding voor wachtdiensten om flexibiliteit te belonen&lt;/strong&gt;
+ Toegang tot het &lt;strong&gt;opleidingscentrum&lt;/strong&gt;, met tal van technische en leiderschapsopleidingen.
+ &lt;strong&gt;Impactvolle projecten&lt;/strong&gt;
+ Je werkt aan échte infrastructuur met toekomstwaarde — geen fulltime bureaujob, maar een zichtbare impact in je regio.
+ &lt;strong&gt;Toffe collega’s &amp; cultuur&lt;/strong&gt;
+ Een &lt;strong&gt;platte structuur&lt;/strong&gt;, korte lijnen, en collega’s die elkaar écht helpen. Mét zomerevents, familiedagen en nieuwjaarsdrink.
+
+Is deze vacature helemaal je ding? Of misschien leun je toch dichter aan bij andere aspecten van engineering? Ook in andere aspecten van deze wereld bieden ze jobmogelijkheden aan.&lt;p&gt;
+Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
+&lt;ul&gt;
+ &lt;li&gt;thomas.djoos@xtra.works
+ &lt;/li&gt;&lt;li&gt;03.361.09.61
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;VG 2038/U – W.DISP 938 VG 2089/U – W.DISP 1067 VG 2214/U – W.DISP 1322&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72994997"/>
+    <published>2026-02-05T11:40:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72995674</id>
+    <title>SAP Developer (ITZU Jobs)</title>
+    <updated>2026-02-05T12:05:01+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITZU Jobs (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je bouwt en verbetert custom SAP-programma’s in nauwe samenwerking met de functionele SAP-analisten (MM/SD en FI/CO).&lt;/li&gt;&lt;li&gt;Je vertaalt functionele requirements naar een sterk technisch ontwerp en kwalitatieve code.&lt;/li&gt;&lt;li&gt;Je denkt actief mee over architectuur, integraties en best practices, samen met het SAP-team, andere IT-applicaties en de business.&lt;/li&gt;&lt;li&gt;Je optimaliseert bestaande toepassingen en pakt proactief verbeterpunten aan.&lt;/li&gt;&lt;li&gt;Je bewaakt de dagelijkse werking van het SAP-systeem en garandeert stabiliteit en performantie. Bij incidenten onderneem je meteen actie en ondersteun je collega’s bij analyse en oplossing.&lt;/li&gt;&lt;li&gt;Je neemt de technische lead in grote trajecten zoals de overstap naar S/4HANA, cloudmigraties, upgrades, system copies en andere technische interventies.&lt;/li&gt;&lt;li&gt;Je blijft op de hoogte van nieuwe ontwikkelingen binnen SAP en de bredere IT-wereld&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring: Minstens vijf jaar ervaring in ABAP-ontwikkeling en bij voorkeur al kennis van S/4HANA. Je bent vertrouwd met MM/SD en FI/CO. Ervaring of affiniteit met retail is mooi meegenomen.&lt;/li&gt;&lt;li&gt;Expertise: Je blinkt uit in het ontwerpen, ontwikkelen en verbeteren van SAP-oplossingen en houdt altijd de stabiliteit, kwaliteit en performantie in de gaten.&lt;/li&gt;&lt;li&gt;Talen: Je spreekt vlot Nederlands, hebt een goede mondelinge en schriftelijke kennis van het Frans en beheerst Engels op een degelijk niveau.&lt;/li&gt;&lt;li&gt;Persoonlijkheid: Analytisch, oplossingsgericht, hands-on en met een sterke can-do mentaliteit. Je neemt ownership over jouw applicaties en oplossingen.&lt;/li&gt;&lt;li&gt;Communicatie: Je werkt zelfstandig aan design en code, maar functioneert ook sterk in teamcontext en ondersteunt collega’s wanneer nodig.&lt;/li&gt;&lt;li&gt;Cultuur: Je hebt een drive om continu bij te leren en kiest bewust voor een voltijdse rol waarin je bijdraagt aan de groei van onze klant.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een competitief salaris met een uitgebreid pakket extralegale voordelen, waaronder maaltijdcheques, ecocheques, personeelskortingen en mogelijkheden tot thuiswerk.&lt;/li&gt;&lt;li&gt;Bedrijfswagen&lt;/li&gt;&lt;li&gt;Flexibele werk- en vakantieregeling.&lt;/li&gt;&lt;li&gt;Een uitdagende werkomgeving binnen een financieel gezonde en groeiende organisatie.&lt;/li&gt;&lt;li&gt;Een no-nonsense cultuur waarin persoonlijke groei en teamwork centraal staan.&lt;/li&gt;&lt;li&gt;Toegang tot een uitgebreid pakket opleidingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72995674"/>
+    <published>2026-02-05T12:04:52+00:00</published>
   </entry>
 </feed>
