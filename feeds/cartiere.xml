@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-06T10:44:14.012152+00:00</updated>
+  <updated>2026-02-06T13:00:26.734938+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1373,6 +1373,142 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <category term="BI/Data Architect"/>
     <category term="Data Engineering"/>
     <published>2025-09-29T14:23:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/</id>
+    <title>Medior/Senior Data Visualisatie Consultant</title>
+    <updated>2025-09-24T14:23:44+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Bosstraat 69, 3560, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-05-22 09:34:20+00:00, last change 2025-09-24 14:23:44+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-05-22 09:34:20+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit data-, BI- en AI-projecthuis werkt op een toolagnostische manier. Ze volgen nauwlettend de marktontwikkelingen en integreren de meest gebruikte technologieën. Dit biedt jou als data visualisatie consultant de vrijheid om verschillende technologieën te leren en toe te passen. Het zacht en menselijk bedrijf investeert volop in haar medewerkers door middel van opleidingen, trainingen en coaching. Carrièreplannen worden samen met jou opgesteld en er heerst een teamgerichte sfeer. Dit mensgerichte bedrijf biedt geen ruimte voor competitie en luistert echt naar jou. Voor iemand die zich wil ontwikkelen, liggen hier alle kansen. Het team is zeer communicatief en heeft een sterke focus op business.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in de Data Visualisatie Unit, waar de nadruk ligt op rapportage en dashboarding onder de slogan "More than visualisations." De focus verschuift steeds meer naar storytelling door visuele verhalen te integreren in websites via Power BI. Het team bestaat uit ongeveer 15 medewerkers en zoekt experts die op de hoogte zijn van de nieuwste trends en ontwikkelingen in het vakgebied. De belangrijkste tools die ze gebruiken zijn Power BI en Tableau, terwijl Qlik en Spotfire minder vaak worden ingezet.&lt;br&gt;
+&lt;br&gt;
+Je helpt graag klanten om inzicht te krijgen in hun structuren en zorgt voor verdere optimalisaties en automatiseringen. Als data visualisatie consultant heb je dagelijks contact met zowel zakelijke als technische stakeholders, waarbij je jouw analytisch denkvermogen gebruikt om de juiste datamodellen op te zetten. Je geniet ervan om een expertrol op je te nemen en klanten te adviseren.&lt;br&gt;
+Daarnaast geef je trainingen in Power BI, ondersteun je klanten bij het opzetten van een BI-omgeving, werk je mee aan blueprints en zorg je ervoor dat best practices worden toegepast, zoals het opzetten van workspaces en apps, het waarborgen van security, het hanteren van naming conventions en het implementeren van deployment-strategieën.&lt;br&gt;
+&lt;br&gt;
+Als Senior Consultant ga je gaan nadenken op een hoger niveau en juniors begeleiden op projecten. Je bent ook het aanspreekpunt van de klant en neemt een deeltje project management op jou. Kortom, jij behoudt het helicopter zicht over de projecten. Je zal zelf ook nog rapporten maken, maar zal instaan voor de complexere zaken bij de projecten. Je hebt ook de mogelijkheid om Competence Center Lead te worden.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je bent in het bezig van een bachelor of een master diploma. 
+	&lt;li&gt;Je hebt minimaal 3 jaar relevante ervaring in datavisualisatie. Bij voorkeur binnen consultancy.
+	&lt;li&gt;Je hebt uitstekende kennis van Power BI en DAX.
+	&lt;li&gt;Je hebt ervaring met SQL en data¬modellering (zoals sterschema’s).
+	&lt;li&gt;Je bent vertrouwd met best practices en platform governance.
+	&lt;li&gt;Je hebt inzicht in moderne concepten zoals Microsoft Fabric en data warehousing.
+	&lt;li&gt;Je bent op de hoogte van de nieuwste trends en evoluties in het vakgebied.
+	&lt;li&gt;Je bent communicatief, gedreven, vriendelijk, kritisch en een teamplayer. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Als Data Visualisatie Consultant maak je deel uit van een hechte gemeenschap van deskundige experts en betrokken collega’s. Een gezonde werk-privébalans en een plezierige werksfeer zorgen voor een aangename omgeving. Daarnaast is er een flexibele thuiswerkregeling. Je ontvangt een aantrekkelijk salarispakket met extra legale voordelen en incentives, en krijgt dagelijks de kans om jezelf verder te ontwikkelen. Wie ondernemend is, zal zich hier helemaal op zijn plek voelen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Klaar om jouw carrière een boost te geven? &lt;br&gt;
+Stuur dan nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2024-05-22T09:34:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/functioneel-data-analist/</id>
+    <title>Functioneel Data Analist</title>
+    <updated>2025-08-29T12:50:12+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sneeuwbeslaan 14, 2610, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-29 13:50:12+00:00, last change 2025-08-29 12:50:12+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-29 13:50:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Voor een toonaangevend bedrijf in de logistieke sector, dat een breed scala aan transport- en vervoersdiensten aanbiedt, zoeken we een functioneel data analist. Dit bedrijf biedt geïntegreerde logistieke oplossingen waarbij zee-, weg- en spoorvervoer worden gecombineerd, waardoor klanten profiteren van flexibele en betrouwbare transportoplossingen. Hun diensten zijn ontworpen om zowel internationale handel te vergemakkelijken als complexe supply chains te ondersteunen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Functioneel Data Analist vorm je de brug tussen business en IT en vertaal je operationele en strategische behoeften naar concrete BI-oplossingen. Je werkt nauw samen met collega’s uit operations, finance en sales, organiseert workshops om requirements op te halen en vertaalt deze naar duidelijke user stories en features voor het data team. Daarbij volg je de volledige flow van analyse tot implementatie op, bewaak je prioriteiten en maak je impactanalyses bij veranderingen. &lt;br&gt;
+Je spreekt zowel de taal van de business als die van de data engineers en analisten te spreken. Zo zorg je ervoor dat data effectief bijdraagt aan betere inzichten en besluitvorming in een dynamische, internationale omgeving.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br&gt;
+•    Kennis van SQL, datamodellering (ster- en dimensioneel model).&lt;br&gt;
+•    Je bent bekend met datavisualisatietools en kennis van de best practices. &lt;br&gt;
+•    Proceskennis: je begrijpt hoe DevOps en refinement werken en kan hierin meedraaien.&lt;br&gt;
+•    Je bent communicatief sterk en analytisch ingesteld. &lt;br&gt;
+•    Je bent intrinsiek gedreven om inzichten te creëren en waarde toe te voegen.&lt;br&gt;
+•    Je spreekt vloeiend Nederlands en Engels. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een zeer boeiende sector. De projecten waar je aan meewerkt hebben een onmiddellijke impact op de bedrijfsvoering van deze internationale speler. Daarbovenop werk je met de nieuwste technologie in een bedrijf dat ondernemend is. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/strong&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/functioneel-data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-08-29T13:50:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/python-developer/</id>
+    <title>Python Developer</title>
+    <updated>2025-08-05T07:32:11+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-05 08:32:11+00:00, last change 2025-08-05 07:32:11+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-05 08:32:11+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Dit bedrijf ontwikkelt een integratieplatform dat het mogelijk maakt om op een veilige en flexibele manier gegevens uit te wisselen tussen verschillende IT-systemen. De oplossing helpt organisaties efficiënter samenwerken, zelfs wanneer ze met verschillende technologieën of teams werken. Momenteel zijn we voor hen op zoek naar een Python Developer. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Je werkt aan de frontlinie van een ambitieus AI-initiatief. Samen met een team van interne developers en een externe AI-consultancy bouw je aan concrete toepassingen van gen AI binnen het integratieplatform van dit bedrijf. &lt;br&gt;
+Dit is geen klassieke uitvoerende job - je krijgt veel ownership over jouw projecten. Je werkt op basis van duidelijke werkpakketten waarin jij samen met het team doelstellingen vertaalt naar werkende software. Dat betekent: specificaties analyseren, technische keuzes maken, actief communiceren over voortgang en flexibel inspelen op nieuwe inzichten.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over minimum drie jaar ervaring met Pyton (inclusief Pandas, NumPy of vergelijkbare libraries). 
+	&lt;li&gt;Je beschikt over een goeie basis in open source ecosystemen (ervaring met eigen side-projects = grote plus). 
+	&lt;li&gt;Ervaring met een cloudomgeving (AWS, GCP of Azure). 
+	&lt;li&gt;Kennis van containertechnologie (Docker), CI/CD, scripting (bash).
+	&lt;li&gt;Vertrouwd met API’s, microservices en SQL/PostgreSQL.
+	&lt;li&gt;Ervaring met of grote interesse in generatieve AI-tools (OpenAI, Anthropic, HuggingFace, etc.).
+	&lt;li&gt;Security-minded (o.a. netwerkbeveiliging, SQL injection, authenticatieconcepten).
+	&lt;li&gt;Begrip van NLP, ML-concepten, RAG of semantisch zoeken is een troef.
+	&lt;li&gt;Je spreekt vloeiend Engels. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je krijgt de kans om te werken in een heel innovatieve omgeving met enorm veel vrijheid. Je bouwt mee aan technologieën die door honderden klanten gebruikt worden en krijgt ownership over jouw werk. Daarnaast krijg je de kans om aan een super interessant AI project te werken die de organisatie tot een hoger niveau kan brengen. &lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/python-developer/"/>
+    <category term="AI &amp; ML Engineer"/>
+    <published>2025-08-05T08:32:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-governance-lead/</id>
+    <title>Data Governance Lead</title>
+    <updated>2025-07-24T16:15:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oude Brusselsestraat 14, 2800, Antwerpen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2019-08-21 12:34:02+00:00, last change 2025-07-24 16:15:04+00:00&lt;/li&gt;&lt;li&gt;Valid until 2020-08-21 12:34:02+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;DATA GOVERNANCE LEAD - Antwerpen&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Bedrijf:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Dit bedrijf heeft een zeer sterke ondernemerscultuur. Met een no-nonsense aanpak helpen ze klanten om hun data in kaart te brengen en deze data te gebruiken als sturend element in het nemen van beslissingen. Met meer dan 120 medewerkers gedreven in het data gebeuren kom je terecht in een dynamisch team dat samen één blok vormt. Verantwoordelijkheid nemen en meedenken met het bedrijf is een must!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Jobomschrijving: &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;Als Data Governance lead begrijp je perfect de klant zijn uitdagingen en ben je in staat deze te vertalen naar duidelijke data policies. Je ontwerpt een data governance oplossing en adviseert klanten in het opzetten van data omgevingen en teams. Daarnaast realiseer je use cases zoals data repository, rapportering structuren of data lineage. Je leidt de data governance oplossing (inclusief de markt analyse, het opvolgen van partnerships, het opbouwen van kennis, etc).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Profiel:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;- Je hebt een Master in economie, burgerlijk ingenieur of information management&lt;br /&gt;
+- Je bent reeds 5 jaar aan de slag als consultant of service gedreven omgevingen&lt;br /&gt;
+- Jouw ervaring in Collibra wordt als pluspunt aanzien&lt;br /&gt;
+- Als teamspeler denk je mee in een snelle omgeving&lt;br /&gt;
+- Je bezit leiderschap vaardigheden&lt;br /&gt;
+- Je bent communicatief vaardig en klantgericht.&lt;br /&gt;
+- Je spreekt vloeiend Nederlands en/of Frans met een goede kennis van het Engels.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;Aanbod:&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;In deze no-nonsense werkomgeving kom je terecht in een team van gedreven ondernemers met een duidelijke focus op kwaliteit. Naast een mooi salarispakket krijg je de mogelijkheid om je verder te ontwikkelen op technisch, management en professioneel niveau.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size:10.0pt"&gt;&lt;span style="font-family:&amp;quot;Arial&amp;quot;,sans-serif"&gt;&lt;span style="color:black"&gt;Denk jij dat deze uitdaging iets voor jou is?&lt;br /&gt;
+Stuur nu jouw CV naar natacha@cartiere.be en bel 02/669.14.19 voor meer informatie.&lt;/span&gt;&lt;br /&gt;
+&lt;span style="color:black"&gt;Bekijk onze website www.cartiere.be voor meer BI, data, AI en ML-vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-governance-lead/"/>
+    <category term="Data Governance"/>
+    <category term="Technical Lead"/>
+    <category term="Management"/>
+    <published>2019-08-21T12:34:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/senior-bi-consultant/</id>
