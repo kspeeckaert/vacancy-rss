@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-09T14:56:32.146126+00:00</updated>
+  <updated>2026-02-09T20:43:44.329127+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-ai-engineer-fl/</id>
+    <title>Data &amp; AI Engineer FL</title>
+    <updated>2026-02-06T13:41:54+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-02-06 14:41:54+00:00, last change 2026-02-06 13:41:54+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-02-06 14:41:54+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color:#252827; font-family:Arial,Helvetica,sans-serif"&gt;&lt;span style="font-size:11.0px"&gt;BEDRIJF:&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Dit bedrijf in de financiële sector is een stabiele en ambitieuze organisatie die familiale waarden combineert met high-end technologie en een sterke focus op innovatie. Ondanks de indrukwekkende schaal voelt het nog steeds als een warm familiebedrijf met een vlakke structuur, waar je makkelijk in contact komt met collega’s én het management. Er is een duidelijke langetermijnvisie met ruimte voor groei, ondersteund door continuïteit en consistente strategische keuzes.&lt;br /&gt;
+&lt;br /&gt;
+De organisatie investeert fors in digitale technologie, AI en automatisering om medewerkers en klanten een naadloze, gebruiksvriendelijke en toekomstgerichte ervaring te bieden. Binnen het data team is er gewerkt aan een stevige data-roadmap, met focus op Databricks, stermodellering en self-service BI. Het team levert impactvolle oplossingen die niet alleen de interne besluitvorming versterken, maar ook de basis leggen voor duurzame groei en verdere AI-integratie. Ter versterking kijken ze uit naar een Databricks Data Engineer.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;&lt;span style="color:#252827"&gt;JOBOMSCHRIJVING:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;De focus van deze functie ligt voornamelijk op ontwikkelen binnen Databricks en het toepassen van stermodellering/Kimball in het kader van grotere projecten binnen de bank. Je vertaalt de requirements van de business analisten naar een concreet datamodel, waarbij je informatie in facts en dimensies giet. Daarnaast test je de data grondig en zorg je voor een vlotte deployment naar productie.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je ontwikkelt en onderhoudt datamodellen die gebruikers in staat stellen om zelfstandig waardevolle inzichten uit data te halen (self-service BI). &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je beheert data workflows en zorgt voor monitoring en foutafhandeling, zodat de stabiliteit en betrouwbaarheid van onze data-omgeving gewaarborgd blijft. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je waakt over datakwaliteit en naleving van data governance, documenteert je werk en signaleert kansen om processen, tools en modellen te verbeteren. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Tot slot blijf je nieuwe technologieën verkennen om het dataplatform continu te versterken. Je denkt actief mee over verbeteringen en nieuwe mogelijkheden.&amp;nbsp; Vb: waar kan AI een meerwaarde betekenen in de automatisatie van jouw werk? &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een masterdiploma.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt minstens drie jaar ervaring als Data Engineer.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een sterke kennis van SQL, stermodelering/Kimball en Databricks. Je hebt minstens een basiskennis van Python. Kennis van Azure Data Factory is een plus. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een grote interesse in data en de financiële sector.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent een teamspeler met uitstekende communicatieve vaardigheden.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent gedreven, betrokken, proactief en pragmatisch.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hecht belang aan bijscholing en levenslang leren. &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style="margin: 0.0cm 0.0cm 4.0pt;"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een goede kennis van het Nederlands en Engels.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="margin-bottom:10.0pt; margin-left:0.0cm; margin-right:0.0cm; margin-top:24.0pt"&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;&lt;span style="color:#252827"&gt;AANBOD:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je krijgt de kans om mee te bouwen aan de dataroadmap in een organisatie waar data écht centraal staat en de ambitie groot is, zeker op het vlak van AI. Je werkt in een dynamisch en collegiaal team met een open en familiale bedrijfscultuur, waar samenwerking, humor en eigen initiatief alle ruimte krijgen en beslissingen snel genomen worden. Er is veel aandacht voor jouw groei: via opleidingen en conferenties, en met doorgroeimogelijkheden richting o.a. architect, teamlead of scrum master. Naast uitdagende projecten is er ook ruimte voor ontspanning, met sportclubs, een gezellige ontspanningsruimte en een drankje op vrijdag. Daarbovenop geniet je van een aantrekkelijk salarispakket met extralegale voordelen, een bedrijfsrestaurant, keuze tussen bedrijfswagen of mobiliteitsbudget en een gezonde work-life balance.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong style="font-weight:bold"&gt;Kan dit jouw volgende stap zijn?&lt;br /&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie.&lt;/strong&gt;&lt;br /&gt;
+&lt;strong style="font-weight:bold"&gt;Bekijk onze website www.cartiere.be voor meer data &amp;amp; AI vacatures.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-ai-engineer-fl/"/>
+    <category term="Data Engineering"/>
+    <published>2026-02-06T14:41:54+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/master-data-specialist-2/</id>
     <title>Master Data Specialist</title>
