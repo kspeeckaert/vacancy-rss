@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-12T11:05:49.638884+00:00</updated>
+  <updated>2026-02-12T13:24:28.638985+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -560,28 +560,28 @@
     <updated>2025-12-19T14:56:13+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: OMETA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Als Software Quality Assurance Tester ben je de drijvende kracht achter de kwaliteit van onze softwareproducten. Je speelt een sleutelrol in het gehele ontwikkelproces en werkt nauw samen met verschillende teams om te zorgen voor vlekkeloze releases van onze applicaties. Je expertise in zowel front-end als back-end testing, gecombineerd met een scherp oog voor detail, draagt bij aan het behalen van de hoogste kwaliteitsnormen.&lt;/span&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Je verantwoordelijkheden zijn o.a.:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Teststrategie Ontwikkeling &amp;amp; Implementatie&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Ontwerp, implementeer en voer uitgebreide teststrategieën uit voor zowel front-end als back-end applicaties, waarbij je zorgt voor een grondige dekking van alle functionaliteiten.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Release Management&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Beheer en coördineer software-releases, waarbij je zorgt voor een vlekkeloze en tijdige oplevering van nieuwe versies, zonder afbreuk te doen aan de kwaliteit.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Automatisering &amp;amp; CI/CD&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Automatiseren van testprocessen en het opzetten van continue integratie en delivery pipelines om de efficiëntie van het ontwikkelproces te maximaliseren.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Analyse van Productie Loginformatie&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Analyseer loginformatie van productieomgevingen bij klanten om waardevolle inzichten te verkrijgen. Trek hieruit lessons learned, bespreek deze met het team en implementeer verbeteracties om continu te verbeteren.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Samenwerking &amp;amp; Probleemoplossing&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Werk nauw samen met het development team om kwaliteitsissues vroegtijdig te signaleren en snel op te lossen, en neem actief deel aan de ontwikkeling van nieuwe features.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Performance Monitoring &amp;amp; Root Cause Analysis&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Monitor de prestaties van onze applicaties, voer root cause analyses uit bij problemen, en draag oplossingen aan om toekomstige issues te voorkomen.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Procesverbetering &amp;amp; Best Practices&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Bijdragen aan het optimaliseren van ontwikkelingsprocessen en het bevorderen van best practices op het gebied van softwarekwaliteit binnen het team.&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Documentatie &amp;amp; Rapportage&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;span&gt;Zorg voor heldere documentatie van testresultaten, release notes en technische rapporten, zodat alle belanghebbenden goed geïnformeerd zijn.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul type="disc"&gt; 
 &lt;li&gt;&lt;span&gt;Een Bachelor in Informatica of een gerelateerd vakgebied.&lt;/span&gt;&lt;/li&gt; 
@@ -593,9 +593,9 @@
 &lt;li&gt;&lt;span&gt;Ervaring met Agile/Scrum methodologieën en het werken in een teamomgeving.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Uitstekende analytische vaardigheden en probleemoplossend vermogen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Goede communicatievaardigheden, zowel in het Nederlands als in het Engels.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een proactieve houding en een oog voor detail.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Een proactieve houding en een oog voor detail.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
 &lt;li&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Een competitief salaris.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Een uitgebreid voordelenpakket, inclusief een groene bedrijfswagen, laadpas, lunch- en ecocheques, ziektekostenverzekering en pensioenplannen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Mogelijkheden voor professionele groei en carrièreontwikkeling.&lt;/span&gt;&lt;/li&gt; 
@@ -3127,14 +3127,14 @@
 &lt;strong&gt;.&lt;/strong&gt;NET Architect die niet alleen technisch sterk is, maar ook richting geeft. Iemand die overzicht bewaart, vooruitdenkt en samen met het team bouwt aan een toekomstbestendig platform. In deze rol krijg je de ruimte om impact te maken op strategisch niveau en een sleutelrol te spelen in de verdere evolutie van ons Ometa Framework.&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Het Ometa Framework is geen standaard applicatie; het is een high-speed integratie-engine. &lt;/span&gt;Wij koppelen complexe ERP-systemen, portals en externe API’s via een volledig Event-Driven design. Jouw missie? Het Framework herbouwen tot een systeem dat moeiteloos miljoenen requests verwerkt met minimale latency. Of het nu gaat om het real-time pushen van data naar een portaal of het triggeren van kritieke service-orders in een ERP: jij zorgt dat de architectuur onverwoestbaar, veilig en extreem schaalbaar is.&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Architectural Vision: Ontwerpen en bewaken van de blauwdruk voor een multi-tenant systeem dat miljoenen events per seconde kan verwerken.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Event-Driven Mastery: Optimaliseren van onze Kafka-implementatie voor maximale throughput, betrouwbaarheid en guaranteed delivery.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Performance Engineering: Analyseren van performance traces tot op detailniveau en structureel elimineren van bottlenecks in de pipeline.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Security by Design: Verankeren van secure coding-principes in de kern van het framework om data-integriteit en vertrouwelijkheid te waarborgen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Cloud-Native Orchestration: Inrichten en optimaliseren van Docker- en Kubernetes-omgevingen die elastisch meeschalen met pieken in dataverkeer.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;Jouw technisch profiel:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
+&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Deep .NET Knowledge: Expert in .NET (Core), met diepgaande kennis van asynchrone patronen, threading en memory management.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Message Broker Expert: Kafka kent voor jou geen geheimen: topics, partitions, consumer groups, idempotency en delivery semantics zijn dagelijkse kost.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Kubernetes Architect: Ruime ervaring met auto-scaling, service meshes en container security binnen Kubernetes-landschappen.&lt;/span&gt;&lt;/li&gt; 
@@ -3146,7 +3146,7 @@
 &lt;li&gt;&lt;span&gt;Je communiceert helder en overtuigend in zowel Nederlands als Engels, met technische én niet-technische stakeholders.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Je hebt een proactieve, analytische en resultaatgerichte mindset en durft architecturale keuzes te maken en uit te dragen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Je kunt zelfstandig werken, maar voelt je net zo verantwoordelijk binnen een multidisciplinair team en blijft scherp onder druk van deadlines.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je bent bereid om op locatie te werken en beschikt over een geldig rijbewijs.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span&gt;Je bent bereid om op locatie te werken en beschikt over een geldig rijbewijs.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
 &lt;li&gt;&lt;span&gt;Een competitief salaris.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Een uitgebreid voordelenpakket, inclusief een groene bedrijfswagen, laadpas, lunch- en ecocheques, ziektekostenverzekering en pensioenplannen.&lt;/span&gt;&lt;/li&gt; 
 &lt;li&gt;&lt;span&gt;Een netto-onkostenvergoeding.&lt;/span&gt;&lt;/li&gt; 
@@ -4659,5 +4659,50 @@ Solliciteer dan zo snel mogelijk!&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73038538"/>
     <published>2026-02-11T10:54:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73050872</id>
+    <title>Directeur Technologie (BRANDWEER ZONE ANTWERPEN)</title>
+    <updated>2026-02-12T13:02:01+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: BRANDWEER ZONE ANTWERPEN (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Als directeur Technologie neem je de strategische leiding over het technologie-landschap binnen BZA:&lt;/span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je staat in voor het opstellen en realiseren van de &lt;/span&gt;&lt;span&gt;strategische doelstellingen&lt;/span&gt;&lt;span&gt; op technologisch vlak, gebaseerd op het meerjarenbeleidsplan van BZA.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je geeft &lt;/span&gt;&lt;span&gt;strategisch en beleidsmatig advies &lt;/span&gt;&lt;span&gt;op vlak van technologie. Dit doe je rechtstreeks aan de zonecommandant, in het directieteam en andere interne en externe overlegorganen.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je staat in voor de &lt;/span&gt;&lt;span&gt;dagelijkse aansturing en het coachen van de afdelingshoofden en vakofficieren binnen je directie&lt;/span&gt;&lt;span&gt;. Je bevordert de samenwerking tussen de teams, ondersteunt hen bij het nemen van beslissingen en versterkt hun autonomie.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je stuurt de ICT-afdeling aan en bent verantwoordelijk voor een toekomstbestendige visie. Je &lt;/span&gt;&lt;span&gt;optimaliseert de bestaande ICT-structuur &lt;/span&gt;&lt;span&gt;om te zorgen voor een stabiele operationele continuïteit en een kwalitatieve dienstverlening, rekening houdend met opgelegde regelgeving (o.a. NIS2, AI Act,...) en uitdagingen op korte en lange termijn (o.a. cyber security, applicatiebeheer, datamanagement,...).&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je stuurt de datacel aan en je ondersteunt de ontwikkeling, implementatie en handhaving van de &lt;/span&gt;&lt;span&gt;datastrategie&lt;/span&gt;&lt;span&gt; van BZA. Je houdt hier rekening met datakwaliteit, privacy (AVG/GDPR) en een correct databeleid.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je &lt;/span&gt;&lt;span&gt;stuurt de operationele technologie aan&lt;/span&gt;&lt;span&gt;. Je werkt hierbij aan een toekomstgerichte visie op connectiviteit, waarbij de integratie van het ASTRID-netwerk met innovatieve oplossingen, zoals 5G-mesh netwerken, centraal staat.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je bent de drijvende kracht achter technologische innovatie op het terrein door de &lt;/span&gt;&lt;span&gt;aansturing van het BIRD-team&lt;/span&gt;&lt;span&gt;. De verdere integratie van geavanceerde toepassingen zoals onder andere robotica en drone-technologie in de operationele werking van de zone zie je als een uitdaging.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je bent verantwoordelijk voor de technologie &lt;/span&gt;&lt;span&gt;begroting&lt;/span&gt;&lt;span&gt; en waakt over de inzet van mensen en middelen.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li aria-level="1"&gt; 
+&lt;p&gt;&lt;span&gt;Je bouwt een sterk extern &lt;/span&gt;&lt;span&gt;netwerk&lt;/span&gt;&lt;span&gt; uit (overheden, leveranciers, partners,...). Je onderhandelt en overlegt met oog voor kwaliteit en duurzaamheid en betrekt andere stakeholders bij complexe trajecten. Je houdt hierbij rekening met interzonale samenwerkingen.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Je bent in het bezit van een masterdiploma OF je kan minstens 5 jaar relevante werkervaring voorleggen op strategisch niveau of in een technologische werkomgeving.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je kan minstens 5 jaar ervaring voorleggen in het aansturen van teams (als leidinggevende of als projectleider).&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;&lt;/span&gt;Je hebt 
+&lt;span&gt;een &lt;/span&gt;&lt;span&gt;sterke affiniteit met technologie&lt;/span&gt;&lt;span&gt; in de brede zin van het woord (ICT, cybersecurity, robotica, databeheer, drones,...).&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je beschikt over een toekomstbestendige visie om Brandweer Zone Antwerpen op technologisch vlak naar een hoger niveau te tillen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je schakelt vlot tussen &lt;/span&gt;&lt;span&gt;strategisch denken&lt;/span&gt;&lt;span&gt; en oplossingsgericht handelen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je beschikt over goede &lt;/span&gt;&lt;span&gt;communicatieve vaardigheden&lt;/span&gt;&lt;span&gt; waardoor je anderen kan adviseren en overtuigen, zowel schriftelijk als mondeling.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je beschikt over goede &lt;/span&gt;&lt;span&gt;leidinggevende skills&lt;/span&gt;&lt;span&gt; om je medewerkers te coachen, motiveren, inspireren en aan te sturen. &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je beschikt over &lt;/span&gt;&lt;span&gt;inzicht in projectmanagement&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;om complexe projecten rond digitale en technologische transformatie succesvol te ondersteunen (OTOBOS). Je neemt hierbij de nodige bedrijfsprocessen in rekening.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je beschikt over voldoende &lt;/span&gt;&lt;span&gt;technische bagage&lt;/span&gt;&lt;span&gt; om inhoudelijk mee te denken over het technologie-landschap van onze zone, i.k.v. ICT-infrastructuur, cybersecurity, data analyse,.... Je kan adviezen van interne en externe experten kritisch inschatten.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je werkt nauwkeurig en bent in staat om het overzicht te behouden bij een veelheid aan taken.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je bent een uitgesproken teamplayer, stelt je dienstverlenend op en werkt vlot samen met andere directies, afdelingen en externe partners.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je volgt nieuwe ontwikkelingen in je vakgebied nauw op en gebruikt ze als basis om de werking van je eigen directie, maar ook de samenwerking met andere diensten aan te scherpen.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Je durft vanuit een constructieve houding de bestaande werkwijzen kritisch te benaderen.
+&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73050872"/>
+    <published>2026-02-12T13:02:01+00:00</published>
   </entry>
 </feed>
