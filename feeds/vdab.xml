@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-12T13:24:28.638985+00:00</updated>
+  <updated>2026-02-12T15:09:34.995479+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -557,7 +557,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70227598</id>
     <title>Software Quality Assurance Tester (OMETA)</title>
-    <updated>2025-12-19T14:56:13+00:00</updated>
+    <updated>2026-02-12T14:12:22+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: OMETA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Als Software Quality Assurance Tester ben je de drijvende kracht achter de kwaliteit van onze softwareproducten. Je speelt een sleutelrol in het gehele ontwikkelproces en werkt nauw samen met verschillende teams om te zorgen voor vlekkeloze releases van onze applicaties. Je expertise in zowel front-end als back-end testing, gecombineerd met een scherp oog voor detail, draagt bij aan het behalen van de hoogste kwaliteitsnormen.&lt;/span&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Je verantwoordelijkheden zijn o.a.:&lt;/span&gt;&lt;/p&gt; 
 &lt;ul&gt; 
@@ -3122,7 +3122,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72889800</id>
     <title>.NET Architect (OMETA)</title>
-    <updated>2026-01-22T15:19:17+00:00</updated>
+    <updated>2026-02-12T14:08:36+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: OMETA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Bij Ometa werken we aan oplossingen die organisaties helpen grip te krijgen op complexe informatiestromen. &lt;/span&gt;Al meer dan twintig jaar verbinden we bedrijfskritische systemen en zorgen we ervoor dat data op het juiste moment, op de juiste plek beschikbaar is. Onze technologie vormt de stille kracht achter processen die dag in, dag uit moeten blijven draaien — ongeacht schaal of complexiteit. Om onze ambities waar te maken, zoeken we een 
 &lt;strong&gt;.&lt;/strong&gt;NET Architect die niet alleen technisch sterk is, maar ook richting geeft. Iemand die overzicht bewaart, vooruitdenkt en samen met het team bouwt aan een toekomstbestendig platform. In deze rol krijg je de ruimte om impact te maken op strategisch niveau en een sleutelrol te spelen in de verdere evolutie van ons Ometa Framework.&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Het Ometa Framework is geen standaard applicatie; het is een high-speed integratie-engine. &lt;/span&gt;Wij koppelen complexe ERP-systemen, portals en externe API’s via een volledig Event-Driven design. Jouw missie? Het Framework herbouwen tot een systeem dat moeiteloos miljoenen requests verwerkt met minimale latency. Of het nu gaat om het real-time pushen van data naar een portaal of het triggeren van kritieke service-orders in een ERP: jij zorgt dat de architectuur onverwoestbaar, veilig en extreem schaalbaar is.&lt;/p&gt; 
