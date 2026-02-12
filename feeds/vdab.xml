@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-12T15:09:34.995479+00:00</updated>
+  <updated>2026-02-12T17:19:02.069369+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4661,6 +4661,14 @@ Solliciteer dan zo snel mogelijk!&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
     <published>2026-02-11T10:54:49+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73053413</id>
+    <title>Senior Data Engineer (Kwery)</title>
+    <updated>2026-02-12T16:11:56+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Olen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze innovatieve speler in de telecomsector, gevestigd in Kontich, is volop bezig met de uitbouw van een modern datalandschap. Het bedrijf ondersteunt de digitale transformatie door infrastructuren te bouwen die essentieel zijn voor de connectiviteit van morgen. Binnen een groeiend team krijgt een Senior Data Engineer de kans om een cruciale rol te spelen in het optimaliseren van datastromen en het ontsluiten van inzichten die de operationele efficiëntie direct beïnvloeden.&lt;/p&gt;&lt;p&gt;&lt;br /&gt; De organisatie kenmerkt zich door een ondernemende cultuur waarin eigen initiatief en technische nieuwsgierigheid sterk worden aangemoedigd. Er wordt gewerkt met een moderne tech-stack in een omgeving die volop in beweging is, wat zorgt voor een dynamische werkplek met veel variatie. Het doel is om data echt te laten werken voor de organisatie, waarbij kwaliteit en schaalbaarheid van de oplossingen centraal staan.&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je ontwerpt en bouwt schaalbare datapijplijnen die complexe datastromen ontsluiten naar een centraal data warehouse.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je neemt de lead in het vertalen van strategische businessvragen naar hoogwaardige technische oplossingen met SQL en Python.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je bewaakt de architecturale integriteit van het dataplatform en optimaliseert systemen voor maximale performantie en betrouwbaarheid.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je fungeert als technisch aanspreekpunt voor analisten en stakeholders en adviseert over het gebruik van notebooks en geavanceerde datatools.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je implementeert en handhaaft best practices op het gebied van data governance, kwaliteit en automatisering binnen het team.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je beschikt over een master- of bachelordiploma in een IT-richting en hebt minstens 5 jaar relevante ervaring in data engineering.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je bent een expert in SQL en hebt uitgebreide ervaring met het ontwikkelen van complexe scripts en applicaties in Python.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je hebt een bewezen trackrecord in het werken met cloud-architecturen en het beheren van grootschalige relationele databases.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je communiceert vlot in het Nederlands en Engels en bent in staat om technische concepten helder uit te leggen aan diverse stakeholders.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je combineert een sterke analytische visie met de ervaring om junior teamleden te coachen en processen naar een hoger niveau te tillen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je ontvangt een competitief brutosalaris dat ligt tussen de € 3.500 en € 5.500 per maand, afgestemd op jouw senioriteit en expertise.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je krijgt een uitgebreid pakket aan extralegale voordelen, waaronder een bedrijfswagen met tankkaart of laadpas.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je geniet van een flexibele werkregeling met ruime mogelijkheden tot thuiswerk voor een optimale balans tussen werk en privé.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je komt terecht in een financieel gezonde onderneming met een informele sfeer en korte communicatielijnen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je krijgt volop de ruimte voor professionele groei en het verder uitdiepen van jouw expertise via gespecialiseerde opleidingen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bekijk zeker ook de website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73053413"/>
+    <published>2026-02-12T16:11:56+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73050872</id>
     <title>Directeur Technologie (BRANDWEER ZONE ANTWERPEN)</title>
     <updated>2026-02-12T13:02:01+00:00</updated>
@@ -4704,5 +4712,77 @@ Solliciteer dan zo snel mogelijk!&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
 &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73050872"/>
     <published>2026-02-12T13:02:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73054657</id>
+    <title>SAP Change/Project Manager (LGA IT)</title>
+    <updated>2026-02-12T17:35:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;In deze strategische rol ligt de focus op het bewaken van de projectkwaliteit en het begeleiden van de organisatie doorheen belangrijke veranderingen. De verantwoordelijkheden zijn divers:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Leidinggeven en coaching: De dagelijkse aansturing van 5 projectleiders staat centraal. Het doel is om hen te ondersteunen, uit te dagen en te laten groeien in hun rol.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;PMO-standaardisatie: Het uitbouwen en verfijnen van de projectmanagement-methodieken zorgt voor meer uniformiteit en effici&amp;euml;ntie binnen de volledige afdeling.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Change Management: Grote interne verschuivingen of procesaanpassingen worden door jou in goede banen geleid, waarbij de menselijke kant van de verandering nooit uit het oog wordt verloren.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Strategisch overzicht: Door nauw contact met het management worden projecten geprioriteerd en wordt er gewaakt over de langetermijnvisie van de organisatie.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;&lt;span&gt;De ideale match beschikt over een gezonde dosis autoriteit op basis van expertise en een natuurlijke flair om mensen mee te krijgen:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Ervaring met PMO-structuren en Change Management-methodieken vormt het fundament van de dagelijkse werking.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Leidinggevende skills zijn essentieel; het coachen van andere projectmanagers vraagt om inzicht in zowel menselijke dynamieken als resultaatgerichtheid.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Analytisch denkvermogen helpt om complexe situaties snel te doorgronden en om te zetten in werkbare plannen.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Communicatie verloopt vlot en overtuigend, waarbij een diplomatische aanpak helpt om neuzen in dezelfde richting te krijgen.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Een achtergrond in IT of software-omgevingen is een grote plus om de technische context van de projecten goed te begrijpen.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;&lt;span&gt;Naast een rol met veel impact en autonomie, wordt er ge&amp;iuml;nvesteerd in een pakket dat zowel comfort als zekerheid biedt:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Verloning: Een competitief bruto salaris dat de senioriteit en verantwoordelijkheid van de functie weerspiegelt.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Premium bedrijfswagen: Comfortabel de weg op met een wagen uit het hogere segment, uiteraard inclusief tankkaart of laadpas.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Flexibiliteit: De mogelijkheid om 2 dagen per week vanuit huis te werken voor een optimale focus.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Maaltijd- &amp;amp; Ecocheques: Dagelijks &amp;euro;8 extra voor de lunch, aangevuld met jaarlijkse ecocheques.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Netto-onkosten: Een maandelijkse vergoeding voor onkosten die onbelast bovenop het loon komt.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Zorgeloos verzekerd: Een uitgebreide hospitalisatie- en groepsverzekering maken deel uit van de standaarduitrusting.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73054657"/>
+    <published>2026-02-12T17:35:10+00:00</published>
   </entry>
 </feed>
