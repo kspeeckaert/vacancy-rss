@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-19T11:05:20.515712+00:00</updated>
+  <updated>2026-02-19T13:23:21.752165+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -946,62 +946,6 @@
 &lt;span&gt;Docker en Kubernetes is een plus&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72336788"/>
     <published>2025-11-01T10:56:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72343527</id>
-    <title>Functioneel applicatie architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2026-01-05T08:12:39+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstige job&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Opvolging en coaching van functionele analisten binnen het ontwikkelteam.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Moderne context: je komt in contact met veel moderne technologieën. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw verantwoordelijkheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Aanspreekpunt voor applicaties in het portfolio.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw taken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ondersteuning van het team bij productie-incidenten&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw technische vaardigheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Expert functionele analyse (hoe achterhaal ik functionele vereisten bij business?) (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Kennis van non-functional requirements (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Enige kennis over integratiepatronen (bv. synchrone vs asynchrone communicatie) (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Diepgaande kennis over integratiepatronen (bv. event driven design, event sourcing) (nice to have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennis van agile en scrum werking &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennis over software frameworks, standaarden, best practices en methodieken (nice to have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Basis data-verwerking en -analyse (SQL queries kunnen schrijven, JSON- en XML-bestanden kunnen interpreteren)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Analytisch vermogen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;veel informatie verwerken: grote lijnen kunnen zien, details kunnen oprakelen als nodig&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Belangen van verschillende partijen achterhalen en expliciet maken&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Helder communiceren, mondeling en schriftelijk&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat jij van ons mag verwachten&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een opleidingsbudget&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een laptop&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een smartphone met abonnementsformule&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Flexibele werkuren &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72343527"/>
-    <published>2025-11-03T14:28:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72339691</id>
@@ -2716,42 +2660,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor onze partner in regio Mechelen zijn we op zoek naar een&lt;strong&gt; ervaren Teamlead Development&lt;/strong&gt; die een verschil wil maken. Je komt terecht in een &lt;strong&gt;R&amp;amp;D-omgeving&lt;/strong&gt; waar het development team innovatieve en betrouwbare software bouwt die direct impact heeft op de dagelijkse werkzaamheden van klanten en interne engineers.&lt;/p&gt;&lt;p&gt;Het team werkt aan de&lt;strong&gt; kern van het interne softwaresysteem, de basis waarop alle andere applicaties steunen&lt;/strong&gt;. Deze foundation ondersteunt R&amp;amp;D-teams door repetitieve taken te &lt;strong&gt;automatiseren&lt;/strong&gt; en belangrijke kennis van ingenieurs vast te leggen. Kortom: alles wat wordt gebouwd voor de gebruikers (zoals interne tools of toepassingen voor schrijnwerkers) leunt op dit fundament. Zo zorg je ervoor dat processen efficiënter verlopen en engineers hun focus kunnen houden op hun eigen complexere taken.&lt;/p&gt;&lt;p&gt;Als Teamlead Development bouw je samen met het team aan &lt;strong&gt;robuuste en schaalbare software oplossingen&lt;/strong&gt;, waarbij je zorgt dat de kernsystemen betrouwbaar, performant en veilig zijn. Je krijgt de kans om complexe technische uitdagingen op te lossen en processen te automatiseren met de nieuwste technologieën van .NET en Azure Cloud.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je behaalde een &lt;strong&gt;bachelor- of masterdiploma&lt;/strong&gt; in een relevante opleiding (Toegepaste Informatica, Software Engineering…)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt een eerste ervaring als team lead/technical lead en hebt een sterke achtergrond in het ontwikkelen van applicaties in .NET&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tech stack van het development team: &lt;strong&gt;C#, .NET 6/7, Entity Framework, AspNetCore, Angular, React, Azure&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een grondige kennis van RESTful API’s, ASP.NET Web API in het bijzonder en daarnaast ervaring met GIT/&lt;strong&gt;Azure DevOps&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Pluspunten: ervaring in React + Azure cloud development&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het Nederlands en het Engels&lt;/p&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p dir="ltr"&gt;Onze partner biedt een loonpakket aan dat aangevuld wordt met o.a.&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Groeps- en hospitalisatieverzekering&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bedrijfsrestaurant met zeer gunstige prijzen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen (full electric) met laadkaart&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;20 + 9 verlofdagen (39,5 urenweek)&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;1 à 2 thuiswerkdagen per week&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Glijtijd: kerntijd is tussen 10.00 -15.00u&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Sportiever naar kantoor? Als je +50% met de fiets komt, voorziet onze partner een (elektrische) fiets die door hen wordt onderhouden&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Jaarlijks 1 dag vrijwilligerswerk tijdens de werkuren&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;#LI-ED1&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72866440"/>
     <published>2026-01-20T08:38:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72870575</id>
-    <title>Full Stack Developer (Spring Boot &amp; Angular) (CEPA)</title>
-    <updated>2026-01-20T14:21:16+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CEPA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Heb jij ervaring met API-ontwikkeling in Spring Boot en ben je bekend met Angular? Werk je graag aan zowel de backend als de frontend en haal je plezier uit het bouwen van robuuste en schaalbare applicaties? Dan is deze uitdaging iets voor jou! Lees snel verder.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Meebouwen aan een modern IT-landschap van morgen.&lt;/li&gt; 
-&lt;li&gt;Ontwikkelen en onderhouden van RESTful API's met Spring Boot.&lt;/li&gt; 
-&lt;li&gt;Werken aan dynamische en performante frontend-applicaties met Angular.&lt;/li&gt; 
-&lt;li&gt;Bijdragen aan het ontwerpen en uitwerken van schaalbare en efficiënte architecturen.&lt;/li&gt; 
-&lt;li&gt;Je bent een gewaardeerd teamlid: je neemt initiatief, helpt richting geven en motiveert collega’s.&lt;/li&gt; 
-&lt;li&gt;Hands-on werken aan code en meedenken over technische keuzes en architectuur.&lt;/li&gt; 
-&lt;li&gt;Zorgen voor een vlotte integratie tussen frontend en backend componenten.&lt;/li&gt; 
-&lt;li&gt;Actief bijdragen aan code reviews, testing en CI/CD pipelines.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minimaal 5 jaar ervaring met Spring Boot en Angular.&lt;/li&gt; 
-&lt;li&gt;Sterke kennis van REST API's, JWT/OAuth2, database design (JPA/Hibernate) en cloud-oplossingen.&lt;/li&gt; 
-&lt;li&gt;Hands-on ervaring met TypeScript, RxJS en moderne Angular best practices.&lt;/li&gt; 
-&lt;li&gt;Inzicht in relationele databases en praktische kennis van SQL.&lt;/li&gt; 
-&lt;li&gt;Je werkt gestructureerd en verantwoordelijk, en weet problemen zelfstandig aan te pakken.&lt;/li&gt; 
-&lt;li&gt;Je hebt een hands-on mentaliteit en gaat uitdagingen niet uit de weg.&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en een proactieve mindset.&lt;/li&gt; 
-&lt;li&gt;Ervaring met DevOps-tools (Docker, Kubernetes, CI/CD) is een plus.&lt;/li&gt; 
-&lt;li&gt;Eventuele kennis van PowerShell is mooi meegenomen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Naast een loon dat met jou meegroeit, krijg je bij ons tal van extralegale voordelen, zoals maaltijdcheques, fietsvergoeding, een hospitalisatieverzekering en groepsverzekering. Om je loonpakket volledig op jouw maat af te stemmen hebben we ook een cafetariaplan. Hierin kan je een stuk van je eindejaarspremie en bonus omzetten in andere leuke voordelen. 
-&lt;br /&gt;We vertellen je hier graag meer over tijdens je sollicitatiegesprek.&lt;/li&gt; 
-&lt;li&gt;We moedigen je tijdens je loopbaan aan om jezelf verder te ontplooien als persoon én als professional. Je kan verschillende opleidingen en workshops volgen waarin je je hard en soft skills verder aanscherpt.&lt;/li&gt; 
-&lt;li&gt;Bij Cepa ontvangen we je met open armen – nog voor je gestart bent! Je mag rekenen op een uitgebreide onboarding waarbij we je uitstekend begeleiden vanaf dat je je contract ondertekent tot je enkele maanden in dienst bent.&lt;/li&gt; 
-&lt;li&gt;En de collegialiteit blijft groot! Via CepaConnect zetten we allerlei initiatieven op poten om onze collega’s te verbinden en te zorgen voor hun welzijn.&lt;/li&gt; 
-&lt;li&gt;Een goeie work-life balance vinden we erg belangrijk. Voor heel wat jobs kunnen we afspraken maken rond thuiswerk, flexibele uren … Meer ontdek je tijdens ons gesprek.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Wens je meer te weten over onze activiteiten, surf gerust naar www.cepa.be.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;locatie:&lt;/span&gt; Antwerpen&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Werk jij mee aan een veilige en drugsvrije haven? &lt;/span&gt;Dan is het belangrijk dat je een positieve veiligheidsscreening hebt of bereid bent toestemming te geven zodat wij deze voor jou kunnen aanvragen.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72870575"/>
-    <published>2026-01-20T14:21:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72870860</id>
@@ -5028,6 +4936,14 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73091256"/>
     <published>2026-02-18T10:02:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73104364</id>
+    <title>Project Lead (Evolane)</title>
+    <updated>2026-02-19T13:56:45+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Evolane (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Bij Evolane is het onze missie om bedrijfsapplicaties te optimaliseren, organisaties te ontzorgen en eindgebruikers de beste user experience te bieden. Onze oplossingen maken applicaties gebruiksvriendelijker, veiliger en performanter dan ooit tevoren. Dankzij onze aanpak op maat kunnen klanten op beide oren slapen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Om onze &lt;strong&gt;Service Delivery Leads (SDL’s)&lt;/strong&gt; te ondersteunen, zoeken we een &lt;strong&gt;Project Lead&lt;/strong&gt; die ownership neemt over de &lt;strong&gt;RUN-fase&lt;/strong&gt; van klantomgevingen binnen &lt;strong&gt;Observability &amp; Security&lt;/strong&gt;.&lt;br/&gt;Als Project Lead ben jij de drijvende kracht achter de operationele stabiliteit en het succes van onze klantprojecten. Je draagt eindverantwoordelijkheid over een portfolio van klanten en projecten en vormt de brug tussen de technische diepgang van onze engineers en de businessdoelstellingen van de klant.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Wat doe je als Project Lead bij Evolane?&lt;/strong&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Je draagt de &lt;strong&gt;eindverantwoordelijkheid&lt;/strong&gt; over een aantal klantprojecten en -diensten en bewaakt nauwgezet de voortgang, kwaliteit, SLA’s en deliverables.&lt;/li&gt;&lt;li&gt;Je neemt ownership over de &lt;strong&gt;RUN-fase&lt;/strong&gt; van klantomgevingen en zorgt voor continuïteit, stabiliteit en voorspelbaarheid.&lt;/li&gt;&lt;li&gt;Je bent het &lt;strong&gt;primaire aanspreekpunt&lt;/strong&gt; voor de klant en bouwt een sterke professionele relatie uit via proactieve communicatie en duidelijk verwachtingsmanagement.&lt;/li&gt;&lt;li&gt;Je staat in voor de &lt;strong&gt;gedetailleerde planning van resources en taken&lt;/strong&gt;, en schakelt vlot tussen verschillende projecten en prioriteiten.&lt;/li&gt;&lt;li&gt;Je faciliteert een vlotte samenwerking tussen:&lt;/li&gt;&lt;li&gt;interne technische teams&lt;/li&gt;&lt;li&gt;Service Delivery Leads (SDL’s)&lt;/li&gt;&lt;li&gt;stakeholders bij de klant&lt;/li&gt;&lt;li&gt;Je begrijpt inhoudelijk waar engineers mee bezig zijn en kan technische context correct inschatten en vertalen.&lt;/li&gt;&lt;li&gt;Je identificeert &lt;strong&gt;proactief risico’s, knelpunten of scope-afwijkingen&lt;/strong&gt; en onderneemt tijdig actie.&lt;/li&gt;&lt;li&gt;Je rapporteert intern over:&lt;/li&gt;&lt;li&gt;project- en servicestatus&lt;/li&gt;&lt;li&gt;budgetten&lt;/li&gt;&lt;li&gt;bezettingsgraad&lt;/li&gt;&lt;li&gt;operationele risico’s&lt;/li&gt;&lt;li&gt;Je draagt actief bij aan het &lt;strong&gt;optimaliseren van interne processen en methodieken&lt;/strong&gt;, o.a. binnen HaloPSA en Confluence.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een &lt;strong&gt;sterke technische achtergrond&lt;/strong&gt; in minstens één van volgende domeinen:&lt;/li&gt;&lt;li&gt;infrastructuur&lt;/li&gt;&lt;li&gt;development&lt;/li&gt;&lt;li&gt;DevOps / platform engineering&lt;/li&gt;&lt;li&gt;Je bent geen pure projectmanager:&lt;/li&gt;&lt;/ul&gt;?? je begrijpt wat er technisch gebeurt, kan engineers inhoudelijk volgen en stelt de juiste vragen.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Kennis van &lt;strong&gt;Observability en/of Security&lt;/strong&gt; is een sterke troef.&lt;/li&gt;&lt;li&gt;Je hebt &lt;strong&gt;aantoonbare ervaring in project- en/of service delivery management&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met &lt;strong&gt;projectmanagementmethodologieën&lt;/strong&gt;; een &lt;strong&gt;PRINCE2- of ITIL-certificatie&lt;/strong&gt; is een duidelijke plus.&lt;/li&gt;&lt;li&gt;Je hanteert een &lt;strong&gt;agile mindset&lt;/strong&gt; en werkt iteratief, pragmatisch en transparant.&lt;/li&gt;&lt;li&gt;Je bent organisatorisch sterk en behoudt overzicht, ook wanneer de druk toeneemt.&lt;/li&gt;&lt;li&gt;Je kan moeiteloos &lt;strong&gt;context switchen&lt;/strong&gt; tussen verschillende klanten en projecten.&lt;/li&gt;&lt;li&gt;Je bent communicatief ijzersterk en vertaalt technische complexiteit naar heldere business-updates.&lt;/li&gt;&lt;li&gt;Je neemt &lt;strong&gt;ownership&lt;/strong&gt;, denkt vooruit en zoekt actief naar verbeteringen.&lt;/li&gt;&lt;li&gt;Je bent een teamplayer die collega’s en klanten weet te aligneren en motiveren.&lt;/li&gt;&lt;li&gt;Je hebt een &lt;strong&gt;perfecte kennis van het Nederlands&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Een goede kennis van &lt;strong&gt;Engels&lt;/strong&gt; is vereist; &lt;strong&gt;Frans&lt;/strong&gt; is een pluspunt.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Werken bij Evolane ziet er als volgt uit:&lt;/strong&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Je werkdag start met een heerlijke tas koffie of thee in onze hub in &lt;strong&gt;Sint-Niklaas (Waasland)&lt;/strong&gt; of &lt;strong&gt;Aarschot&lt;/strong&gt;, bij de klant op kantoor of gewoon gezellig bij je thuis.&lt;/li&gt;&lt;li&gt;Dagelijks organiseren we een &lt;strong&gt;korte call (max. 30 minuten)&lt;/strong&gt; om af te stemmen:&lt;/li&gt;&lt;li&gt;wat vandaag op de planning staat&lt;/li&gt;&lt;li&gt;welke issues aandacht vragen&lt;/li&gt;&lt;li&gt;waar collega’s elkaar kunnen helpen&lt;/li&gt;&lt;li&gt;Je bepaalt je dagindeling grotendeels zelf. Autonomie en vertrouwen staan centraal.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Wat heeft Evolane jou te bieden?&lt;/strong&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk maandsalaris met uitgebreide voordelen:&lt;/li&gt;&lt;li&gt;bedrijfswagen&lt;/li&gt;&lt;li&gt;maaltijd- en nettovergoeding&lt;/li&gt;&lt;li&gt;gsm- en internetabonnement&lt;/li&gt;&lt;li&gt;splinternieuwe MacBook Pro&lt;/li&gt;&lt;li&gt;hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;vers fruit op het werk&lt;/li&gt;&lt;li&gt;Door de constante instroom van nieuwe opdrachten krijg je volop kansen om te groeien.&lt;/li&gt;&lt;li&gt;We voorzien gerichte &lt;strong&gt;opleidingen en certificeringen&lt;/strong&gt;, zowel online als in binnen- en buitenland.&lt;/li&gt;&lt;li&gt;Regelmatige &lt;strong&gt;kennisdelingssessies en workshops&lt;/strong&gt; met het team.&lt;/li&gt;&lt;li&gt;Een sterk Evolane-familiegevoel met:&lt;/li&gt;&lt;li&gt;teambuildings&lt;/li&gt;&lt;li&gt;jaarlijkse events voor het hele gezin&lt;/li&gt;&lt;li&gt;Verjaardagen, jubilea en speciale momenten vergeten we niet — een kleine attentie hoort erbij. Voor familie en vrienden doe je dat toch ook?&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73104364"/>
+    <published>2026-02-19T13:56:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73101340</id>
