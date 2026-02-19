@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-19T13:23:21.752165+00:00</updated>
+  <updated>2026-02-19T15:09:00.717490+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -946,6 +946,62 @@
 &lt;span&gt;Docker en Kubernetes is een plus&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72336788"/>
     <published>2025-11-01T10:56:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72343527</id>
+    <title>Functioneel applicatie architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
+    <updated>2026-01-05T08:12:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstige job&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Opvolging en coaching van functionele analisten binnen het ontwikkelteam.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Moderne context: je komt in contact met veel moderne technologieën. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw verantwoordelijkheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Aanspreekpunt voor applicaties in het portfolio.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw taken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Ondersteuning van het team bij productie-incidenten&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw technische vaardigheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Expert functionele analyse (hoe achterhaal ik functionele vereisten bij business?) (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="EN-US"&gt;Kennis van non-functional requirements (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Enige kennis over integratiepatronen (bv. synchrone vs asynchrone communicatie) (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Diepgaande kennis over integratiepatronen (bv. event driven design, event sourcing) (nice to have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennis van agile en scrum werking &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Kennis over software frameworks, standaarden, best practices en methodieken (nice to have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Basis data-verwerking en -analyse (SQL queries kunnen schrijven, JSON- en XML-bestanden kunnen interpreteren)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Analytisch vermogen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;veel informatie verwerken: grote lijnen kunnen zien, details kunnen oprakelen als nodig&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Belangen van verschillende partijen achterhalen en expliciet maken&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Helder communiceren, mondeling en schriftelijk&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat jij van ons mag verwachten&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;span&gt;Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een opleidingsbudget&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een laptop&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Een smartphone met abonnementsformule&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Flexibele werkuren &lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;&lt;span&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72343527"/>
+    <published>2025-11-03T14:28:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72339691</id>
@@ -4135,133 +4191,6 @@ Solliciteer dan zo snel mogelijk!&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
     <published>2026-02-11T13:40:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73038423</id>
-    <title>Senior Service Desk Engineer (CONXION)</title>
-    <updated>2026-02-11T10:47:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
-&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;ITCE&lt;/strong&gt; maakt deel uit van de 
-&lt;span&gt;ConXioN-groep&lt;/span&gt; en opereert autonoom vanuit 
-&lt;span&gt;Mechelen&lt;/span&gt;. ITCE (IT Centre of Excellence) is een toonaangevende 
-&lt;span&gt;Microsoft Cloud Solutions Partner&lt;/span&gt; met ruim 20 jaar ervaring in 
-&lt;span&gt;clouddiensten en IT-ondersteuning&lt;/span&gt;. ITCE is gekend om hun vooruitstrevende “Virtual Workplace’ oplossingen.&lt;/p&gt; 
-&lt;p&gt;In deze rol ben je verantwoordelijk voor het bieden van technische ondersteuning en het oplossen van complexe IT-problemen voor onze klanten, zowel remote als ter plaatse. Je beheert dagelijks de ICT-infrastructuur van de klant en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als Senior Service Desk Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bieden van 
-&lt;span&gt;remote en on-site IT-ondersteuning&lt;/span&gt;, waaronder tweedelijnsondersteuning voor complexere incidenten en aanvragen met betrekking tot hardware en software.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Proactief signaleren&lt;/span&gt; van technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Uitwerken van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze 
-&lt;span&gt;Virtual Workplace-oplossingen&lt;/span&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Configureren van 
-&lt;span&gt;Microsoft 365&lt;/span&gt; en 
-&lt;span&gt;Azure omgevingen&lt;/span&gt;, en ondersteunen bij de migratie van lokale infrastructuur naar de cloud.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer werk je oplossingsgericht en servicegericht, en zorg je samen met jouw team voor de beste service aan onze klanten. ️&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt al een sterke ervaring met 
-&lt;strong&gt;remote en/of on-site troubleshooting&lt;/strong&gt; en bent bereid je verder te specialiseren.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over kennis van Microsoft, Windows Server, Virtualisatie &amp;amp; Networking, Microsoft 365, Azure, TCP/IP networking, switching, routing en VLAN. Behaalde certificaten in één of meerdere van deze gebieden zijn een pluspunt, waaronder AZ-900 Microsoft Azure Fundamentals.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt uitstekende 
-&lt;strong&gt;communicatieve&lt;/strong&gt; vaardigheden en kunt goed samenwerken met zowel klanten als teamleden.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan vlot communiceren in het 
-&lt;strong&gt;Nederlands&lt;/strong&gt; en 
-&lt;strong&gt;Engels&lt;/strong&gt;. Kennis Frans is geen vereiste, maar zeker een pluspunt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Als Senior Service Desk Engineer sta je naast de troubleshooting job ook collega’s bij voor technische vragen en help je hen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;Een IT-partner die er staat:&lt;/span&gt; ConXioN bouwt al meer dan 27 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;span&gt;doorgroeimogelijkheden&lt;/span&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Kom jij ons team versterken als onze nieuwe Senior Service Desk Engineer? Neem gerust contact met ons op!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73038423"/>
-    <published>2026-02-11T10:47:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73038552</id>
-    <title>System Engineer (CONXION)</title>
-    <updated>2026-02-11T10:55:33+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
-&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Als 
-&lt;strong&gt;System Engineer&lt;/strong&gt; ben je verantwoordelijk voor de uitwerking van technische oplossingen binnen een Azure omgeving. Je beheert dagelijks de ICT-infrastructuur van onze klanten en zorgt ervoor dat alle technische installaties goed onderhouden en geconfigureerd zijn.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw day to day als System Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het uitwerken en begeleiden van nieuwe projecten binnen de cloud en optimaliseren van bestaande projecten binnen onze Virtual Workplace-oplossingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Naast Azure maak je eveneens gebruik van M365, 3CX, Windows Server, ...&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het configureren van Azure omgevingen, Azure Virtual Desktop en het verzorgen van migraties van lokale infrastructuur en data naar de cloud.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Het bieden van derdelijnsondersteuning voor dringende complexere incidenten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Up-to-date houden van de IT-infrastructuur van onze klanten, inclusief installaties en configuraties.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Structurele oplossingen uitwerken voor technische problemen en bedreigingen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Als System Engineer ondersteun en begeleid je ook ons supportteam met hun technische vragen of complexe issues.&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over minimaal 5 jaar ervaring in troubleshooting binnen complexe IT-omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van:&lt;/p&gt; 
-&lt;p&gt;- Microsoft Windows Server (incl. Active Directory, Group Policy)&lt;/p&gt; 
-&lt;p&gt;- Virtualisatieplatformen (Hyper-V, VMware)&lt;/p&gt; 
-&lt;p&gt;- Microsoft 365 beheer en migratie&lt;/p&gt; 
-&lt;p&gt;- Azure Virtual Desktop (AVD), Intune, Conditional Access&lt;/p&gt; 
-&lt;p&gt;- TCP/IP, switching, routing, VLAN, DNS, DHCP, firewall policies&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt ervaring met scripting en automatisering (PowerShell, Azure CLI) voor het beheren van virtuele omgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt bewezen ervaring met het ontwerpen, configureren en onderhouden van Virtual Workplace-oplossingen in Azure.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en probleemoplossend vermogen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je beschikt over een proactieve houding in het identificeren van verbeterpunten en het delen van kennis.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent een teamspeler met ervaring in cross-functionele samenwerking.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent stressbestendig en klantgericht, ook in kritieke situaties.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;Certificeringen&lt;/p&gt; 
-&lt;p&gt;✅ AZ-900 – Microsoft Azure Fundamentals&lt;/p&gt; 
-&lt;p&gt;✅ AZ-104 – Microsoft Azure Administrator&lt;/p&gt; 
-&lt;p&gt;➕ AZ-140, AZ-305, AZ-700, MS-102, SC-300, ITIL Foundation zijn een pluspunt&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;Als System Engineer ben je de ideale coach voor de collega's en ga je naast de engineering job ook collega's helpen groeien .&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een IT-partner die er staat: ConXioN bouwt al meer dan 28 jaar aan de bedrijven in onze regio en staat bekend om zijn investeringen in innovatie en in onze medewerkers. Sinds 2023 is ITCE trots onderdeel van ConXioN.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende functie met veel ruimte voor eigen invulling en de mogelijkheid om met de nieuwste technologieën te werken. Je krijgt de kans om Microsoft-certificaten te behalen en je kennis verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Er zijn 
-&lt;strong&gt;doorgroeimogelijkheden&lt;/strong&gt; binnen onze organisatie, waardoor je je carrière kunt ontwikkelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een klein en hecht team waar samenwerking en collegialiteit centraal staan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73038552"/>
-    <published>2026-02-11T10:55:33+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73038538</id>
     <title>Senior Data Engineer (CONXION)</title>
     <updated>2026-02-11T10:54:49+00:00</updated>
@@ -4584,14 +4513,6 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
 &lt;/ol&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73057490"/>
     <published>2026-02-13T09:18:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73060224</id>
-    <title>Technical Lead (Evolane)</title>
-    <updated>2026-02-13T15:18:58+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Evolane (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Bij Evolane is het onze missie om bedrijfsapplicaties te optimaliseren, organisaties te ontzorgen en eindgebruikers de beste user experience te bieden. Onze oplossingen maken applicaties gebruiksvriendelijker, veiliger en performanter dan ooit tevoren. Dankzij onze aanpak op maat kunnen klanten op beide oren slapen.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Om onze &lt;strong&gt;Service Delivery Leads (SDL’s)&lt;/strong&gt; te ondersteunen, zoeken we een &lt;strong&gt;Project Lead&lt;/strong&gt; die ownership neemt over de &lt;strong&gt;RUN-fase&lt;/strong&gt; van klantomgevingen binnen &lt;strong&gt;Observability &amp; Security&lt;/strong&gt;.&lt;br/&gt;Als Project Lead ben jij de drijvende kracht achter de operationele stabiliteit en het succes van onze klantprojecten. Je draagt eindverantwoordelijkheid over een portfolio van klanten en projecten en vormt de brug tussen de technische diepgang van onze engineers en de businessdoelstellingen van de klant.&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Wat doe je als Project Lead bij Evolane?&lt;/strong&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Je draagt de &lt;strong&gt;eindverantwoordelijkheid&lt;/strong&gt; over een aantal klantprojecten en -diensten en bewaakt nauwgezet de voortgang, kwaliteit, SLA’s en deliverables.&lt;/li&gt;&lt;li&gt;Je neemt ownership over de &lt;strong&gt;RUN-fase&lt;/strong&gt; van klantomgevingen en zorgt voor continuïteit, stabiliteit en voorspelbaarheid.&lt;/li&gt;&lt;li&gt;Je bent het &lt;strong&gt;primaire aanspreekpunt&lt;/strong&gt; voor de klant en bouwt een sterke professionele relatie uit via proactieve communicatie en duidelijk verwachtingsmanagement.&lt;/li&gt;&lt;li&gt;Je staat in voor de &lt;strong&gt;gedetailleerde planning van resources en taken&lt;/strong&gt;, en schakelt vlot tussen verschillende projecten en prioriteiten.&lt;/li&gt;&lt;li&gt;Je faciliteert een vlotte samenwerking tussen:&lt;/li&gt;&lt;li&gt;interne technische teams&lt;/li&gt;&lt;li&gt;Service Delivery Leads (SDL’s)&lt;/li&gt;&lt;li&gt;stakeholders bij de klant&lt;/li&gt;&lt;li&gt;Je begrijpt inhoudelijk waar engineers mee bezig zijn en kan technische context correct inschatten en vertalen.&lt;/li&gt;&lt;li&gt;Je identificeert &lt;strong&gt;proactief risico’s, knelpunten of scope-afwijkingen&lt;/strong&gt; en onderneemt tijdig actie.&lt;/li&gt;&lt;li&gt;Je rapporteert intern over:&lt;/li&gt;&lt;li&gt;project- en servicestatus&lt;/li&gt;&lt;li&gt;budgetten&lt;/li&gt;&lt;li&gt;bezettingsgraad&lt;/li&gt;&lt;li&gt;operationele risico’s&lt;/li&gt;&lt;li&gt;Je draagt actief bij aan het &lt;strong&gt;optimaliseren van interne processen en methodieken&lt;/strong&gt;, o.a. binnen HaloPSA en Confluence.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt een &lt;strong&gt;sterke technische achtergrond&lt;/strong&gt; in minstens één van volgende domeinen:&lt;/li&gt;&lt;li&gt;infrastructuur&lt;/li&gt;&lt;li&gt;development&lt;/li&gt;&lt;li&gt;DevOps / platform engineering&lt;/li&gt;&lt;li&gt;Je bent geen pure projectmanager:&lt;/li&gt;&lt;/ul&gt;?? je begrijpt wat er technisch gebeurt, kan engineers inhoudelijk volgen en stelt de juiste vragen.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Kennis van &lt;strong&gt;Observability en/of Security&lt;/strong&gt; is een sterke troef.&lt;/li&gt;&lt;li&gt;Je hebt &lt;strong&gt;aantoonbare ervaring in project- en/of service delivery management&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met &lt;strong&gt;projectmanagementmethodologieën&lt;/strong&gt;; een &lt;strong&gt;PRINCE2- of ITIL-certificatie&lt;/strong&gt; is een duidelijke plus.&lt;/li&gt;&lt;li&gt;Je hanteert een &lt;strong&gt;agile mindset&lt;/strong&gt; en werkt iteratief, pragmatisch en transparant.&lt;/li&gt;&lt;li&gt;Je bent organisatorisch sterk en behoudt overzicht, ook wanneer de druk toeneemt.&lt;/li&gt;&lt;li&gt;Je kan moeiteloos &lt;strong&gt;context switchen&lt;/strong&gt; tussen verschillende klanten en projecten.&lt;/li&gt;&lt;li&gt;Je bent communicatief ijzersterk en vertaalt technische complexiteit naar heldere business-updates.&lt;/li&gt;&lt;li&gt;Je neemt &lt;strong&gt;ownership&lt;/strong&gt;, denkt vooruit en zoekt actief naar verbeteringen.&lt;/li&gt;&lt;li&gt;Je bent een teamplayer die collega’s en klanten weet te aligneren en motiveren.&lt;/li&gt;&lt;li&gt;Je hebt een &lt;strong&gt;perfecte kennis van het Nederlands&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Een goede kennis van &lt;strong&gt;Engels&lt;/strong&gt; is vereist; &lt;strong&gt;Frans&lt;/strong&gt; is een pluspunt.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Werken bij Evolane ziet er als volgt uit:&lt;/strong&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Je werkdag start met een heerlijke tas koffie of thee in onze hub in &lt;strong&gt;Sint-Niklaas (Waasland)&lt;/strong&gt; of &lt;strong&gt;Aarschot&lt;/strong&gt;, bij de klant op kantoor of gewoon gezellig bij je thuis.&lt;/li&gt;&lt;li&gt;Dagelijks organiseren we een &lt;strong&gt;korte call (max. 30 minuten)&lt;/strong&gt; om af te stemmen:&lt;/li&gt;&lt;li&gt;wat vandaag op de planning staat&lt;/li&gt;&lt;li&gt;welke issues aandacht vragen&lt;/li&gt;&lt;li&gt;waar collega’s elkaar kunnen helpen&lt;/li&gt;&lt;li&gt;Je bepaalt je dagindeling grotendeels zelf. Autonomie en vertrouwen staan centraal.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;strong&gt;Wat heeft Evolane jou te bieden?&lt;/strong&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk maandsalaris met uitgebreide voordelen:&lt;/li&gt;&lt;li&gt;bedrijfswagen&lt;/li&gt;&lt;li&gt;maaltijd- en nettovergoeding&lt;/li&gt;&lt;li&gt;gsm- en internetabonnement&lt;/li&gt;&lt;li&gt;splinternieuwe MacBook Pro&lt;/li&gt;&lt;li&gt;hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;vers fruit op het werk&lt;/li&gt;&lt;li&gt;Door de constante instroom van nieuwe opdrachten krijg je volop kansen om te groeien.&lt;/li&gt;&lt;li&gt;We voorzien gerichte &lt;strong&gt;opleidingen en certificeringen&lt;/strong&gt;, zowel online als in binnen- en buitenland.&lt;/li&gt;&lt;li&gt;Regelmatige &lt;strong&gt;kennisdelingssessies en workshops&lt;/strong&gt; met het team.&lt;/li&gt;&lt;li&gt;Een sterk Evolane-familiegevoel met:&lt;/li&gt;&lt;li&gt;teambuildings&lt;/li&gt;&lt;li&gt;jaarlijkse events voor het hele gezin&lt;/li&gt;&lt;li&gt;Verjaardagen, jubilea en speciale momenten vergeten we niet — een kleine attentie hoort erbij. Voor familie en vrienden doe je dat toch ook?&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73060224"/>
-    <published>2026-02-13T12:20:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73060781</id>
