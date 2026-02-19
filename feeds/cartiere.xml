@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-19T10:47:27.939624+00:00</updated>
+  <updated>2026-02-19T13:07:08.907541+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/functioneel-data-analist/</id>
+    <title>Functioneel Data Analist</title>
+    <updated>2026-02-19T10:43:48+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sneeuwbeslaan 14, 2610, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-29 13:50:12+00:00, last change 2026-02-19 10:43:48+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-29 13:50:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Voor een toonaangevend bedrijf in de logistieke sector, dat een breed scala aan transport- en vervoersdiensten aanbiedt, zoeken we een functioneel data analist. Dit bedrijf biedt geïntegreerde logistieke oplossingen waarbij zee-, weg- en spoorvervoer worden gecombineerd, waardoor klanten profiteren van flexibele en betrouwbare transportoplossingen. Hun diensten zijn ontworpen om zowel internationale handel te vergemakkelijken als complexe supply chains te ondersteunen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Functioneel Data Analist vorm je de brug tussen business en IT en vertaal je operationele en strategische behoeften naar concrete BI-oplossingen. Je werkt nauw samen met collega’s uit operations, finance en sales, organiseert workshops om requirements op te halen en vertaalt deze naar duidelijke user stories en features voor het data team. Daarbij volg je de volledige flow van analyse tot implementatie op, bewaak je prioriteiten en maak je impactanalyses bij veranderingen. &lt;br&gt;
+Je spreekt zowel de taal van de business als die van de data engineers en analisten te spreken. Zo zorg je ervoor dat data effectief bijdraagt aan betere inzichten en besluitvorming in een dynamische, internationale omgeving.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br&gt;
+•    Kennis van SQL, datamodellering (ster- en dimensioneel model).&lt;br&gt;
+•    Je bent bekend met datavisualisatietools en kennis van de best practices. &lt;br&gt;
+•    Proceskennis: je begrijpt hoe DevOps en refinement werken en kan hierin meedraaien.&lt;br&gt;
+•    Je bent communicatief sterk en analytisch ingesteld. &lt;br&gt;
+•    Je bent intrinsiek gedreven om inzichten te creëren en waarde toe te voegen.&lt;br&gt;
+•    Je spreekt vloeiend Nederlands en Engels. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een zeer boeiende sector. De projecten waar je aan meewerkt hebben een onmiddellijke impact op de bedrijfsvoering van deze internationale speler. Daarbovenop werk je met de nieuwste technologie in een bedrijf dat ondernemend is. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/strong&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/functioneel-data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2025-08-29T13:50:12+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/market-insights-analyst/</id>
     <title>Market Insights Analyst </title>
@@ -159,6 +189,36 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <link href="https://www.cartiere.be/jobs/data-ai-engineer-fl/"/>
     <category term="Data Engineering"/>
     <published>2026-02-06T14:41:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-analist-3/</id>
+    <title>Data Analist </title>
+    <updated>2026-02-06T11:54:45+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sneeuwbeslaan 14, 2610, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-02-06 12:54:45+00:00, last change 2026-02-06 11:54:45+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-02-06 12:54:45+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Voor een toonaangevend bedrijf in de logistieke sector, dat een breed scala aan transport- en vervoersdiensten aanbiedt, zoeken we een data analist. Dit bedrijf biedt geïntegreerde logistieke oplossingen waarbij zee-, weg- en spoorvervoer worden gecombineerd, waardoor klanten profiteren van flexibele en betrouwbare transportoplossingen. Hun diensten zijn ontworpen om zowel internationale handel te vergemakkelijken als complexe supply chains te ondersteunen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Analist versterk je het dataomgeving in een omgeving waar kennisdeling en kwaliteit centraal staan. Door de groeiende workload help je de continuïteit en verdere professionalisering van de BI-werking te garanderen.&lt;br&gt;
+Je werkt nauw samen met het BI-team, data engineers en de business en vertaalt businessnoden naar duidelijke, betrouwbare en gebruiksvriendelijke Power BI-rapporten en dashboards. Daarnaast analyseer je bestaande rapportering, help je Excel-oplossingen om te zetten naar schaalbare BI-oplossingen en werk je mee aan de migratie van rapporten naar Power BI. Tot slot bouw je nieuwe dashboards die inspelen op de behoeften van de organisatie. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;&lt;br&gt;
+•    Je bent sterk in Power BI en DAX.&lt;br&gt;
+•    Je hebt ervaring met SQL.&lt;br&gt;
+•    Je hebt een passie voor visualisatie.&lt;br&gt;
+•    Je denkt probleemoplossend en kan kritische vragen stellen.&lt;br&gt;
+•    Je bent ondernemend en handelt proactief.&lt;br&gt;
+•    Je bent communicatief.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een zeer boeiende sector. De projecten waar je aan meewerkt hebben een onmiddellijke impact op de bedrijfsvoering van deze internationale speler. Daarbovenop werk je met de nieuwste technologie in een bedrijf dat ondernemend is. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/data-analist-3/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-02-06T12:54:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/master-data-specialist/</id>
@@ -1526,36 +1586,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;</cont
     <link href="https://www.cartiere.be/jobs/medior-senior-data-visualisatie-consultant/"/>
     <category term="BI/Data Analyst"/>
     <published>2024-05-22T09:34:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/functioneel-data-analist/</id>
-    <title>Functioneel Data Analist</title>
-    <updated>2025-08-29T12:50:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sneeuwbeslaan 14, 2610, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-29 13:50:12+00:00, last change 2025-08-29 12:50:12+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-29 13:50:12+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Voor een toonaangevend bedrijf in de logistieke sector, dat een breed scala aan transport- en vervoersdiensten aanbiedt, zoeken we een functioneel data analist. Dit bedrijf biedt geïntegreerde logistieke oplossingen waarbij zee-, weg- en spoorvervoer worden gecombineerd, waardoor klanten profiteren van flexibele en betrouwbare transportoplossingen. Hun diensten zijn ontworpen om zowel internationale handel te vergemakkelijken als complexe supply chains te ondersteunen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Functioneel Data Analist vorm je de brug tussen business en IT en vertaal je operationele en strategische behoeften naar concrete BI-oplossingen. Je werkt nauw samen met collega’s uit operations, finance en sales, organiseert workshops om requirements op te halen en vertaalt deze naar duidelijke user stories en features voor het data team. Daarbij volg je de volledige flow van analyse tot implementatie op, bewaak je prioriteiten en maak je impactanalyses bij veranderingen. &lt;br&gt;
-Je spreekt zowel de taal van de business als die van de data engineers en analisten te spreken. Zo zorg je ervoor dat data effectief bijdraagt aan betere inzichten en besluitvorming in een dynamische, internationale omgeving.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;&lt;br&gt;
-•    Kennis van SQL, datamodellering (ster- en dimensioneel model).&lt;br&gt;
-•    Je bent bekend met datavisualisatietools en kennis van de best practices. &lt;br&gt;
-•    Proceskennis: je begrijpt hoe DevOps en refinement werken en kan hierin meedraaien.&lt;br&gt;
-•    Je bent communicatief sterk en analytisch ingesteld. &lt;br&gt;
-•    Je bent intrinsiek gedreven om inzichten te creëren en waarde toe te voegen.&lt;br&gt;
-•    Je spreekt vloeiend Nederlands en Engels. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een zeer boeiende sector. De projecten waar je aan meewerkt hebben een onmiddellijke impact op de bedrijfsvoering van deze internationale speler. Daarbovenop werk je met de nieuwste technologie in een bedrijf dat ondernemend is. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/strong&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/functioneel-data-analist/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2025-08-29T13:50:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/python-developer/</id>
