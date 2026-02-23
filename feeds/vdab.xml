@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-23T09:09:56.674010+00:00</updated>
+  <updated>2026-02-23T11:12:09.452434+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3136,74 +3136,6 @@
     <published>2026-01-28T11:02:43+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72932863</id>
-    <title>.Net Architect - Softwarebedrijf (Dtect)</title>
-    <updated>2026-01-28T11:50:20+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Dtect (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Regio Antwerpen&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;Dit
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;Antwerps softwarebedrijf
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;bouwt al jaren met passie aan een
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;high-end softwareproduct
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;dat dagelijks wordt gebruikt door
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;klanten
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;in zowel
-&lt;strong&gt;&lt;span&gt; &lt;/span&gt;binnen- als buitenland. &lt;/strong&gt;Je komt terecht in een
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;KMO
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;waar een team van
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;20 collega’s&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;werkzaam is, er is een sterke inhouse expertise aanwezig.&lt;/p&gt; 
-&lt;p&gt;Het
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;modern kantoor&lt;/strong&gt;, de
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;fijne groepsdynamiek
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en de
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;vooruitstrevende mindset
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;zorgen voor een werkomgeving waar mensen zich goed voelen en graag samenwerken. Ideeën krijgen hier ruimte, geen logge structuren, maar korte lijnen met een directe impact.
-&lt;br /&gt;&lt;br /&gt;&lt;u&gt;.Net Architect - Functie&lt;/u&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Het gaat om een
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;sleutelrol
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;waarbij je verantwoordelijk bent voor de architecturale en
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;strategische keuzes
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;van het product.&lt;/li&gt; 
-&lt;li&gt;Het
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ontwerpen en bewaken van robuuste .Net (Core) architecturen&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;binnen een complexe productomgeving met o.a. Kafka en Kubernetes.&lt;/li&gt; 
-&lt;li&gt;Je fungeert ook als
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;technisch aanspreekpunt
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en mentor voor het team, met een sterke
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;focus op kwaliteit, schaalbaarheid
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;security.&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;u&gt;.Net Architect - Profiel&lt;/u&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je bent in het bezit van een
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;bachelor- of masterdiploma IT&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;en je hebt 
-&lt;strong&gt;7 jaar ervaring&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;opgebouwd als senior/lead/architect.&lt;/li&gt; 
-&lt;li&gt;Expertise in
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;.Net (Core), Kafka, Kubernetes, moderne cloud-architecturen en security (OWASP en OpenID Connect)&lt;/strong&gt;.&lt;/li&gt; 
-&lt;li&gt;Je kan je 
-&lt;strong&gt;perfect &lt;/strong&gt;uitdrukken in zowel het 
-&lt;strong&gt;Nederlands &lt;/strong&gt;als in het 
-&lt;strong&gt;Engels&lt;/strong&gt;.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;u&gt;.Net Architect - Aanbod&lt;/u&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je zal rondrijden in een
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;premium elektrische bedrijfswagen
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;met laadpas, zodat je je comfortabel en zonder kosten kan verplaatsen.&lt;/li&gt; 
-&lt;li&gt;Een volledig voordelenpakket: 
-&lt;strong&gt;maaltijd&lt;/strong&gt;- en
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ecocheques&lt;/strong&gt;,
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;hospitalisatie&lt;/strong&gt;- en
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;groepsverzekering
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;én een
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;netto onkostenvergoeding.&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;Met tal van
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;opleidingen
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;blijf je
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;technologisch scherp
-&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en kan je groeien in lijn met jouw
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ambities&lt;/strong&gt;.&lt;/li&gt; 
-&lt;li&gt;Er zijn
-&lt;span&gt; &lt;/span&gt;&lt;strong&gt;flexibele werktijden&lt;/strong&gt;, dit geeft je de vrijheid en autonomie om zelf je agenda te maken.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72932863"/>
-    <published>2026-01-28T11:50:20+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72932771</id>
     <title>Head of IT &amp; Digitalization (Circet Benelux)</title>
     <updated>2026-01-28T17:01:45+00:00</updated>
@@ -4817,6 +4749,79 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT! (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als toonaangevend en snelgroeiend IT-bedrijf, actief in heel België, behoren we tot de top 5 van België. We bieden innovatieve oplossingen op maat voor KMO's in elke sector, van IT-infrastructuur tot applicatieontwikkeling en kantoortechnologieën. Met gespecialiseerde teams en ondersteuning in drie talen streven we naar maximale efficiëntie en veiligheid voor onze klanten. Sluit je aan bij een groeiend bedrijf waar jouw talent en expertise echt het verschil maken!&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij in ons On IT verhaal?&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Wil jij als Hybrid Cloud Engineer écht impact maken binnen complexe hybride omgevingen? In deze rol combineer je on-premise expertise met diepgaande Azure-kennis en fungeer je als technisch eindpunt voor uitdagende escalaties. Je bouwt, optimaliseert en standaardiseert infrastructuren binnen een professionele MSP-context, met autonomie, verantwoordelijkheid en ruimte voor innovatie.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Projectmatig werken&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Opzetten en beheren van Windows Server-omgevingen (AD, NPS, back-upservers, storage, virtualisatie)&lt;/li&gt;&lt;li&gt;Implementeren en beheren van Microsoft Azure (IaaS) en hybride koppelingen&lt;/li&gt;&lt;li&gt;Remote voorbereiden en uitvoeren van infrastructuurprojecten&lt;/li&gt;&lt;li&gt;On-site installatie van fysieke serverinfrastructuur wanneer nodig&lt;/li&gt;&lt;li&gt;Zorgen voor correcte en up-to-date documentatie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Escalaties &amp;amp; Support (Level 3)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Behandelen van complexe escalaties vanuit de servicedesk (eindverantwoordelijkheid)&lt;/li&gt;&lt;li&gt;Ondersteunen en adviseren van generalistische engineers&lt;/li&gt;&lt;li&gt;Uitvoeren van remote health checks en onderhoud&lt;/li&gt;&lt;li&gt;Proactief adviseren van klanten over optimalisaties&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Innovatie &amp;amp; Standaardisatie&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Toepassen en bewaken van interne infrastructuurstandaarden&lt;/li&gt;&lt;li&gt;Opvolgen van nieuwe technologieën binnen Azure en hybride infrastructuren&lt;/li&gt;&lt;li&gt;&lt;p&gt;Meedenken over optimalisatie en aanpassing van technische baselines&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Kwalificaties&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Opleiding &amp;amp; Certificering&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor in IT of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Minimaal in het bezit van &lt;strong&gt;Microsoft Azure Fundamentals (AZ-900)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Bij voorkeur aanvullende certificeringen zoals:&lt;ul&gt;&lt;li&gt;Azure Administrator (AZ-104)&lt;/li&gt;&lt;li&gt;Azure Solutions Architect (AZ-305)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Ervaring&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Aantoonbare ervaring in een gelijkaardige functie (Hybrid Cloud Engineer, System Engineer, Cloud Engineer)&lt;/li&gt;&lt;li&gt;Ervaring binnen een MSP-omgeving is een sterke troef&lt;/li&gt;&lt;li&gt;Ervaring met zowel on-premise infrastructuur als Azure-omgevingen is vereist&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Technische Kennis&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windows Server-omgevingen (AD, NPS, back-up, policies)&lt;/li&gt;&lt;li&gt;Microsoft Azure (IaaS, resources, networking, storage)&lt;/li&gt;&lt;li&gt;Microsoft 365 en Intune&lt;/li&gt;&lt;li&gt;Virtualisatieplatformen:&lt;ul&gt;&lt;li&gt;VMware ESX&lt;/li&gt;&lt;li&gt;HPE SimpliVity&lt;/li&gt;&lt;li&gt;Microsoft Hyper-V&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Block storage en infrastructuurarchitectuur&lt;/li&gt;&lt;li&gt;Hybride cloudintegraties (on-premise ↔ Azure)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Competenties &amp;amp; Persoonlijke Eigenschappen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sterk analytisch vermogen en probleemoplossend denken&lt;/li&gt;&lt;li&gt;Communicatief vaardig en klantgericht&lt;/li&gt;&lt;li&gt;Maturiteit en professioneel voorkomen&lt;/li&gt;&lt;li&gt;Proactief, met durf om initiatief te nemen&lt;/li&gt;&lt;li&gt;Doorzettingsvermogen en out-of-the-box denker&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Werkorganisatie &amp;amp; Mobiliteit&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bereid om 2 vaste kantoordagen per week aanwezig te zijn:&lt;ul&gt;&lt;li&gt;1 dag in Malle&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 dag in Sint-Niklaas&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Naast een marktconform salaris profiteer je van een reeks secundaire voorwaarden zoals:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontvang&amp;nbsp;&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verzekering:&lt;/strong&gt;&amp;nbsp;profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technische uitrusting:&lt;/strong&gt;&amp;nbsp;Laptop, een telefoonbudget en abonnement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verlof:&lt;/strong&gt;&amp;nbsp;Geniet van 32 vakantiedagen per jaar&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Professionele ontwikkeling:&lt;/strong&gt; Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73109033"/>
     <published>2026-02-20T09:00:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73123195</id>
+    <title>.Net Lead - Regio Antwerpen (Dtect)</title>
+    <updated>2026-02-23T11:19:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Dtect (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Regio Antwerpen&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;Dit 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;Antwerps softwarebedrijf 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;bouwt al jaren met passie aan een 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;high-end softwareproduct 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;dat dagelijks wordt gebruikt 
+&lt;strong&gt; 
+&lt;span&gt;&lt;/span&gt;&lt;/strong&gt;in zowel 
+&lt;strong&gt;&lt;span&gt; &lt;/span&gt;binnen- als buitenland. &lt;/strong&gt;Het 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;modern kantoor&lt;/strong&gt;, de 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;fijne groepsdynamiek 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en de 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;vooruitstrevende mindset 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;zorgen voor een werkomgeving waar mensen zich goed voelen en graag samenwerken. Ideeën krijgen hier ruimte, geen logge structuren, maar korte lijnen met een directe impact. 
+&lt;br /&gt;&lt;br /&gt;&lt;u&gt;.Net Lead - Functie&lt;/u&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Het gaat om een 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;sleutelrol 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;waarbij je verantwoordelijk bent voor de 
+&lt;strong&gt;architecturale &lt;/strong&gt;en 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;strategische keuzes 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;van het softwareproduct.&lt;/li&gt; 
+&lt;li&gt;Het 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ontwerpen en bewaken van robuuste .Net (Core) architecturen&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;binnen een complexe productomgeving met o.a. Kafka en Kubernetes.&lt;/li&gt; 
+&lt;li&gt;Je fungeert ook als 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;technisch aanspreekpunt 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en mentor voor het team, met een sterke 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;focus op kwaliteit, schaalbaarheid 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;security.&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;u&gt;.Net Lead - Profiel&lt;/u&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt een 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;bachelor- of masterdiploma IT&lt;/strong&gt;&lt;span&gt; é&lt;/span&gt;n 
+&lt;strong&gt;7 jaar ervaring&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;als senior/lead/architect.&lt;/li&gt; 
+&lt;li&gt;Skills; 
+&lt;strong&gt;.Net (Core), Kafka, Kubernetes, moderne cloud-architecturen en security.&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;Je kan je 
+&lt;strong&gt;perfect &lt;/strong&gt;uitdrukken in zowel het 
+&lt;strong&gt;Nederlands &lt;/strong&gt;als in het 
+&lt;strong&gt;Engels&lt;/strong&gt;.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;u&gt;.Net Lead - Aanbod&lt;/u&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je zal rondrijden in een 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;premium elektrische bedrijfswagen 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;met laadpas, zodat je je comfortabel en zonder kosten kan verplaatsen.&lt;/li&gt; 
+&lt;li&gt;Een volledig voordelenpakket: 
+&lt;strong&gt;maaltijd&lt;/strong&gt;- en 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ecocheques&lt;/strong&gt;, 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;hospitalisatie&lt;/strong&gt;- en 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;groepsverzekering 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;én een 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;netto onkostenvergoeding.&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;Met tal van 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;opleidingen 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;blijf je 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;technologisch scherp 
+&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;en kan je groeien in lijn met jouw 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ambities&lt;/strong&gt;.&lt;/li&gt; 
+&lt;li&gt;Er zijn 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;flexibele werktijden&lt;/strong&gt;, dit geeft je de vrijheid en autonomie om zelf je agenda te maken.&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73123195"/>
+    <published>2026-02-23T11:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73122804</id>
+    <title>Domain Architect NNA (Proximus Group)</title>
+    <updated>2026-02-23T10:52:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Proximus Group (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Schaarbeek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;A job at Proximus? You’ll find that everything revolves around the idea ‘Think Possible’. This means: we always assume that something is possible, even if it seems impossible. Well, especially so, actually. Call it a way of thinking that involves being open to a world of digital solutions that make our lives easier. And our way of working smarter.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You are part of the &lt;strong&gt;NBU/NIT&lt;/strong&gt; organization (&lt;em&gt;Network IT&lt;/em&gt;), within the &lt;strong&gt;NAA domain&lt;/strong&gt; (&lt;em&gt;Network Activation &amp;amp; Automation&lt;/em&gt;).&lt;br&gt;This domain manages and evolves &lt;strong&gt;OSS (Operations Support Systems)&lt;/strong&gt; that enable the activation of Telco services—Data, TV, Internet, Voice, and more—across the various Proximus networks for customer-facing divisions such as &lt;strong&gt;CBU, EBU, and CWS&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Beyond daily operational support, Proximus OSS is undergoing a &lt;strong&gt;major transformation&lt;/strong&gt; to align with a modern, open, digital network vision. This includes adopting industry standards such as &lt;strong&gt;TMF&lt;/strong&gt; and leveraging cloud technologies like &lt;strong&gt;Azure&lt;/strong&gt;, while integrating new technological capabilities including &lt;strong&gt;5G, SD-WAN, and uCPE&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;In this context, your role as &lt;strong&gt;Domain Architect&lt;/strong&gt; is to collaborate with peers in defining and realizing the next-generation OSS stack, ensuring alignment with Proximus strategic architecture, business needs, and market best practices. You’ll the &lt;strong&gt;end‑to‑end view&lt;/strong&gt; of the activation chain—from &lt;strong&gt;requirements clarification&lt;/strong&gt; to &lt;strong&gt;solution design&lt;/strong&gt;, &lt;strong&gt;E2E test definition&lt;/strong&gt;, and &lt;strong&gt;operational support&lt;/strong&gt;—for both simple and highly complex projects.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsabilities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As a Domain Architect, you will:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Strategic Alignment&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand the &lt;strong&gt;business vision, strategy, and project roadmaps&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Ensure &lt;strong&gt;complete, relevant, and clear operational requirements&lt;/strong&gt; are captured.&lt;/li&gt;&lt;li&gt;Contribute to the creation of an &lt;strong&gt;OSS architecture roadmap&lt;/strong&gt;, defining realistic steps aligned with business priorities.&lt;/li&gt;&lt;li&gt;Promote &lt;strong&gt;industrialized, reusable, automated&lt;/strong&gt; solutions over point fixes; align designs with &lt;strong&gt;TMF best practices&lt;/strong&gt; and NIT strategy.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Solution Architecture&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Translate functional and non‑functional requirements into &lt;strong&gt;reliable, scalable, and efficient architecture designs&lt;/strong&gt; by producing &lt;strong&gt;functional blueprints&lt;/strong&gt; (context/flow diagrams, sequence diagrams, information models), &lt;strong&gt;E2E activations flows&lt;/strong&gt; and &lt;strong&gt;integration patterns&lt;/strong&gt; (API/Event-driven).&lt;/li&gt;&lt;li&gt;Work collaboratively with domain architects, functional analysts, and technical teams to deliver &lt;strong&gt;end‑to‑end solutions across applications&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&amp;nbsp;Provide &lt;strong&gt;continuous architecture support&lt;/strong&gt; to delivery teams (backlog refinement, design clarifications, decision logs).&lt;/li&gt;&lt;li&gt;Convert the roadmap into &lt;strong&gt;EPICs and user stories&lt;/strong&gt; that drive delivery within the new OSS solution.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Cross‑Domain Collaboration&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Engage with colleagues across &lt;strong&gt;NBU and DTI&lt;/strong&gt; to understand the impact of projects on Proximus networks by acting as single solution contact for OSS&lt;/li&gt;&lt;li&gt;Provide coaching and guidance to promote NIT’s &lt;strong&gt;vision and strategic direction&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;E2E Quality &amp;amp; Operational Readiness&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Define &lt;strong&gt;E2E OSS test strategy &amp;amp; scenarios&lt;/strong&gt; covering business flows, non-functional requirements and operational use-cases (happy paths, fallouts, …&lt;/li&gt;&lt;li&gt;Ensure &lt;strong&gt;smooth handover to operations&lt;/strong&gt; with up-to-date documentation and knowledge transfer&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Your profile&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Master’s degree in &lt;strong&gt;IT or telecommunications&lt;/strong&gt;, or equivalent professional experience.&lt;/li&gt;&lt;li&gt;Strong background in &lt;strong&gt;IT architecture&lt;/strong&gt; within complex environments.&lt;/li&gt;&lt;li&gt;Hands-on with &lt;strong&gt;agile methodologies&lt;/strong&gt;, with familiarity in waterfall models and &lt;strong&gt;UML&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Proven experience in telco OSS/BSS will be considered as a strong asset.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Technical &amp;amp; Industry Know‑How&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understanding of business processes and large enterprise &lt;strong&gt;automation systems&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Strong command of &lt;strong&gt;TM Forum concepts&lt;/strong&gt;; hands‑on TMF implementation experience is a major asset.&lt;/li&gt;&lt;li&gt;Awareness of modern telecom network management trends (e.g., &lt;strong&gt;SDN/NFV&lt;/strong&gt;, &lt;strong&gt;MEF models&lt;/strong&gt;).&lt;/li&gt;&lt;li&gt;Good knowledge of one or several residential and professional telecom services is an advantage.&lt;/li&gt;&lt;li&gt;Familiarity with &lt;strong&gt;cloud‑native&lt;/strong&gt; principles (Azure), CI/CD pipelines, infrastructure as code, and &lt;strong&gt;security‑by‑design.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Strong analytical mindset with the ability to anticipate impacts of complex solutions.&lt;/li&gt;&lt;li&gt;Creative, optimistic, &lt;strong&gt;solution‑oriented&lt;/strong&gt;, and comfortable navigating ambiguity.&lt;/li&gt;&lt;li&gt;Fully &lt;strong&gt;customer‑oriented&lt;/strong&gt;, with excellent communication and natural collaboration habits.&lt;/li&gt;&lt;li&gt;Highly &lt;strong&gt;motivated to learn&lt;/strong&gt; and continuously develop.&lt;/li&gt;&lt;li&gt;Strong &lt;strong&gt;facilitation&lt;/strong&gt; and stakeholder alignment skills&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Good command of &lt;strong&gt;English&lt;/strong&gt; (oral and written).&lt;/li&gt;&lt;li&gt;Knowledge of one of Belgium’s national languages is a strong additional asset.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73122804"/>
+    <published>2026-02-23T10:52:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73121270</id>
