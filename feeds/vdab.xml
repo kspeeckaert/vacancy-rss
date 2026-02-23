@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-23T11:12:09.452434+00:00</updated>
+  <updated>2026-02-23T13:24:42.670105+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -406,9 +406,9 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69414814</id>
     <title>.NET Developer (met ervaring) (More2B)</title>
-    <updated>2026-01-28T14:25:13+00:00</updated>
+    <updated>2026-02-23T13:08:43+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: More2B (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Westmeerbeek&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In opdracht voor onze klant in Westmeerbeek (Hulshout) is More2B op zoek naar een ervaren .NET Developer:&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
 &lt;p&gt;Als .NET ontwikkelaar weet je dat software nooit stilstaat.&lt;/p&gt; 
 &lt;p&gt;Samen met je collega's sta je mee in voor de technische realisatie en ondersteuning van de producten.&lt;/p&gt; 
 &lt;p&gt;Je zal ontwikkelen met de nieuwste Microsoft .Net technologieën en krijgt de kans om mee te denken bij de ontwikkeling van nieuwe toepassingen.&lt;/p&gt; 
@@ -416,7 +416,7 @@
 &lt;p&gt;Je bent vertrouwd met het .NET framework, .NET Core, WPF, REST/SOAP webservices en C#;&lt;/p&gt; 
 &lt;p&gt;Kennis van SQL en Entity Framework is een troef;&lt;/p&gt; 
 &lt;p&gt;Visual Studio, Azure DevOps en GIT zijn je favoriete speeltuin;&lt;/p&gt; 
-&lt;p&gt;Unittesten is geen loze belofte voor jou en je weet dat je binnen het SCRUM proces het beste van jezelf kan &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;p&gt;Unittesten is geen loze belofte voor jou en je weet dat je binnen het SCRUM proces het beste van jezelf kan&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
 &lt;li&gt;Je bent een gedreven 
 &lt;span&gt;.NET&lt;/span&gt;-professional met verschillende jaren ervaring;&lt;/li&gt; 
 &lt;li&gt;Je bent vertrouwd met het 
@@ -432,7 +432,7 @@
 &lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Een uitdagende functie in een stabiele en financieel gezonde onderneming.&lt;/p&gt; 
 &lt;p&gt;Geen files!&lt;/p&gt; 
 &lt;p&gt;Een goede balans tussen thuiswerk en aanwezigheid op het hippe kantoor.&lt;/p&gt; 
-&lt;p&gt;Naast een mooi salaris, kan je rekenen op extralagele voordelen, waaronder een bedrijfswagen.&lt;/p&gt; 
+&lt;p&gt;Naast een mooi salaris, kan je rekenen op extralagele voordelen, waaronder een bedrijfswagen.   Bovendien is er een flex-income-plan waarbij je je loonpakket deels zelf kan bepalen!&lt;/p&gt; 
 &lt;p&gt;Uiteraard ook toffe collega's in een agile werkomgeving.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/69414814"/>
     <published>2024-09-04T10:45:12+00:00</published>
@@ -4749,6 +4749,43 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT! (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als toonaangevend en snelgroeiend IT-bedrijf, actief in heel België, behoren we tot de top 5 van België. We bieden innovatieve oplossingen op maat voor KMO's in elke sector, van IT-infrastructuur tot applicatieontwikkeling en kantoortechnologieën. Met gespecialiseerde teams en ondersteuning in drie talen streven we naar maximale efficiëntie en veiligheid voor onze klanten. Sluit je aan bij een groeiend bedrijf waar jouw talent en expertise echt het verschil maken!&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij in ons On IT verhaal?&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Wil jij als Hybrid Cloud Engineer écht impact maken binnen complexe hybride omgevingen? In deze rol combineer je on-premise expertise met diepgaande Azure-kennis en fungeer je als technisch eindpunt voor uitdagende escalaties. Je bouwt, optimaliseert en standaardiseert infrastructuren binnen een professionele MSP-context, met autonomie, verantwoordelijkheid en ruimte voor innovatie.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Projectmatig werken&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Opzetten en beheren van Windows Server-omgevingen (AD, NPS, back-upservers, storage, virtualisatie)&lt;/li&gt;&lt;li&gt;Implementeren en beheren van Microsoft Azure (IaaS) en hybride koppelingen&lt;/li&gt;&lt;li&gt;Remote voorbereiden en uitvoeren van infrastructuurprojecten&lt;/li&gt;&lt;li&gt;On-site installatie van fysieke serverinfrastructuur wanneer nodig&lt;/li&gt;&lt;li&gt;Zorgen voor correcte en up-to-date documentatie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Escalaties &amp;amp; Support (Level 3)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Behandelen van complexe escalaties vanuit de servicedesk (eindverantwoordelijkheid)&lt;/li&gt;&lt;li&gt;Ondersteunen en adviseren van generalistische engineers&lt;/li&gt;&lt;li&gt;Uitvoeren van remote health checks en onderhoud&lt;/li&gt;&lt;li&gt;Proactief adviseren van klanten over optimalisaties&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Innovatie &amp;amp; Standaardisatie&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Toepassen en bewaken van interne infrastructuurstandaarden&lt;/li&gt;&lt;li&gt;Opvolgen van nieuwe technologieën binnen Azure en hybride infrastructuren&lt;/li&gt;&lt;li&gt;&lt;p&gt;Meedenken over optimalisatie en aanpassing van technische baselines&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Kwalificaties&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Opleiding &amp;amp; Certificering&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor in IT of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Minimaal in het bezit van &lt;strong&gt;Microsoft Azure Fundamentals (AZ-900)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Bij voorkeur aanvullende certificeringen zoals:&lt;ul&gt;&lt;li&gt;Azure Administrator (AZ-104)&lt;/li&gt;&lt;li&gt;Azure Solutions Architect (AZ-305)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Ervaring&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Aantoonbare ervaring in een gelijkaardige functie (Hybrid Cloud Engineer, System Engineer, Cloud Engineer)&lt;/li&gt;&lt;li&gt;Ervaring binnen een MSP-omgeving is een sterke troef&lt;/li&gt;&lt;li&gt;Ervaring met zowel on-premise infrastructuur als Azure-omgevingen is vereist&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Technische Kennis&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Windows Server-omgevingen (AD, NPS, back-up, policies)&lt;/li&gt;&lt;li&gt;Microsoft Azure (IaaS, resources, networking, storage)&lt;/li&gt;&lt;li&gt;Microsoft 365 en Intune&lt;/li&gt;&lt;li&gt;Virtualisatieplatformen:&lt;ul&gt;&lt;li&gt;VMware ESX&lt;/li&gt;&lt;li&gt;HPE SimpliVity&lt;/li&gt;&lt;li&gt;Microsoft Hyper-V&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Block storage en infrastructuurarchitectuur&lt;/li&gt;&lt;li&gt;Hybride cloudintegraties (on-premise ↔ Azure)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Competenties &amp;amp; Persoonlijke Eigenschappen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sterk analytisch vermogen en probleemoplossend denken&lt;/li&gt;&lt;li&gt;Communicatief vaardig en klantgericht&lt;/li&gt;&lt;li&gt;Maturiteit en professioneel voorkomen&lt;/li&gt;&lt;li&gt;Proactief, met durf om initiatief te nemen&lt;/li&gt;&lt;li&gt;Doorzettingsvermogen en out-of-the-box denker&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Werkorganisatie &amp;amp; Mobiliteit&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bereid om 2 vaste kantoordagen per week aanwezig te zijn:&lt;ul&gt;&lt;li&gt;1 dag in Malle&lt;/li&gt;&lt;li&gt;&lt;p&gt;1 dag in Sint-Niklaas&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Naast een marktconform salaris profiteer je van een reeks secundaire voorwaarden zoals:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontvang&amp;nbsp;&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verzekering:&lt;/strong&gt;&amp;nbsp;profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technische uitrusting:&lt;/strong&gt;&amp;nbsp;Laptop, een telefoonbudget en abonnement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verlof:&lt;/strong&gt;&amp;nbsp;Geniet van 32 vakantiedagen per jaar&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Professionele ontwikkeling:&lt;/strong&gt; Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73109033"/>
     <published>2026-02-20T09:00:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73124924</id>
+    <title>Process Automation Engineer (FINVISORS)</title>
+    <updated>2026-02-23T13:01:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: FINVISORS (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als 
+&lt;b&gt;Process Automation Engineer&lt;/b&gt; bouw je mee aan het automatisatieplatform binnen een innovatieve en groeiende organisatie. Je onderhoudt en optimaliseert bestaande Python‑gebaseerde RPA‑scripts voor Tax‑processen en ontwikkelt nieuwe automatisaties die de efficiëntie en kwaliteit van interne workflows verhogen. Je werkt over de volledige technische stack: van scripting en containerisatie tot task orchestration en front‑end dashboards.&lt;/p&gt; 
+&lt;p&gt;Je verantwoordelijkheden omvatten:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Onderhouden, debuggen en optimaliseren van Python‑gebaseerde RPA‑scripts.&lt;/li&gt; 
+&lt;li&gt;Ontwikkelen en beheren van de RPA‑engine voor scheduling, logging en monitoring.&lt;/li&gt; 
+&lt;li&gt;Bouwen van React‑gebaseerde dashboards voor opvolging van automatisaties.&lt;/li&gt; 
+&lt;li&gt;Beheren van de runtime‑omgeving (Windows servers, Docker containers, autoscheduling).&lt;/li&gt; 
+&lt;li&gt;Zorgen voor betrouwbaarheid, schaalbaarheid en onderhoudbaarheid van de automatisatie‑infrastructuur.&lt;/li&gt; 
+&lt;li&gt;Samenwerken met business teams om processen te analyseren, edge cases te capteren en automatisaties aan te passen.&lt;/li&gt; 
+&lt;li&gt;Inbouwen van auditability, dataprotectie en herhaalbaarheid in alle automatisaties.&lt;/li&gt; 
+&lt;li&gt;Documenteren van systemen, scripts en dashboards voor duurzame overdraagbaarheid.&lt;/li&gt; 
+&lt;li&gt;Actief bijdragen aan een cultuur van continue verbetering en kennisdeling.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je hebt sterke Python‑skills met focus op automatisatie en scripting.&lt;/li&gt; 
+&lt;li&gt;Je beschikt over 5 tot 10 jaar relevante ervaring.&lt;/li&gt; 
+&lt;li&gt;Je hebt ervaring met React of gelijkaardige front‑end frameworks.&lt;/li&gt; 
+&lt;li&gt;Je bent vertrouwd met containerisatie (Docker) en task orchestration.&lt;/li&gt; 
+&lt;li&gt;Je hebt ervaring met Windows‑gebaseerde automatisatieomgevingen.&lt;/li&gt; 
+&lt;li&gt;Je hebt een solide kennis van software maintenance (version control, testing, CI/CD).&lt;/li&gt; 
+&lt;li&gt;RPA‑ervaring, zeker binnen Accounting, Tax of Finance, is een sterke troef.&lt;/li&gt; 
+&lt;li&gt;Je werkt probleemoplossend, neemt ownership en denkt in termen van productontwikkeling.&lt;/li&gt; 
+&lt;li&gt;Je begrijpt procesflows en controlevereisten en houdt rekening met governance en compliance (ISO 27001 is een plus).&lt;/li&gt; 
+&lt;li&gt;Je communiceert vlot in het Engels en hebt professionele kennis van Nederlands of Frans.&lt;/li&gt; 
+&lt;li&gt;Je bent sociaal, klantgericht, zelfstandig en werkt graag samen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Een voltijdse, hybride functie binnen een stabiele en groeiende organisatie.&lt;/li&gt; 
+&lt;li&gt;De kans om een centraal automatisatieplatform verder uit te bouwen met zichtbare businessimpact.&lt;/li&gt; 
+&lt;li&gt;Een competitief salaris aangevuld met een aantrekkelijk pakket extralegale voordelen.&lt;/li&gt; 
+&lt;li&gt;Een rol op het kruispunt van Tax, Technology en Process Automation.&lt;/li&gt; 
+&lt;li&gt;Een open, samenwerkingsgerichte werkomgeving met focus op communicatie en klantgerichtheid.&lt;/li&gt; 
+&lt;li&gt;Nauw samenwerken met zowel technische collega’s als client‑facing teams, waardoor je directe impact hebt op de dienstverlening.&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73124924"/>
+    <published>2026-02-23T13:01:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73123195</id>
