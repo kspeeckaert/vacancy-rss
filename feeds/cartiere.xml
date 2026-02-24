@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-24T10:52:21.938373+00:00</updated>
+  <updated>2026-02-24T13:07:14.630002+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -74,6 +74,43 @@ Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/stron
     <link href="https://www.cartiere.be/jobs/functioneel-data-analist/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-08-29T13:50:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-modeler/</id>
+    <title>Data modeler</title>
+    <updated>2026-02-19T09:34:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-02-19 10:34:26+00:00, last change 2026-02-19 09:34:26+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-02-19 10:34:26+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;BEDRIJF:&lt;br&gt;
+&lt;br&gt;
+Deze internationale, sterk datagedreven onderneming bevindt zich in volle transformatie van haar applicatie- en datalandschap. Een historisch gegroeide kernapplicatie wordt stap voor stap opgesplitst richting gespecialiseerde platformen zoals Salesforce. In dat kader lopen momenteel meerdere strategische migratietrajecten, waaronder een ERP-migratie in Canada en een finance-migratie. Binnen deze context zoeken we een profiel dat structuur brengt in data, governance en modellering.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+&lt;br&gt;
+Als Data Modeler speel je een sleutelrol in het ontleden en structureren van businessprocessen binnen grootschalige migratietrajecten. Je analyseert welke domeinen en projecten in scope vallen, vertaalt processen naar duidelijke data-entiteiten en bouwt conceptuele en logische datamodellen uit.&lt;br&gt;
+&lt;br&gt;
+Je bepaalt mee waar data thuis hoort binnen het toekomstige landschap en zorgt dat deze begrijpbaar en bruikbaar wordt voor eindgebruikers. Je schrijft zelf geen code, maar legt de fundamenten waarop integratie- en engineeringteams verder bouwen. Je durft stakeholders te challengen, bewaakt de samenhang tussen domeinen en houdt steeds rekening met de impact van beslissingen op het grotere geheel van de organisatie.&lt;br&gt;
+&lt;br&gt;
+Je werkt mee aan de modelleringsaanpak en -standaarden binnen de organisatie; er is ruimte om frameworks mee richting te geven.&lt;br&gt;
+&lt;br&gt;
+JOUW PROFIEL:&lt;br&gt;
+&lt;br&gt;
+• Je hebt 3+ jaar ervaring, idealiter binnen een grote onderneming.&lt;br&gt;
+• Je hebt ervaring met datamodellering, zowel conceptueel als logisch en hebt&lt;br&gt;
+meerdere modelleringsframeworks gezien (Kimball, Data Vault...)&lt;br&gt;
+• Je bent communicatief en kan de vertaalslag maken tussen IT en niet-technische stakeholders.&lt;br&gt;
+• Je bent besluitvaardig, niet enkel documenteren.&lt;br&gt;
+• Bij voorkeur ben je Nederlandstalig, vloeiend EN kan ook.&lt;br&gt;
+• Technische achtergrond is een nice to have.&lt;br&gt;
+&lt;br&gt;
+UNIEK KARAKTER:&lt;br&gt;
+&lt;br&gt;
+Je stapt in een organisatie waar meerdere grootschalige transformaties tegelijk lopen. Jouw werk vormt de basis voor governance, datakwaliteit en toekomstbestendige integratie. Een positie met tastbare impact op strategische migraties en de verdere professionalisering van het datalandschap.&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Benieuwd naar meer?&lt;br&gt;
+Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;/em&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-modeler/"/>
+    <category term="Business Analyst"/>
+    <published>2026-02-19T10:34:26+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/market-insights-analyst/</id>
