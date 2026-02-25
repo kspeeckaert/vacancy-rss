@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-24T22:56:24.962531+00:00</updated>
+  <updated>2026-02-25T05:45:43.213606+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1705,33 +1705,6 @@
     <published>2025-12-18T10:27:19+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72670480</id>
-    <title>Full Stack .NET Developer (TALENTIQUE)</title>
-    <updated>2025-12-19T13:09:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: TALENTIQUE (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Onze klant groeit en zoekt een gedreven 
-&lt;span&gt;Full Stack .NET Developer&lt;/span&gt; die graag werkt met moderne technologie en slimme oplossingen bouwt.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Jouw rol&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Je ontwikkelt end-to-end performante applicaties en denkt mee over architectuur, technische keuzes en optimalisaties. Je werkt in een hecht team waar initiatief, creativiteit en kennisdeling centraal staan.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je bent een positieve probleemoplosser met 5 tot 7 jaar ervaring in softwareontwikkeling.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Je hebt kennis van:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;strong&gt;Testing &amp;amp; Security&lt;/strong&gt;: Unit/Integration testing, OAuth2, OIDC&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;DevOps&lt;/strong&gt;: CI/CD, Docker&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: .NET 6+, C#, REST API, Messaging, MSSQL, EF Core, CQRS&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: Angular (v2+) of Blazor&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Daarnaast ben je zelfstandig en teamgericht, communicatief sterk, stressbestendig, en spreek je vloeiend Nederlands.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Aantrekkelijk loonpakket + extralegale voordelen zoals een wagen, tankkaart, maaltijdcheques, ecocheques, hospitalisatieverzekering&lt;/li&gt; 
-&lt;li&gt;Hybride werkregeling en gezonde work-life balance&lt;/li&gt; 
-&lt;li&gt;38-urenweek, 25 verlofdagen&lt;/li&gt; 
-&lt;li&gt;Opleiding &amp;amp; doorgroeikansen&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72670480"/>
-    <published>2025-12-19T13:09:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72671137</id>
     <title>System Engineer (On IT)</title>
     <updated>2026-01-13T12:12:29+00:00</updated>
@@ -1874,89 +1847,6 @@
 &lt;li&gt;&lt;strong&gt;&lt;span lang="NL"&gt;Professionele ontwikkeling:&lt;/span&gt;&lt;/strong&gt;&lt;span lang="NL"&gt; &lt;/span&gt;&lt;span lang="NL"&gt;Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72671153"/>
     <published>2025-12-19T14:27:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72671906</id>
-    <title>Senior Software Engineer (Node.js) (Driven Tech)</title>
-    <updated>2025-12-19T15:12:43+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Driven Tech (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Locatie:&lt;/strong&gt;&lt;/span&gt; Antwerpen&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Bedrijf:&lt;/strong&gt;&lt;span&gt; Driven&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Driven bouwt aan de toekomst van salescompensatie. We helpen snelgroeiende bedrijven om hun teams op één lijn te houden, te motiveren en energie te geven met een modern, transparant en AI-first compensatieplatform. Om onze snelle groei te ondersteunen, zijn we op zoek naar een 
-&lt;span&gt;&lt;strong&gt;Senior Node.js Engineer&lt;/strong&gt;&lt;/span&gt; die graag complexe problemen oplost en hoogwaardige, schaalbare software bouwt.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Wat je zal doen&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ontwerpen en bouwen van backend services die onze compensatie-engine en realtime rapportering aandrijven.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Opzetten en optimaliseren van asynchrone jobs en gedistribueerde workloads.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Werken aan complexe datapijplijnen die continu CRM- en financiële data synchroniseren vanuit 
-&lt;span&gt;&lt;strong&gt;HubSpot&lt;/strong&gt;&lt;/span&gt;, 
-&lt;span&gt;&lt;strong&gt;Salesforce&lt;/strong&gt;&lt;/span&gt; en andere externe systemen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Zorgen voor datanauwkeurigheid over verschillende tijdzones, valuta en gevoelige financiële informatie heen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Optimaliseren en tunen van onze Postgres + Prisma setup voor performantie en betrouwbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Samenwerken met het team om nieuwe features end-to-end vorm te geven.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bijdragen aan technische beslissingen, code reviews en engineering best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Tech stack&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Je werkt met:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Node.js&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;TypeScript&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;PostgreSQL&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Prisma ORM&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Google Cloud Platform (GCP)&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Redis&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;BullMQ&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;span&gt;&lt;strong&gt;React-router&lt;/strong&gt;&lt;/span&gt; (als context voor hoe backend services frontend flows ondersteunen) 
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Wie jij bent&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met CRM-integraties (HubSpot / Salesforce), asynchrone verwerking, tijdzone- en valutalogica en het werken met gevoelige financiële data is een sterke plus.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;5+ jaar ervaring met het bouwen en onderhouden van production-grade backend systemen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Expert in Node.js en TypeScript.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je verhoogt graag je productiviteit en skills met AI-tools zoals Claude Code, Cursor, … en experimenteert regelmatig met nieuwe technologie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Comfortabel met async workflows, queues en gedistribueerde verwerking.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Sterk inzicht in relationele databases en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Pragmatisch en product-minded, met het vermogen om business requirements te vertalen naar elegante technische oplossingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Gepassioneerd door clean, onderhoudbare code en goed gestructureerde systemen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Competitief en fiscaal geoptimaliseerd salaris&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Aandelenopties&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Laptop&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Telefoonabonnement&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een rol met directe impact op een snelgroeiend SaaS-product&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Nauwe samenwerking met een klein, ervaren engineeringteam dat snel schakelt&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Thuiswerken&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72671906"/>
-    <published>2025-12-19T15:12:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72677496</id>
