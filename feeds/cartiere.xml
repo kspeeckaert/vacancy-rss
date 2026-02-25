@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-25T08:51:46.266829+00:00</updated>
+  <updated>2026-02-25T10:56:45.388663+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1691,33 +1691,6 @@ Bekijk onze website www.cartiere.be voor meer BI &amp;amp; data-vacatures.&lt;/e
     <link href="https://www.cartiere.be/jobs/senior-bi-consultant/"/>
     <category term="BI/Data Analyst"/>
     <published>2025-07-11T15:01:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/senior-data-engineer-3/</id>
-    <title>Senior Data Engineer </title>
-    <updated>2025-04-16T09:06:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Groendreef 10, 9880, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-02-24 14:41:13+00:00, last change 2025-04-16 09:06:12+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-02-24 14:41:13+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aan de slag als data engineer &lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je bent een expert in database design, datamodellering en ETL-processen; deze vaardigheden zijn je tweede natuur. 
-	&lt;li&gt;Je voelt je helemaal thuis in Azure Data Factory en beschikt bij voorkeur ook over ervaring met Databricks. 
-	&lt;li&gt;Je hebt uitgebreide kennis van databasesystemen, met een sterke specialisatie in MS SQL en eventueel ervaring met SAP-databases. 
-	&lt;li&gt;Je hebt een sterk analytisch vermogen en schrijft complexe SQL-query’s met gemak. Daarnaast beschik je over een degelijke kennis van Python. 
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Hierin herken je jezelf&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je ontwerpt en bouwt de componenten van de data-architectuur in nauwe samenwerking met de data architect en engineers, system engineer en enterprise architect. 
-	&lt;li&gt;Je hebt minstens 5 jaar ervaring in een gelijkaardige rol.   
-	&lt;li&gt;Je vertaalt en implementeert de complexe datavraagstukken in concrete oplossingen (Power BI rapporten, AI modellen, etc.). 
-	&lt;li&gt;Je waakt over de kwaliteit en integriteit van de data, een betrouwbare en stabiele data omgeving is essentieel.  
-	&lt;li&gt;Je coördineert de evolutie van ons datalandschap samen met de verschillende IT-productteams en de data architect. 
-&lt;/ul&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/senior-data-engineer-3/"/>
-    <category term="Data Engineering"/>
-    <published>2025-02-24T14:41:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/vrijblijvend-gesprek-2/</id>
