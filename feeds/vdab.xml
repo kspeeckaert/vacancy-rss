@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-26T09:09:20.105200+00:00</updated>
+  <updated>2026-02-26T11:08:35.662565+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4747,5 +4747,33 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Back-end Developer maak je deel uit van een hecht team van ervaren developers en werk je mee aan de ontwikkeling van moderne applicaties en platformen. Je bent betrokken bij het volledige ontwikkelproces, van analyse en architectuur tot implementatie en testing. In nauwe samenwerking met collega’s en eindgebruikers vertaal je functionele noden naar schaalbare oplossingen binnen het Microsoft-ecosysteem. Je denkt proactief mee over technische optimalisaties, bewaakt de kwaliteit van de code en draagt bij aan het uitwerken van duurzame software-architecturen. Binnen de projecten krijg je ruimte voor eigen inbreng en de kans om te werken met de nieuwste technologieën.&amp;#160;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master binnen IT of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Minstens een eerste relevante ervaring als .NET Developer&lt;/li&gt;&lt;li&gt;Grondige kennis van C# en het .NET framework.&lt;/li&gt;&lt;li&gt;Je werkt analytisch en oplossingsgericht&lt;/li&gt;&lt;li&gt;Teamplayer met sterke communicatieve vaardigheden&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Deze dynamische IT-partner ondersteunt bedrijven bij het bouwen van performante softwareoplossingen. Met een sterke focus op kwaliteit en technische expertise realiseren zij maatwerk projecten voor eindgebruikers binnen diverse sectoren. Ze combineren een no-nonsense mentaliteit met een collegiale en warme werksfeer, waar kennisdeling en persoonlijke groei centraal staan. Dankzij hun doorgedreven expertise in Microsoft-technologieën blijven ze continu investeren in innovatie en de verdere uitbouw van hun development team.&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Competitief loonpakket&amp;#160;&lt;/li&gt;&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Groepsverzekering&lt;/li&gt;&lt;li&gt;Hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Flexibele werkuren&lt;/li&gt;&lt;li&gt;Mogelijkheid tot thuiswerk&lt;/li&gt;&lt;li&gt;Werken in een collegiale omgeving met ruimte voor initiatief en autonomie&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73147971"/>
     <published>2026-02-25T15:55:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73152164</id>
+    <title>Senior System Engineer (LGA IT)</title>
+    <updated>2026-02-26T09:50:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Gillis-Waas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior System Engineer ben je verantwoordelijk voor zowel beheer als projecten bij klanten.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cloud &amp;amp; Microsoft Stack&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Beheer van Azure en Microsoft 365&lt;/li&gt;&lt;li&gt;Users, Groups, Active Directory en Entra ID&lt;/li&gt;&lt;li&gt;Exchange Online en Azure VM&amp;rsquo;s&lt;/li&gt;&lt;li&gt;Modern management met Intune en SCCM&lt;/li&gt;&lt;li&gt;Infrastructure &amp;amp; Virtualisatie&lt;/li&gt;&lt;li&gt;VMware en Hyper-V omgevingen beheren en optimaliseren&lt;/li&gt;&lt;li&gt;Windows Server implementaties en migraties&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Netwerkbeheer&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Configuratie en troubleshooting van Meraki, Ubiquiti, Ruckus en Mikrotik&lt;/li&gt;&lt;li&gt;VLAN, firewalls, DNS, DHCP, VPN&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Daarnaast:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Incidentbeheer remote en onsite&lt;/li&gt;&lt;li&gt;Lifecycle-beheer en security-upgrades&lt;/li&gt;&lt;li&gt;Meedenken over structurele en duurzame IT-oplossingen&lt;/li&gt;&lt;li&gt;Hands-on werken en tegelijk strategisch vooruitdenken.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;We zoeken het volgende profiel:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Minstens 5 jaar ervaring als System Engineer&lt;/li&gt;&lt;li&gt;Sterke kennis van Microsoft 365, Azure, AD en Entra ID&lt;/li&gt;&lt;li&gt;Ervaring met Intune en/of SCCM&lt;/li&gt;&lt;li&gt;Zeer goede kennis van VMware en Hyper-V&lt;/li&gt;&lt;li&gt;Netwerkkennis in KMO-omgevingen&lt;/li&gt;&lt;li&gt;Proactieve mindset en focus op langetermijnoplossingen&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;Hiervoor krijg jij het volgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vast contract&lt;/li&gt;
+&lt;li&gt;&amp;euro;4.000 - &amp;euro;5.000 bruto, afhankelijk van ervaring&lt;/li&gt;
+&lt;li&gt;Bedrijfswagen met tankkaart&lt;/li&gt;
+&lt;li&gt;Laptop en smartphone&lt;/li&gt;
+&lt;li&gt;Maaltijdcheques en verzekeringen&lt;/li&gt;
+&lt;li&gt;Opleidingen en Microsoft-certificeringen&lt;/li&gt;
+&lt;li&gt;Kleine, hechte structuur met veel autonomie&lt;/li&gt;
+&lt;li&gt;Sterke focus op work-life balance&lt;/li&gt;
+&lt;/ul&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73152164"/>
+    <published>2026-02-26T09:50:39+00:00</published>
   </entry>
 </feed>
