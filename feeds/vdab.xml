@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-26T11:08:35.662565+00:00</updated>
+  <updated>2026-02-26T13:26:25.301861+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4749,6 +4749,81 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <published>2026-02-25T15:55:50+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73155581</id>
+    <title>Digital Workplace Lead Engineer - Try &amp; Hire (Option for Permanent Contract) (Randstad Digital)</title>
+    <updated>2026-02-26T12:18:38+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Machelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Are you an experienced IT professional passionate about the modern digital workplace? At Randstad Digital, we are looking for a Digital Workplace Lead Engineer to bridge the gap between technical innovation and operational excellence.&lt;br /&gt;
+
+ &lt;br /&gt;
+
+This is a &lt;b&gt;Try &amp; Hire position&lt;/b&gt;: you will start your journey via Randstad Digital with the clear intention of transitioning into a permanent contract with the end-client after a successful initial period. This offers you the perfect opportunity to experience the company culture firsthand while securing a long-term career path. In this role, you will lead the transition from in-house services to a managed service model and optimize collaboration tools for a high-tech environment.&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;b&gt;Location:&lt;/b&gt; Hybrid (Brussels Region / Remote within Belgium)
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Experience:&lt;/b&gt; 5+ years of relevant experience in Workplace Engineering or IT Infrastructure Management.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Education:&lt;/b&gt; Bachelor's or Master's degree in IT, Engineering, or equivalent through experience.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+ &lt;br /&gt;
+
+&lt;b&gt;Your Tasks:&lt;/b&gt;&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Lead the design, implementation, and continuous improvement of digital workplace solutions (AV, collaboration tools, and connectivity).
+&lt;/li&gt;
+
+&lt;li&gt;Drive the transition from in-house services to a managed service model, ensuring seamless handover and operational excellence.
+&lt;/li&gt;
+
+&lt;li&gt;Manage external suppliers and service providers, ensuring SLAs are met and value is delivered consistently.
+&lt;/li&gt;
+
+&lt;li&gt;Act as the primary technical point of contact for internal stakeholders, translating business needs into technical solutions.
+&lt;/li&gt;
+
+&lt;li&gt;Maintain a structured way of working through documentation, process governance, and performance tracking.
+&lt;/li&gt;
+
+&lt;li&gt;Collaborate with cross-functional teams to ensure a high-quality user experience across all digital workplace services.
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;b&gt;Your Profile:&lt;/b&gt;&lt;br /&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;Proven track record in workplace engineering with deep expertise in Windows 10/11, MacOS, and Microsoft 365 (Teams, SharePoint).
+&lt;/li&gt;
+
+&lt;li&gt;Expertise in endpoint management via tools such as Microsoft Intune or Workspace ONE.
+&lt;/li&gt;
+
+&lt;li&gt;Experience with application packaging and scripting (e.g., PowerShell).
+&lt;/li&gt;
+
+&lt;li&gt;Knowledge of Mobile Application Management (Apple Store Connect &amp; Google Play Store) and Group Policy Management (AD).
+&lt;/li&gt;
+
+&lt;li&gt;Experience managing suppliers in a managed service environment.
+&lt;/li&gt;
+
+&lt;li&gt;Fluent in English; knowledge of Dutch and/or French is a strong asset.
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73155581"/>
+    <published>2026-02-26T12:18:38+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73152164</id>
     <title>Senior System Engineer (LGA IT)</title>
     <updated>2026-02-26T09:50:39+00:00</updated>
@@ -4775,5 +4850,13 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73152164"/>
     <published>2026-02-26T09:50:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73153823</id>
+    <title>Full-Stack Java Consultant (Kwery)</title>
+    <updated>2026-02-26T11:45:20+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde Cargovil&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruitzien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Ontwikkelen van applicaties en API's met Java (11+) en Spring Boot, inclusief unit- en integratietests. Je krijgt de keuze om je verder te verdiepen in React of Angular. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ontwerpen en implementeren van een microservices-architectuur met focus op performantie en schaalbaarheid&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Deployen en beheren van applicaties in de cloud met Docker en Kubernetes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Minimaal 5 jaar ervaring als Full-stack Java Developer.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Diepgaande kennis van Java 11+, Spring Framework en ervaring met RESTful API's. Ook heb je kennis van Angular of React. Ervaring van AWS, Azure of GCP is alvast mooi meegenomen!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je bent een communicatieve teamplayer die graag aan kennisdeling doet. Je drukt je vlot uit in het Nederlands, kennis van het Frans en Engels zijn troeven!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Een brutoloon tussen €4.000 en €5.200 op basis van ervaring, waardoor jouw expertise eerlijk wordt beloond.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een premium elektrische bedrijfswagen met ongelimiteerde laadpas en een laadpaal aan huis! Zo ga je steeds duurzaam de baan op zonder extra kosten.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;De hoogste onkostenvergoedingen in de markt en een compleet voordelenpakket inclusief verzekeringen, maaltijdcheques, laptop en gsm! Kleine extra's die echt het verschil maken op je netto loon. Met als kers op de taart een jaarlijkse winstbonus.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een uitstekende work-life balance dankzij flexibele werkuren en 3 dagen thuiswerk. Bovendien geniet je van 32 vakantiedagen zodat je op tijd en stond kan genieten van de zon of sneeuw.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een uitgebreid budget voor trainingen, certificeringen, opleidingen en seminaries, zodat jij dé expert in je vak wordt en blijft!&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Tot slot kom je terecht in een warme onderneming die jouw belangen hoog in het vaandel draagt, geen gigantische consultancy waar je een nummer bent maar een zeer persoonlijke werkgever die jouw groei en voorkeuren centraal zet!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse of vragen? Neem gerust contact op via &lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73153823"/>
+    <published>2026-02-26T11:45:20+00:00</published>
   </entry>
 </feed>
