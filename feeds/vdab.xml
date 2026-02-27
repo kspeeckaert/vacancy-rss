@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-27T09:02:53.799567+00:00</updated>
+  <updated>2026-02-27T10:59:56.100467+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4725,81 +4725,6 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <published>2026-02-25T15:55:50+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73155581</id>
-    <title>Digital Workplace Lead Engineer - Try &amp; Hire (Option for Permanent Contract) (Randstad Digital)</title>
-    <updated>2026-02-26T12:18:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Machelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Are you an experienced IT professional passionate about the modern digital workplace? At Randstad Digital, we are looking for a Digital Workplace Lead Engineer to bridge the gap between technical innovation and operational excellence.&lt;br /&gt;
-
- &lt;br /&gt;
-
-This is a &lt;b&gt;Try &amp; Hire position&lt;/b&gt;: you will start your journey via Randstad Digital with the clear intention of transitioning into a permanent contract with the end-client after a successful initial period. This offers you the perfect opportunity to experience the company culture firsthand while securing a long-term career path. In this role, you will lead the transition from in-house services to a managed service model and optimize collaboration tools for a high-tech environment.&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;&lt;b&gt;Location:&lt;/b&gt; Hybrid (Brussels Region / Remote within Belgium)
-&lt;/li&gt;
-
-&lt;li&gt;&lt;b&gt;Experience:&lt;/b&gt; 5+ years of relevant experience in Workplace Engineering or IT Infrastructure Management.
-&lt;/li&gt;
-
-&lt;li&gt;&lt;b&gt;Education:&lt;/b&gt; Bachelor's or Master's degree in IT, Engineering, or equivalent through experience.
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
- &lt;br /&gt;
-
-&lt;b&gt;Your Tasks:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Lead the design, implementation, and continuous improvement of digital workplace solutions (AV, collaboration tools, and connectivity).
-&lt;/li&gt;
-
-&lt;li&gt;Drive the transition from in-house services to a managed service model, ensuring seamless handover and operational excellence.
-&lt;/li&gt;
-
-&lt;li&gt;Manage external suppliers and service providers, ensuring SLAs are met and value is delivered consistently.
-&lt;/li&gt;
-
-&lt;li&gt;Act as the primary technical point of contact for internal stakeholders, translating business needs into technical solutions.
-&lt;/li&gt;
-
-&lt;li&gt;Maintain a structured way of working through documentation, process governance, and performance tracking.
-&lt;/li&gt;
-
-&lt;li&gt;Collaborate with cross-functional teams to ensure a high-quality user experience across all digital workplace services.
-&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;b&gt;Your Profile:&lt;/b&gt;&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;Proven track record in workplace engineering with deep expertise in Windows 10/11, MacOS, and Microsoft 365 (Teams, SharePoint).
-&lt;/li&gt;
-
-&lt;li&gt;Expertise in endpoint management via tools such as Microsoft Intune or Workspace ONE.
-&lt;/li&gt;
-
-&lt;li&gt;Experience with application packaging and scripting (e.g., PowerShell).
-&lt;/li&gt;
-
-&lt;li&gt;Knowledge of Mobile Application Management (Apple Store Connect &amp; Google Play Store) and Group Policy Management (AD).
-&lt;/li&gt;
-
-&lt;li&gt;Experience managing suppliers in a managed service environment.
-&lt;/li&gt;
-
-&lt;li&gt;Fluent in English; knowledge of Dutch and/or French is a strong asset.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73155581"/>
-    <published>2026-02-26T12:18:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73152164</id>
     <title>Senior System Engineer (LGA IT)</title>
     <updated>2026-02-26T09:50:39+00:00</updated>
@@ -4850,6 +4775,14 @@ This is a &lt;b&gt;Try &amp; Hire position&lt;/b&gt;: you will start your journ
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je werkt mee aan de ontwikkeling van een volledig nieuw project en maakt gebruik van de meest geavanceerde technologieën. Binnen een ervaren scrumteam draag je bij aan zowel de ontwikkeling als de technische analyse, waarbij je zorgt voor nauwkeurige inschattingen van de benodigde ontwikkelingen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Daarnaast waarborg je de consistentie en kwaliteit van de code en lever je hoogwaardige software binnen de afgesproken deadlines.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot speel je een belangrijke rol in het opzetten van testing- en loggingframeworks en deel je jouw expertise door junior collega's te begeleiden en te coachen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een hoger diploma en hebt al enkele jaren ervaring achter de kiezen. We mikken op een minimum van 5 jaar ervaring als full-stack .Net developer. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naast je sterke kennis van .NET en C#, ben je ook vertrouwd met technologieën zoals Microservices, Web API en REST. Daarnaast heb je ervaring met front-end technologieën zoals Blazor, Angular of React, waarbij kennis van Vue een sterke troef is. Kennis van Azure, GCP of AWS is alvast mooi meegenomen!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je hands-on, communicatief en werkt graag in team. Je drukt jezelf vlot uit in het Nederlands en Engels, Frans is een extra troef maar geen must!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris die kan variëren tussen de €4.000 - €5.500, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Vanaf dag 1 kan je rekenen op een premium bedrijfswagen met ongelimiteerde laadkaart. Voor extra comfort kan je ook laden aan het kantoor!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, laptop en GSM. Leuke extra's die het verschil maken!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je komt terecht in een modern kantoor dat net is vernieuwd! Ook kan je 2 dagen van thuis uit werken, wat zorgt voor een ideale work-life balance! Met een royaal budget kun je jouw home office helemaal naar eigen wens inrichten!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Bijleren, groeien en jezelf ontwikkelen staan bij deze bruisende onderneming centraal. Je krijgt toegang tot een breed aanbod aan opleidingen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot kom je terecht in een bruisende werkomgeving waar een mooie mix heerst van jeugdig talent en ervaren experten. Dankzij de vlakke structuur staat ook de deur van de CTO steeds voor jou open!&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73158610"/>
     <published>2026-02-26T15:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73165038</id>
+    <title>.NET Developer  (Hays)</title>
+    <updated>2026-02-27T11:28:59+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Hays (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Lier&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Lier I .NET Developer I Medior I Senior I Vast contract I Voltijds I 1110818&lt;/p&gt;&lt;p&gt;Over de organisatie&lt;br /&gt;&lt;br /&gt;Je komt terecht in een gezellig bedrijf met een familiale sfeer, waar je veel vrijheid krijgt om je talenten te ontplooien. Het bedrijf ontwikkelt innovatieve softwareoplossingen op maat van de klant en werkt aan uiteenlopende, boeiende projecten. Dankzij de groeimogelijkheden en open cultuur krijg je alle kansen om jezelf verder te ontwikkelen en mee te bouwen aan het succes.&lt;/p&gt;&lt;p&gt;Jouw nieuwe functie &lt;br /&gt; &lt;br /&gt;Je maakt software op maat van de klant en werkt mee aan boeiende en leerrijke projecten. Daarbij doorloop je de volledige ontwikkelingscyclus van ontwikkelen over testen tot eventuele support en onderhoud. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Jouw profiel&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Master of Bachelor Toegepaste Informatica of gelijkaardig.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je hebt minimaal 5 jaar ervaring als softwareontwikkelaar.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Je bent een echte teamspeler en kan vlot samenwerken.&lt;br&gt;&lt;/li&gt;&lt;li&gt;.NET kent geen geheimen voor jou.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;De arbeidsvoorwaarden&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een omgeving waar je echt jezelf kan zijn.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Een job met veel groeimogelijkheden.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Een aantrekkelijk loonpakket.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Een leuke collegiale sfeer en veel vrijheid.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Solliciteer direct op deze vacature&lt;br /&gt;&lt;br /&gt;Heb je interesse in deze job? Solliciteer dan snel online en stuur ons je cv, of bel ons op voor meer informatie.&lt;br /&gt;&lt;br /&gt;Is deze job niet helemaal wat je zoekt, maar ben je wel op zoek naar een nieuwe functie? Aarzel niet om ons te contacteren voor een vertrouwelijk gesprek over je carrièremogelijkheden.&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73165038"/>
+    <published>2026-02-27T11:28:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73162741</id>
