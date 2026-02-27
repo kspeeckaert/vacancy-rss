@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-27T10:43:15.622798+00:00</updated>
+  <updated>2026-02-27T13:00:54.765629+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1148,51 +1148,6 @@ Bekijk onze website www.cartiere.be voor meer BI &amp; data vacatures.&lt;/span&
     <link href="https://www.cartiere.be/jobs/data-engineer-4/"/>
     <category term="Data Engineering"/>
     <published>2025-11-26T09:03:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/ml-engineer-2/</id>
-    <title>ML Engineer</title>
-    <updated>2025-11-20T11:55:44+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Battelsesteenweg 455i, Mechelen, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-20 12:55:44+00:00, last change 2025-11-20 11:55:44+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-20 12:55:44+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Stel je voor: werken bij een energiebedrijf dat niet alleen zegt dat het anders wil doen, maar het elke dag bewijst. Een organisatie die 100% hernieuwbare energie levert en voluit inzet op een duurzame toekomst, met investeringen in technologie, data-innovatie én sterk talent.&lt;br&gt;
-&lt;br&gt;
-Hier geen klassieke silo’s, maar klantgerichte en wendbare teams die snel schakelen en echte impact creëren. De lat ligt hoog: ze zoeken mensen die willen groeien, vernieuwen en het verschil willen maken.&lt;br&gt;
-&lt;br&gt;
-In deze dynamische context vormt het datateam een sterk center of expertise. Ze analyseren klantgedrag, bouwen slimme inzichten en ontwikkelen BI-, AI- en machine-learningoplossingen die het bedrijf vooruitstuwen.&lt;br&gt;
-&lt;br&gt;
-Omdat dit team een sleutelrol speelt in het vergroten van de datamaturiteit, kijken we voor hen uit naar een nieuwe collega die hun groei versterkt.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als ML Engineer speel je een cruciale rol binnen het datateam. Je vormt de technische ruggengraat die ervoor zorgt dat data science-modellen niet alleen gebouwd worden, maar ook betrouwbaar en schaalbaar in productie kunnen draaien. Je werkt nauw samen met data scientists en data engineers en zorgt ervoor dat modellen, data en infrastructuur naadloos op elkaar aansluiten.&lt;br&gt;
-&lt;br&gt;
-Jouw rol:
-&lt;ul&gt;
-	&lt;li&gt;Je bent de brug tussen data engineers en data scientists: je begrijpt de dataset en pipelines even goed als de modellen. Je helpt bepalen welke data, features en transformaties nodig zijn om modellen performant te maken. 
-	&lt;li&gt;Wanneer data scientists een nieuw model opleveren, ben jij verantwoordelijk voor industrializatie, deployment en monitoring.
-	&lt;li&gt;Je zet de krijtlijnen uit voor de ML-operatie binnen Eneco: best practices, processen, tooling en standaarden.
-	&lt;li&gt;Je hebt een grote impact op de end-to-end dataketen en werkt nauw samen met het centrale data team.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je hebt minimaal 3 jaar relevante ervaring.
-	&lt;li&gt;Je beschikt over een sterke kennis van Python, SQL, Azure DevOps, CI/CD, en Databricks. 
-	&lt;li&gt;Je hebt ervaring met ETL-processen en datamodellering.
-	&lt;li&gt;Je neemt het team technisch mee en tilt het naar een hoger niveau door best practices, automatisering en structuur te brengen.
-	&lt;li&gt;Je toont technisch leiderschap en streeft naar engineering excellence.
-	&lt;li&gt;Je bent analytisch en conceptueel sterk in de ML lifecycle.
-	&lt;li&gt;Je spreekt vloeiend Engels, Nederlands is een plus.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een warme, informele en hechte werkomgeving waar collega’s elkaar écht kennen en samenwerken om impact te maken. Maandelijkse borrels, spontane traktaties en initiatieven voor goede doelen zorgen voor een gezellige sfeer, terwijl proactiviteit en initiatief hoog gewaardeerd worden. De energiesector bevindt zich midden in een razendsnelle transitie, gevoed door een explosie aan data uit digitale meters, een unieke speeltuin voor analytisch talent. Je werk is zichtbaar, relevant en draagt rechtstreeks bij aan de toekomst van duurzame energie. Als ML Engineer neem je een sleutelrol op in het uitbouwen van de maturiteit van het datalandschap: je bent sparringpartner van de lead, katalysator voor het team en een motor voor verandering. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Wil je meer weten over deze functie? &lt;br&gt;
-Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/ml-engineer-2/"/>
-    <category term="AI &amp; ML Engineer"/>
-    <published>2025-11-20T12:55:44+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/business-data-analyst-python/</id>
