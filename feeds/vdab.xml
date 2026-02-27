@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-27T10:59:56.100467+00:00</updated>
+  <updated>2026-02-27T13:19:37.610596+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4816,5 +4816,56 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
 &lt;li&gt;Je werkt hybride: deels op kantoor (Regio Herentals), deels remote&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73162741"/>
     <published>2026-02-27T08:49:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73166633</id>
+    <title>Operational Support Team Lead (life Power)</title>
+    <updated>2026-02-27T13:34:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: life Power (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;We are LIFEPOWR!&lt;/strong&gt; A young and dynamic company, based in Antwerp, active in the energy transition sector and scaling up rapidly! We develop smart solutions to support the global shift to renewable energy. Our advanced algorithms deliver significant value for households, businesses, and society as a whole.&lt;/p&gt; 
+&lt;p&gt;We virtually connect diverse energy sources such as batteries, electric vehicle chargers, and solar inverters to broader networks of aggregated flexible capacity, balancing energy demand and maximizing the impact of renewable energy. As a service company, we support both channel partners and energy market players, including energy suppliers, DSOs, and TSOs, with access to flexibility and smart energy management.&lt;/p&gt; 
+&lt;p&gt;We are looking for:&lt;/p&gt; 
+&lt;p&gt;An experienced 
+&lt;strong&gt;Operational Support Team Lead&lt;/strong&gt; with a strong track record in building, optimizing, and scaling operational support processes to guarantee the performance and continuity of LIFEPOWR devices.&lt;/p&gt; 
+&lt;p&gt;Key Responsibilities:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Lead and further develop the Operational Support Team within the Operations organization&lt;/li&gt; 
+&lt;li&gt;Support organization: improve the 1st-line setup with an external contact center partner, implement Major Incident Management, define and guard SLAs, manage team workload, and continuously improve service quality&lt;/li&gt; 
+&lt;li&gt;Improve and automate processes across 1st-line, 2nd-line, and partner support desks, drive automation and integration of support systems&lt;/li&gt; 
+&lt;li&gt;Monitor and analyze Support KPIs, with customer satisfaction as a key focus&lt;/li&gt; 
+&lt;li&gt;Act as an escalation point and provide hands-on 1st- or 2nd-line support when needed&lt;/li&gt; 
+&lt;li&gt;Translate operational issues into actionable insights for Product &amp;amp; Engineering&lt;/li&gt; 
+&lt;li&gt;Provide regular operational reporting to management&lt;/li&gt; 
+&lt;li&gt;Define roles, responsibilities and growth paths within the teams&lt;/li&gt; 
+&lt;li&gt;Own and improve customer satisfaction metrics (e.g. NPS)&lt;/li&gt; 
+&lt;li&gt;Collaborate with Sales and Account Management to reduce churn&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;What we expect:&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Strong analytical and problem-solving abilities&lt;/li&gt; 
+&lt;li&gt;Customer-oriented mindset with a passion for helping users and resolving issues&lt;/li&gt; 
+&lt;li&gt;Ability to ask critical questions and challenge assumptions to identify root causes&lt;/li&gt; 
+&lt;li&gt;High sense of ownership and drive to follow issues through to resolution&lt;/li&gt; 
+&lt;li&gt;Structured and detail-oriented approach to documenting processes and findings&lt;/li&gt; 
+&lt;li&gt;Collaborative attitude when coordinating with internal teams and external partners&lt;/li&gt; 
+&lt;li&gt;Comfortable working in a fast-paced scale-up environment&lt;/li&gt; 
+&lt;li&gt;Clear and professional communication skills in English and Dutch; French is a plus&lt;/li&gt; 
+&lt;li&gt;Ability to set clear expectations, goals and priorities for the team&lt;/li&gt; 
+&lt;li&gt;Strong sense of accountability, ensuring commitments are met&lt;/li&gt; 
+&lt;li&gt;Strong people management skills&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Minimum 3 years of experience in a similar role&lt;/li&gt; 
+&lt;li&gt;Experience in technical support, operations, or a comparable environment (SaaS and/or IoT preferred)&lt;/li&gt; 
+&lt;li&gt;Familiarity with the renewable energy market or energy flexibility services is a strong advantage&lt;/li&gt; 
+&lt;li&gt;Experience with ticketing systems; knowledge of Odoo ERP is a plus&lt;/li&gt; 
+&lt;li&gt;Ability to read and interpret logs, performance metrics, and device telemetry&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Flexible working hours within a young, explorative, and fast-growing company.&lt;/li&gt; 
+&lt;li&gt;A friendly and dynamic team, united by a shared mission: delivering the best energy solutions.&lt;/li&gt; 
+&lt;li&gt;A creative environment where your commercial insights and contributions are highly valued, with room to shape strategies and make an impact.&lt;/li&gt; 
+&lt;li&gt;The opportunity to quickly take on significant responsibility in a rapidly scaling organization.&lt;/li&gt; 
+&lt;li&gt;A competitive compensation package, aligned with your experience, skills, and added value to the company.&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73166633"/>
+    <published>2026-02-27T13:34:02+00:00</published>
   </entry>
 </feed>
