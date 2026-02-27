@@ -2,9 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-02-27T13:00:54.765629+00:00</updated>
+  <updated>2026-02-27T14:45:38.407578+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/a-z-data-analist/</id>
+    <title>A-Z data analist</title>
+    <updated>2026-02-26T08:38:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Pittemsestraat 58/A, 8850, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-02-26 09:38:10+00:00, last change 2026-02-26 08:38:10+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-02-26 09:38:10+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;A-Z DATA ANALIST&lt;br&gt;
+&lt;br&gt;
+B E D R I J F :&lt;br&gt;
+&lt;br&gt;
+Deze organisatie bevindt zich in een duidelijke transitiefase richting meer datagedreven werken. Begin dit jaar ging een nieuw dataplatform live. Dat zorgt vandaag voor meerdata, meer inzichten en vooral: meer vragen vanuit de business. Je komt terecht in een familiale omgeving met korte beslissingslijnen, waar zaakvoerders zichtbaar en aanspreekbaar zijn en waar structuren nog volop in opbouw zijn. Geen vastgeroest BI-landschap, maar een context waarin je mee richting geeft, keuzes helpt maken en tastbare impact creëert. De cultuur is hands-on, ondernemend en mensgericht. Wie hier instapt, staat mee aan het begin van een verhaal dat nog volop groeit.&lt;br&gt;
+&lt;br&gt;
+J O B O M S C H R I J V I N G :&lt;br&gt;
+&lt;br&gt;
+Als Data Analist/ BI Analist ben jij de schakel tussen de business en data. Je capteert vragen, brengt structuur en vertaalt behoeften naar heldere, betrouwbare rapportering. Je werkt nauw samen met interne stakeholders, operations en IT. Het BI/data -team is bewust compact, maar werkt in sterke partnership met een ervaren externe data -partner en een intern applicatieteam. Dat maakt jouw rol breed, zichtbaar en inhoudelijk uitdagend.&lt;br&gt;
+&lt;br&gt;
+Concreet:
+&lt;ul&gt;
+	&lt;li&gt;Je capteert businessvragen en vertaalt die naar duidelijke analytische noden
+	&lt;li&gt;Je stelt prioriteiten en bewaakt de focus
+	&lt;li&gt;Je bouwt Power BI-rapporten en datamodellen die echt gebruikt worden
+	&lt;li&gt;Je bewaart het overzicht over verschillende businessdomeinen
+	&lt;li&gt;Je denkt mee op hoger niveau: wat meten we, waarom en hoe nemen we mensen mee?
+	&lt;li&gt;Je werkt projectmatig, met een duidelijke aanpak en continue verbetering
+&lt;/ul&gt;
+Je combineert hands-on werk met conceptueel denken en krijgt ruimte om eindverantwoordelijkheid op te nemen.&lt;br&gt;
+&lt;br&gt;
+J O U W P R O F I E L :
+&lt;ul&gt;
+	&lt;li&gt;Je hebt 2 à 3 jaar ervaring met Power BI en data modellering
+	&lt;li&gt;Je hebt affiniteit met data engineering
+	&lt;li&gt;Je hebt interesse in AI-gedreven werken en data-innovatie
+	&lt;li&gt;Ervaring met Azure en Databricks zijn een plus
+	&lt;li&gt;Python is een plus
+	&lt;li&gt;Je bent analytisch sterk, maar blijft pragmatisch
+	&lt;li&gt;Je communiceert helder en voelt je comfortabel in stakeholdermanagement
+&lt;/ul&gt;
+U N I E K K A R A K T E R :&lt;br&gt;
+&lt;br&gt;
+Je stapt aan de start van een dataverhaal, met veel autonomie en zichtbare impact in een omgeving waar nog volop ruimte is om te bouwen. Dankzij korte beslissingslijnen en een familiale cultuur gebaseerd op vertrouwen krijg je de kans om actief mee structuren en keuzes te bepalen in een context met veel onontgonnen potentieel.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer?&lt;br&gt;
+Stuur nu jouw CV naar gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.</content>
+    <link href="https://www.cartiere.be/jobs/a-z-data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-02-26T09:38:10+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-5/</id>
     <title>Data Engineer</title>
