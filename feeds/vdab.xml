@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-27T20:50:17.420841+00:00</updated>
+  <updated>2026-02-27T22:46:10.426722+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
-    <title>Senior DevOps architect (Cronos)</title>
-    <updated>2026-02-17T16:30:57+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
-    <published>2024-02-07T14:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
     <title>Product Owner APEX software factory (Cronos)</title>
@@ -3780,6 +3757,37 @@ Solliciteer dan zo snel mogelijk!&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Pensaert &amp;amp; Partners BV (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Zaventem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Je bent verantwoordelijk voor de leiding en uitvoering van uitdagende Data &amp;amp; AI-projecten, zowel intern als bij klanten.&lt;/li&gt;&lt;li&gt;Je geeft advies over architectuur, tooling en datagedreven oplossingen, inclusief procesoptimalisatie.&lt;/li&gt;&lt;li&gt;Je ondersteunt de presale trajecten (RFP's, demo's, proof-of-concepts) en kennisdeling binnen het team.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Je hebt minimaal 5 jaar ervaring met Microsoft Data &amp;amp; AI-tools en hebt bij voorkeur het Data Fabric-certificaat behaald.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met tools zoals Databricks, Azure en Power BI.&lt;/li&gt;&lt;li&gt;Je hebt ervaring met grootschalige projecten en levert kwaliteit, innovatie en resultaat. Tot slot ben je communicatief sterk in het Nederlands en Engels.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou?&lt;br&gt;&lt;br&gt;&lt;ul dir="ltr"&gt;&lt;li&gt;Een bruto maandsalaris tussen €5.000 - €6.000, passend bij jouw ervaring en expertise.&lt;/li&gt;&lt;li&gt;Een splinternieuwe bedrijfswagen naar keuze inclusief laadpas, zodat je elke dag comfortabel en zorgeloos kunt reizen.&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan extralegale voordelen, zoals een onkostenvergoeding van €300, verzekeringen en flexibele werkuren, die jouw werkdag net aangenamer maken.&lt;/li&gt;&lt;li&gt;Je kunt 3 tot 4 dagen per week thuis werken en 1 tot 2 dagen bij de klant of op kantoor, helemaal afgestemd op jouw ritme en voorkeur.&lt;/li&gt;&lt;li&gt;Je krijgt volop mogelijkheden voor persoonlijke groei en opleidingen, inclusief de kans om het Data Fabric-certificaat te behalen.&lt;/li&gt;&lt;li&gt;Je wordt deel van een warme, mensgerichte organisatie waar samenwerking, kennisdeling en kwaliteit echt centraal staan.&lt;/li&gt;&lt;li&gt;Vertrouwen, autonomie en respect zijn hier de basis; jouw ideeën, expertise en inzet worden hier oprecht gewaardeerd.&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://jobs.kwery.be/&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73037043"/>
     <published>2026-02-11T07:42:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73041093</id>
+    <title>SAP Project manager (LGA IT)</title>
+    <updated>2026-02-11T13:40:42+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Takenpakket&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In de rol van SAP project manager neem jij de regie over de grootschalige overstap naar een nieuw systeem, waarbij je de brug slaat tussen de algemene strategie en de dagelijkse werkvloer. Jouw focus ligt op:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Leidinggeven aan het projectteam: Je coacht en begeleidt vijf ervaren projectleiders die werken aan diverse initiatieven zoals duurzaamheid en operationele effici&amp;euml;ntie, waarbij je de voortgang bewaakt en bijstuurt waar nodig.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Aansturen van de ERP-uitrol: Je bent verantwoordelijk voor de procesmatige implementatie van SAP, waarbij je de huidige werkwijzen analyseert en vertaalt naar een toekomstbestendige omgeving.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Begeleiden van verandering: Als Project Lead besteed je veel aandacht aan change management om te zorgen dat de organisatie de nieuwe tools en processen vlot omarmt.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Stakeholdermanagement: Je schakelt moeiteloos tussen de directie, internationale teams en de lokale werkvloer om neuzen in dezelfde richting te krijgen.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Rapportage en borging: Je verzorgt de periodieke updates voor het management en zorgt voor een naadloze overdracht van afgeronde projecten naar de staande organisatie.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;&lt;strong&gt;&lt;span&gt;Profiel&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We zoeken voor deze positie een analytische denker die structuur brengt in complexe uitdagingen.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Je beschikt over een bachelordiploma en kijkt terug op minstens vijf jaar relevante ervaring in projectmanagement.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Een goede basiskennis van SAP-implementaties is essentieel, waarbij je begrijpt hoe nieuwe software de dagelijkse workflow be&amp;iuml;nvloedt.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Collega's omschrijven jou als een besluitvaardige leider die rust bewaart en anderen weet te enthousiasmeren voor vernieuwing.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring met het aansturen van autonome professionals is een grote plus, aangezien je jouw team de vrijheid geeft om zelfstandig resultaten te boeken.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ervaring in PMO is een must (Prince2 / Agile / ...)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;&lt;strong&gt;&lt;span&gt;Aanbod&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Wat mag jij verwachten in de rol van ERP Implementatie Project Lead? Een pakket dat recht doet aan jouw expertise en verantwoordelijkheid:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Aantrekkelijk brutosalaris: Een maandelijks loon tussen &amp;euro;4.000 en &amp;euro;7.000, volledig afgestemd op jouw rugzak aan ervaring.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Mobiliteit zonder zorgen: Een moderne bedrijfswagen inclusief laadkaart, zodat je altijd vlot op je bestemming aankomt.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Gezonde lunchgarantie: Maaltijdcheques van &amp;euro;8 per gewerkte dag voor een aangename middagpauze.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Uitstekende verlofregeling: Met 30 vakantiedagen per jaar geniet je van een gezonde werk-priv&amp;eacute;balans.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Financi&amp;euml;le extra's: Jaarlijks ontvang je &amp;euro;250 aan ecocheques en een maandelijkse netto onkostenvergoeding.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Volledige connectiviteit: Je krijgt de beschikking over een smartphone met abonnement en een high-end laptop.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Zekerheid voor later: Een uitgebreide hospitalisatieverzekering en een solide groepsverzekering zijn standaard inbegrepen.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Focus op welzijn: De mogelijkheid om via een voordelig tarief een fiets te leasen voor je woon-werkverkeer.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Informele sfeer: Naast het werk ben je altijd welkom op de gezellige afterwork drinks en personeelsevents.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Herken je jezelf in deze jobomschrijving en/of wens je meer informatie? Solliciteer snel en we nemen contact met je op!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73041093"/>
+    <published>2026-02-11T13:40:42+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73041093</id>
