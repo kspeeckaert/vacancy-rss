@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-02-28T22:44:49.750884+00:00</updated>
+  <updated>2026-03-01T05:41:48.629844+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
+    <title>Senior DevOps architect (Cronos)</title>
+    <updated>2026-02-17T16:30:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
+    <published>2024-02-07T14:09:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
+    <title>Product Owner APEX software factory (Cronos)</title>
+    <updated>2026-02-17T16:24:35+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als leider van ons development team speel je een cruciale rol in het succes van onze projecten.&lt;/p&gt;&lt;p&gt;Jij bent verantwoordelijk voor het opstellen van planningen, het aansturen van het team en het zorgen voor effectieve communicatie, zowel intern als met onze klanten.&lt;/p&gt;&lt;p&gt;Met jouw sterke people management skills en gedegen ervaring in het leiden van diverse projecten, ben je in staat om het beste uit je team te halen en aan de klantverwachtingen te voldoen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wat maakt deze rol zo interessant?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gevarieerde projecten: Je krijgt de kans om te werken aan uitdagende en innovatieve projecten binnen de APEX Software Factory. Dit stelt je in staat om voortdurend out-of-the-box te denken en creatief aan de slag te gaan.&lt;/li&gt;&lt;li&gt;Impact en verantwoordelijkheid: Als Product Owner ben je de spil tussen het team en de klant. Jouw beslissingen en leiderschap hebben directe invloed op de kwaliteit en het succes van onze softwareoplossingen. Je krijgt de verantwoordelijkheid om het verschil te maken en de groei van ons team te stimuleren.&lt;/li&gt;&lt;li&gt;Werken met een toegewijd team: Bij Contribute geloven we in de kracht van teamwork. Je zal samenwerken met een getalenteerd en gedreven development team. Samen zorgen jullie voor baanbrekende oplossingen en stellen jullie de klanttevredenheid centraal.&lt;/li&gt;&lt;li&gt;Professionele groei en ondersteuning: We investeren in onze medewerkers en bieden volop mogelijkheden voor professionele groei. Je hebt toegang tot trainingen, workshops en coaching om je leiderschapsvaardigheden verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jouw technische bagage&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gedegen ervaring als Product Owner&lt;/li&gt;&lt;li&gt;Naast agile ben je ook bekend met andere methodologieën zoals bv waterfall, PMI, Prince2,…&lt;/li&gt;&lt;li&gt;Ervaring met low code projecten is een plus maar geen must!&lt;/li&gt;&lt;li&gt;Bewezen trackrecord in het succesvol simultaan leiden van diverse projecten&lt;/li&gt;&lt;li&gt;Uitstekende planning- en organisatorische vaardigheden.&lt;/li&gt;&lt;li&gt;Sterke people management skills en ervaring in het aansturen en motiveren van een development team&lt;/li&gt;&lt;li&gt;Je bent vlot in NL/ENG, F is een pluspunt&lt;/li&gt;&lt;li&gt;Jira/Confluence heeft weinig tot geen geheimen voor jou&lt;/li&gt;&lt;li&gt;Je hebt ervaring met werken binnen een support model (SLA, flow, verschillende support lijnen,…)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;oracle&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;apex&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;product owner&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;agile&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;project manager&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;low code&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;planning&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;organisatie&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;jira&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;confluence&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Ons aanbod&lt;/p&gt;&lt;p&gt;Bij Contribute kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA.&lt;/p&gt;&lt;p&gt;Je komt terecht in een team van ervaren developers met wie je kennis kan delen en waar je elkaar kan inspireren. Je staat eveneens in nauw contact met onze technische teams bij wie je ook kan terugvallen op hun expertise wanneer dat nodig is. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact en krijg je beter inzichten in de technologieën en oplossingen waar we mee werken.&lt;/p&gt;&lt;p&gt;We nemen de tijd om, op basis van een persoonlijk groeiplan, jouw evolutie te faciliteren in de richting die je zelf mee bepaalt. Verschillende gesprekken doorheen het jaar zorgen dat dit groeiplan leeft en aangepast wordt waar nodig.&lt;/p&gt;&lt;p&gt;Op de verschillende social events (shortski, familiedag/weekend, afterwork drinks,…) vormen we ook na de uren een hecht team en leer je je collega’s ook op een andere manier kennen!&lt;/p&gt;&lt;p&gt;En last but not least bieden we een competitief salarispakket, een uitgebreid pakket aan voordelen en kortingen en uiteraard een stel gepassioneerde toffe collega’s.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68298342"/>
+    <published>2024-02-08T13:51:10+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68307168</id>
     <title>Solution architect (Cronos)</title>
@@ -337,7 +380,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69231341</id>
     <title>Microsoft BI Consultant (Cronos)</title>
-    <updated>2026-01-30T00:01:24+00:00</updated>
+    <updated>2026-03-01T00:00:48+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Olen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Onze droom is ‘to empower every professional to make the best data driven decision’.&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Data omtoveren tot bruikbare kennis, wordt heel tastbaar voor je. Je werkt aan het ETL of ELT proces, de integratie &amp; modelering van data, datawarehousing en rapportering en visualisering in Power BI. Of het nu MS data services on premise betreft of in Azure of een combinatie van beide. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class="ql-cursor"&gt;﻿﻿&lt;/span&gt;Maak je geen zorgen.&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;Complexiteit en rollen binnen opdrachten zijn op jouw maat:  voldoende uitdagend om bij te leren en niet boven je petje. Als je leergierigheid, zelfstandigheid en initiatief toont, komt dat dik in orde. Vergeet niet dat je een team van behulpzame Koherianen achter je hebt die je graag helpen en doen groeien. &lt;/p&gt;&lt;p&gt;Projectmatig werken, langdurige opdrachten, alle opties zijn mogelijk. Afhankelijk van de opdracht werk je alleen of samen, beheer je zelf het projectmanagement of niet. Ook meewerken aan presales kan. Variatie en continu bijleren door te doen, zijn dé troeven van deze job. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Qualities&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Azure data factory &lt;/li&gt;&lt;li&gt;Azure Synapse Analytics (nice to have) &lt;/li&gt;&lt;li&gt;Azure Datalake services (nice to have) &lt;/li&gt;&lt;li&gt;SSIS, SSAS &amp; SSRS (integration, analysis &amp; reporting services) &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;Microsoft Azure&lt;/p&gt;&lt;/li&gt;
             &lt;/ul&gt;
@@ -617,53 +660,6 @@
 &lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p class="ql-align-justify"&gt;&lt;strong&gt;Waarom kiezen voor UNIT-D? &lt;/strong&gt;&lt;/p&gt;&lt;p class="ql-align-justify"&gt;Bij UNIT-D kom je terecht in een organisatie met een start-up mindset, waar je de kans krijgt om écht impact te maken en mee te bepalen hoe de toekomst eruitziet. De focus ligt op de nieuwste Dell-technologieën en private datacenteroplossingen. Daarnaast bieden we een omgeving waarin innovatie en groei centraal staan, zodat je de laatste trends op het gebied van AI, data-opslag en cyber recovery kunt ontdekken en ermee aan de slag kunt. Autonomie en uitdaging gaan hand in hand, waardoor je het initiatief kunt nemen, kunt werken aan interessante projecten en je expertise kunt uitbreiden.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat bieden wij?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li class="ql-align-justify"&gt;Binnen UNIT-D krijg je de kans om een cruciale rol te spelen in de groei en ontwikkeling van onze organisatie en de technische visie. Je krijgt de vrijheid om oplossingen te ontwikkelen die onze klanten echt vooruithelpen en strategische beslissingen te nemen die impact maken.&lt;/li&gt;&lt;li class="ql-align-justify"&gt;Je werkt in een hecht team van ervaren professionals die jouw ambities ondersteunen en je uitdagen om het beste uit jezelf te halen, met toegang tot een breed netwerk van experts binnen de cluster en de Cronos Groep.&lt;/li&gt;&lt;li class="ql-align-justify"&gt;Je ontvangt een competitief salarispakket met extralegale voordelen, waaronder een GSM, een bedrijfswagen met tankkaart, maaltijdvergoeding, nettovergoeding, hospitalisatieverzekering, groepsverzekering, aanvullende zorg verzekering, en meer.&lt;/li&gt;&lt;li class="ql-align-justify"&gt;Flexibele werktijden, glijdende uren en volop mogelijkheden voor thuiswerk zijn integraal onderdeel van onze cultuur.&lt;/li&gt;&lt;li class="ql-align-justify"&gt;Bij UNIT-D krijg je de kans om te groeien en innoveren in een organisatie met een solide basis van klanten en expertise, met de vrijheid om een wezenlijk verschil te maken.&lt;/li&gt;&lt;/ul&gt;&lt;p class="ql-align-justify"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-justify"&gt;&lt;strong&gt;Ben jij de Data Architect die we zoeken? Solliciteer nu en bouw mee aan de toekomst van UNIT-D!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/70562661"/>
     <published>2025-03-03T10:29:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/70759172</id>
-    <title>ITS Information Security Officer (Gosselin Group)</title>
-    <updated>2026-01-02T17:08:44+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Gosselin Group (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Deurne&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Information Security Officer &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span&gt;Ben jij een IT-beveiligingsgoeroe die hackers liever buiten de deur houdt dan binnenlaat? Wil je een sleutelrol spelen in het beschermen van onze informatie en systemen? &lt;/span&gt;&lt;/em&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span&gt;Wij zoeken een gedreven 
-&lt;strong&gt;Information Security Officer&lt;/strong&gt; die onze beveiligingsstrategie naar een hoger niveau tilt. Samen met ons IT-Team van 30 mensen werk je vanuit het Gosselin-kantoor in Deurne.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span&gt;Dit is een uitdagende kans binnen een groeiend IT-team waar je collega’s wél mogen inloggen!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Doelstelling:&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als IT Information Security Officer ben je verantwoordelijk voor het ontwikkelen, implementeren en bewaken van het informatiebeveiligingsbeleid. Je zorgt ervoor dat onze systemen en gegevens optimaal beschermd zijn tegen cyberdreigingen en compliance-risico’s. Je werkt nauw samen met je directe collega en een team van 30 IT-professionals en rapporteert rechtstreeks aan de ITS Director&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jobinhoud:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Ontwikkelen en implementeren van informatiebeveiligingsbeleid, richtlijnen en procedures;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Identificeren en beheren van beveiligingsrisico’s en kwetsbaarheden binnen de IT-infrastructuur;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Monitoren van de naleving van beveiligingsmaatregelen en regelgeving (zoals ISO 27001, GDPR);&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Coördineren van beveiligingsaudits en risicobeoordelingen;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Adviseren van het management en IT-team over best practices en dreigingen op het gebied van &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt; cybersecurity;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Reageren op beveiligingsincidenten en het uitvoeren van forensisch onderzoek indien nodig;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Bewustwording en training over informatiebeveiliging binnen de organisatie bevorderen&lt;/span&gt;&lt;span&gt;;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span lang="EN-US"&gt;Jouw talenten:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een relevante opleiding in IT, Cybersecurity of vergelijkbaar;&lt;/li&gt; 
-&lt;li&gt;Ervaring met informatiebeveiliging, risicoanalyse en compliance;&lt;/li&gt; 
-&lt;li&gt;Kennis van ISO 27001, GDPR en andere relevante wet- en regelgeving;&lt;/li&gt; 
-&lt;li&gt;Ervaring met securitytools en -technieken (firewalls, IDS/IPS, SIEM, enz.);&lt;/li&gt; 
-&lt;li&gt;Analytisch en probleemoplossend vermogen;&lt;/li&gt; 
-&lt;li&gt;Sterke communicatieve vaardigheden en het vermogen om complexe materie helder over te brengen;&lt;/li&gt; 
-&lt;li&gt;Proactieve en resultaatgerichte instelling;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Ons aanbod:&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;Als 
-&lt;strong&gt;Information Security Officer&lt;/strong&gt; bieden wij je:&lt;/em&gt;&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een uitdagende functie in een internationale omgeving;&lt;/li&gt; 
-&lt;li&gt;Een marktconform loonpakket met tal van extralegale voordelen, flexibele werkuren, buiten de toegekende verlofdagen door de sector ben je ook een extra dagje vrij op jouw verjaardag, fietsleasing, …;&lt;/li&gt; 
-&lt;li&gt;Ruime opleidings- en ontwikkelingsmogelijkheden zowel intern als extern;&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een klein team waar er graag samen gelachen wordt en waar collegialiteit&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/70759172"/>
-    <published>2025-03-31T12:02:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70760749</id>
@@ -2157,149 +2153,6 @@
     <published>2026-01-16T13:58:18+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849340</id>
-    <title>Full Stack Developer (PeakPeople)</title>
-    <updated>2026-01-29T14:34:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Heist-Op-Den-Berg&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full Stack Developer&lt;/p&gt; 
-&lt;p&gt;Ben jij de developer die niet alleen code schrijft, maar ook slimme oplossingen bedenkt die écht werken? 
-&lt;br /&gt;Dan zoeken we jou. Als 
-&lt;strong&gt;Full Stack Developer&lt;/strong&gt; bouw je mee aan uitdagende projecten in een moderne stack, samen met een hecht team dat kennis deelt, elkaar uitdaagt en plezier maakt.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Wat ga je doen? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt met 
-&lt;strong&gt;.NET 6, Angular en SQL&lt;/strong&gt; als je vaste toolkit.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ook 
-&lt;strong&gt;Entity Framework, Docker en Git&lt;/strong&gt; komen vaak langs in je projecten.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bonuspunten (maar geen must) als je ervaring hebt met 
-&lt;strong&gt;Linq, Azure DevOps, OAuth of Keycloak&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je denkt analytisch en brengt graag 
-&lt;strong&gt;vernieuwende ideeën&lt;/strong&gt; in.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent kritisch waar het moet, maar blijft altijd positief ingesteld.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je combineert zelfstandigheid met teamwork en springt in waar collega’s je nodig hebben.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Deadlines? Jij houdt het hoofd koel en behoudt structuur.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt idealiter 
-&lt;strong&gt;7 jaar ervaring&lt;/strong&gt; als developer.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je bent sterk in 
-&lt;strong&gt;probleemoplossend denken&lt;/strong&gt; en proactief in je aanpak.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je communiceert helder, durft je mening te geven en hebt gevoel voor humor.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je voelt je thuis in een team dat elkaar versterkt en samen successen viert.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat mag je verwachten?&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een groeiende omgeving met een 
-&lt;strong&gt;informele cultuur&lt;/strong&gt; en meet-ups waar kennis delen centraal staat.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een 
-&lt;strong&gt;aantrekkelijk loonpakket&lt;/strong&gt; met extralegale voordelen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;&lt;strong&gt;Hybride werken&lt;/strong&gt; en een gezonde work/life balance.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een cultuur waarin 
-&lt;strong&gt;iedere stem telt&lt;/strong&gt; – jouw mening maakt een verschil.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Investering in jouw 
-&lt;strong&gt;opleiding en ontwikkeling&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Leuke extra’s: sportieve challenges, cafébezoekjes, een jaarlijkse teambuilding en andere gezellige activiteiten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;Kortom: je krijgt hier niet alleen een job, maar een plek waar je kan groeien, impact maken én plezier beleven.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Klaar om je stempel te drukken als Full Stack Developer?&lt;/strong&gt; Stuur ons vandaag nog je cv en laat van je horen!&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849340"/>
-    <published>2026-01-16T14:53:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849399</id>
-    <title>Full Stack JAVA Developer (PeakPeople)</title>
-    <updated>2026-01-29T14:32:03+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Putte&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full-stack Java Developer&lt;/p&gt; 
-&lt;p&gt;Je kent het wel: projecten waar je 
-&lt;em&gt;echt&lt;/em&gt; impact hebt, collega’s die samenwerken vanzelfsprekend maken en een werkomgeving waar je kan groeien zonder constant van project naar project te moeten springen.
-&lt;br /&gt;Exact dat biedt mijn klant.&lt;/p&gt; 
-&lt;p&gt;Ze zoeken een 
-&lt;strong&gt;Full Stack Java Developer&lt;/strong&gt; die graag verantwoordelijkheid neemt, houdt van helderheid en voelt dat het tijd is voor een plek waar je werk ertoe doet — in plaats van alleen maar tickets weg te werken.&lt;/p&gt; 
-&lt;p&gt; Wat je gaat doen&lt;/p&gt; 
-&lt;p&gt;Geen loze buzzwords, geen eindeloze lagen management. Wel:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Bouwen aan Java backends die stevig, modern en clean zijn.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Werken aan front-end interfaces (Angular of React) die logisch, snel en gebruiksvriendelijk zijn.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Meedenken over de architectuur, codekwaliteit en technische keuzes — jouw stem telt hier.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Samenwerken met een team van ontwikkelaars die kiezen voor professionaliteit én menselijkheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Features uitwerken van analyse tot release, zodat jij het eindresultaat ziet van wat je bouwt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; Waarom jij hier op je plaats zit&lt;/p&gt; 
-&lt;p&gt;Omdat jij iemand bent die:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;graag end-to-end werkt (van idee tot oplevering),&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;houdt van een omgeving waar kwaliteit primeert boven snelheid,&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;verantwoordelijkheid neemt en initiatief apprecieert,&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;niet alleen codeert, maar meedenkt, verbetert en richting geeft,&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;zin heeft om te werken in een stabiel, mensgericht bedrijf waar mensen blijven — niet komen en gaan.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; Jouw toolbox&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Java / Spring (Boot)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Angular of React&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;SQL / relationele databases&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;REST APIs&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;CI/CD en moderne development practices&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Basiskennis DevOps (bonuspunten, geen must)&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt; Wat je ervoor terugkrijgt&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een sterk loonpakket op maat van jouw ervaring&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Flexibele uren + mogelijkheid tot telewerk&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Opleidingsbudget &amp;amp; coaching&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Stabiele werkomgeving met realistische verwachtingen&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Collega’s die talent, inzet en eerlijkheid waarderen&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt; Waarom mensen hier graag werken&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je krijgt vertrouwen én autonomie: geen micromanagement.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt in een hecht team waar iedereen elkaar vooruit helpt.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je wordt gewaardeerd als mens, niet als resource.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je leert van ervaren ontwikkelaars die je technisch sterker maken.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je werkt op projecten met lange termijn impact, geen wegwerpmissies.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je krijgt ruimte om te groeien in de richting die jij belangrijk vindt.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt; Zin in een plek waar jij écht kan groeien?&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Stuur me een bericht en ik vertel je graag meer over mijn klant, het team, de projecten en waarom dit voor veel developers een 
-&lt;strong&gt;blijvers-plek&lt;/strong&gt; wordt — geen tussenstop.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849399"/>
-    <published>2026-01-16T15:00:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72849175</id>
     <title>Deskundige ICT (DDS DENDER DURME SCHELDE)</title>
     <updated>2026-01-16T14:38:47+00:00</updated>
@@ -2417,14 +2270,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Tergos (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wijnegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;br&gt;Bij &lt;strong&gt;Orange Cyberdefense&lt;/strong&gt; zijn we op zoek naar een &lt;strong&gt;Netwerk &amp;amp; Security Engineer&lt;/strong&gt; die klanten ondersteunt bij het ontwerpen, implementeren en optimaliseren van moderne netwerk- en securityomgevingen. Je werkt met voldoende autonomie om projecten van A tot Z op te nemen en klanten te adviseren als trusted advisor.&lt;br&gt;Als persoon ben je iemand die zijn/haar plan kan trekken en graag afwisseling heeft tussen technische uitvoering, advies en samenwerking met klanten en collega's.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Job inhoud:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Implementeren, configureren en optimaliseren van netwerk- en securityoplossingen bij klanten.&lt;/li&gt;&lt;li&gt;Actief meewerken aan projecten rond firewalls en netwerkbeveiliging (o.a. Palo Alto, Fortinet).&lt;/li&gt;&lt;li&gt;Analyseren van bestaande netwerken en security-architecturen en vertalen naar concrete verbeteringen.&lt;/li&gt;&lt;li&gt;Fungeren als trusted advisor door de securitynoden van klanten correct te capteren.&lt;/li&gt;&lt;li&gt;Uitvoeren van fysieke installaties en on-site interventies bij klanten.&lt;/li&gt;&lt;li&gt;Volledig ownership nemen over projecten: van voorbereiding tot oplevering en documentatie.&lt;/li&gt;&lt;li&gt;Troubleshooting en ondersteuning bieden bij complexe netwerk- en securityvraagstukken.&lt;/li&gt;&lt;li&gt;Samenwerken met collega-consultants, presales en sales om kansen in de markt te detecteren.&lt;/li&gt;&lt;li&gt;Actief kennis onderhouden via opleidingen en certificeringen.&lt;/li&gt;&lt;li&gt;Deelnemen aan een rotatiesysteem binnen het team (project- en supportcontext).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw profiel:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minstens &lt;strong&gt;5 jaar relevante ervaring&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Sterke kennis van &lt;strong&gt;Palo Alto&lt;/strong&gt; en &lt;strong&gt;Fortinet&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Ervaring met netwerkoplossingen zoals &lt;strong&gt;Juniper, Extreme Networks en HPE&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Grondige kennis van routing &amp;amp; switching, netwerkprotocollen en netwerkarchitectuur.&lt;/li&gt;&lt;li&gt;Ervaring met securityconcepten zoals firewalling, network security en cloud security.&lt;/li&gt;&lt;li&gt;Bachelor of master, of gelijkwaardig door ervaring.&lt;/li&gt;&lt;li&gt;Zelfstandig, proactief en verantwoordelijkheidszin voor het volledig afronden van projecten.&lt;/li&gt;&lt;li&gt;Sterke communicatieve vaardigheden en klantgerichte mindset.&lt;/li&gt;&lt;li&gt;Vloeiend in &lt;strong&gt;Nederlands en Engels&lt;/strong&gt;; kennis van Frans is een plus.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Het aanbod:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een uitdagende rol binnen een internationale cybersecurityspeler.&lt;/li&gt;&lt;li&gt;Afwisseling tussen on-site en remote projecten bij klanten.&lt;/li&gt;&lt;li&gt;Competitief salarispakket met uitgebreide extralegale voordelen (incl. bedrijfswagen).&lt;/li&gt;&lt;li&gt;32 vakantiedagen, verzekeringen, laptop, gsm, internetabonnement, …&lt;/li&gt;&lt;li&gt;Ruime opleidings- en certificeringsmogelijkheden.&lt;/li&gt;&lt;li&gt;Flexibele werkplekken in o.a. Antwerpen, Brussel, Gent, Rotselaar en Nivelles.&lt;/li&gt;&lt;li&gt;Werken in een collegiale, transparante en mensgerichte cultuur.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72858239"/>
     <published>2026-01-19T10:22:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72867530</id>
-    <title>.Net Software Engineer (Kingfisher IT)</title>
-    <updated>2026-02-04T10:05:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br/&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team. Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en oplossingen ontwerpt, bouwt en optimaliseert. Je denkt mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk. Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen   tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm   abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk  3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72867530"/>
-    <published>2026-01-20T10:19:15+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72866714</id>
