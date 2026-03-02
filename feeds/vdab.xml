@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-02T21:01:00.580061+00:00</updated>
+  <updated>2026-03-02T22:50:52.449640+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4233,49 +4233,6 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT! (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij in ons On IT verhaal?&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Als Modern Workplace Engineer bouw je mee aan toekomstgerichte digitale werkplekken binnen een dynamische MSP-omgeving. Met jouw expertise in Microsoft 365 neem je ownership over projecten en klantomgevingen, van implementatie tot optimalisatie. Je combineert technische diepgang met klantgericht advies en maakt zo dagelijks impact bij uiteenlopende organisaties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ownership &amp;amp; Klantgerichtheid&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Volledige verantwoordelijkheid voor uitvoering en opvolging van klanten en projecten binnen het Modern Workplace Competence Center.&lt;/li&gt;&lt;li&gt;Optreden als technisch aanspreekpunt voor klanten en zorgen voor heldere, transparante communicatie over planning, voortgang en technische keuzes.&lt;/li&gt;&lt;li&gt;Bewaken van kwaliteit en continuïteit van klantomgevingen volgens vastgelegde technische baselines.&lt;/li&gt;&lt;li&gt;Signaleren van afwijkingen binnen de standaardarchitectuur en proactief adviseren over verbeteringen.&lt;/li&gt;&lt;li&gt;Nauwe samenwerking met de Teamlead en collega engineers om kennisdeling en kwaliteitsborging te waarborgen.&lt;/li&gt;&lt;li&gt;Dagelijkse opstart met analyse van eventuele escalaties en prioriteiten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Projectenmatig werken&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Uitvoeren van implementaties, migraties en configuraties binnen het Microsoft 365-ecosysteem (Exchange Online, SharePoint Online, Teams, Intune).&lt;/li&gt;&lt;li&gt;Begeleiden van migratieprojecten (bijvoorbeeld SharePoint-migraties) van analyse tot oplevering.&lt;/li&gt;&lt;li&gt;Vertalen van technische requirements naar concrete oplossingen met correcte documentatie.&lt;/li&gt;&lt;li&gt;Combineren van onsite implementatiedagen bij klanten met remote- en kantoorwerk (hybride werkomgeving).&lt;/li&gt;&lt;li&gt;Zelfstandig beheren van planning en proactief oppakken van optimalisaties bij beschikbare capaciteit.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Beheer &amp;amp; Optimalisatie&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Beheer en optimalisatie van volledige Microsoft 365-omgevingen.&lt;/li&gt;&lt;li&gt;Fungeren als L3-escalatiepunt voor de servicedesk en remote oplossen van complexe technische incidenten.&lt;/li&gt;&lt;li&gt;Automatiseren van processen via PowerShell, scripting en policies waar mogelijk.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Actief bijdragen aan innovatie, optimalisatie en technologische verbeteringen binnen de Modern Workplace-architectuur.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Kwalificaties&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Opleiding &amp;amp; Ervaring&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of masterdiploma in IT, Toegepaste Informatica of gelijkwaardig door ervaring.&lt;/li&gt;&lt;li&gt;Minimaal 3 jaar relevante ervaring als Modern Workplace Engineer, System Engineer of IT Consultant binnen het Microsoft 365-domein.&lt;/li&gt;&lt;li&gt;Aantoonbare ervaring binnen een MSP-omgeving (Managed Service Provider).&lt;/li&gt;&lt;li&gt;Ervaring met projectmatig werken en klantgerichte IT-omgevingen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technische Kennis&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sterke kennis van Microsoft 365 en het bredere Modern Workplace-ecosysteem.&lt;/li&gt;&lt;li&gt;Grondige expertise in Microsoft Intune, Autopilot, Azure AD (Entra ID) en Endpoint Management.&lt;/li&gt;&lt;li&gt;Uitgebreide kennis van Microsoft Teams, SharePoint Online en OneDrive for Business.&lt;/li&gt;&lt;li&gt;Ervaring met PowerShell en/of automatisatie (pré).&lt;/li&gt;&lt;li&gt;Inzicht in security, policies en governance binnen Microsoft 365-omgevingen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Professionele Competenties&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Sterke communicatieve vaardigheden, zowel technisch als klantgericht.&lt;/li&gt;&lt;li&gt;Zelfstandig kunnen werken met een uitgesproken gevoel voor ownership.&lt;/li&gt;&lt;li&gt;Proactieve en oplossingsgerichte ingesteldheid.&lt;/li&gt;&lt;li&gt;Assertief genoeg om technische keuzes te onderbouwen en klanten professioneel te adviseren.&lt;/li&gt;&lt;li&gt;&lt;p&gt;In staat om prioriteiten te stellen en gestructureerd te werken binnen een dynamische MSP-context.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Aanbod&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontvang&amp;nbsp;&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verzekering:&lt;/strong&gt;&amp;nbsp;profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technische uitrusting:&lt;/strong&gt;&amp;nbsp;Laptop, een telefoonbudget en abonnement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verlof:&lt;/strong&gt;&amp;nbsp;Geniet van 32 vakantiedagen per jaar&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Professionele ontwikkeling:&lt;/strong&gt; Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73121270"/>
     <published>2026-02-23T08:39:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73129212</id>
-    <title>Operationeel analist (Talentus)</title>
-    <updated>2026-02-24T00:05:03+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
-&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Analyseren van operationele en technische problemen op basis van data, observaties en feedback uit de operatie.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Onderzoeken van processen op de werkvloer en&lt;strong&gt; vertalen van cijfers en rapporten naar concrete verbeteracties&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Voorstellen en implementeren van zowel korte termijn oplossingen als duurzame verbeteringen.&lt;/li&gt;
-&lt;li&gt;Overleggen en samenwerken met interne stakeholders zoals Operations, Continuous Improvement, IT, Finance, HR en projectteams.&lt;/li&gt;
-&lt;li&gt;Communiceren en afstemmen van procesaanpassingen om herhaling van problemen te voorkomen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Implementeren en ondersteunen van operationele en technische verbeterprojecten op de sites&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Documenteren van processen&lt;/strong&gt; en ondersteunen van opleidingen op de werkvloer in samenwerking met de Technical Trainer.&lt;/li&gt;
-&lt;li&gt;Opbouwen en onderhouden van diepgaande kennis van logistieke end-to-end processen en ondersteunende systemen.&lt;/li&gt;
-&lt;li&gt;In deze rol rapporteer je rechtstreeks aan de Operations Manager.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over volgende competenties:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In het bezit van een Bachelordiploma, bij voorkeur in een technische richting&lt;/li&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Minstens 3 jaar relevante werkervaring in een gelijkaardige functie waarbij trouble shooting en continuous improvement je focus hadden&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Een zeer sterke kennis van het &lt;strong&gt;Nederlands &lt;/strong&gt;en het &lt;strong&gt;Frans&lt;/strong&gt;, zowel gesproken als geschreven&lt;/li&gt;
-&lt;li&gt;Je werkt vlot met verschillende IT-systemen en MS Office applicaties, waaronder een sterke kennis van Excel&lt;/li&gt;
-&lt;li&gt;Sterk analytisch vermogen&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Je hanteert methodieken over diepgaande root-cause analyses&lt;/li&gt;
-&lt;li&gt;Je durft creatief en out-of-the-box na te denken over innovatieve en structurele oplossingen&lt;/li&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Flexibel ingesteld en bereid om je te verplaatsen tussen verschillende locaties in Belgi&amp;euml; (6 verschillende sites) zowel in dag als nacht&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Daarnaast kan je bij een &lt;strong&gt;dringende interventie &lt;/strong&gt;ook last-minute gecontacteerd worden&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Een sleutelrol met veel autonomie en verantwoordelijkheid&lt;/li&gt;
-&lt;li&gt;Opleidingsprogramma&lt;/li&gt;
-&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;
-&lt;li&gt;Laptop en GSM&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Maaltijdcheques van 8&amp;euro;/dag&lt;/li&gt;
-&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
-&lt;li&gt;Ambulante zorgverzekering&lt;/li&gt;
-&lt;li&gt;Jaarlijkse target bonus&lt;/li&gt;
-&lt;li&gt;Ecocheques van &amp;euro;250&lt;/li&gt;
-&lt;li&gt;Sectorpremie&lt;/li&gt;
-&lt;li&gt;Naast 20 wettelijke verlofdagen geniet je van 10 extralegale kaderverlofdagen&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73129212"/>
-    <published>2026-02-24T00:05:03+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73138050</id>
