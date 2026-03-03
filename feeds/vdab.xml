@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-02T22:50:52.449640+00:00</updated>
+  <updated>2026-03-03T05:38:36.286742+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4598,5 +4598,48 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT! (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij in ons On IT verhaal?&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Als Security Engineer speel je een sleutelrol in het versterken van de cyberweerbaarheid van onze klanten. Je combineert diepgaande Microsoft 365- en Azure-expertise met een analytische, risicogebaseerde aanpak. Van security assessments tot implementaties: jij neemt ownership, adviseert op strategisch niveau en bouwt actief mee aan een sterk groeiend Security Competence Center.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Security Assessments (Security Snapshots)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Zelfstandig uitvoeren van security analyses op:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Microsoft 365 &amp;amp; Entra ID security posture&lt;/li&gt;&lt;li&gt;Conditional Access &amp;amp; MFA&lt;/li&gt;&lt;li&gt;Endpoint security (Defender, SentinelOne, XDR)&lt;/li&gt;&lt;li&gt;Identity &amp;amp; Active Directory&lt;/li&gt;&lt;li&gt;Vulnerability exposure&lt;/li&gt;&lt;li&gt;Zero Trust maturity&lt;/li&gt;&lt;li&gt;Backup &amp;amp; recovery security&lt;/li&gt;&lt;li&gt;Security logging &amp;amp; monitoring&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Oplevering:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rapport met risicoscore, impactanalyse, prioriteiten (quick wins vs. strategisch) en remediatieadvies&lt;/li&gt;&lt;li&gt;Presentatie van bevindingen aan IT en/of management&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Technical Validation&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Valideren van technische weerbaarheid met een offensieve mindset:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Detecteren van misconfiguraties&lt;/li&gt;&lt;li&gt;Identificeren van privilege escalation risico’s&lt;/li&gt;&lt;li&gt;Analyse van lateral movement&lt;/li&gt;&lt;li&gt;Exposure mapping (identity, endpoints, cloud)&lt;/li&gt;&lt;li&gt;Simulatie van realistische, configuratie-gebaseerde aanvalsscenario’s&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Security Implementaties&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ondersteunen of leiden van:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Defender / SentinelOne XDR implementaties&lt;/li&gt;&lt;li&gt;Conditional Access policies&lt;/li&gt;&lt;li&gt;Zero Trust trajecten&lt;/li&gt;&lt;li&gt;Endpoint hardening&lt;/li&gt;&lt;li&gt;Identity security verbeteringen&lt;/li&gt;&lt;li&gt;Security baseline onboarding bij nieuwe klanten&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Brug tussen Sales en Techniek&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Technische validatie van opportuniteiten&lt;/li&gt;&lt;li&gt;Adviseren over security-architectuur&lt;/li&gt;&lt;li&gt;Scopebepaling (managed service vs. project)&lt;/li&gt;&lt;li&gt;Ondersteuning bij technische klantgesprekken&lt;/li&gt;&lt;li&gt;&lt;p&gt;Vertalen van auditresultaten naar recurring MSSP-diensten&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ervaringsniveau&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;4 tot 8 jaar relevante ervaring in:&lt;ul&gt;&lt;li&gt;Security engineering&lt;/li&gt;&lt;li&gt;Security consultancy&lt;/li&gt;&lt;li&gt;Microsoft 365 / Azure security&lt;/li&gt;&lt;li&gt;Of een vergelijkbare technische securityrol&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;In staat om zelfstandig een volledige security assessment uit te voeren zonder intensieve begeleiding&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Technische kennis &amp;amp; expertise&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Microsoft Security Stack&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Grondige kennis van Microsoft 365 security&lt;/li&gt;&lt;li&gt;Entra ID (Azure AD), Conditional Access &amp;amp; MFA&lt;/li&gt;&lt;li&gt;Microsoft Defender for Endpoint / XDR&lt;/li&gt;&lt;li&gt;Identity &amp;amp; Active Directory security&lt;/li&gt;&lt;li&gt;Endpoint hardening&lt;/li&gt;&lt;li&gt;Security baselines en best practices&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Netwerk &amp;amp; Infrastructuur&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Basiskennis van netwerken en firewalls&lt;/li&gt;&lt;li&gt;Inzicht in security logging, monitoring en exposure&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Pluspunten&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met SentinelOne&lt;/li&gt;&lt;li&gt;Ervaring met vulnerability scanning tools&lt;/li&gt;&lt;li&gt;Kennis van NIS2 en/of ISO 27001&lt;/li&gt;&lt;li&gt;Relevante certificeringen zoals SC-200, AZ-500, SC-100, OSCP of CEH&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Competenties &amp;amp; Persoonlijkheid&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analytisch en risicogebaseerd denken&lt;/li&gt;&lt;li&gt;Complexe technische materie helder kunnen vertalen naar begrijpelijke inzichten&lt;/li&gt;&lt;li&gt;Comfortabel voelen in klantomgevingen (IT en managementniveau)&lt;/li&gt;&lt;li&gt;Gestructureerd documenteren en rapporteren&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ownership nemen over dossiers en projecten&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Naast een marktconform salaris profiteer je van een reeks secundaire voorwaarden zoals:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontvang&amp;nbsp;&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verzekering:&lt;/strong&gt;&amp;nbsp;profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technische uitrusting:&lt;/strong&gt;&amp;nbsp;Laptop, een telefoonbudget en abonnement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verlof:&lt;/strong&gt;&amp;nbsp;Geniet van 32 vakantiedagen per jaar&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Professionele ontwikkeling:&lt;/strong&gt; Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73182176"/>
     <published>2026-03-02T14:24:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73185935</id>
+    <title>Operationeel analist (Talentus)</title>
+    <updated>2026-03-03T00:05:03+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
+&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Analyseren van operationele en technische problemen op basis van data, observaties en feedback uit de operatie.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Onderzoeken van processen op de werkvloer en&lt;strong&gt; vertalen van cijfers en rapporten naar concrete verbeteracties&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Voorstellen en implementeren van zowel korte termijn oplossingen als duurzame verbeteringen.&lt;/li&gt;
+&lt;li&gt;Overleggen en samenwerken met interne stakeholders zoals Operations, Continuous Improvement, IT, Finance, HR en projectteams.&lt;/li&gt;
+&lt;li&gt;Communiceren en afstemmen van procesaanpassingen om herhaling van problemen te voorkomen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implementeren en ondersteunen van operationele en technische verbeterprojecten op de sites&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documenteren van processen&lt;/strong&gt; en ondersteunen van opleidingen op de werkvloer in samenwerking met de Technical Trainer.&lt;/li&gt;
+&lt;li&gt;Opbouwen en onderhouden van diepgaande kennis van logistieke end-to-end processen en ondersteunende systemen.&lt;/li&gt;
+&lt;li&gt;In deze rol rapporteer je rechtstreeks aan de Operations Manager.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over volgende competenties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In het bezit van een Bachelordiploma, bij voorkeur in een technische richting&lt;/li&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Minstens 3 jaar relevante werkervaring in een gelijkaardige functie waarbij trouble shooting en continuous improvement je focus hadden&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Een zeer sterke kennis van het &lt;strong&gt;Nederlands &lt;/strong&gt;en het &lt;strong&gt;Frans&lt;/strong&gt;, zowel gesproken als geschreven&lt;/li&gt;
+&lt;li&gt;Je werkt vlot met verschillende IT-systemen en MS Office applicaties, waaronder een sterke kennis van Excel&lt;/li&gt;
+&lt;li&gt;Sterk analytisch vermogen&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Je hanteert methodieken over diepgaande root-cause analyses&lt;/li&gt;
+&lt;li&gt;Je durft creatief en out-of-the-box na te denken over innovatieve en structurele oplossingen&lt;/li&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Flexibel ingesteld en bereid om je te verplaatsen tussen verschillende locaties in Belgi&amp;euml; (6 verschillende sites) zowel in dag als nacht&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Daarnaast kan je bij een &lt;strong&gt;dringende interventie &lt;/strong&gt;ook last-minute gecontacteerd worden&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Een sleutelrol met veel autonomie en verantwoordelijkheid&lt;/li&gt;
+&lt;li&gt;Opleidingsprogramma&lt;/li&gt;
+&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;
+&lt;li&gt;Laptop en GSM&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Maaltijdcheques van 8&amp;euro;/dag&lt;/li&gt;
+&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
+&lt;li&gt;Ambulante zorgverzekering&lt;/li&gt;
+&lt;li&gt;Jaarlijkse target bonus&lt;/li&gt;
+&lt;li&gt;Ecocheques van &amp;euro;250&lt;/li&gt;
+&lt;li&gt;Sectorpremie&lt;/li&gt;
+&lt;li&gt;Naast 20 wettelijke verlofdagen geniet je van 10 extralegale kaderverlofdagen&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73185935"/>
+    <published>2026-03-03T00:05:03+00:00</published>
   </entry>
 </feed>
