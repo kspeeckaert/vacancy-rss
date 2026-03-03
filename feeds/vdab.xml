@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-03T07:13:40.011918+00:00</updated>
+  <updated>2026-03-03T09:02:23.737330+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -885,62 +885,6 @@
     <published>2025-11-01T10:56:27+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72343527</id>
-    <title>Functioneel applicatie architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2026-01-05T08:12:39+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw toekomstige job&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam...&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Opvolging en coaching van functionele analisten binnen het ontwikkelteam.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Moderne context: je komt in contact met veel moderne technologieën. &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw verantwoordelijkheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Aanspreekpunt voor applicaties in het portfolio.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw taken&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ondersteuning van het team bij productie-incidenten&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Jouw technische vaardigheden&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Expert functionele analyse (hoe achterhaal ik functionele vereisten bij business?) (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Kennis van non-functional requirements (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Enige kennis over integratiepatronen (bv. synchrone vs asynchrone communicatie) (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Diepgaande kennis over integratiepatronen (bv. event driven design, event sourcing) (nice to have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennis van agile en scrum werking &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennis over software frameworks, standaarden, best practices en methodieken (nice to have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Basis data-verwerking en -analyse (SQL queries kunnen schrijven, JSON- en XML-bestanden kunnen interpreteren)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Analytisch vermogen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;veel informatie verwerken: grote lijnen kunnen zien, details kunnen oprakelen als nodig&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Belangen van verschillende partijen achterhalen en expliciet maken&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Helder communiceren, mondeling en schriftelijk&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wat jij van ons mag verwachten&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: &lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Een aantrekkelijke bruto verloning&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een mobiliteitsbudget&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een forfaitaire onkostenvergoeding&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een groepsverzekering &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een arbeidsongevallenverzekering&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een opleidingsbudget&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een laptop&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Een smartphone met abonnementsformule&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Flexibele werkuren &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72343527"/>
-    <published>2025-11-03T14:28:34+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72354267</id>
     <title>Senior Java Developer (Omgeving) via Vlaanderen connect (Vlaanderen connect.)</title>
     <updated>2026-01-05T07:49:12+00:00</updated>
@@ -1543,6 +1487,52 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Boechout&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In deze rol werk je in een ervaren team aan uitdagende, interne projecten waar jij codeert aan leuke software producten en&amp;#160;oplossingen ontwerpt, bouwt en optimaliseert. Je denkt&amp;#160;mee over security, schaalbaarheid, cloud (Azure) en best practices. Je werkt telkens in team waar ze veel inzetten op samenwerking en kennisdeling.&lt;/p&gt;&lt;p&gt;Kwaliteit staat centraal: er is veel aandacht voor technische opvolging, codekwaliteit, feedbackloops en teamcoaching.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of master in IT&lt;/li&gt;&lt;li&gt;Diepgaande ervaring met .NET / C#&lt;/li&gt;&lt;li&gt;Sterk analytisch en communicatief&lt;/li&gt;&lt;li&gt;Teamspeler die initiatief neemt&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Met een jarenlange ervaring is dit familiaal softwarebedrijf een vaste waarde in het Belgische IT-landschap. Ze staan bekend om hun focus op kwaliteit, vakmanschap en lange-termijnoplossingen voor een breed scala aan klanten, van middelgrote bedrijven tot grote organisaties.&lt;br&gt;Ze ontwikkelen hun projecten intern, in hun eigen sterk technisch team.&amp;#160;Je werkt voornamelijk vanuit het kantoor of van thuis, in een omgeving met een sterke technische cultuur en hoge betrokkenheid.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Een informele, warme en samenwerkingsgerichte cultuur waarin je écht kan groeien, technisch én persoonlijk.&amp;#160;Je krijgt een rol met verantwoordelijkheid, flexibiliteit en een sterke focus op work-life balance.&lt;/p&gt;&lt;p&gt;Daarnaast bieden ze een zeer aantrekkelijk loonpakket, inclusief:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief salaris&lt;/li&gt;&lt;li&gt;bedrijfswagen + tankkaart OF een zeer aantrekkelijk mobiliteitsbudget&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;tandzorgverzekering&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;gsm + abonnement&lt;/li&gt;&lt;li&gt;Veel thuiswerk (makkelijk +3 dagen per week als je wel)&lt;/li&gt;&lt;li&gt;extra-legale verlofdagen&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72572628"/>
     <published>2025-12-05T16:54:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72606733</id>
+    <title>ERP Implementatie en Projectlead (BAKKER BELGIUM)</title>
+    <updated>2026-03-03T08:51:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: BAKKER BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor deze functie zoeken we een
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ervaren&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ERP implementatie &amp;amp; project lead&lt;/strong&gt;. Enerzijds ben je verantwoordelijk voor het trekken van het project rond de nieuwe ERP implementatie binnen de organisatie. Daarnaast ben je verantwoordelijk voor het aansturen van het team van projectleiders en de coördinatie van het brede gamma aan projecten binnen Bakker België.  Je bent bekend met alle facetten van projectmanagement, maar je kent ook de omgeving waarin je opereert.&lt;/p&gt; 
+&lt;p&gt;Het 
+&lt;strong&gt;huidige team&lt;/strong&gt; bestaat uit 5 projectleiders die elk op diverse projecten (gaande van o.a. duurzaamheid, kantoorinrichting tot efficiëntie van bepaalde productielijnen, logistieke processen) werken binnen Bakker Belgium. Je rapporteert aan het Hoofd PMO binnen Bakker Belgium.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw taken&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Jouw verantwoordelijkheden spitsen zich toe op 2 deeldomeinen: enerzijds de aansturing van het lokale projectteam en anderzijds de uitrol van het nieuwe ERP systeem;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;In je rol als leidinggevende voor de projectleiders, stuur je dit projectteam aan, bewaak je het overzicht van de verschillende projecten en initiatieven, signaleert risico’s en handelt adequaat waar nodig; je verzorgt daarbij ook de rapportage naar het management team;&lt;/li&gt; 
+&lt;li&gt;Daarnaast ben je verantwoordelijk voor de procesmatige uitrol van het nieuwe ERP-systeem (SAP), waarbij je ook rekening houdt met het nodige change management; je kan daarbij rekenen op de steun van het centrale implementatieteam; om deze taak in goede banen te leiden, bouw je een goede kennis op van de lokale processen;&lt;/li&gt; 
+&lt;li&gt;Je begeleidt zelfstandig één of meerdere projecten, afhankelijk van de business noden;&lt;/li&gt; 
+&lt;li&gt;In deze rol is stakeholdermanagement een wezenlijk onderdeel van je taken; daarbij werk je samen met teams in België en Nederland;&lt;/li&gt; 
+&lt;li&gt;Je zorgt tevens voor een goede borging en overdracht van de projecten naar de lijnorganisatie.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je hebt minimaal een bachelor diploma behaald;&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt minimaal 5 jaren ervaring met projectmanagement;&lt;/li&gt; 
+&lt;li&gt;Je bent bekend met SAP-implementaties en de impact van een dergelijke implementatie op de gebruikersorganisatie (verandermanagement);&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je hebt ervaring met het werken en denken in processen, met procesoptimalisatie en het vertalen van de bedrijfsprocessen naar een ERP omgeving;&lt;/li&gt; &lt;/ul&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je weet hoe je helder kunt communiceren en hoe je een boodschap overbrengt op verschillende niveaus bij diverse stakeholders;&lt;/li&gt; 
+&lt;li&gt;Je hebt reeds ervaring als leidinggevende en beschikt over de nodige vaardigheden voor de aansturing van autonome projectleiders;&lt;/li&gt; 
+&lt;li&gt;Je bent besluitvaardig en kunt probleemoplossend en analytisch denken;&lt;/li&gt; 
+&lt;li&gt;Je werkt georganiseerd en zorgt voor het aanbrengen van structuur, houdt grip en overzicht op de planning. Je denkt daarnaast in functie van processen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als collega bij Bakker Belgium, kom je terecht in een dynamische werkomgeving met de kans om veel te leren en jezelf te ontwikkelen.&lt;/p&gt; 
+&lt;p&gt;Je ontvangt van ons een mooi salarispakket naargelang ervaring met tal van extralegale voordelen:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Maaltijdcheques van €8/per gewerkte dag;&lt;/li&gt; 
+&lt;li&gt;Ecocheques van €250/jaar;&lt;/li&gt; 
+&lt;li&gt;Maandelijkse netto onkostenvergoeding;&lt;/li&gt; 
+&lt;li&gt;Bedrijfswagen met laadpas;&lt;/li&gt; 
+&lt;li&gt;Smartphone (inclusief abonnement) en laptop;&lt;/li&gt; 
+&lt;li&gt;Hospitalisatie- en groepsverzekering;&lt;/li&gt; 
+&lt;li&gt;30 vakantiedagen (na één jaar anciënniteit);&lt;/li&gt; 
+&lt;li&gt;Mogelijkheid om een fiets te leasen aan een voordelig tarief;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Tot slot, ben je meer dan welkom op onze leuke afterwork drinks, events,…&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Een assessment maakt deel uit van de sollicitatieprocedure.&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72606733"/>
+    <published>2025-12-11T20:41:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72613177</id>
