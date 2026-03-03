@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-03T15:07:02.249327+00:00</updated>
+  <updated>2026-03-03T17:08:13.691051+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68290917</id>
-    <title>Senior DevOps architect (Cronos)</title>
-    <updated>2026-02-17T16:30:57+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;HOE JOUW JOB ERUIT ZIET&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Senior DevOps Architect maak je deel uit van ons team en werk je aan verschillende soorten projecten. Dankzij je reeds opgebouwde ervaring kan je terugvallen op een sterke kennis van IT architectuur. Daarnaast help je mee aan het uitvoeren van audits, klanten begeleiden in hun automation journey waarbij je ook de teams bij die klant ondersteunt en begeleidt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;WAT WIJ VAN JE VRAGEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring of interesse in tools voor configuratiebeheer zoals Puppet, Terraform en / of Ansible is een must voor ons&lt;/li&gt;&lt;li&gt;Een sterke interesse in de DevOps-levensstijl is belangrijk&lt;/li&gt;&lt;li&gt;Ervaring met tools zoals GitLab/GitHub, Jenkins en / of Bamboo&lt;/li&gt;&lt;li&gt;Virtualisatie en containerisatie heb je in de vingers en je wil je graag verder verdiepen in tools als Docker, Kubernetes, VMWare&lt;/li&gt;&lt;li&gt;Kennis van besturingssystemen zoals Linux en Windows is een pluspunt&lt;/li&gt;&lt;li&gt;Ervaring met het design van IT architecturen (network, monitoring, cloud, datacenter, …)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;HOE JIJ DIT AANPAKT&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jouw leergierigheid is sterk aanwezig en je blijft graag up-to-date met de nieuwe tools en technologieën&lt;/li&gt;&lt;li&gt;Je krijgt energie het uittekenen en bewaken van lange termijn strategieën en van het begeleiden van een Change Management (Technisch en menselijk) proces&lt;/li&gt;&lt;li&gt;Je bent een team-player en deelt graag jouw kennis met het team&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je doet nooit hetzelfde ding twee keer (tenzij het geautomatiseerd is natuurlijk)&lt;/li&gt;&lt;li&gt;Last but not least.. Een grote dosis humor is een must en je bent niet bang voor wat zelfreflectie&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;github&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;bamboo&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;puppet&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;terraform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;change management&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;architectuur&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Bryxx kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen&lt;/li&gt;&lt;li&gt;Tal van social events (short-ski, familiedag/weekend, afterwork drinks,…)&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen&lt;/li&gt;&lt;li&gt;Ontwikkeling van je carrière: jij bepaalt het tempo en de richting en wij begeleiden je daarbij&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68290917"/>
-    <published>2024-02-07T14:09:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68298342</id>
     <title>Product Owner APEX software factory (Cronos)</title>
@@ -440,7 +417,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69478988</id>
     <title>Web Developer .NET - Azure (POSGARD)</title>
-    <updated>2026-02-13T17:57:32+00:00</updated>
+    <updated>2026-03-03T15:45:44+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: POSGARD (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;POSGARD ondersteunt klanten bij het nog efficiënter runnen van de horecazaak en food shop. De food &amp;amp; beverages markten zijn in volle beweging. Nu zoeken wij nieuwe collega’s voor ons tof team in groei.&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;&lt;span&gt;POSGARD &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;zoekt 
 &lt;strong&gt;web developer&lt;/strong&gt; met +5 jaar ervaring &lt;/span&gt;&lt;span&gt;om ons ontwikkelingsteam te versterken, dat instaat voor de ontwikkeling, het testen en onderhoud van de 
@@ -4546,9 +4523,17 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <published>2026-03-02T14:24:56+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73195849</id>
+    <title>Ervaren .Net Developer (Konnekt)</title>
+    <updated>2026-03-03T17:15:54+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Konnekt (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Voor een &lt;strong&gt;financieel sterke en stabiele speler &lt;/strong&gt;binnen een &lt;strong&gt;grotere, groeiende groep&lt;/strong&gt; zoeken wij een&lt;strong&gt; ervaren .NET Developer&lt;/strong&gt; die wil meebouwen aan diverse interne softwareprojecten. Je komt terecht in het &lt;strong&gt;Research en Development team &lt;/strong&gt;waar je wordt omringd door zeer ervaren developers van wie je inhoudelijk echt kan bijleren. Door de &lt;strong&gt;aanhoudende groei van de organisatie &lt;/strong&gt;kijken ze uit naar sterke profielen die mee hun &lt;strong&gt;technische fundament willen versterken en verder uitbouwen.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functieomschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Je ontwikkelt backend-applicaties in&lt;strong&gt; C# / .NET (8-9) en bouwt API’s met ASP.NET WebAPI.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je integreert en optimaliseert systemen via o.a. &lt;strong&gt;EF Core, MQTT en microservices-architectuur.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je v&lt;strong&gt;erbetert en refactort bestaande code volgens Clean Code-principes&lt;/strong&gt;, met focus op performantie en schaalbaarheid.&lt;/li&gt; &lt;li&gt;Je neemt ownership over het volledige traject: &lt;strong&gt;analyse, ontwikkeling, testing, debugging en documentatie.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je denkt actief mee over &lt;strong&gt;architectuurkeuzes &lt;/strong&gt;en werkt in een&lt;strong&gt; moderne developmentomgeving (Azure DevOps).&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Je hebt een&lt;strong&gt; Bachelor of Master in IT/Engineering.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je hebt minstens &lt;strong&gt;8 jaar relevante ervaring in .NET development.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je hebt een sterke&lt;strong&gt; backend-expertise (C# / .NET)&lt;/strong&gt; en bent vertrouwd met &lt;strong&gt;API’s en gedistribueerde architecturen.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je hebt ervaring met &lt;strong&gt;moderne development tools&lt;/strong&gt; en werkwijzen &lt;strong&gt;(Azure DevOps, Clean Code, microservices).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je bent vlot in&lt;strong&gt; Nederlands en Engels&lt;/strong&gt; en technisch sterk communicatief.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Naast een contract van&lt;strong&gt; onbepaalde duur&lt;/strong&gt; krijg je voordelen zoals:&lt;br&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Competitief loon&lt;/strong&gt; naargelang ervaring&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Bedrijfswagen &lt;/strong&gt;met tankkaart&lt;/li&gt; &lt;li&gt;Maaltijdcheques&lt;/li&gt; &lt;li&gt;Groepsverzekering&lt;/li&gt; &lt;li&gt;Hospitalisatieverzekering&lt;/li&gt; &lt;li&gt;Netto-onkostenvergoeding&lt;/li&gt; &lt;li&gt;CAO90 bonus&lt;/li&gt; &lt;li&gt;GSM + abonnement, laptop,...&lt;/li&gt; &lt;li&gt;Mogelijkheid tot thuiswerk na inwerkperiode&lt;/li&gt; &lt;li&gt;Je komt terecht in een &lt;strong&gt;financieel sterk bedrijf die volop aan het groeien is.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;em&gt;Klinkt dit als jouw ideale volgende stap in jouw carrière? Stuur jouw cv naar info@konnekt.be tav Rune Himschoot of bel 09 298 55 36.&lt;/em&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73195849"/>
+    <published>2026-03-03T17:15:54+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73185935</id>
     <title>Operationeel analist (Talentus)</title>
-    <updated>2026-03-03T00:05:03+00:00</updated>
+    <updated>2026-03-03T16:05:02+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
 &lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
 &lt;ul&gt;
