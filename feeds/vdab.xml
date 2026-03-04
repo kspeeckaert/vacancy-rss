@@ -2,34 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-04T19:08:16.405840+00:00</updated>
+  <updated>2026-03-04T20:56:00.124164+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68368886</id>
-    <title>Data architect (Cronos)</title>
-    <updated>2026-02-17T15:58:26+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;What would you do?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In your role as a Data Architect you provide insights and solutions for complex data problems aligned with the organisation’s strategy. As a Data Architect you will visualise and design an organisation’s enterprise data management framework, while working together with various stakeholders and business architecture. You will translate business requirements into technology requirements and define data standards and principles, while providing advice on efficient data usage.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;You are also responsible for setting up and expanding data models. In addition you have the know-how to setup projects and design the correct architecture, carrying out the technical implementation by managing a technical team.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Who are you?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand the needs of the customer and can easily handle complex data environments.&lt;/li&gt;&lt;li&gt;You are focused on collaboration, innovation and continuous improvement.&lt;/li&gt;&lt;li&gt;You have strong communication skills and always strive for the best solution.&lt;/li&gt;&lt;li&gt;You are fluent in Dutch or French and have a strong knowledge of English.&lt;/li&gt;&lt;li&gt;You are a people person&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;What about your technical skills?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge and hands-on experience with Data Warehouse environments&lt;/li&gt;&lt;li&gt;Extensive knowledge and experience in data modelling and design&lt;/li&gt;&lt;li&gt;Knowledge of Data Vault, Kimball, …&lt;/li&gt;&lt;li&gt;SQL querying holds no secrets&lt;/li&gt;&lt;li&gt;Insights in setting up ETL processes&lt;/li&gt;&lt;li&gt;Experience in data visualisation and reporting is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Oracle, Google BigQuery, Microsoft Azure or other data stores is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;data architectuur&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;etl&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;data warehouse&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;At Tripwire Solutions you will find yourself in an innovative and challenging work environment where our colleagues and customers are our main focus. Openness, transparency and trust are at the top of our list of corporate values. Room for initiative and entrepreneurship are in our DNA. You will join a team of experts with whom you can share knowledge and where you can inspire each other. During our knowledge-sharing sessions you will also regularly come into contact with the different teams.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;We have a lot to OFFER!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An attractive salary package with a company car and a fuel card;&lt;/li&gt;&lt;li&gt;An extensive package of benefits and discounts;&lt;/li&gt;&lt;li&gt;Numerous social events (short ski, family day / weekend, after-work drinks, …);&lt;/li&gt;&lt;li&gt;A personalised growth plan;&lt;/li&gt;&lt;li&gt;Various education options and trainings to develop yourself and become an expert.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68368886"/>
-    <published>2024-02-22T11:45:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68371995</id>
-    <title>Oracle Database Administrator (Cronos)</title>
-    <updated>2026-02-17T15:58:18+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wat ga je doen?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nieuwe database omgevingen ontwerpen en implementeren.&lt;/li&gt;&lt;li&gt;Omgevingen up-to-date houden met de nieuwste technologische ontwikkelingen door de best mogelijke oplossingen voor te stellen en deze te implementeren.&lt;/li&gt;&lt;li&gt;Omgevingen optimaliseren op het gebied van architectuur, beschikbaarheid en prestaties.&lt;/li&gt;&lt;li&gt;Proactieve en corrigerende acties ondernemen om serviceonderbrekingen te voorkomen en op te lossen.&lt;/li&gt;&lt;li&gt;Diensten van hoge kwaliteit leveren aan onze klanten en hun vertrouwen behouden door professioneel maar persoonlijk te communiceren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Hoe zit het met jou?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Als Oracle DBA voel je jezelf thuis in bovenstaande onderwerpen. Je wilt nog steeds groeien en je technische vaardigheden verbeteren. We kunnen op je rekenen omdat je verantwoordelijkheid en ownership neemt. Je bent alleen tevreden met de beste oplossing voor je klant.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;oracle&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;databases&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat we je te bieden hebben:&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Je gaat deel uitmaken van een leuke en dynamische werkomgeving met geweldige collega's, waar iedereen altijd klaar staat om te helpen. Om je collega's beter te leren kennen, organiseren we gedurende het jaar meerdere evenementen &amp; leuke activiteiten.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Naast een competitief salaris met extralegale voordelen (bedrijfswagen, laptop, telefoon, ... ), krijg je de kans om opgeleid te worden, te groeien en de beste te worden in je vakgebied.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tot slot garanderen we een gezonde balans tussen werk en privé.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68371995"/>
-    <published>2024-02-22T16:45:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68378773</id>
     <title>Freelance IT'ers (Cronos)</title>
@@ -1522,6 +1497,33 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sopra Steria (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;We’re seeking passionate colleagues who are eager to push the boundaries in digital transformation and technology consulting. At Sopra Steria, you’ll have the opportunity to grow your skills in a constructive, collaborative team environment, working on impactful projects that drive change for our clients. If you thrive on challenge and meet (most of) the qualifications below, we look forward to your application!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Master’s degree in a technical or scientific field (industrial, civil, or bio-engineering)&lt;/li&gt;&lt;li&gt;Experience in a pharmaceutical and/or GMP environment is a strong asset&lt;/li&gt;&lt;li&gt;Knowledge of validation processes and sterile production is a plus&lt;/li&gt;&lt;li&gt;Strong organizational and communication skills&lt;/li&gt;&lt;li&gt;Ability to work independently and take initiative&lt;/li&gt;&lt;li&gt;Team player with analytical thinking skills&lt;/li&gt;&lt;li&gt;Affinity with technical, technological, and process-related aspects&lt;/li&gt;&lt;li&gt;Flexible and resilient in a dynamic project environment&lt;/li&gt;&lt;li&gt;Experience in project coordination and contractor management is a plus&lt;/li&gt;&lt;li&gt;&lt;p&gt;Good command of English is required and Dutch is a plus&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profile&lt;/p&gt;&lt;p&gt;As a quality and compliance expert, you will be responsible for ensuring that GxP systems and processes adhere to the applicable regulatory requirements throughout the entire system lifecycle. Therefore, you stay up to date about evolving regulations from authorities such as the EMA and FDA and industry standards like GAMP and ISO. Depending on your role and expertise, you may be asked to provide Quality &amp;amp; Compliance support during audits and inspections, or to join a Sopra Steria validation service team.&lt;/p&gt;&lt;p&gt;Are you a technically skilled engineer with a passion for pharmaceutical processes? As a Project Engineer, you will contribute to various engineering projects. You’ll be responsible for the full project lifecycle of specific installations or equipment: from specification and procurement to installation, validation, and handover to operations. You’ll work in multidisciplinary teams, monitor planning and budget, and ensure safe, compliant, and efficient execution. You’ll also be part of creating technical solutions and be included in the technical follow-up with suppliers. You take ownership of your scope, communicate proactively with stakeholders, and contribute to continuous improvement.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Proposal&lt;/p&gt;&lt;p&gt;Are you ready to further develop your career? Then we'd love to point you in the right direction. With offices in more than 30 countries, that direction might lead you to places you've never been to before. Would you prefer to grow internally? That's possible, too. We challenge you to keep pushing yourself to become the best you can be.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;We offer a generous employee benefits package that includes:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A variety of perks, such as mobility options (including a company car), insurance coverage, meal vouchers, eco-cheques, and more.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Continuous learning opportunities through the Sopra Steria Academy to support your career development.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The opportunity to connect with fellow Sopra Steria colleagues at various team events.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ready to take the next step?&amp;nbsp;We’re here to support you all the way and we are looking forward to you application!&amp;nbsp;&lt;/p&gt;&lt;p&gt;______&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sopra Steria is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, ancestry, nationality, color, family or medical leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, gender (including pregnancy), sexual orientation or any other characteristic protected by applicable local laws, regulations and ordinances. We foster a work environment that is inclusive and respectful of all differences.&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72652413"/>
     <published>2025-12-18T10:27:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72670480</id>
+    <title>Full Stack .NET Developer (TALENTIQUE)</title>
+    <updated>2026-03-04T20:25:13+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: TALENTIQUE (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Onze klant groeit en zoekt een gedreven 
+&lt;span&gt;Full Stack .NET Developer&lt;/span&gt; die graag werkt met moderne technologie en slimme oplossingen bouwt.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Jouw rol&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;Je ontwikkelt end-to-end performante applicaties en denkt mee over architectuur, technische keuzes en optimalisaties. Je werkt in een hecht team waar initiatief, creativiteit en kennisdeling centraal staan.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je bent een positieve probleemoplosser met 5 tot 7 jaar ervaring in softwareontwikkeling.&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;Je hebt kennis van:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Testing &amp;amp; Security&lt;/strong&gt;: Unit/Integration testing, OAuth2, OIDC&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;DevOps&lt;/strong&gt;: CI/CD, Docker&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: .NET 6+, C#, REST API, Messaging, MSSQL, EF Core, CQRS&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: Angular (v2+) of Blazor&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;p&gt;Daarnaast ben je zelfstandig en teamgericht, communicatief sterk, stressbestendig, en spreek je vloeiend Nederlands.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Aantrekkelijk loonpakket + extralegale voordelen zoals een wagen, tankkaart, maaltijdcheques, ecocheques, hospitalisatieverzekering&lt;/li&gt; 
+&lt;li&gt;Hybride werkregeling en gezonde work-life balance&lt;/li&gt; 
+&lt;li&gt;38-urenweek, 25 verlofdagen&lt;/li&gt; 
+&lt;li&gt;Opleiding &amp;amp; doorgroeikansen&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72670480"/>
+    <published>2025-12-19T13:09:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72671137</id>
@@ -4458,6 +4460,69 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wijnegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Onze partner is een bekend begrip in de doe-het-zelf sector.&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Als Senior SAP Lead Developer kom je terecht bij een&lt;strong&gt; team van 4 collega SAP Developers&lt;/strong&gt;. Jullie&amp;nbsp;&lt;strong&gt;rapporteren aan de SAP Project Manager&lt;/strong&gt;. Verder wordt het team ondersteund door de in-house support afdeling.&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Je neemt de&amp;nbsp;&lt;strong&gt;technische lead&lt;/strong&gt; binnen het SAP-team. Je bent maw het aanspreekpunt voor alle SAP-gerelateerde ontwikkelingsactiviteiten &amp;amp; planningsgerelateerde zaken. &lt;strong&gt;80-90% ben je operationeel aan de slag (custom development)&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Je verantwoordelijkheden omvatten het technische luik van de SAP ERP-oplossing:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je ontwikkelt en optimaliseert maatwerk binnen SAP, in nauwe samenwerking met de functionele SAP-analisten (&lt;strong&gt;modules MM/SD en FI/CO&lt;/strong&gt;)&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je vertaalt functionele requirements naar doordachte technische ontwerpen en kwalitatieve code&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;&lt;strong&gt;Je denkt proactief mee over architectuur, integraties&lt;/strong&gt; en best practices, samen met collega’s binnen het SAP-team, andere IT-applicaties en de business&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je bewaakt de dagelijkse werking en ziet toe op de stabiliteit van het SAP-systeem. Bij incidenten schakel je snel en ondersteun je bij analyse en oplossing&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;&lt;strong&gt;Je neemt de lead in de technische uitvoering van grotere trajecten&lt;/strong&gt;, zoals de migratie naar S/4HANA, cloudtransities, upgrades, system copies en andere technische interventies&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p&gt;&lt;span&gt;Kennisdeling: je houdt je SAP-kennis up-to-date en volgt actief de nieuwste evoluties op&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Profiel&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je hebt&lt;strong&gt; +5 jaar ervaring in ABAP&lt;/strong&gt; en custom development ervaring in verschillende SAP modules&amp;nbsp;&lt;strong&gt;(MM, SD, FICO)&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je hebt ervaring met&amp;nbsp;&lt;strong&gt;S/4HANA&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je ziet jezelf als sterk medior of beginnend senior SAP Developer en wil verantwoordelijkheid opnemen door bv migraties te begeleiden, te denken over nieuwe integraties, architectuurvoorstellen te doen…&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p&gt;&lt;span&gt;Pluspunt: gewerkt in retail omgeving (snel durven schakelen)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Aanbod&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Wagen is bespreekbaar&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Maaltijdcheques €8/gewerkte dag + €250/jaar Ecocheques&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Netto thuiswerkvergoeding&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Hospitalisatieverzekering (+ keuze familie) &amp;amp; groepsverzekering, overlijdensdekking, invaliditeitsrente&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Employee Assistance Program (juridisch of psychologisch advies/begeleiding, financiële support…)&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Jaarlijkse sectorpremie &amp;amp; cao90&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;29 vakantiedagen&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Keuze uit groot aanbod opleidingen&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;&lt;span&gt;#LI-ED1&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73188486"/>
     <published>2026-03-03T09:51:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73206260</id>
+    <title>Lead iOS Engineer (TALENTIQUE)</title>
+    <updated>2026-03-04T20:30:56+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: TALENTIQUE (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Heist-Op-Den-Berg&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;In deze hybride rol combineer je 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;hands-on development, architectuur en teamopbouw&lt;/strong&gt;. Je legt de technische fundamenten voor mobile development en helpt de organisatie een sterke 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;mobile-first aanpak&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;uit te bouwen.&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Native iOS Development: &lt;/strong&gt;Je ontwikkelt hoogwaardige 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;native iOS-applicaties in Swift&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;en bepaalt de technische standaarden en architectuur voor toekomstige mobiele projecten.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Mobile Architectuur: &lt;/strong&gt;Je zet de 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;fundamenten voor mobile development&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;binnen de organisatie en bewaakt de kwaliteit, schaalbaarheid en maintainability van de applicaties.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Teamopbouw: &lt;/strong&gt;Je speelt een sleutelrol in het 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;aantrekken, coachen en laten groeien van een mobile team&lt;/strong&gt;.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Feature &amp;amp; Product Engineering: &lt;/strong&gt;Samen met business analisten denk je na over 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;features en functionaliteiten&lt;/strong&gt;. Je adviseert over wat technisch haalbaar en zinvol is binnen een mobile-first strategie.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;UX &amp;amp; Product Experience: &lt;/strong&gt;Je werkt nauw samen met designers en UX-specialisten om 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;concepten te vertalen naar intuïtieve en performante mobiele ervaringen&lt;/strong&gt;.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Strategisch klantcontact: &lt;/strong&gt;Je bespreekt samen met klanten hun behoeften en vertaalt deze naar 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;technische oplossingen en productroadmaps&lt;/strong&gt;.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Interne samenwerking: &lt;/strong&gt;Je fungeert als 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;schakel tussen mobile development en andere teams&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;zoals backend development en product management.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wij zoeken een 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;ondernemende senior developer&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;die energie krijgt van het bouwen van iets nieuws.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Sterke technische achtergrond&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Diepgaande ervaring met 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;Native iOS development (Swift)&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;Sterk inzicht in 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;mobile architectuur&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;Ervaring met 
+&lt;span&gt; &lt;/span&gt;&lt;strong&gt;App Store deployment, versioning en updates&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;&lt;strong&gt;Productgerichte mindset: &lt;/strong&gt;Je kijkt verder dan code en denkt actief mee over 
+&lt;strong&gt; &lt;/strong&gt;productoptimalisatie en mobile-first oplossingen.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Natuurlijk leiderschap: &lt;/strong&gt;Je inspireert anderen, begeleidt collega’s en bouwt graag aan een sterk team en een positieve ontwikkelcultuur.&lt;/li&gt; 
+&lt;li&gt;&lt;strong&gt;Sterke communicator: &lt;/strong&gt;Je kunt 
+&lt;strong&gt; &lt;/strong&gt;technische keuzes helder uitleggen aan zowel developers, analisten als stakeholders.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p data-start="2781" data-end="2947"&gt;Je komt terecht in een omgeving waar je 
+&lt;span&gt; &lt;/span&gt;&lt;strong data-start="2821" data-end="2885"&gt;impact kan maken en een nieuwe mobile practice kan uitbouwen&lt;/strong&gt;. Daartegenover staat een aantrekkelijk en competitief pakket:&lt;/p&gt; 
+&lt;p data-start="2781" data-end="2947"&gt;&lt;/p&gt; 
+&lt;ul data-start="2949" data-end="3200"&gt; 
+&lt;li data-start="2949" data-end="2986"&gt; 
+&lt;p data-start="2951" data-end="2986"&gt;Een 
+&lt;span&gt; &lt;/span&gt;&lt;strong data-start="2955" data-end="2986"&gt;mooi en competitief salaris&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="2987" data-end="3024"&gt; 
+&lt;p data-start="2989" data-end="3024"&gt;&lt;strong data-start="2989" data-end="3006"&gt;Bedrijfswagen&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;met 
+&lt;span&gt; &lt;/span&gt;&lt;strong data-start="3011" data-end="3024"&gt;tankkaart&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="3025" data-end="3055"&gt; 
+&lt;p data-start="3027" data-end="3055"&gt;&lt;strong data-start="3027" data-end="3055"&gt;Netto onkostenvergoeding&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="3056" data-end="3077"&gt; 
+&lt;p data-start="3058" data-end="3077"&gt;&lt;strong data-start="3058" data-end="3077"&gt;Maaltijdcheques&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="3078" data-end="3109"&gt; 
+&lt;p data-start="3080" data-end="3109"&gt;&lt;strong data-start="3080" data-end="3109"&gt;Hospitalisatieverzekering&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="3110" data-end="3130"&gt; 
+&lt;p data-start="3112" data-end="3130"&gt;&lt;strong data-start="3112" data-end="3130"&gt;25 verlofdagen&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li data-start="3131" data-end="3200"&gt; 
+&lt;p data-start="3133" data-end="3200"&gt;&lt;strong data-start="3133" data-end="3154"&gt;Hybride werkmodel&lt;/strong&gt;&lt;span&gt; &lt;/span&gt;met flexibiliteit tussen kantoor en thuiswerk&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73206260"/>
+    <published>2026-03-04T20:30:56+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73198917</id>
