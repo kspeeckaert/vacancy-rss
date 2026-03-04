@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-04T14:44:15.907397+00:00</updated>
+  <updated>2026-03-04T16:47:46.008117+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineer-8/</id>
+    <title>Data Engineer</title>
+    <updated>2026-03-04T14:15:57+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Groendreef 10, 9880, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-03-04 15:15:57+00:00, last change 2026-03-04 14:15:57+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-03-04 15:15:57+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit familiebedrijf, actief binnen de voedingsindustrie, bestaat al meer dan 30 jaar. Ze beheren het volledige proces van productie en logistiek tot verkoop via eigen winkel. Door deze verticale integratie beschikken ze over een rijk en divers datalandschap. Met een moderne, duurzame infrastructuur en een duidelijke focus op lokale producten en kwaliteit, vormt technologie een cruciale pijler in hun groeiambities. Het bedrijf zet dan ook volop in op hun data en hiervoor zijn ze momenteel op zoek naar een Data Engineer.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Engineer werk je nauw samen met de Data Architect aan het ontwerp en de uitbouw van een schaalbaar en toekomstgerichte data architectuur. Je ontwikkelt, beheert en optimaliseert data pipelines en ETL-processen die zorgen voor een vlotte en betrouwbare datastroom richting analyse en rapportering. Je maakt onderdeel uit van een BI-team van tien professionals, bestaande uit Data Engineers, functioneel analisten en BI-specialisten. Er is regelmatig terugkoppeling en afstemming tussen de verschillende profielen, zodat ieders expertise optimaal wordt benut. Bovendien speel je een cruciale rol in de migratie van een on-premise SQL-omgeving naar de Cloud (Databricks).&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over minstens 3 jaar ervaring als Data Engineer. 
+	&lt;li&gt;Je hebt een sterke kennis van Azure DataFactory en ervaring met Databricks is een grote plus. 
+	&lt;li&gt;Je bent heel sterk in SQL, Python vormt een plus. 
+	&lt;li&gt;Ervaring met migratieprojecten vormt een sterke troef. 
+	&lt;li&gt;Je spreekt vloeiend Nederlands. 
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Binnen deze organisatie krijg je de kans om met rijke en gevarieerde data te werken, van productie tot eindgebruik. Alles is in eigen beheer: de volledige dataketen is beschikbaar en toegankelijk, wat uitzonderlijke mogelijkheden biedt. &lt;br&gt;
+Er loopt een ambitieus migratietraject richting de Cloud. Wie initiatief toont en met een goed onderbouwde case komt, krijgt ook effectief de ruimte om deze uit te werken. Je krijgt snel verantwoordelijkheid, maakt echt impact en wordt aangemoedigd om actief mee te bouwen.&lt;br&gt;
+Naast de inhoudelijke uitdaging heerst er een warme, mensgerichte werksfeer, met aandacht voor work-life balans. En dat allemaal in een filevrije omgeving.&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Herken jij jou in deze functie? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/data-engineer-8/"/>
+    <category term="Data Engineering"/>
+    <published>2026-03-04T15:15:57+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/a-z-data-analist/</id>
     <title>A-Z data analist</title>
