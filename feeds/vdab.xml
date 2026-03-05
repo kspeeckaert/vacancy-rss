@@ -2,21 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-05T11:02:05.777738+00:00</updated>
+  <updated>2026-03-05T13:21:01.608546+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68371995</id>
-    <title>Oracle Database Administrator (Cronos)</title>
-    <updated>2026-02-17T15:58:18+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wat ga je doen?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nieuwe database omgevingen ontwerpen en implementeren.&lt;/li&gt;&lt;li&gt;Omgevingen up-to-date houden met de nieuwste technologische ontwikkelingen door de best mogelijke oplossingen voor te stellen en deze te implementeren.&lt;/li&gt;&lt;li&gt;Omgevingen optimaliseren op het gebied van architectuur, beschikbaarheid en prestaties.&lt;/li&gt;&lt;li&gt;Proactieve en corrigerende acties ondernemen om serviceonderbrekingen te voorkomen en op te lossen.&lt;/li&gt;&lt;li&gt;Diensten van hoge kwaliteit leveren aan onze klanten en hun vertrouwen behouden door professioneel maar persoonlijk te communiceren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Hoe zit het met jou?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Als Oracle DBA voel je jezelf thuis in bovenstaande onderwerpen. Je wilt nog steeds groeien en je technische vaardigheden verbeteren. We kunnen op je rekenen omdat je verantwoordelijkheid en ownership neemt. Je bent alleen tevreden met de beste oplossing voor je klant.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;oracle&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;databases&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat we je te bieden hebben:&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Je gaat deel uitmaken van een leuke en dynamische werkomgeving met geweldige collega's, waar iedereen altijd klaar staat om te helpen. Om je collega's beter te leren kennen, organiseren we gedurende het jaar meerdere evenementen &amp; leuke activiteiten.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Naast een competitief salaris met extralegale voordelen (bedrijfswagen, laptop, telefoon, ... ), krijg je de kans om opgeleid te worden, te groeien en de beste te worden in je vakgebied.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Tot slot garanderen we een gezonde balans tussen werk en privé.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68371995"/>
-    <published>2024-02-22T16:45:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68378773</id>
     <title>Freelance IT'ers (Cronos)</title>
@@ -4563,5 +4551,62 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sander (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;A dynamic and growing tech company is looking for a&amp;nbsp;&lt;strong&gt;Junior System Administrator&lt;/strong&gt;&amp;nbsp;with solid experience in&amp;nbsp;&lt;strong&gt;L2/L3 support&lt;/strong&gt;&amp;nbsp;to strengthen their infrastructure team.&lt;/p&gt;&lt;p&gt;If you enjoy troubleshooting, optimizing systems, and working in a collaborative environment, this opportunity is for you! &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Junior System Administrator - The Role&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Provide&amp;nbsp;&lt;strong&gt;L2/L3 support&lt;/strong&gt;&amp;nbsp;for servers, systems, and enterprise applications&lt;/li&gt;&lt;li&gt;Troubleshoot and resolve complex incidents, escalations, and performance issues&lt;/li&gt;&lt;li&gt;Manage and maintain Windows and/or Linux server environments&lt;/li&gt;&lt;li&gt;Monitor system performance, backups, and security processes&lt;/li&gt;&lt;li&gt;Support virtualization platforms (VMware/Hyper-V) and cloud environments&lt;/li&gt;&lt;li&gt;Collaborate with network, security, and application teams to ensure system reliability&lt;/li&gt;&lt;li&gt;Participate in system upgrades, patching, and infrastructure projects&lt;/li&gt;&lt;li&gt;&lt;p&gt;Maintain clear documentation of incidents, configurations, and procedures&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Junior System Administrator - The Profile&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimum&amp;nbsp;&lt;strong&gt;4 years of experience&lt;/strong&gt;&amp;nbsp;in System Administration or L2/L3 IT Support&lt;/li&gt;&lt;li&gt;Good understanding of networking fundamentals (TCP/IP, firewalls, routing basics)&lt;/li&gt;&lt;li&gt;Experience working with ticketing systems and SLA-driven environments&lt;/li&gt;&lt;li&gt;Analytical mindset with strong problem-solving skills&lt;/li&gt;&lt;li&gt;Ability to manage priorities and work both independently and in a team&lt;/li&gt;&lt;li&gt;Good communication skills and customer-oriented attitude&lt;/li&gt;&lt;li&gt;Fluent in English&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Junior System Administrator – The Offer&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Permanent contract with competitive salary package&lt;/li&gt;&lt;li&gt;Hybrid working model&lt;/li&gt;&lt;li&gt;Laptop and company smartphone&lt;/li&gt;&lt;li&gt;Professional training and certification support&lt;/li&gt;&lt;li&gt;Career development opportunities within a structured IT team&lt;/li&gt;&lt;li&gt;Dynamic environment with exposure to enterprise-level infrastructure&lt;/li&gt;&lt;li&gt;Opportunity to work on challenging and impactful technical projects&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73208951"/>
     <published>2026-03-05T10:32:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73210822</id>
+    <title>Senior Java Backend Developer (TheMatchBox)</title>
+    <updated>2026-03-05T12:30:45+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: TheMatchBox (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;* &lt;/span&gt;&lt;span&gt;Werken aan AI-based producten en services die in bedrijfsprocessen zijn geïntegreerd&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* Bias-free &amp;amp; volledig compliant met de EU AI Act&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* Bij een bedrijf dat zich bewezen heeft, niet de zoveelste gehypte AI-startup&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Vacature Senior Java Backend Developer (Antwerpen)&lt;/span&gt; 
+&lt;span&gt;Wat ga je doen?&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Als Senior Java Backend Developer bij theMatchBox in Antwerpen (Berchem) werk je in een development team met drie andere Developers, twee Computerlinguïsten en een DevOps Engineer. Je werkt aan de bouw, implementatie, integratie en onderhoud van de AI Matching Engine van theMatchBox, waarmee vacatures en kandidaten met elkaar gematcht worden. Je zorgt mee dat de arbeidsmarkt optimaal en eerlijk functioneert door zonder bias te matchen. Jullie werken onder leiding van COO &lt;/span&gt;&lt;span&gt;Bruno De Regge&lt;/span&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Wat doe je op dagelijkse basis?&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Bouwen en onderhouden van bestaande en nieuwe producten, op een brede architectuur van API tot UI. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* De producten &amp;amp; services van theMatchBox implementeren en integreren bij klanten.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* Samen met de klant de software zodanig configureren dat deze relevante informatie over vacatures en kandidaten kan doorzoeken en matchen.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* Je draait mee in support en ondersteunt samen met het team klanten bij problemen, wijzigingen en upgrades.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Technologie waarmee je bij theMatchBox zult werken:&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;ElasticSearch&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Docker&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;LLM’s&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;GPU’s&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Maven&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Jenkins&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Ansible&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;En… Java uiteraard&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;Waar ga je dat doen&amp;gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Misschien heb je deze vacature wel gevonden dankzij de software van theMatchBox? Want dat is wat theMatchBox doet: slimme zoekmachines bouwen die de juiste job bij de juiste kandidaat plaatsen of omgekeerd. Door slim gebruik te maken van een heleboel tools uit artificiële intelligentie zoals Natural Language Processing, ontologieën, Large Language Models… houden ze rekening met schrijfwijze, typefouten, synoniemen, context en alles wat nodig is om op een transparante manier een zo correct en volledig mogelijke lijst van matchende jobs en kandidaten op te stellen. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;theMatchBox (13 medewerkers) is een onderdeel van de Pixid Group en is een snelgroeiende HR tech-scale-up met klanten als staffing agencies, jobsites of grote werkgevers in binnen- en buitenland. Denk aan Randstad, SDWorx, House of Talent, House of HR, Synergy en e-people ;-) Ze werken actief samen met ATS-leveranciers als Carerix, Byner, SalesForce, Bullhorn, Otys, MySolution en Tigris, die de core-systemen van staffing-organisaties leveren. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Zet je graag je tanden in complexe materie en wil je topje steentje bijdragen aan een beter functionerende arbeidsmarkt? Word dan de collega van Leen, Jan, Toon, Joris, Carol, Petra, Peter, Bruno, Jeroen, Chitra, Rebecca, Anthony en Joeri, want theMatchBox kan jouw Java-expertise goed gebruiken.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Waar worden we ontzettend blij van als je dat meeneemt naar je job bij theMatchBox?&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Een aantal jaren Java-development-ervaring.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Ervaring met het uitdenken, bouwen e onderhouden van een software architectuur.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* &lt;/span&gt;&lt;span&gt;Aantoonbare belangstelling voor kunstmatige intelligentie en zoektechnologie.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Als je programmeert, sta je voor kwaliteit, nauwkeurigheid en veiligheid; je werkt tenslotte met persoonsgegevens.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* J&lt;/span&gt;e kunt duidelijk communiceren met klanten en collega’s in het Engels (en bij voorkeur ook Vlaams).&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Je zoekt graag zelfstandig je weg in complexe software en algoritmes (maar durft ook hulp te vragen als dat nodig is)&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;En ja, je werkt in een klein team, dus als je alleen wilt programmeren zonder klantencontact of e supportwerkzaamheden, is dit NIET jouw job.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Je functioneert goed in een groeiende scale-up-omgeving en bouwt actief mee aan de professionalisering van het development team en de manier waarop theMatchBox vandaag &amp;amp; morgen wil werken.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Nog wat nice to have’s (en daarom ben je ook leergierig):&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* &lt;/span&gt;&lt;span&gt;Ervaring met Docker en ElasticSearch&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;* &lt;/span&gt;&lt;span&gt;Goede kennis van het ontwikkelen van LLM’s &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Ervaring met het bouwen van software met Maven en Jenkins&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;&lt;span&gt;* &lt;/span&gt;Ervaring met het beheren van servers in Ansible&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Ben je als Java Developer toe aan een stap naar een bedrijf met een eigen AI-softwareproduct? Waar je ook mee kunt denken over de architectuur? En meer kunt doen dan alleen code kloppen? Dan is dit jouw volgende job.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;Natuurlijk krijg je bij theMatchBox ook goede arbeidsvoorwaarden:&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Een bruto maandsalaris tussen de &lt;/span&gt;&lt;span&gt;€&lt;/span&gt;&lt;span&gt;4.000 en &lt;/span&gt;&lt;span&gt;€&lt;/span&gt;&lt;span&gt;6.000 per maand dat past bij jouw ervaring, op basis van 38 uur per week.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Maaltijdcheques met een nominale waarde van €8 (werkgeversaandeel €6,91, werknemersaandeel van €1,09).&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Thuiswerkvergoeding €154,74 per maand.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Internetvergoeding voor thuiswerk van €20 per maand.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Bij theMatchBox werken ze doorgaans drie dagen per week op hun fijne co-working space in Zurenborg (Antwerpen), maar je kunt ook kiezen voor Madrid als standplaats.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Vergoeding voor eigen scherm en printer voor thuiswerk van €10 per maand&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Eco-cheques van €250 per jaar.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Hospitalisatieverzekering.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Fietsleasing via Cyclis van max €6.500 &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span&gt;● &lt;/span&gt;&lt;span&gt;Gsm-abonnement met onbeperkte data via Mobile Vikings.&lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73210822"/>
+    <published>2026-03-05T12:30:45+00:00</published>
   </entry>
 </feed>
