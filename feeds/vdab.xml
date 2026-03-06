@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-05T22:53:38.233058+00:00</updated>
+  <updated>2026-03-06T05:34:37.010110+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68368870</id>
+    <title>Data solution architect (Cronos)</title>
+    <updated>2026-02-17T15:59:23+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;What would you do?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In your role as a Data Solution Architect you create the overall technical vision for a Data Warehouse solution aligned with the organisation’s strategy. You design, describe, and manage the technical data solution. You are the connection between business and the proposed technical solution, outlining each of the phases and requirements required to make it work. As a Data Solution Architect, you are able to analyse the existing environment and available technologies in order to define and provide the best solution for the data related problem and create an overall strategic technical vision.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In addition, your are responsible for monitoring the implementation and keeping stakeholders updated and informed on the progress.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Who are you?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand the needs of the customer and can easily handle complex data environments.&lt;/li&gt;&lt;li&gt;You are focused on collaboration, innovation and continuous improvement.&lt;/li&gt;&lt;li&gt;You are able to communicate new features and benefits to all involved stakeholders&lt;/li&gt;&lt;li&gt;You are able to provide technical leadership to a team throughout the project lifecycle&lt;/li&gt;&lt;li&gt;You are able to clearly document and share best practice knowledge for new solutions&lt;/li&gt;&lt;li&gt;You have strong communication skills and always strive for the best solution.&lt;/li&gt;&lt;li&gt;You are fluent in Dutch or French and have a strong knowledge of English.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;What about your technical skills?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge and hands-on experience with Data Warehouse environments&lt;/li&gt;&lt;li&gt;Providing recommendations and roadmaps for proposed solutions&lt;/li&gt;&lt;li&gt;Able to perform design, debug, and performance analysis on data solutions&lt;/li&gt;&lt;li&gt;Developing proof-of-concept projects to validate proposed solutions&lt;/li&gt;&lt;li&gt;Broad experience with solution designs for Data Warehouse environments&lt;/li&gt;&lt;li&gt;SQL querying holds no secrets&lt;/li&gt;&lt;li&gt;Insights in setting up ETL processes&lt;/li&gt;&lt;li&gt;Experience in data visualisation and reporting is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Oracle, Google BigQuery, Microsoft Azure or other data stores is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;data architectuur&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;data warehouse&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;etl&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;At Tripwire Solutions you will find yourself in an innovative and challenging work environment where our colleagues and customers are our main focus. Openness, transparency and trust are at the top of our list of corporate values. Room for initiative and entrepreneurship are in our DNA. You will join a team of experts with whom you can share knowledge and where you can inspire each other. During our knowledge-sharing sessions you will also regularly come into contact with the different teams.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;We have a lot to OFFER!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An attractive salary package with a company car and a fuel card;&lt;/li&gt;&lt;li&gt;An extensive package of benefits and discounts;&lt;/li&gt;&lt;li&gt;Numerous social events (short ski, family day / weekend, after-work drinks, …);&lt;/li&gt;&lt;li&gt;A personalised growth plan;&lt;/li&gt;&lt;li&gt;Various education options and trainings to develop yourself and become an expert.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68368870"/>
+    <published>2024-02-22T11:42:26+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68368886</id>
     <title>Data architect (Cronos)</title>
@@ -2783,61 +2796,6 @@
       </content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72978519"/>
     <published>2026-02-03T15:04:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72974795</id>
-    <title>Randstad Digital - Full Stack .NET Developer (Randstad Digital)</title>
-    <updated>2026-02-04T10:18:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;De Opdracht Als Full-stack Developer werk je aan de uitbouw van nieuwe, schaalbare webapplicaties binnen een Azure-omgeving. Je wordt onderdeel van een professioneel productteam dat verantwoordelijk is voor de volledige levenscyclus van digitale oplossingen van innovatieve dashboards voor asset management tot het implementeren van slimme AI-toepassingen en collaboratieve platformen.&lt;p&gt;&lt;strong&gt;Methodiek en samenwerking &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Je bent een voorstander van Agile werken en hebt bij voorkeur ervaring binnen een SAFe-context. Je communiceert vlot in het Nederlands en Engels.
-&lt;/li&gt;
-
-&lt;li&gt;Gezien de focus op kennisdeling en teamdynamiek, ben je wekelijks 2 tot 3 dagen aanwezig op kantoor.
-&lt;/li&gt;
-
-&lt;li&gt;We zoeken een collega die verder kijkt dan de code; je denkt mee over de technische roadmap en de inzet van nieuwe technologieën om de business vooruit te helpen.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
-
-Je bent een gedreven ontwikkelaar die graag eigenaarschap neemt over complexe uitdagingen. Je beschikt over:&lt;br /&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;
-Ruime ervaring: Minimaal 6 jaar ervaring als Full-stack Developer, met recente projectervaring in 2025-2026.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Backend Expertise: Diepgaande kennis van .NET (C#), ASP.NET Core en Entity Framework. Je bent vertrouwd met moderne architectuurprincipes en MicroServices.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Frontend Skills: Minimaal 8 jaar ervaring met Angular, inclusief TypeScript, RxJS en moderne styling-technieken (HTML5/SCSS).&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Cloud &amp; Infra: Je bent thuis in het Azure-ecosysteem, specifiek met Azure DevOps, Azure Kubernetes Service (AKS) en containerisatie via Docker.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;li&gt;
-Data &amp; Security: Ervaring met MS SQL Server, het beveiligen van applicaties via OAuth/OpenID Connect en het ontsluiten van data via RESTful API's.&lt;br /&gt;
-
-
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72974795"/>
-    <published>2026-02-03T10:18:20+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72974115</id>
