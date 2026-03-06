@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-06T12:57:15.682156+00:00</updated>
+  <updated>2026-03-06T14:44:10.648821+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/application-analyst/</id>
+    <title>Application Analyst </title>
+    <updated>2026-03-05T09:57:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-03-05 10:57:31+00:00, last change 2026-03-05 09:57:31+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-03-05 10:57:31+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Deze internationale industriële groep staat midden in een strategische transitie. Historisch gegroeid, sterk gedecentraliseerd en actief over meerdere landen en continenten. Momenteel werkt men met SAP, maar men onderzoekt een nieuw ERP-platform. &lt;br&gt;
+De cultuur is no-nonsense en familiaal in de beste zin van het woord: korte lijnen, weinig politiek, veel vertrouwen. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als application analyst fungeer je als brug tussen de business en IT, met een projectmatige focus op twee kerndomeinen: garment labeling en Product Lifecycle Management (PLM). Het doel is om deze applicatiedomeinen grondig te analyseren, pijnpunten te identificeren en stap voor stap structurele verbeteringen door te voeren. Als functioneel eigenaar van deze applicaties zorg je ervoor dat de andere teamleden zich opnieuw kunnen focussen op SAP-support en de dagelijkse werking.&lt;br&gt;
+De rol is overwegend projectmatig (ca. 80%) met een beperkt aandeel operationele support (ca. 20%). Op termijn groeit de scope naar bijkomende IT-projecten binnen de organisatie.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Minimaal 3 tot 5 jaar relevante ervaring in een vergelijkbare rol als  application analyst, application consultant, business process owner of functioneel beheerder
+	&lt;li&gt;Ervaring met ERP-systemen: bij voorkeur SAP, maar ervaring met Dynamics, Oracle of een vergelijkbaar systeem is eveneens waardevol. Diepgaande SAP-kennis is geen vereiste - er is ruimte om dit on-the-job te leren met begeleiding van het team
+	&lt;li&gt;Projectmatig kunnen werken: zelfstandig een project opzetten, plannen, analyseren en stap voor stap tot een goed einde brengen
+	&lt;li&gt;Sterke analytische vaardigheden: complexe processen doorgronden, pijnpunten identificeren en gestructureerd uitschrijven
+	&lt;li&gt;IT-affiniteit en technisch inzicht: comfortabel in een IT-omgeving, in staat om snel nieuwe applicaties en tools onder de knie te krijgen
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Deze rol biedt het potentieel om mee te groeien met de professionalisering van de IT-afdeling van het bedrijf. De scope van de rol gaat op termijn ook uitbreiden naar bijkomende applicaties en bedrijfsprocessen binnen de groep. De organisatie wil ook verder groeien, waardoor er in de toekomst ook nieuwe opportuniteiten zich zullen voordoen. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Interesse? &lt;br&gt;
+Cartière begeleidt deze zoektocht in exclusiviteit.&lt;br&gt;
+Wil je weten of deze rol past bij jouw ervaring en ambitie, dan maken we graag tijd voor een kennismakend gesprek naar meer?&lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures. &lt;/strong&gt;&lt;br&gt;
+ </content>
+    <link href="https://www.cartiere.be/jobs/application-analyst/"/>
+    <category term="Business Analyst"/>
+    <published>2026-03-05T10:57:31+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-8/</id>
     <title>Data Engineer</title>
