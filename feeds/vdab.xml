@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-09T05:44:59.380958+00:00</updated>
+  <updated>2026-03-09T07:23:15.550066+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -816,7 +816,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72354267</id>
     <title>Senior Java Developer (Omgeving) via Vlaanderen connect (Vlaanderen connect.)</title>
-    <updated>2026-01-05T07:49:12+00:00</updated>
+    <updated>2026-03-09T07:11:43+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Heb je ervaring met agile? Voel jij je goed als full stack developer? Werk jij graag samen in teamverband? Lees dan verder of deze functie bij je past.&lt;/p&gt; 
 &lt;p&gt;Het departement Omgeving staat garant voor een kwaliteitsvolle leefomgeving met respect voor mens, dier en ecosysteem. We maken milieu-ecologische en ruimtelijke afwegingen en ontwikkelingskeuzes in het belang van de Vlaamse samenleving. We streven naar een duurzame omgang met diverse natuurlijke hulpbronnen in een koolstofarme, energiezuinige, klimaatintelligente samenleving. We realiseren een sterke band tussen ecologische, sociale en economische dimensies.&lt;/p&gt; 
 &lt;p&gt;Ter versterking van haar werking zoekt het departement een ervaren Java developer (senior) die binnen Team Digitalisering ingezet zal worden in een van de scrumteams. Deze teams nemen allemaal een deel op van de departementale programmawerking. Voorbeelden van de programmawerkingen zijn :&lt;/p&gt; 
