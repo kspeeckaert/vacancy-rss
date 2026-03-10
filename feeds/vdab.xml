@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-10T20:56:07.981536+00:00</updated>
+  <updated>2026-03-10T22:52:54.040119+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4230,49 +4230,6 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Konnekt (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Voor een &lt;strong&gt;financieel sterke en stabiele speler &lt;/strong&gt;binnen een &lt;strong&gt;grotere, groeiende groep&lt;/strong&gt; zoeken wij een&lt;strong&gt; ervaren .NET Developer&lt;/strong&gt; die wil meebouwen aan diverse interne softwareprojecten. Je komt terecht in het &lt;strong&gt;Research en Development team &lt;/strong&gt;waar je wordt omringd door zeer ervaren developers van wie je inhoudelijk echt kan bijleren. Door de &lt;strong&gt;aanhoudende groei van de organisatie &lt;/strong&gt;kijken ze uit naar sterke profielen die mee hun &lt;strong&gt;technische fundament willen versterken en verder uitbouwen.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Functieomschrijving&lt;/strong&gt;&lt;br&gt;&lt;ul&gt; &lt;li&gt;Je ontwikkelt backend-applicaties in&lt;strong&gt; C# / .NET (8-9) en bouwt API’s met ASP.NET WebAPI.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je integreert en optimaliseert systemen via o.a. &lt;strong&gt;EF Core, MQTT en microservices-architectuur.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je v&lt;strong&gt;erbetert en refactort bestaande code volgens Clean Code-principes&lt;/strong&gt;, met focus op performantie en schaalbaarheid.&lt;/li&gt; &lt;li&gt;Je neemt ownership over het volledige traject: &lt;strong&gt;analyse, ontwikkeling, testing, debugging en documentatie.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je denkt actief mee over &lt;strong&gt;architectuurkeuzes &lt;/strong&gt;en werkt in een&lt;strong&gt; moderne developmentomgeving (Azure DevOps).&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; &lt;li&gt;Je beschikt over een bachelor- of masterdiploma in Informatica, Toegepaste Informatica of een gelijkaardige richting.&lt;/li&gt; &lt;li&gt;Je hebt minstens &lt;strong&gt;8 jaar relevante ervaring in .NET development.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je hebt een sterke&lt;strong&gt; backend-expertise (C# / .NET)&lt;/strong&gt; en bent vertrouwd met &lt;strong&gt;API’s en gedistribueerde architecturen.&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je hebt ervaring met &lt;strong&gt;moderne development tools&lt;/strong&gt; en werkwijzen &lt;strong&gt;(Azure DevOps, Clean Code, microservices).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Je bent vlot in&lt;strong&gt; Nederlands en Engels&lt;/strong&gt; en technisch sterk communicatief.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Naast een contract van&lt;strong&gt; onbepaalde duur&lt;/strong&gt; krijg je voordelen zoals:&lt;br&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Competitief loon&lt;/strong&gt; naargelang ervaring&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Bedrijfswagen &lt;/strong&gt;met tankkaart&lt;/li&gt; &lt;li&gt;Maaltijdcheques&lt;/li&gt; &lt;li&gt;Groepsverzekering&lt;/li&gt; &lt;li&gt;Hospitalisatieverzekering&lt;/li&gt; &lt;li&gt;Netto-onkostenvergoeding&lt;/li&gt; &lt;li&gt;CAO90 bonus&lt;/li&gt; &lt;li&gt;GSM + abonnement, laptop,...&lt;/li&gt; &lt;li&gt;Mogelijkheid tot thuiswerk na inwerkperiode&lt;/li&gt; &lt;li&gt;Je komt terecht in een &lt;strong&gt;financieel sterk bedrijf die volop aan het groeien is.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;em&gt;Klinkt dit als jouw ideale volgende stap in jouw carrière? Stuur jouw cv naar info@konnekt.be tav Rune Himschoot of bel 09 298 55 36.&lt;/em&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73195849"/>
     <published>2026-03-03T17:15:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73185935</id>
-    <title>Operationeel analist (Talentus)</title>
-    <updated>2026-03-03T16:05:02+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
-&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Analyseren van operationele en technische problemen op basis van data, observaties en feedback uit de operatie.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Onderzoeken van processen op de werkvloer en&lt;strong&gt; vertalen van cijfers en rapporten naar concrete verbeteracties&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Voorstellen en implementeren van zowel korte termijn oplossingen als duurzame verbeteringen.&lt;/li&gt;
-&lt;li&gt;Overleggen en samenwerken met interne stakeholders zoals Operations, Continuous Improvement, IT, Finance, HR en projectteams.&lt;/li&gt;
-&lt;li&gt;Communiceren en afstemmen van procesaanpassingen om herhaling van problemen te voorkomen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Implementeren en ondersteunen van operationele en technische verbeterprojecten op de sites&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Documenteren van processen&lt;/strong&gt; en ondersteunen van opleidingen op de werkvloer in samenwerking met de Technical Trainer.&lt;/li&gt;
-&lt;li&gt;Opbouwen en onderhouden van diepgaande kennis van logistieke end-to-end processen en ondersteunende systemen.&lt;/li&gt;
-&lt;li&gt;In deze rol rapporteer je rechtstreeks aan de Operations Manager.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over volgende competenties:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In het bezit van een Bachelordiploma, bij voorkeur in een technische richting&lt;/li&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Minstens 3 jaar relevante werkervaring in een gelijkaardige functie waarbij trouble shooting en continuous improvement je focus hadden&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Een zeer sterke kennis van het &lt;strong&gt;Nederlands &lt;/strong&gt;en het &lt;strong&gt;Frans&lt;/strong&gt;, zowel gesproken als geschreven&lt;/li&gt;
-&lt;li&gt;Je werkt vlot met verschillende IT-systemen en MS Office applicaties, waaronder een sterke kennis van Excel&lt;/li&gt;
-&lt;li&gt;Sterk analytisch vermogen&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Je hanteert methodieken over diepgaande root-cause analyses&lt;/li&gt;
-&lt;li&gt;Je durft creatief en out-of-the-box na te denken over innovatieve en structurele oplossingen&lt;/li&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Flexibel ingesteld en bereid om je te verplaatsen tussen verschillende locaties in Belgi&amp;euml; (6 verschillende sites) zowel in dag als nacht&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Daarnaast kan je bij een &lt;strong&gt;dringende interventie &lt;/strong&gt;ook last-minute gecontacteerd worden&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Een sleutelrol met veel autonomie en verantwoordelijkheid&lt;/li&gt;
-&lt;li&gt;Opleidingsprogramma&lt;/li&gt;
-&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;
-&lt;li&gt;Laptop en GSM&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Maaltijdcheques van 8&amp;euro;/dag&lt;/li&gt;
-&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
-&lt;li&gt;Ambulante zorgverzekering&lt;/li&gt;
-&lt;li&gt;Jaarlijkse target bonus&lt;/li&gt;
-&lt;li&gt;Ecocheques van &amp;euro;250&lt;/li&gt;
-&lt;li&gt;Sectorpremie&lt;/li&gt;
-&lt;li&gt;Naast 20 wettelijke verlofdagen geniet je van 10 extralegale kaderverlofdagen&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73185935"/>
-    <published>2026-03-03T00:05:03+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73188486</id>
