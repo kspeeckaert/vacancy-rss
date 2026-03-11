@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-11T14:51:28.822191+00:00</updated>
+  <updated>2026-03-11T16:55:32.007459+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -269,37 +269,6 @@ Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;/em&g
     <link href="https://www.cartiere.be/jobs/data-modeler/"/>
     <category term="Business Analyst"/>
     <published>2026-02-19T10:34:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/ai-engineer-3/</id>
-    <title>AI Engineer</title>
-    <updated>2026-02-13T08:12:59+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-02-13 09:12:59+00:00, last change 2026-02-13 08:12:59+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-02-13 09:12:59+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;BEDRIJF:&lt;br /&gt;
-&lt;br /&gt;
-Deze sterk datagedreven internationale onderneming beheert miljoenen artikelen en beschikt over een uitzonderlijk rijke productdatabase. Voor een volledig greenfield AI- project zoeken we een Machine Learning Engineer die end-to-end meebouwt aan een performante semantic search engine, van modellering tot productie. Je werkt samen met ervaren data scientists en data engineers in een omgeving waar schaal, innovatie en directe businessimpact centraal staan.&lt;br /&gt;
-&lt;br /&gt;
-JOBOMSCHRIJVING:&lt;br /&gt;
-&lt;br /&gt;
-Als ML-Engineer bouw je aan de kern van de search-functionaliteiten binnen een grootschalig e-commerceplatform met meer dan 200 miljoen artikelen. Je optimaliseert semantic search via onder meer entity recognition en next token prediction, met als doel de zoektijd voor klanten drastisch te verlagen. Je werkt end-to-end: van modelontwikkeling tot productie en schaalbare implementatie. Search is een strategische prioriteit waar sterk in geïnvesteerd wordt, in nauwe samenwerking met data scientists binnen het productteam. Op termijn groeit dit door richting conversationele AI en agentic commerce.&lt;br /&gt;
-&lt;br /&gt;
-JOUW PROFIEL:&lt;br /&gt;
-&lt;br /&gt;
-Als ML-Engineer breng je mee:&lt;br /&gt;
-- 3 à 4 jaar relevante ervaring met ML-engineering projecten.&lt;br /&gt;
-- Masterdiploma Computer Science/ informatica of gelijkwaardig.&lt;br /&gt;
-- Ervaring met cloudtoepassingen. (GCP, AWS of Azure)&lt;br /&gt;
-- Je bent vertrouwd met vector-databases.&lt;br /&gt;
-&lt;br /&gt;
-UNIEK KARAKTER:&lt;br /&gt;
-&lt;br /&gt;
-In deze rol werk je mee aan een high-impact AI-project dat de customer journey direct verbetert. De komende jaren liggen er grote, ambitieuze projecten klaar, waaronder conversational AI, waardoor je volop kansen krijgt om je expertise uit te breiden en nieuwe AI-toepassingen te realiseren. Het is een omgeving met schaal, groei en directe zichtbare impact op de business&lt;br /&gt;
-&lt;br /&gt;
-&lt;em&gt;Benieuwd naar meer?&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Stuur nu jouw CV naar Gilles@cartiere.be en bel + +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/em&gt;</content>
-    <link href="https://www.cartiere.be/jobs/ai-engineer-3/"/>
-    <category term="AI &amp; ML Engineer"/>
-    <published>2026-02-13T09:12:59+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-quality-manager/</id>
