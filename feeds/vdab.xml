@@ -2,49 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-12T09:04:48.497112+00:00</updated>
+  <updated>2026-03-12T11:01:17.014709+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68316038</id>
-    <title>Project manager (Cronos)</title>
-    <updated>2026-02-17T16:01:13+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;PROJECT MANAGER&lt;/p&gt;&lt;p&gt;Ben jij een ervaren piloot die de helikopter in het vizier houdt? Zijn organisatorische en leidinggevende vaardigheden jouw tweede natuur? Lees dan meer over onze vacature als Agile Project Manager!&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;WAT GA JE DOEN&lt;/p&gt;&lt;p&gt;Als Agile Project Manager richt je je op het plannen, leiden, organiseren en motiveren van de agile projectteams. Omdat je agile methoden gebruikt, beheer je projecten in een snelle omgeving die meerdere bedrijfsdivisies kan doorkruisen. Je ervaring helpt je om traditionele projectmanagementprincipes en -praktijken te combineren met een Agile ontwikkelingsaanpak. Je definieert de reikwijdte en planning van het project, organiseert werkvergaderingen, zorgt dat het team op één lijn zit en hebt een goed beeld van de projectstatus. Met deze kennis stel je voortgangsrapportages op om de belanghebbenden of de programmamanager te informeren. Pas je afwijkingen van de planning aan. En natuurlijk beheer je risico's en problemen.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;WIE BEN JE&lt;/p&gt;&lt;p&gt;Charisma, communicator en een mensen-mens: dat is wat jou definieert. Je haalt kracht uit veranderende en uitdagende omgevingen. Het verlaten van je comfortzone schrikt je niet af en je hebt een gezonde ambitie die aanstekelijk werkt voor je collega's. Je hebt een duidelijke visie op projectmanagement en weet dit over te brengen op het hele team.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;JOUW VAARDIGHEDEN&lt;/p&gt;&lt;p&gt;- Agile, SAFe, PMI, PmBok of andere projectmanagementmethoden zijn je niet vreemd&lt;/p&gt;&lt;p&gt;- Ervaring in het werken met multifunctionele projectteams met 5-10 teamleden (ontwikkelaars, business analisten, testers, etc.)&lt;/p&gt;&lt;p&gt;- Je spreekt/schrijft vloeiend Engels en Nederlands. Frans is een bonus!&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;project manager&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;agile&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jira&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;safe&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;pmbok&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Equalminds werk je in een dynamische en flexibele werkomgeving waar we onze collega's en klanten op de eerste plaats zetten. &lt;/p&gt;&lt;p&gt;Openheid, transparantie en vertrouwen staan bovenaan onze lijst van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zit in ons DNA.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je maakt deel uit van een team van agilisten met wie je kennis en ervaringen kunt delen. En waar je elkaar kunt inspireren. Je staat ook in nauw contact met andere teams binnen de Fieldside groep (architectuur, cloud, ontwikkeling) zodat je op hun expertise kan rekenen wanneer nodig.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Op de verschillende sociale evenementen en Agile Cafés vormen we na werktijd een hecht team. Want het is altijd leuk om je collega's op een andere manier te leren kennen!&lt;/p&gt;&lt;p&gt;Last but not least bieden we een competitief salarispakket, een uitgebreide lijst voordelen en kortingen, en natuurlijk die groep gepassioneerde collega's.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68316038"/>
-    <published>2024-02-12T16:24:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68327634</id>
-    <title>Cloud Solution Architect (Cronos)</title>
-    <updated>2026-02-17T16:00:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Cloud Solution Architect werk je op projectbasis bij diverse klanten waar je vanuit je expertise verantwoordelijk bent voor het uittekenen van de cloudarchitectuur en het begeleiden van klanten.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je zet de functionele eisen en bedrijfsbehoeften om in een cloudarchitectuur, wij werken hoofdzakelijk met Oracle.&lt;/li&gt;&lt;li&gt;Je maakt de vertaalslag van de architectuur naar een concrete roadmap.&lt;/li&gt;&lt;li&gt;Je adviseert over hoe de platformen moeten evolueren (in de cloud, on premise of hybride) en adviseert je technisch team bij de implementatie van de ontworpen oplossingen.&lt;/li&gt;&lt;li&gt;Naast je verantwoordelijkheden bij de klant, ondersteun je ook de uitbouw van Droppar.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;WIE WE ZOEKEN&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt minstens 5 jaar ervaring in het ontwerpen, implementeren en ondersteunen van grootschalige projecten&lt;/li&gt;&lt;li&gt;Je kan terugvallen op een brede IT-kennis: Oracle Cloud (of andere cloud providers), automatisatie en gangbare technologieën&lt;/li&gt;&lt;li&gt;Je hebt inzicht in automatisatie en het opzetten van pipelines (Ansible, Puppet, Gitlab of Jenkins, Terraform)&lt;/li&gt;&lt;li&gt;Kennis van Kubernetes is een plus&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met enterprise architecturen voor het design van zowel cloud, on-premise als hybride oplossingen&lt;/li&gt;&lt;li&gt;Je begrijpt de noden van de klant en streeft altijd naar de beste oplossing&lt;/li&gt;&lt;li&gt;Je hebt sterke communicatieve skills, zowel met de klant als binnen je eigen team&lt;/li&gt;&lt;li&gt;Werken in wisselende omgevingen zie je als een meerwaarde in je job&lt;/li&gt;&lt;li&gt;Je volgt de laatste trends en ontwikkelingen om deze bij onze klanten te kunnen toepassen&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;cloud architectuur&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Bij Droppar kom je terecht in een innovatieve en uitdagende werkomgeving waar onze collega’s en klanten centraal staan. Openheid, transparantie en vertrouwen staan bovenaan ons lijstje van bedrijfswaarden. Ruimte voor initiatief en ondernemerschap zitten in ons DNA. Je komt terecht in een team van experts met wie je kennis kan delen en waar je elkaar kan inspireren. Tijdens onze kennisdelingssessies kom je ook regelmatig met de verschillende teams in contact.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Naast een stel gepassioneerde en toffe collega’s hebben wij jou natuurlijk nog veel meer te bieden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk salarispakket met een bedrijfswagen en tankkaart;&lt;/li&gt;&lt;li&gt;Een uitgebreid pakket aan voordelen en kortingen;&lt;/li&gt;&lt;li&gt;Tal van social events (shortski, familiedag/weekend, afterwork drinks,…);&lt;/li&gt;&lt;li&gt;Een gepersonaliseerd groeiplan;&lt;/li&gt;&lt;li&gt;Verschillende opleidingsmogelijkheden en trainingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68327634"/>
-    <published>2024-02-14T12:39:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68368870</id>
-    <title>Data solution architect (Cronos)</title>
-    <updated>2026-02-17T15:59:23+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;What would you do?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In your role as a Data Solution Architect you create the overall technical vision for a Data Warehouse solution aligned with the organisation’s strategy. You design, describe, and manage the technical data solution. You are the connection between business and the proposed technical solution, outlining each of the phases and requirements required to make it work. As a Data Solution Architect, you are able to analyse the existing environment and available technologies in order to define and provide the best solution for the data related problem and create an overall strategic technical vision.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;In addition, your are responsible for monitoring the implementation and keeping stakeholders updated and informed on the progress.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Who are you?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;You understand the needs of the customer and can easily handle complex data environments.&lt;/li&gt;&lt;li&gt;You are focused on collaboration, innovation and continuous improvement.&lt;/li&gt;&lt;li&gt;You are able to communicate new features and benefits to all involved stakeholders&lt;/li&gt;&lt;li&gt;You are able to provide technical leadership to a team throughout the project lifecycle&lt;/li&gt;&lt;li&gt;You are able to clearly document and share best practice knowledge for new solutions&lt;/li&gt;&lt;li&gt;You have strong communication skills and always strive for the best solution.&lt;/li&gt;&lt;li&gt;You are fluent in Dutch or French and have a strong knowledge of English.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;What about your technical skills?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Knowledge and hands-on experience with Data Warehouse environments&lt;/li&gt;&lt;li&gt;Providing recommendations and roadmaps for proposed solutions&lt;/li&gt;&lt;li&gt;Able to perform design, debug, and performance analysis on data solutions&lt;/li&gt;&lt;li&gt;Developing proof-of-concept projects to validate proposed solutions&lt;/li&gt;&lt;li&gt;Broad experience with solution designs for Data Warehouse environments&lt;/li&gt;&lt;li&gt;SQL querying holds no secrets&lt;/li&gt;&lt;li&gt;Insights in setting up ETL processes&lt;/li&gt;&lt;li&gt;Experience in data visualisation and reporting is a plus&lt;/li&gt;&lt;li&gt;Knowledge of Oracle, Google BigQuery, Microsoft Azure or other data stores is a plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;data architectuur&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;data warehouse&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;etl&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;At Tripwire Solutions you will find yourself in an innovative and challenging work environment where our colleagues and customers are our main focus. Openness, transparency and trust are at the top of our list of corporate values. Room for initiative and entrepreneurship are in our DNA. You will join a team of experts with whom you can share knowledge and where you can inspire each other. During our knowledge-sharing sessions you will also regularly come into contact with the different teams.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;We have a lot to OFFER!&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An attractive salary package with a company car and a fuel card;&lt;/li&gt;&lt;li&gt;An extensive package of benefits and discounts;&lt;/li&gt;&lt;li&gt;Numerous social events (short ski, family day / weekend, after-work drinks, …);&lt;/li&gt;&lt;li&gt;A personalised growth plan;&lt;/li&gt;&lt;li&gt;Various education options and trainings to develop yourself and become an expert.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68368870"/>
-    <published>2024-02-22T11:42:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/68368886</id>
     <title>Data architect (Cronos)</title>
@@ -4518,5 +4478,171 @@ We hechten veel belang aan een goede werk-privébalans. Je kan je werk flexibel 
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Asteria HR Group (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Berchem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;Cyber Security Manager - Antwerpen&lt;br&gt; &lt;br&gt;Digitale ecosystemen worden steeds complexer, sneller en meer verweven met operatie, infrastructuur en nieuwe energietoepassingen. In deze rol neem je een sleutelpositie in het veilig houden van die omgeving en bewaak je de continuïteit van kritische processen.&lt;br&gt; &lt;br&gt;Voor een internationaal bedrijf, actief in de hernieuwbare energie zoeken we een Cyber Security Manager. &lt;br&gt;Als Cyber Security Manager ontwikkel je een toekomstgerichte beveiligingsaanpak, verbind je strategie met uitvoering en zorg je ervoor dat security écht werkt in de praktijk binnen een IT-/OT- omgeving. Denk aan sites, depots, connected devices, digitale platformen en nieuwe mobiliteitsoplossingen. Security raakt hier elke schakel, waardoor je werkt in een omgeving waar betrouwbaarheid, regelgeving en technologische vernieuwing elkaar kruisen.&lt;br&gt; &lt;br&gt;Je bouwt een robuuste architectuur uit, begeleidt teams, stuurt incidentrespons aan en vertaalt complexe regelgeving naar hanteerbare standaarden met impact op de volledige organisatie.&lt;br&gt; &lt;br&gt;Cyber Security Manager - Functieomschrijving:&lt;br&gt;&lt;ul&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je ontwikkelt een risicogestuurde security- en compliance­strategie voor cloud-, IT-, OT-, IoT- en digitale omgevingen en zorgt ervoor dat deze correct wordt ingevoerd en gedragen binnen de organisatie.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je versterkt de security-architectuur door noodzakelijke componenten en samenwerkingen te bepalen, en je begeleidt teams bij de technische uitrol op infrastructuur-, applicatie-, data- en businessniveau.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je neemt de leiding over security governance en incidentrespons, volgt audits op, vertaalt corporate policies naar lokale standaarden en stuurt verbeteracties met merkbare impact op weerbaarheid.&lt;/li&gt;&lt;/ul&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Cyber Security Manager - Profiel:&lt;br&gt;&lt;ul&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je beschikt over een masterdiploma in IT of gelijkwaardige ervaring en hebt 6 tot 10 jaar expertise, waarvan minstens vijf jaar binnen cyber of IT security.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je beheerst frameworks en regelgeving zoals ISO 27001, NIS2 en GDPR en hebt ervaring met risicomanagement in hybride omgevingen.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je communiceert helder en overtuigend, werkt analytisch en blijft standvastig in situaties waar prioriteiten, investeringen en risico's scherp moeten worden afgewogen.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Je staat er voor open om te reizen naar andere Europese site's wanneer het nodig is (Nederland, Italië, Polen, ..). &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Cyber Security Manager - Aanbod:&lt;br&gt;&lt;ul&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Marktconform salaris op basis van kennis en ervaring.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Een uitgebreid pakket extralegale voordelen, waaronder bedrijfswagen, laadpas, ziekteverzekering, pensioensparen, bonusregeling en netto onkostenvergoeding.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Hybride werkmogelijkheden vanuit moderne kantoren in Antwerpen of thuis, ondersteund door performante tools.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Een organisatie met ruime ontwikkelingsmogelijkheden, opleidingen, coaching en doorgroeiperspectieven.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Minstens 36 vakantiedagen en toegang tot sport, clubs, events en welzijnsinitiatieven.&lt;/li&gt;&lt;li class="___ccc16d0 fje8fi8 f1ng9h0j f1bwykku f18jd3zf"&gt;Een professionele omgeving waar veiligheid, compliance en innovatie centraal staan en waar je strategische rol duidelijk voelbaar is.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73253673"/>
     <published>2026-03-11T17:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73254182</id>
+    <title>Database Administrator &amp; Data Engineer (Talent-IT)</title>
+    <updated>2026-03-12T10:45:04+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talent-IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Ben jij een gedreven 
+&lt;strong&gt;DBA of Data Engineer&lt;/strong&gt; met een passie voor datakwaliteit, dataveiligheid en performante IT-omgevingen? Werk je graag zowel operationeel als projectmatig en wil je meebouwen aan een stabiel en toekomstgericht dataplatform? Dan maken we graag kennis met jou.&lt;/p&gt; 
+&lt;p&gt;In deze rol combineer je 
+&lt;strong&gt;databasebeheer met data engineering&lt;/strong&gt;. De nadruk ligt op het 
+&lt;strong&gt;DBA-luik&lt;/strong&gt;, maar je krijgt ook de kans om actief mee te werken aan de verdere uitbouw van ons dataplatform.&lt;/p&gt; 
+&lt;p&gt;Jouw rol&lt;/p&gt; 
+&lt;p&gt;Je combineert twee complementaire verantwoordelijkheden binnen ons IT-team: 
+&lt;strong&gt;databasebeheer en data engineering&lt;/strong&gt;.&lt;/p&gt; 
+&lt;p&gt;Als DBA&lt;/p&gt; 
+&lt;p&gt;Je bent verantwoordelijk voor het beheer en de optimalisatie van de servers waarop onze applicaties en Oracle-databases draaien.&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je installeert en configureert nieuwe servers en monitort bestaande omgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bewaakt en controleert onze back-ups.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je zorgt voor regelmatige 
+&lt;strong&gt;security patching&lt;/strong&gt; en volgt nieuwe Oracle-versies op.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Bij incidenten werk je nauw samen met het 
+&lt;strong&gt;system admin team&lt;/strong&gt; en de servicedesk om impact op de business te beperken.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je behandelt 
+&lt;strong&gt;second-line tickets&lt;/strong&gt; in samenwerking met de servicedesk.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je fungeert als aanspreekpunt voor ontwikkelaars bij databasegerelateerde vragen.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Als Data Engineer&lt;/p&gt; 
+&lt;p&gt;Naast het beheer van onze databases werk je ook mee aan de verdere uitbouw van ons dataplatform.&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je helpt bij de 
+&lt;strong&gt;opzet en verdere ontwikkeling van ons dataplatform&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwikkelt 
+&lt;strong&gt;datapipelines in dbt&lt;/strong&gt; op basis van aangeleverde analyses.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je transformeert en verrijkt data uit lokale databronnen richting ons 
+&lt;strong&gt;Snowflake-platform&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je stemt af met het datateam en de business rond nieuwe en bestaande use cases.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je volgt incidenten op en schakelt met leveranciers wanneer nodig.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je werkt nauw samen met collega’s binnen het datateam.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt enkele jaren ervaring als 
+&lt;strong&gt;DBA, Data Engineer of in een gelijkaardige rol&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een sterke kennis van 
+&lt;strong&gt;SQL en Linux&lt;/strong&gt;.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met 
+&lt;strong&gt;Oracle&lt;/strong&gt; is een sterke troef, of je hebt interesse om je hierin verder te verdiepen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in moderne dataplatformen en data engineering tools.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Thema’s zoals 
+&lt;strong&gt;security, privacy en datakwaliteit&lt;/strong&gt; zijn voor jou vanzelfsprekend.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je werkt zelfstandig, gestructureerd en denkt oplossingsgericht.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je bent hands-on, stressbestendig en gaat uitdagingen niet uit de weg.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je communiceert helder en vlot, zowel met IT-collega’s als met business stakeholders.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73254182"/>
+    <published>2026-03-12T10:45:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73254711</id>
+    <title>Operationeel analist (Talentus)</title>
+    <updated>2026-03-12T10:57:03+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
+&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Analyseren van operationele en technische problemen op basis van data, observaties en feedback uit de operatie.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Onderzoeken van processen op de werkvloer en&lt;strong&gt; vertalen van cijfers en rapporten naar concrete verbeteracties&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Voorstellen en implementeren van zowel korte termijn oplossingen als duurzame verbeteringen.&lt;/li&gt;
+&lt;li&gt;Overleggen en samenwerken met interne stakeholders zoals Operations, Continuous Improvement, IT, Finance, HR en projectteams.&lt;/li&gt;
+&lt;li&gt;Communiceren en afstemmen van procesaanpassingen om herhaling van problemen te voorkomen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implementeren en ondersteunen van operationele en technische verbeterprojecten op de sites&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documenteren van processen&lt;/strong&gt; en ondersteunen van opleidingen op de werkvloer in samenwerking met de Technical Trainer.&lt;/li&gt;
+&lt;li&gt;Opbouwen en onderhouden van diepgaande kennis van logistieke end-to-end processen en ondersteunende systemen.&lt;/li&gt;
+&lt;li&gt;In deze rol rapporteer je rechtstreeks aan de Operations Manager.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over volgende competenties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In het bezit van een Bachelordiploma, bij voorkeur in een technische richting&lt;/li&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Minstens 3 jaar relevante werkervaring in een gelijkaardige functie waarbij trouble shooting en continuous improvement je focus hadden&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Een zeer sterke kennis van het &lt;strong&gt;Nederlands &lt;/strong&gt;en het &lt;strong&gt;Frans&lt;/strong&gt;, zowel gesproken als geschreven&lt;/li&gt;
+&lt;li&gt;Je werkt vlot met verschillende IT-systemen en MS Office applicaties, waaronder een sterke kennis van Excel&lt;/li&gt;
+&lt;li&gt;Sterk analytisch vermogen&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Je hanteert methodieken over diepgaande root-cause analyses&lt;/li&gt;
+&lt;li&gt;Je durft creatief en out-of-the-box na te denken over innovatieve en structurele oplossingen&lt;/li&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Flexibel ingesteld en bereid om je te verplaatsen tussen verschillende locaties in Belgi&amp;euml; (6 verschillende sites) zowel in dag als nacht&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Daarnaast kan je bij een &lt;strong&gt;dringende interventie &lt;/strong&gt;ook last-minute gecontacteerd worden&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Een sleutelrol met veel autonomie en verantwoordelijkheid&lt;/li&gt;
+&lt;li&gt;Opleidingsprogramma&lt;/li&gt;
+&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;
+&lt;li&gt;Laptop en GSM&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Maaltijdcheques van 8&amp;euro;/dag&lt;/li&gt;
+&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
+&lt;li&gt;Ambulante zorgverzekering&lt;/li&gt;
+&lt;li&gt;Jaarlijkse target bonus&lt;/li&gt;
+&lt;li&gt;Ecocheques van &amp;euro;250&lt;/li&gt;
+&lt;li&gt;Sectorpremie&lt;/li&gt;
+&lt;li&gt;Naast 20 wettelijke verlofdagen geniet je van 10 extralegale kaderverlofdagen&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73254711"/>
+    <published>2026-03-12T10:57:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73254846</id>
+    <title>Functioneel applicatie architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
+    <updated>2026-03-12T11:09:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw toekomstige job&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/p&gt; 
+&lt;p&gt;Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam. Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB. Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur. Moderne context: je komt in contact met veel moderne technologieën.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.&lt;/li&gt; 
+&lt;li&gt;Aanspreekpunt voor applicaties in het portfolio.&lt;/li&gt; 
+&lt;li&gt;Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw taken&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.&lt;/li&gt; 
+&lt;li&gt;Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.&lt;/li&gt; 
+&lt;li&gt;Ondersteuning van het team bij productie-incidenten&lt;/li&gt; 
+&lt;li&gt;Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/li&gt; 
+&lt;li&gt;Expert functionele analyse (hoe achterhaal ik functionele vereisten bij business?) (must have)&lt;/li&gt; 
+&lt;li&gt;&lt;span lang="EN-US"&gt;Kennis van non-functional requirements (must have)&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt;Enige kennis over integratiepatronen (bv. synchrone vs asynchrone communicatie) (must have)&lt;/li&gt; 
+&lt;li&gt;Diepgaande kennis over integratiepatronen (bv. event driven design, event sourcing) (nice to have)&lt;/li&gt; 
+&lt;li&gt;Kennis van agile en scrum werking&lt;/li&gt; 
+&lt;li&gt;Kennis over software frameworks, standaarden, best practices en methodieken (nice to have)&lt;/li&gt; 
+&lt;li&gt;Basis data-verwerking en -analyse (SQL queries kunnen schrijven, JSON- en XML-bestanden kunnen interpreteren)&lt;/li&gt; 
+&lt;li&gt;Analytisch vermogen&lt;/li&gt; 
+&lt;li&gt;veel informatie verwerken: grote lijnen kunnen zien, details kunnen oprakelen als nodig&lt;/li&gt; 
+&lt;li&gt;Belangen van verschillende partijen achterhalen en expliciet maken&lt;/li&gt; 
+&lt;li&gt;Helder communiceren, mondeling en schriftelijk&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met:&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Een aantrekkelijke bruto verloning&lt;/li&gt; 
+&lt;li&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/li&gt; 
+&lt;li&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11).&lt;/li&gt; 
+&lt;li&gt;Een mobiliteitsbudget&lt;/li&gt; 
+&lt;li&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)&lt;/li&gt; 
+&lt;li&gt;Een forfaitaire onkostenvergoeding&lt;/li&gt; 
+&lt;li&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten)&lt;/li&gt; 
+&lt;li&gt;Een groepsverzekering&lt;/li&gt; 
+&lt;li&gt;Een arbeidsongevallenverzekering&lt;/li&gt; 
+&lt;li&gt;Een opleidingsbudget&lt;/li&gt; 
+&lt;li&gt;Een laptop&lt;/li&gt; 
+&lt;li&gt;Een smartphone met abonnementsformule&lt;/li&gt; 
+&lt;li&gt;Flexibele werkuren&lt;/li&gt; 
+&lt;li&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/li&gt; 
+&lt;li&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73254846"/>
+    <published>2026-03-12T11:09:10+00:00</published>
   </entry>
 </feed>
