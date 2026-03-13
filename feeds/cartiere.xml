@@ -2,9 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-13T13:01:06.963558+00:00</updated>
+  <updated>2026-03-13T14:48:21.504625+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-quality-specialist/</id>
+    <title>Data Quality Specialist</title>
+    <updated>2026-03-11T11:44:50+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-03-11 12:44:50+00:00, last change 2026-03-11 11:44:50+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-03-11 12:44:50+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;BEDRIJF:&lt;br /&gt;
+&lt;br /&gt;
+Binnen deze internationale en sterk groeiende organisatie, actief in meer dan 170 landen, wordt momenteel sterk geïnvesteerd in een grootschalige digitale transformatie. Verschillende legacy-systemen maken plaats voor moderne platformen, wat gepaard gaat met complexe data- en transformatieprojecten over meerdere domeinen heen, zoals klanten-, leveranciers- en productdata.&lt;br /&gt;
+&lt;br /&gt;
+Parallel wordt ook de data-organisatie verder uitgebouwd, met een duidelijke focus op data governance, datakwaliteit en data literacy. In deze context krijg je de kans om mee te bouwen aan een robuust dataframework en een directe impact te hebben op hoe data structureel wordt beheerd en gebruikt binnen een internationale organisatie.&lt;br /&gt;
+&lt;br /&gt;
+JOBOMSCHRIJVING:&lt;br /&gt;
+&lt;br /&gt;
+Als Data Quality Specialist krijg je een unieke kans om mee vanaf nul te bouwen aan een data governance framework binnen een organisatie in volle digitale transformatie. Je helpt de betrouwbaarheid en bruikbaarheid van data te waarborgen, met een sterke focus op het ondersteunen van belangrijke migratie- en transformatieprojecten.&lt;br /&gt;
+&lt;br /&gt;
+Je speelt een verbindende rol waarbij je IT, business en data teams samenbrengt om te sparren over definities en kwaliteitsregels. Je durft kritisch te challengen, brengt aandachtspunten proactief naar boven en zorgt ervoor dat iedereen op één lijn zit. Daarnaast breng je de kwaliteit van kritische datasets in kaart via data profiling, definieer je kwaliteitsregels en analyseer je data om inconsistenties of risico’s tijdig te detecteren. Met dashboards en rapportages zorg je voor transparantie en draagvlak, terwijl je structureel bijdraagt aan het verankeren van een datakwaliteitscultuur binnen de organisatie.&lt;br /&gt;
+&lt;br /&gt;
+JOUW PROFIEL:&lt;br /&gt;
+&lt;br /&gt;
+Als data quality specialist breng je relevante werkervaring mee vanuit een data quality of governance achtergrond binnen grote ondernemingen. Verder breng je volgende kwaliteiten mee:
+&lt;ul&gt;
+	&lt;li&gt;3 à 5 jaar werkervaring in relevante settings.&lt;/li&gt;
+	&lt;li&gt;Ervaring met SQL voor querying.&lt;/li&gt;
+	&lt;li&gt;Sterk in stakeholdermanagement, je durft challengen.&lt;/li&gt;
+	&lt;li&gt;Je bent pragmatisch en verbindend.&lt;/li&gt;
+	&lt;li&gt;Je spreekt vloeiend Engels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+UNIEK KARAKTER:&lt;br /&gt;
+&lt;br /&gt;
+Binnen deze functie bouw je volledig from scratch mee aan een modern data governance framework waarin jij je stempel drukt. Je krijgt maximale autonomie: voorstellen doen,&lt;br /&gt;
+verbeteringen doorvoeren, zelf initiatief nemen. Je werkt in een bedrijf in volle verandering, met een jong en gemixt team en een sterke focus op work-life balance. Deze rol biedt uitdaging, zichtbare impact op grote transformatieprojecten en volop kansen voor persoonlijke groei en interne doorgroei.&lt;br /&gt;
+&lt;br /&gt;
+Benieuwd naar meer?&lt;br /&gt;
+Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.</content>
+    <link href="https://www.cartiere.be/jobs/data-quality-specialist/"/>
+    <category term="Data Quality"/>
+    <published>2026-03-11T12:44:50+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/marketing-automation-bi-analyst/</id>
     <title>Marketing Automation &amp; BI Analyst</title>
