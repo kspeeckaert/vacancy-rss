@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-16T13:13:00.385487+00:00</updated>
+  <updated>2026-03-16T15:04:54.377066+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/ai-transformation-lead/</id>
+    <title>AI Transformation Lead</title>
+    <updated>2026-03-16T13:20:44+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Bosstraat 69, 3560, Brussels-Capital Region, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-03-16 14:20:44+00:00, last change 2026-03-16 13:20:44+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-03-16 14:20:44+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Dit AI-projecthuis werkt op een toolagnostische manier. Ze volgen nauwlettend de marktontwikkelingen en integreren de meest gebruikte technologieën. Het zacht en menselijk bedrijf investeert volop in haar medewerkers door middel van opleidingen, trainingen en coaching. Carrièreplannen worden samen met jou opgesteld en er heerst een teamgerichte sfeer. Dit mensgerichte bedrijf biedt geen ruimte voor competitie en luistert echt naar jou. Voor iemand die zich wil ontwikkelen, liggen hier alle kansen. Het team is zeer communicatief en heeft een sterke focus op business.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als AI Transformation Lead zal je een sleutelrol spelen in het versnellen van AI-adoptie binnen organisaties. In deze rol fungeer je als brug tussen de teams die AI-oplossingen ontwikkelen en de business units die deze tools in de praktijk gebruiken. Je helpt teams om opportuniteiten voor AI te identificeren, analyseert bestaande processen en begeleidt stakeholders bij het uitwerken van concrete use cases, van eerste idee tot proof of concept en implementatie. Daarnaast ondersteun je medewerkers bij het dagelijkse gebruik van bestaande AI-tools, bijvoorbeeld door het delen van best practices, het opzetten van prompt libraries en het organiseren van workshops of hands-on sessies. Door kennis te delen, stakeholders te begeleiden en successen zichtbaar te maken, stimuleer je een bredere adoptie van AI binnen organisaties en draag je bij aan een cultuur van innovatie.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;Minstens 5 jaar relevante ervaring binnen AI, Data Science, analytics of digitale transformatie.
+	&lt;li&gt;Sterke affiniteit met AI en Generative AI (LLM’s, chatbots, predictive models) en inzicht in hun toepassingen binnen een businesscontext.
+	&lt;li&gt;In staat om technische concepten helder te vertalen naar niet-technische stakeholders.
+	&lt;li&gt;Ervaring met workshops, coaching of change management binnen organisaties.
+	&lt;li&gt;Analytisch sterk en in staat om snel businessprocessen en opportuniteiten te identificeren.
+	&lt;li&gt;Vloeiend in Nederlands, met een goede kennis van Frans en Engels.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Als AI Transformation Lead maak je deel uit van een hechte gemeenschap van deskundige experts en betrokken collega’s. Een gezonde werk-privébalans en een plezierige werksfeer zorgen voor een aangename omgeving. Daarnaast is er een flexibele thuiswerkregeling. Je ontvangt een aantrekkelijk salarispakket met extra legale voordelen en incentives, en krijgt dagelijks de kans om jezelf verder te ontwikkelen. Wie ondernemend is, zal zich hier helemaal op zijn plek voelen. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/ai-transformation-lead/"/>
+    <category term="AI Strategist"/>
+    <published>2026-03-16T14:20:44+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-quality-specialist/</id>
     <title>Data Quality Specialist</title>
