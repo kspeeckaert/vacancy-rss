@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-18T10:58:04.721669+00:00</updated>
+  <updated>2026-03-18T13:12:44.096106+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -368,6 +368,36 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;br
     <link href="https://www.cartiere.be/jobs/data-engineer-8/"/>
     <category term="Data Engineering"/>
     <published>2026-03-04T15:15:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-reporting-specialist/</id>
+    <title>Data &amp; Reporting Specialist </title>
+    <updated>2026-03-04T08:32:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-03-04 09:32:00+00:00, last change 2026-03-04 08:32:00+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-03-04 09:32:00+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Dit toonaangevend internationaal bedrijf, actief binnen de bouwsector, kent zijn thuisbasis in de Kempen. Ze nemen de leiding in diverse projecten die stuk voor stuk complex en uitdagend zijn. Naast hun indrukwekkende portfolio zetten ze in op duurzaam ondernemen. Hier hebben ze reeds prijzen voor gewonnen. &lt;br&gt;
+In totaal zijn er ongeveer 1000 medewerkers werkzaam. Momenteel zijn ze op zoek naar een Data &amp; Reporting Specialist om het datateam te versterken.  &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data &amp; Reporting Specialist ben je verantwoordelijk voor het opzetten, beheren en optimaliseren van de rapporteringsomgeving binnen een ERP-transitie. Je verwerkt en structureert data binnen een Microsoft Fabric-architectuur en zorgt voor betrouwbare, consistente datastromen.&lt;br&gt;
+Je ontwikkelt het datamodel, voert SQL-transformaties uit en bouwt rapporten in Power BI. Daarnaast werk je nauw samen met de business om data te vertalen naar heldere inzichten en draag je bij aan verdere optimalisatie van rapportering en datagebruik.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;&lt;br&gt;
+•    Je hebt een sterke ervaring binnen data- en rapporteringsomgevingen. &lt;br&gt;
+•    Je beschikt over een sterke kennis van SQL, Power BI en DAX. &lt;br&gt;
+•    Je bent sterk in datamodellering. &lt;br&gt;
+•    Sterk begrip van businesslogica, bij voorkeur in een financiële context. &lt;br&gt;
+•    Je kan werken in een dynamische omgeving en bent zelf ook flexibel. &lt;br&gt;
+•    Je bent proactief en neemt initiatief. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een bedrijf dat een open cultuur kent en waarin iedereen zich thuis voelt. Er wordt ingezet op duurzaamheid en ook jij kan rond dit topic analyses uitvoeren. Je krijgt de kans om jezelf te ontwikkelen en door te groeien binnen de onderneming. Verder zet het bedrijf ook heel sterk in op het welzijn van hun medewerkers. Zo is er een fitnessruimte aanwezig en is er gratis soep en fruit.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-reporting-specialist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-03-04T09:32:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/a-z-data-analist/</id>
