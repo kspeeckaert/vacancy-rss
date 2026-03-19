@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-19T15:09:17.939112+00:00</updated>
+  <updated>2026-03-19T17:20:45.869498+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
-    <title>Freelance Java Developer (Cronos)</title>
-    <updated>2026-02-17T15:35:30+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Als consultant kom je terecht in diverse omgevingen, bij diverse klanten, waar je mee kan instaan voor het uitwerken en bouwen van innovatieve cloudapplicaties.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kijkt verder dan je code alleen en kan functionele vereisten vertalen naar een technische oplossing&lt;/li&gt;&lt;li&gt;Naast jouw specialisatie blijf je een brede kijk houden op technologie en deins je er niet voor terug om nieuwe dingen op te pikken&lt;/li&gt;&lt;li&gt;Wisselende omgevingen en inwerken bij nieuwe teams zie je als een meerwaarde in je job&lt;/li&gt;&lt;li&gt;Opvolgen van de nieuwste trends en ontwikkelingen in cloud architectuur en tools zit in je DNA&lt;/li&gt;&lt;li&gt;Communicatie is cruciaal, je toetst je oplossing af met de functionele teams en overlegt op regelmatige basis met je collega’s&lt;/li&gt;&lt;li&gt;Je spreekt Nederlands en Engels. Frans is een plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt relevante werkervaring in Java, Node.JS, Spring, Spring Boot, Maven, Jenkins, Git, containers (Docker, Kubernetes)&lt;/li&gt;&lt;li&gt;Je bent volledig mee met cloud providers zoals Amazon Web Services, Google Cloud Platform en Oracle Cloud&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;node.js&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;spring&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;angular&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;maven&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;git&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;amazon web services&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;google cloud platform&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084442"/>
-    <published>2024-07-02T09:28:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
     <title>Freelance Data Engineer (Cronos)</title>
@@ -4469,6 +4446,14 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als .Net Developer krijg je de kans om te starten in het team dat verantwoordelijk is voor complexe en innovatieve IT-transformatietrajecten met impact over heel de onderneming. &lt;/p&gt;&lt;p&gt;Je werkt in een Full-Scrum team waar jij collega .Net developers bijstaat en waar je de rechterhand bent van de IT Architect. Je werkt aan cruciale bedrijfsapplicaties en geeft mee richting aan de concrete functionele oplossing.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor diploma behaald in IT of gelijkaardig&lt;/li&gt;&lt;li&gt;Sterke ervaring als .Net Developer of gelijkaardig&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Deze internationaal gekende gigant in de logistiek is actief over heel Europa, en staan gekend voor hun kwaliteit in dienstlevering in de sector. Gezien hun sterke groei breiden ze hun cruciaal IT-team uit met een .Net Developer.&lt;br/&gt;&lt;br/&gt;Dit is een onderneming dat veel waarde hecht aan IT, innovatie en human-development. Je krijgt een brutoloon op basis van je ervaring en verder:&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren en flexibiliteit&lt;/li&gt;&lt;li&gt;actieve aanpak van een persoonlijk groei traject&lt;/li&gt;&lt;li&gt;inspraak en sterke betrokkenheid in de lopende projecten&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73298640"/>
     <published>2026-03-18T10:13:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73313745</id>
+    <title>.NET Developer (Kwery)</title>
+    <updated>2026-03-19T17:04:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Hamme&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een groeiende softwareontwikkelaar in regio Hamme zoeken we een ervaren .NET Developer. Deze onderneming heeft zich de voorbije jaren sterk ontwikkeld binnen ERP-oplossingen, kassasystemen en e-commerceplatformen, en werkt voor een brede waaier aan internationale klanten binnen retail en distributie.&lt;/p&gt;&lt;p&gt;Je komt terecht in een familiaal bedrijf met een moderne werkomgeving en een team waar samenwerking centraal staat. De cultuur is hands-on, met korte communicatielijnen en veel ruimte voor initiatief en persoonlijke groei.&lt;br /&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je ontwikkelt en verbetert ERP- en retailapplicaties op dagelijkse basis&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je draagt bij aan uiteenlopende projecten voor klanten binnen o.a. fashion en interieur&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je bent betrokken bij het volledige ontwikkelingsproces, van analyse tot implementatie&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je combineert front-end en back-end development, inclusief databankbeheer&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Samen met je team zorg je voor het onderhoud en de performantie van de applicaties&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je beschikt over een bachelor Toegepaste Informatica of hebt gelijkwaardige ervaring opgebouwd.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je hebt minstens 5 jaar ervaring als .NET Developer en beschikt over een sterke kennis van C#, SQL Server en MVC.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je hebt inzicht in analyse, architectuur en testing en levert kwalitatieve en stabiele code af.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je functioneert goed binnen een team en werkt op een proactieve en klantgerichte manier.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Een aantrekkelijk bruto maandsalaris tussen €3.800 en €5.800, afhankelijk van jouw ervaring en achtergrond.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een bedrijfswagen met tank- of laadkaart (keuze uit o.a. ID4, Mercedes EQA, Kia EV6).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een uitgebreid pakket aan extralegale voordelen zoals een netto onkostenvergoeding (€250/maand), maaltijdcheques, groeps- en hospitalisatieverzekering, internetabonnement en gsm.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;32 vakantiedagen die je flexibel kan opnemen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Mogelijkheid tot thuiswerk (tot 2 dagen per week) na de opstartperiode.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een hecht team met regelmatige afterworks, lunches en andere activiteiten.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73313745"/>
+    <published>2026-03-19T17:04:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73308512</id>
