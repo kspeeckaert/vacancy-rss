@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-20T15:06:40.064877+00:00</updated>
+  <updated>2026-03-20T17:04:54.058624+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
+    <title>Freelance Integratie developer (Cronos)</title>
+    <updated>2026-02-17T15:39:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een ervaren integratie developer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;Als integratieontwikkelaar krijg je de mogelijkheid om te werken aan uitdagende integratieprojecten. Je zult samenwerken met klanten om hun integratiebehoeften te begrijpen en oplossingen op maat te bieden met behulp van verschillende technologieën en cloud platformen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je verantwoordelijkheden als integratieontwikkelaar omvatten het ontwikkelen en implementeren van integraties die naadloze communicatie en efficiënte gegevensuitwisseling tussen systemen mogelijk maken. Je werkt nauw samen met het team om ervoor te zorgen dat de integraties voldoen aan de vereisten en de kwaliteitsnormen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;Om succesvol te zijn als integratieontwikkelaar ben je bekend met de volgende technische vaardigheden en concepten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met één of meer programmeertalen, zoals Java, C# of Python&lt;/li&gt;&lt;li&gt;Kennis of begrip van van API’s, webservices en messaging technologieën&lt;/li&gt;&lt;li&gt;Achtergrond in integratiepatronen en -architecturen is een plus.&lt;/li&gt;&lt;li&gt;Kennis en interesse in cloud- en integratieplatformen zoals Azure, Oracle, AWS.&lt;/li&gt;&lt;li&gt;Basiskennis van SQL en databases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;API&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Integratie&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;c#&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;python&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;webservices&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;messaging technologieën&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;azure&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;aws&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;sql&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084449"/>
+    <published>2024-07-02T09:28:39+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
     <title>Freelance Java Developer (Cronos)</title>
@@ -1696,47 +1719,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT! (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Malle&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wie ben jij in ons On IT verhaal?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als &lt;strong&gt;Generalistische System Engineer&lt;/strong&gt; ben jij de onmisbare schakel die technische uitdagingen vertaalt naar slimme &amp;nbsp;IT-oplossingen. Je combineert hands-on interventies met uitdagende projecten en een adviserende rol bij klanten. Met jouw brede kennis en helicopterview zorg je voor stabiele, moderne IT-omgevingen en bouw je mee aan sterke, toekomstgerichte relaties.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ad-hoc interventies&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Uitvoeren van snelle en doelgerichte interventies bij klanten (bv vervangen en configureren van switches en firewalls)&lt;/li&gt;&lt;li&gt;Oplossen van dringende storingen en technische incidenten&lt;/li&gt;&lt;li&gt;Zorgen voor een vlotte terugkoppeling en documentatie na afloop&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Projectmatige opdrachten&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een of meerdere dagen bij eenzelfde klant voor grotere opdrachten&lt;/li&gt;&lt;li&gt;Installeren en vervangen van meerdere werkplekken (bijvoorbeeld 10+ pc’s)&lt;/li&gt;&lt;li&gt;Vernieuwen en configureren van volledige installaties van switches en netwerkapparatuur&lt;/li&gt;&lt;li&gt;Ondersteunen bij de inrichting en vernieuwing van server rooms&lt;/li&gt;&lt;li&gt;Nauw samenwerken met een van onze interne gespecialiseerde Competence Centers bij grotere projecten (Cloud, Modern Workplace, Networking)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Adviserende rol&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;In gesprek gaan met klanten om hun IT-behoeften in kaart te brengen&lt;/li&gt;&lt;li&gt;Signaleren van verbeterpunten en aanbevelen van oplossingen vanuit een helikopterview&lt;/li&gt;&lt;li&gt;Klanten helpen hun IT-infrastructuur strategisch af te stemmen op hun bedrijfsdoelstellingen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Algemene verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Optreden als aanspreekpunt voor technische vragen van klanten&lt;/li&gt;&lt;li&gt;Documenteren en rapporteren van interventies en projectresultaten&lt;/li&gt;&lt;li&gt;Proactief bijdragen aan kennisdeling en samenwerking binnen het team&lt;/li&gt;&lt;li&gt;&lt;p&gt;Meedenken over innovatie en verdere professionalisering van IT-diensten&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Technische kennis&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Brede kennis van &lt;strong&gt;IT-infrastructuur&lt;/strong&gt; en &lt;strong&gt;netwerktechnologieën&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Ervaring met &lt;strong&gt;switching&lt;/strong&gt;, &lt;strong&gt;firewalls&lt;/strong&gt; en &lt;strong&gt;migraties&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Grondige kennis van &lt;strong&gt;Microsoft-technologieën&lt;/strong&gt; en &lt;strong&gt;Azure&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Ervaring met hardware van &lt;strong&gt;HP&lt;/strong&gt; en &lt;strong&gt;Dell&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Een relevante &lt;strong&gt;firewall-certificatie&lt;/strong&gt; (of bereidheid dit te behalen)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Ervaring&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Meerdere jaren werkervaring binnen een &lt;strong&gt;Managed Service Provider-omgeving&lt;/strong&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ervaring met zowel ad-hoc interventies als projectmatige opdrachten&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Talenkennis&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nederlands&lt;/strong&gt;: uitstekende beheersing in woord en geschrift&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Engels&lt;/strong&gt;: professioneel bruikbaar voor klanten en documentatie&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Frans&lt;/strong&gt;: een mooi pluspunt&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Persoonlijke vaardigheden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Zelfstandig kunnen werken en verantwoordelijkheid nemen&lt;/li&gt;&lt;li&gt;Maturiteit en professionele uitstraling bij klantbezoeken&lt;/li&gt;&lt;li&gt;Basiskennis van &lt;strong&gt;projectmanagement&lt;/strong&gt; om interventies gestructureerd aan te pakken&lt;/li&gt;&lt;li&gt;Sterke communicatievaardigheden: je kan complexe IT-vraagstukken helder uitleggen&lt;/li&gt;&lt;li&gt;&lt;p&gt;Flexibele mindset en probleemoplossend vermogen&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Naast een marktconform salaris profiteer je van een reeks secundaire voorwaarden zoals:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontvang&amp;nbsp;&lt;strong&gt;maaltijdcheques en ecocheques&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Onkostenvergoeding&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verzekering:&lt;/strong&gt;&amp;nbsp;profiteer van een uitgebreide hospitalisatie- en groepsverzekering&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bedrijfswagen + laadpas&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Technische uitrusting:&lt;/strong&gt;&amp;nbsp;Laptop, een telefoonbudget en abonnement&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Verlof:&lt;/strong&gt;&amp;nbsp;Geniet van 32 vakantiedagen per jaar&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Professionele ontwikkeling:&lt;/strong&gt; Krijg toegang tot verschillende trainingen die zijn afgestemd op jouw ambities&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72848727"/>
     <published>2026-01-16T13:58:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72849175</id>
-    <title>Deskundige ICT (DDS DENDER DURME SCHELDE)</title>
-    <updated>2026-01-16T14:38:47+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: DDS DENDER DURME SCHELDE (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Dendermonde&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;span&gt;Wij zoeken een deskundige ICT (m/v/x)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je bent het intern en extern aanspreekpunt wanneer het gaat over ICT, zowel voor DDS als Verko, onze zusterorganisatie. Collega’s kunnen bij jou terecht voor eerstelijnsvragen. Je analyseert, prioriteert en zorgt voor een oplossing. Voor complexere zaken zorg jij voor de vertaalslag en opvolging tussen onze organisaties en het extern IT bedrijf. &lt;/span&gt;&lt;span lang="EN-US"&gt;Naast de dagelijkse operationele taken zet het ICT-team zich vol passie in om de IT binnen DDS en Verko te moderniseren, te versterken en naar een nóg hoger niveau te tillen!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Als deskundige ICT interpreteer je gegevens, trek je de nodige conclusies en doe je op basis daarvan aanbevelingen binnen jouw expertisedomein. De deskundige ICT heeft een brede kennis en expertise van zijn vakgebied die ervoor zorgt dat hij/zij strategische oplossingen kan ontwerpen. Daarnaast bewaak je de processen en procedures van jouw dienst op vlak van kwaliteit en werk je actief mee aan verbetermogelijkheden voor een veilige IT- en OT-omgeving.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Een greep uit jouw takenpakket:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Je bent het eerstelijns aanspreekpunt voor interne collega’s en externe firma’s wanneer het gaat over IT;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je beheert de infrastructuur, hardware en de software en houdt deze up to date;&lt;/li&gt; 
-&lt;li&gt;Je volgt problemen op of zoekt samen naar gepaste oplossingen;&lt;/li&gt; 
-&lt;li&gt;Bij het implementeren van nieuwe hard- of software geef je advies en ondersteun je het IT proces;&lt;/li&gt; 
-&lt;li&gt;Je staat mee in voor het opzetten van het applicatielandschap en het uitwerken van het procesbeheer;&lt;/li&gt; 
-&lt;li&gt;Je beheert mee de toegangsrechten;&lt;/li&gt; 
-&lt;li&gt;Je volgt mee het telefoon en datanetwerk op;&lt;/li&gt; 
-&lt;li&gt;Je fungeert als aanspreekpunt voor GDPR;&lt;/li&gt; 
-&lt;li&gt;Je bent actief betrokken bij de IT-aspecten van de bouw van ons nieuw kantoorgebouw (LAN en WAN) en ondersteunt mee om alles in goede banen te leiden;&lt;/li&gt; 
-&lt;li&gt;Je hebt oog voor optimalisatie en automatisatie;&lt;/li&gt; 
-&lt;li&gt;Je werkt nauw samen met de andere afdelingen en collega’s van Verko.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;span&gt;Als deskundige ICT rapporteer je rechtstreeks aan onze finance manager en werk je vlot samen met jouw collega deskundige ICT.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Je werkt oplossingsgericht en steekt graag de handen uit de mouwen;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je werkt graag met mensen, kan zelfstandig problemen analyseren en prioriteiten stellen;&lt;/li&gt; 
-&lt;li&gt;Je neemt graag initiatief en gaat automatisatie en vernieuwing niet uit de weg;&lt;/li&gt; 
-&lt;li&gt;Je kan omgaan met vertrouwelijke informatie volgens de regelgeving omtrent GDPR en informatieveiligheid;&lt;/li&gt; 
-&lt;li&gt;Je draagt digitale veiligheid hoog in het vaandel en houdt rekening bij de uitvoering van je taken met de NIS2-regelgeving;&lt;/li&gt; 
-&lt;li&gt;Je denkt graag beleidsmatig mee en wil je verder bekwamen in je vak;&lt;/li&gt; 
-&lt;li&gt;Je kan uitstekend overweg met courante software en officepakketten;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Vereisten&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Je beschikt over een bachelor in een IT richting of kan voldoende ervaring en affiniteit met IT aantonen;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Je hebt een aantal jaar relevante werkervaring;&lt;/li&gt; 
-&lt;li&gt;Je slaagt in de selectieproeven;&lt;/li&gt; 
-&lt;li&gt;Je bent medisch geschikt om de functie uit te oefenen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Een voltijds contract met flexibele uurregeling&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Een competitief verloningspakket in klasse 6 met bruto maandwedde tussen € 3.170,55 en € 5.031,96 afhankelijk van jouw relevante ervaring.&lt;/li&gt; 
-&lt;li&gt;Extra legale voordelen zoals maaltijdcheques, eco-cheques, hospitalisatieverzekering, telewerkvergoeding, groepsverzekering, prestatiepremie, fietsvergoeding en de mogelijkheid om in te stappen in een fietsplan&lt;/li&gt; 
-&lt;li&gt;Je komt terecht in een groeiende organisatie waar je het verschil kan maken;&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72849175"/>
-    <published>2026-01-16T14:38:47+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72845335</id>
