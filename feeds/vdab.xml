@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-21T16:51:08.014309+00:00</updated>
+  <updated>2026-03-21T18:58:56.767360+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -243,60 +243,6 @@
 &lt;p&gt;Uiteraard ook toffe collega's in een agile werkomgeving.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/69414814"/>
     <published>2024-09-04T10:45:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69478988</id>
-    <title>Web Developer .NET - Azure (POSGARD)</title>
-    <updated>2026-03-03T15:45:44+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: POSGARD (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;POSGARD ondersteunt klanten bij het nog efficiënter runnen van de horecazaak en food shop. De food &amp;amp; beverages markten zijn in volle beweging. Nu zoeken wij nieuwe collega’s voor ons tof team in groei.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;POSGARD &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;zoekt 
-&lt;strong&gt;web developer&lt;/strong&gt; met +5 jaar ervaring &lt;/span&gt;&lt;span&gt;om ons ontwikkelingsteam te versterken, dat instaat voor de ontwikkeling, het testen en onderhoud van de 
-&lt;strong&gt;gebruiksvriendelijke food &amp;amp; drinks tech applicaties&lt;/strong&gt; van POSGARD in .NET omgeving&lt;/span&gt;&lt;span&gt; 
-&lt;span&gt;- kantoor 10 min ten zuiden van Antwerpen (geen files!).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;In samenwerking met het team zoek je mee naar innovatieve oplossingen die antwoord bieden op de noden van onze klanten, waarbij analytisch en creatief denken belangrijk zijn.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Je ontwikkelt graag applicaties die 
-&lt;strong&gt;door de vele gebruikers worden gewaardeerd&lt;/strong&gt; waarbij je het belang inziet van het onderhoud en de support van de applicaties op (middel)lange termijn.&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je bent verantwoordelijk om op zelfstandige basis delen van de voorgestelde oplossingen te implementeren, daarom solliciteer je direct bij ons.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Zowel de 
-&lt;strong&gt;kwaliteit van de code&lt;/strong&gt; als het 
-&lt;strong&gt;uiteindelijke resultaat&lt;/strong&gt; zijn belangrijk voor je.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Ook jij ziet dat de wereld naar slimme software oplossingen in combinatie met eenvoudig te gebruiken hardware gaat. Wij bieden je een passend opstart traject en winning team om dit te bereiken! Je weet dat handige tools er zijn om het (werkend) leven eenvoudig te maken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul type="disc"&gt; 
-&lt;li&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt minimaal hoger onderwijs werk- en denkniveau&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je ziet in dat pro-actieve communicatie en opvolging veel tijd en gedoe bespaart&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je  bent een doorzetter en helpt graag andere mensen&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt een goede beheersing van in elk geval de Engelse taal&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je sluit graag iets af en laat je niet afleiden op de momenten dat je meters zuivere code maakt&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je werkt graag constructief samen met het team op een professionele en collegiale manier&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Als iets mis zou gaan neem je verantwoordelijkheid&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Specifiek:&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Zeer goed begrip van .NET 4.0 tot 8.0 en C#&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Zeer goed begrip van OO en Design Patterns&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring in het ontwikkelen van Web Applicaties met 
-&lt;strong&gt;ASP.NET MVC&lt;/strong&gt; 5 en REST gebaseerde API’s met  ASP.NET Web API&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring met Azure&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Zeer goed begrip van 
-&lt;strong&gt;HTML, CSS3 en JavaScript&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring met Bootstrap en jQuery&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring in het ontwikkelen van WPF
-&lt;strong&gt; &lt;/strong&gt;applicaties is een plus&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring in het gebruik van Azure SQL Database / SQL CE in combinatie met het Entity Framework (optioneel in combinatie met Code-First en Code-first Migraties)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Ervaring met of interesse in Mobiele apps / Xamarin / Kotlin wordt gezien als een plus&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt; &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Het Development, Design &amp;amp; Support team van POSGARDkijkt uit naar de 
-&lt;strong&gt;samenwerking met de nieuwe collega&lt;/strong&gt; om de projecten voor onze klanten naar nog hogere niveaus te brengen!&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span lang="NL"&gt;Het Team biedt u 
-&lt;strong&gt;verantwoordelijkheid in bestaande en uitdagende innovatieve projecten&lt;/strong&gt;, super producten voor restaurants &amp;amp; food&amp;amp; drinks shops die een belangrijke rol spelen in onze maatschappij en naast dit alles een mooi salaris pakket.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Werken aan duurzame software oplossingen met veel eindgebruikers&lt;/li&gt; 
-&lt;li&gt;Streven naar best-practice code &amp;amp; oplossingen&lt;/li&gt; 
-&lt;li&gt;Goede werksfeer met het toffe team&lt;/li&gt; 
-&lt;li&gt;Opleidingsmogleijkheden&lt;/li&gt; 
-&lt;li&gt;Een goed salaris en bedrijfswagen&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69478988"/>
-    <published>2024-09-15T19:19:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69512290</id>
@@ -4401,5 +4347,60 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73314699"/>
     <published>2026-03-21T04:02:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73327363</id>
+    <title>Web Developer .NET - Azure (POSGARD)</title>
+    <updated>2026-03-21T18:21:11+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: POSGARD (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;POSGARD ondersteunt klanten bij het nog efficiënter runnen van de horecazaak en food shop. De food &amp;amp; beverages markten zijn in volle beweging. Nu zoeken wij nieuwe collega’s voor ons tof team in groei.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;POSGARD &lt;/strong&gt;zoekt 
+&lt;strong&gt;web developer&lt;/strong&gt; met +5 jaar ervaring in 
+&lt;strong&gt; .NET, Azure, online en Android&lt;/strong&gt; om ons ontwikkelingsteam te versterken, dat instaat voor de 
+&lt;strong&gt;ontwikkeling van de gebruiksvriendelijke food &amp;amp; drinks tech applicaties&lt;/strong&gt; van POSGARD - kantoor 10 min ten zuiden van Antwerpen (geen files!).&lt;/p&gt; 
+&lt;p&gt;Benieuwd wat je al gedaan hebt met ondersteuning van AI.&lt;/p&gt; 
+&lt;p&gt;In samenwerking met het team zoek je mee naar innovatieve oplossingen die antwoord bieden op de noden van onze klanten, waarbij analytisch en creatief denken belangrijk zijn.&lt;/p&gt; 
+&lt;p&gt;Je ontwikkelt graag applicaties die 
+&lt;strong&gt;door de vele gebruikers worden gewaardeerd&lt;/strong&gt; waarbij je het belang inziet van het onderhoud en de support van de applicaties op (middel)lange termijn.&lt;/p&gt; 
+&lt;p&gt;Je bent verantwoordelijk om op zelfstandige basis delen van de voorgestelde oplossingen te implementeren, daarom solliciteer je direct bij ons.&lt;/p&gt; 
+&lt;p&gt;Zowel de 
+&lt;strong&gt;kwaliteit van de code&lt;/strong&gt; als het 
+&lt;strong&gt;uiteindelijke resultaat&lt;/strong&gt; zijn belangrijk voor je.&lt;/p&gt; 
+&lt;p&gt;Ook jij ziet dat de wereld naar slimme software oplossingen in combinatie met eenvoudig te gebruiken hardware gaat. Wij bieden je een passend opstart traject en winning team om dit te bereiken! Je weet dat handige tools er zijn om het (werkend) leven eenvoudig te maken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul type="disc"&gt; 
+&lt;li&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Je hebt minimaal hoger onderwijs werk- en denkniveau&lt;/li&gt; 
+&lt;li&gt;Je ziet in dat pro-actieve communicatie en opvolging veel tijd en gedoe bespaart&lt;/li&gt; 
+&lt;li&gt;Je bent een doorzetter en helpt graag andere mensen&lt;/li&gt; 
+&lt;li&gt;Je hebt een goede beheersing van in elk geval de Engelse taal&lt;/li&gt; 
+&lt;li&gt;Je sluit graag iets af en laat je niet afleiden op de momenten dat je meters zuivere code maakt&lt;/li&gt; 
+&lt;li&gt;Je werkt graag constructief samen met het team op een professionele en collegiale manier&lt;/li&gt; 
+&lt;li&gt;Als iets mis zou gaan neem je verantwoordelijkheid&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Specifiek:&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Zeer goed begrip van .NET 4.0 tot 8.0 en C#&lt;/li&gt; 
+&lt;li&gt;Zeer goed begrip van OO en Design Patterns&lt;/li&gt; 
+&lt;li&gt;Ervaring in het ontwikkelen van Web Applicaties met 
+&lt;strong&gt;ASP.NET MVC&lt;/strong&gt; 5 en REST gebaseerde API’s met ASP.NET Web API&lt;/li&gt; 
+&lt;li&gt;Ervaring met Azure&lt;/li&gt; 
+&lt;li&gt;Zeer goed begrip van 
+&lt;strong&gt;HTML, CSS3 en JavaScript&lt;/strong&gt;&lt;/li&gt; 
+&lt;li&gt;Ervaring met Bootstrap en jQuery&lt;/li&gt; 
+&lt;li&gt;Ervaring in het ontwikkelen van WPF 
+&lt;strong&gt; &lt;/strong&gt;applicaties is een plus&lt;/li&gt; 
+&lt;li&gt;Ervaring in het gebruik van Azure SQL Database / SQL CE in combinatie met het Entity Framework (optioneel in combinatie met Code-First en Code-first Migraties)&lt;/li&gt; 
+&lt;li&gt;Ervaring met of interesse in Mobiele apps / Xamarin / Kotlin / Android wordt gezien als een plus&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;Het Development, Design &amp;amp; Support team van POSGARD kijkt uit naar de 
+&lt;strong&gt;samenwerking met de nieuwe collega&lt;/strong&gt; om de projecten voor onze klanten naar nog hogere niveaus te brengen!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;Het Team biedt u 
+&lt;strong&gt;verantwoordelijkheid in bestaande en uitdagende innovatieve projecten&lt;/strong&gt;, super producten voor restaurants &amp;amp; food&amp;amp; drinks shops die een belangrijke rol spelen in onze maatschappij en naast dit alles een mooi salaris pakket.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Werken aan duurzame software oplossingen met veel eindgebruikers&lt;/li&gt; 
+&lt;li&gt;Streven naar best-practice code &amp;amp; oplossingen&lt;/li&gt; 
+&lt;li&gt;Goede werksfeer met het toffe team&lt;/li&gt; 
+&lt;li&gt;Opleidingsmogleijkheden&lt;/li&gt; 
+&lt;li&gt;Een goed salaris en bedrijfswagen&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73327363"/>
+    <published>2026-03-21T18:21:11+00:00</published>
   </entry>
 </feed>
