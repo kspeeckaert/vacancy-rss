@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-24T11:15:37.445390+00:00</updated>
+  <updated>2026-03-24T13:30:00.996889+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3782,55 +3782,6 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <published>2026-03-12T10:45:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73254846</id>
-    <title>Functioneel applicatie architect (VDAB) via Vlaanderen Connect (Vlaanderen connect.)</title>
-    <updated>2026-03-13T07:28:35+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jouw toekomstige job&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;‘Software factory’ (SWF) is verantwoordelijk voor de ontwikkeling van bedrijfsapplicaties. Binnen deze afdeling ontwikkelen we de applicaties alsook het bewaken van de gezondheid van deze applicaties en het up-to-date houden binnen het applicatielandschap. VDAB is een omgeving met een zeer recente technologie stack waar je ruimte krijgt tot groei en je potentieel ten volle kan ontwikkelen. Je komt in een zeer open en gedreven team terecht. Om de continuïteit en de kwaliteit van het ontwikkelingsproces te garanderen, zet SWF in op interne medewerkers die deze kennis kunnen borgen.&lt;/p&gt; 
-&lt;p&gt;Als Functionele software applicatie architect zal je mee verantwoordelijk zijn voor het uitwerken van applicaties in het portfolio van jouw team. Brugfunctie tussen verschillende stakeholders: business, software architecten, je ontwikkelteam... Opvolging en coaching van functionele analisten binnen het ontwikkelteam. Boeiende context, altijd in beweging. Je werkt mee aan de laatste ontwikkelingen van VDAB. Variatie binnen de job: je zit een stuk in het ontwikkelteam, maar bereidt het werk ook voor vanuit software architectuur. Moderne context: je komt in contact met veel moderne technologieën.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Werk voor het ontwikkelteam voorbereiden, samen met de solution architect, technisch applicatie architect en business. Dit is high level functionele analyse + functionele ondersteuning van de software architectuur.&lt;/li&gt; 
-&lt;li&gt;Aanspreekpunt voor applicaties in het portfolio.&lt;/li&gt; 
-&lt;li&gt;Opvolging van het ontwikkelteam: ligt dit in lijn van de uitgedachte oplossing.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw taken&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Voorbereiding ontwikkelteam in concreto: in nauwe samenwerking met je collega technisch applicatie architect in dat voorbereidingstraject. Hier ben je complementair aan de andere stakeholders en multi-inzetbaar. Soms teken je mee de software architectuur uit, soms focus je op het bepalen en uitschrijven van de functionele vereisten. Je geeft input vanuit je kennis van de AS-IS en werkt de TO-BE uit voor jouw team.&lt;/li&gt; 
-&lt;li&gt;Kennisdeling van de applicaties in je team: dit kan uit alle hoeken komen. Dit is vooral bij de uitwerking van nieuwe solutions, maar evengoed aan andere teams die een service moeten gebruiken of business die met vragen zit.&lt;/li&gt; 
-&lt;li&gt;Ondersteuning van het team bij productie-incidenten&lt;/li&gt; 
-&lt;li&gt;Opvolging van het team: inhoudelijke opvolging + soms een meta-perspectief kunnen innemen over de teamprocessen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Bachelor diploma of gelijkwaardig door ervaring.&lt;/li&gt; 
-&lt;li&gt;Expert functionele analyse (hoe achterhaal ik functionele vereisten bij business?) (must have)&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;Kennis van non-functional requirements (must have)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;Enige kennis over integratiepatronen (bv. synchrone vs asynchrone communicatie) (must have)&lt;/li&gt; 
-&lt;li&gt;Diepgaande kennis over integratiepatronen (bv. event driven design, event sourcing) (nice to have)&lt;/li&gt; 
-&lt;li&gt;Kennis van agile en scrum werking&lt;/li&gt; 
-&lt;li&gt;Kennis over software frameworks, standaarden, best practices en methodieken (nice to have)&lt;/li&gt; 
-&lt;li&gt;Basis data-verwerking en -analyse (SQL queries kunnen schrijven, JSON- en XML-bestanden kunnen interpreteren)&lt;/li&gt; 
-&lt;li&gt;Analytisch vermogen&lt;/li&gt; 
-&lt;li&gt;veel informatie verwerken: grote lijnen kunnen zien, details kunnen oprakelen als nodig&lt;/li&gt; 
-&lt;li&gt;Belangen van verschillende partijen achterhalen en expliciet maken&lt;/li&gt; 
-&lt;li&gt;Helder communiceren, mondeling en schriftelijk&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Een aantrekkelijke bruto verloning&lt;/li&gt; 
-&lt;li&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/li&gt; 
-&lt;li&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11).&lt;/li&gt; 
-&lt;li&gt;Een mobiliteitsbudget&lt;/li&gt; 
-&lt;li&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)&lt;/li&gt; 
-&lt;li&gt;Een forfaitaire onkostenvergoeding&lt;/li&gt; 
-&lt;li&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten)&lt;/li&gt; 
-&lt;li&gt;Een groepsverzekering&lt;/li&gt; 
-&lt;li&gt;Een arbeidsongevallenverzekering&lt;/li&gt; 
-&lt;li&gt;Een opleidingsbudget&lt;/li&gt; 
-&lt;li&gt;Een laptop&lt;/li&gt; 
-&lt;li&gt;Een smartphone met abonnementsformule&lt;/li&gt; 
-&lt;li&gt;Flexibele werkuren&lt;/li&gt; 
-&lt;li&gt;Thuiswerkmiddelen en mogelijkheden tot thuiswerk&lt;/li&gt; 
-&lt;li&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73254846"/>
-    <published>2026-03-12T11:09:10+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73263000</id>
     <title>AGO Gent Select: Technisch Verantwoordelijke (AGO JOBS &amp; HR)</title>
     <updated>2026-03-13T01:18:18+00:00</updated>
@@ -4226,5 +4177,13 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: FiscaQuest (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Brasschaat&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een internationaal farmaceutisch productiebedrijf in Brasschaat zijn we op zoek naar een System Engineer - Microsoft 365 &amp;amp; IAM. Deze organisatie realiseert een jaarlijkse omzet van meer dan €210 miljoen en telt 800+ medewerkers. Vanuit hun sterk gereguleerde omgeving investeren ze continu in veilige, performante en compliant IT-systemen ter ondersteuning van productie, R&amp;amp;D en kwaliteitsprocessen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;Jouw takenpakket als System Engineer&lt;br&gt;&lt;br&gt;&lt;p&gt; In deze rol ben je verantwoordelijk voor de stabiliteit, beveiliging en verdere uitbouw van de Microsoft 365-omgeving en Identity &amp;amp; Access Management-structuur binnen een GxP-context.&lt;/p&gt;&lt;ul&gt;&lt;li style="font-weight: 400;"&gt;&lt;p&gt;Beheer en optimalisatie van Microsoft 365 (Exchange Online, SharePoint, Teams, OneDrive) met focus op governance, security en compliance binnen een gereguleerde omgeving&lt;/p&gt;&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Identity &amp;amp; Access Management (IAM): beheer van gebruikers, rollen en toegangsstructuren binnen Entra ID (Azure AD), Active Directory en gekoppelde applicaties, inclusief lifecycle management (onboarding, wijzigingen, offboarding)&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Security &amp;amp; compliance monitoring: implementeren van conditional access policies, MFA, privileged identity management en ondersteunen bij audits (o.a. GDPR en farma-compliance vereisten)&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten we van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style="font-weight: 400;"&gt;Minstens 5 jaar ervaring binnen Microsoft 365 en/of Identity &amp;amp; Access Management, met sterke technische bagage in Entra ID (Azure AD), Active Directory en security policies&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Aantoonbare ervaring met conditional access, RBAC, MFA en identity lifecycle management, bij voorkeur binnen een complexe of gereguleerde omgeving&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Je werkt nauwkeurig en gestructureerd, documenteert correct en combineert een sterk security-bewustzijn met een hands-on mentaliteit&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat mag je verwachten?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style="font-weight: 400;"&gt;Brutoloon tot €4.800 per maand, afhankelijk van jouw ervaring en technische expertise&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Netto onkostenvergoeding van €185 per maand bovenop je brutopakket&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Maaltijdcheques van €8 per gewerkte dag&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Uitgebreide groepsverzekering en hospitalisatieverzekering, ook mogelijkheid tot aansluiting van gezinsleden&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;32 vrij te kiezen verlofdagen binnen een 40-urenweek&lt;/li&gt;&lt;li style="font-weight: 400;"&gt;Flexibele werkuren met mogelijkheid tot 1 dag thuiswerk per week&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Werken met moderne infrastructuur en een organisatie die actief investeert in digitalisering en IT-security&lt;br /&gt;Een stabiele, financieel sterke onderneming met lange termijnvisie en duidelijke IT-roadmap&lt;br /&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73338710"/>
     <published>2026-03-24T10:26:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73340459</id>
+    <title>Full-stack Java Lead Developer (Kwery)</title>
+    <updated>2026-03-24T12:05:58+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Merchtem&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je zal instaan voor het leiden van projecten waarbij je het voortouw neemt in het ontwerpen, coderen en testen van Java-gebaseerde applicaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Als consultant werk je nauw samen je (langdurige) klant om hun eisen te begrijpen met en te sparren, advies te bieden en ontwikkel je op maat gemaakte software oplossingen die aan deze behoeften voldoen.​&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot zorg je voor het up-to-date houden van applicaties, voer je prestatieverbeteringen door en los je technische problemen op om de efficiëntie en betrouwbaarheid van de systemen te waarborgen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een portie ervaring, we kijken uit naar een minimum van 5 jaar binnen java development. Ervaring als lead is mooi meegenomen maar geen must.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naast jouw expertise in Java heb je ook kennis van front-end technologieën zoals bijvoorbeeld Angular of React. Kennis of interesse in Cloud, DevOps of architectuur zijn mooie troeven!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je communicatief en kan je zowel zelfstandig als in team werken&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4000 - €5000, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met bijhorende laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, ambulante verzekering en een netto vergoeding! Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;Geniet van een uitstekende work-life balance met de vrijheid om twee dagen op locatie bij de klant te werken en de overige drie dagen waar jij het wil, op kantoor of vanuit je home office.&lt;/li&gt;&lt;li&gt;Daarnaast profiteer je van flexibele werkuren voor maximale efficiëntie en 32 vakantiedagen, zodat je op tijd en stond kunt ontspannen!&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je wordt onderdeel van een warme, maar dynamische KMO waar kwaliteit en groei centraal staan. Je krijgt ondersteuning van je competence coach, een ervaren developer die zelf actief in het veld staat én van de CEO, die altijd openstaat voor vragen en jouw ontwikkeling stimuleert. Elke maand kom je samen met collega's om cases te bespreken, nieuwe inzichten te delen, trainingen te volgen en inspirerende lezingen bij te wonen. Wil je je verdiepen in een nieuwe technologie? Dankzij een opleidingsbudget blijf je jezelf continu ontwikkelen en groeien. Kortom, hier staat jouw ontwikkeling nooit stil!&lt;br /&gt;&lt;br /&gt;Interesse of vragen? Stuur gerust een mailtje naar&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73340459"/>
+    <published>2026-03-24T12:05:58+00:00</published>
   </entry>
 </feed>
