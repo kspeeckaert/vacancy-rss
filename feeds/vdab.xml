@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-03-30T13:39:59.004299+00:00</updated>
+  <updated>2026-03-30T15:26:12.097176+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3155,7 +3155,7 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73179461</id>
     <title>Security Engineer (On IT)</title>
-    <updated>2026-03-02T11:15:11+00:00</updated>
+    <updated>2026-03-30T15:21:22+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: On IT (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste Job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;b&gt;Security Assessments (Security Snapshots)&lt;/b&gt;&lt;/p&gt; 
 &lt;p&gt;&lt;span&gt;Zelfstandig uitvoeren van security analyses op:&lt;/span&gt;&lt;/p&gt; 
 &lt;ul&gt; 
