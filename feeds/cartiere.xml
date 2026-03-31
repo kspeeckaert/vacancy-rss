@@ -2,9 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-03-31T05:50:17.224849+00:00</updated>
+  <updated>2026-03-31T07:16:52.803143+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/ai-data-transformatie-consultant/</id>
+    <title>AI &amp; Data Transformatie Consultant</title>
+    <updated>2026-03-31T06:53:48+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-06-27 07:10:53+00:00, last change 2026-03-31 06:53:48+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-06-27 07:10:53+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Voor een gespecialiseerd management consultancy bureau in Gent zijn wij op zoek naar een Data &amp; AI transformatie consultant. Dit bedrijf ondersteunt organisaties bij het ontwikkelen van hun data- &amp; AI-strategieën door middel van strategische roadmaps en begeleiding bij de uitvoering ervan. Kernwaarden zoals vertrouwen, transparantie, authenticiteit en impact staan centraal in deze organisatie. Ze hebben ambitieuze groeiplannen en zoeken een collega die hieraan wil bijdragen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data &amp; AI transformatie consultant krijg je een gevarieerd en uitdagend takenpakket dat strategisch denken combineert met technische expertise:
+&lt;ul&gt;
+	&lt;li&gt;Je organiseert workshops met het directiecomité over de toegevoegde waarde van data &amp; AI.
+	&lt;li&gt;Je evalueert de maturiteit van alle bestaande data- en AI-initiatieven.
+	&lt;li&gt;Je vertaalt businessdoelen naar een tastbare en meetbare roadmap waaruit concrete projecten voortkomen.
+	&lt;li&gt;Je bent verantwoordelijk voor projectmanagement en zorgt voor een nauwgezette opvolging van het uitvoeringsplan.
+	&lt;li&gt;Je begeleidt het senior management in changemanagement om hen te transformeren tot ambassadeurs van data en AI.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je hebt een masterdiploma.
+	&lt;li&gt;Je hebt minimaal twee jaar werkervaring in management consulting of in een dynamische omgeving.
+	&lt;li&gt;Je bent analytisch sterk, communicatief vaardig en je hebt een talent voor storytelling.
+	&lt;li&gt;Je hebt een sterk businessprofiel, eerder dan een technisch profiel (of je wilt naar deze rol groeien). Een technische achtergrond is echter een pluspunt.
+	&lt;li&gt;Je bent vertrouwd met markttrends en technologieën op het gebied van data en AI. Je hebt kennis van dataconcepten, begrijpt wat een datawarehouse is en kent de mogelijkheden binnen verschillende data- en BI-platformen. Ervaring met AI is een meerwaarde.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
+Je komt terecht in een dynamisch en groeiend domein waar je bijdraagt aan de datastrategie van diverse bedrijven. De organisatie hecht veel waarde aan samenwerking, collegialiteit en persoonlijke groei, en biedt een omgeving waarin jouw carrièrepad en welzijn centraal staan. Als onderdeel van een klein bedrijf met een vlakke hiërarchie, werk je vanuit een prachtig kantoor in het hart van Gent. Ze leveren concrete resultaten en bieden tal van externe en interne opleidingsmogelijkheden, inclusief trainingen in soft skills. Daarnaast organiseren ze regelmatige teambuildingactiviteiten en bieden ze een aantrekkelijk salarispakket inclusief een wagen en andere voordelen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Ben jij de persoon die wij zoeken? &lt;br&gt;
+Stuur dan nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. &lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/ai-data-transformatie-consultant/"/>
+    <category term="Change Management"/>
+    <category term="Project Management"/>
+    <published>2024-06-27T07:10:53+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-ai-talent-sourcer/</id>
     <title>Data &amp; AI Talent Sourcer</title>
@@ -2181,44 +2219,6 @@ Ben jij klaar om je carrière te lanceren? Neem dan contact op met Robbe Berben,
     <link href="https://www.cartiere.be/jobs/cartiere-connect-data-engineering/"/>
     <category term="Data Engineering"/>
     <published>2024-08-26T09:13:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/ai-data-transformatie-consultant/</id>
-    <title>AI &amp; Data Transformatie Consultant</title>
-    <updated>2024-06-27T06:10:53+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-06-27 07:10:53+00:00, last change 2024-06-27 06:10:53+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-06-27 07:10:53+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Voor een gespecialiseerd management consultancy bureau in Gent zijn wij op zoek naar een Data &amp; AI transformatie consultant. Dit bedrijf ondersteunt organisaties bij het ontwikkelen van hun data- &amp; AI-strategieën door middel van strategische roadmaps en begeleiding bij de uitvoering ervan. Kernwaarden zoals vertrouwen, transparantie, authenticiteit en impact staan centraal in deze organisatie. Ze hebben ambitieuze groeiplannen en zoeken een collega die hieraan wil bijdragen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data &amp; AI transformatie consultant krijg je een gevarieerd en uitdagend takenpakket dat strategisch denken combineert met technische expertise:
-&lt;ul&gt;
-	&lt;li&gt;Je organiseert workshops met het directiecomité over de toegevoegde waarde van data &amp; AI.
-	&lt;li&gt;Je evalueert de maturiteit van alle bestaande data- en AI-initiatieven.
-	&lt;li&gt;Je vertaalt businessdoelen naar een tastbare en meetbare roadmap waaruit concrete projecten voortkomen.
-	&lt;li&gt;Je bent verantwoordelijk voor projectmanagement en zorgt voor een nauwgezette opvolging van het uitvoeringsplan.
-	&lt;li&gt;Je begeleidt het senior management in changemanagement om hen te transformeren tot ambassadeurs van data en AI.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je hebt een masterdiploma.
-	&lt;li&gt;Je hebt minimaal twee jaar werkervaring in management consulting of in een dynamische omgeving.
-	&lt;li&gt;Je bent analytisch sterk, communicatief vaardig en je hebt een talent voor storytelling.
-	&lt;li&gt;Je hebt een sterk businessprofiel, eerder dan een technisch profiel (of je wilt naar deze rol groeien). Een technische achtergrond is echter een pluspunt.
-	&lt;li&gt;Je bent vertrouwd met markttrends en technologieën op het gebied van data en AI. Je hebt kennis van dataconcepten, begrijpt wat een datawarehouse is en kent de mogelijkheden binnen verschillende data- en BI-platformen. Ervaring met AI is een meerwaarde.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een dynamisch en groeiend domein waar je bijdraagt aan de datastrategie van diverse bedrijven. De organisatie hecht veel waarde aan samenwerking, collegialiteit en persoonlijke groei, en biedt een omgeving waarin jouw carrièrepad en welzijn centraal staan. Als onderdeel van een klein bedrijf met een vlakke hiërarchie, werk je vanuit een prachtig kantoor in het hart van Gent. Ze leveren concrete resultaten en bieden tal van externe en interne opleidingsmogelijkheden, inclusief trainingen in soft skills. Daarnaast organiseren ze regelmatige teambuildingactiviteiten en bieden ze een aantrekkelijk salarispakket inclusief een wagen en andere voordelen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Ben jij de persoon die wij zoeken? &lt;br&gt;
-Stuur dan nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. &lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/ai-data-transformatie-consultant/"/>
-    <category term="Change Management"/>
-    <category term="Project Management"/>
-    <published>2024-06-27T07:10:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-consultant/</id>
