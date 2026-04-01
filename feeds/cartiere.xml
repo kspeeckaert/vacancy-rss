@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-04-01T09:06:46.348499+00:00</updated>
+  <updated>2026-04-01T10:58:19.846956+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -1542,54 +1542,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/strong&gt;&lt;br
     <link href="https://www.cartiere.be/jobs/ai-ml-engineer/"/>
     <category term="AI &amp; ML Engineer"/>
     <published>2025-12-02T16:28:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-architect/</id>
-    <title>Data Architect</title>
-    <updated>2025-11-28T09:03:48+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-18 08:30:23+00:00, last change 2025-11-28 09:03:48+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-18 08:30:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Deze internationale speler binnen energie en mobiliteit zit midden in een stevige transformatie. Wat ooit een klassieke omgeving was, evolueert vandaag naar een modern mobiliteits- en servicesecosysteem, met een groeiende focus op elektrificatie (EV), retail en digitale diensten. Technologie en data krijgen een expliciet mandaat en vormen een van de strategische hefbomen voor de komende jaren. &lt;br&gt;
-Je komt terecht in een hertekende technology-organisatie met nieuwe rollen, meer slagkracht en een duidelijk mandaat om data &amp; AI professioneel uit te bouwen. De sfeer is informeel en no-nonsense, met korte lijnen en collega’s die elkaar ook naast het werk vinden (sport- en hobbyclubs, events). Hier kan je echt dingen in beweging zetten. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data Architect ben je één van de twee interne architecten die het datalandschap richting geeft. Je bouwt aan een volwassen dataprogramma waarin dataproducten, governance en consistente rapportering centraal staan. &lt;br&gt;
-Je: 
-&lt;ul&gt;
-	&lt;li&gt;ontwikkelt samen met het team de visie, architectuur en roadmap voor het dataplatform; 
-	&lt;li&gt;zet mee data governance structuren op (documentatie, datakwaliteit, security, standaarden); 
-	&lt;li&gt;werkt nauw samen met stakeholders en bereidt prioriteiten en roadmaps voor; 
-	&lt;li&gt;bewaakt de architectuur op het cloudplatform (AWS) en de rapporteringslaag (Power BI); 
-	&lt;li&gt;stuurt externe data engineers en analisten aan en neemt inhoudelijke beslissingen wanneer nodig; 
-	&lt;li&gt;zorgt voor één consistente, betrouwbare datalaag voor zowel interne teams als klanten. 
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je hebt 5 à 8 jaar ervaring binnen data, waarvan een substantieel deel met data-architectuur. 
-	&lt;li&gt;Ervaring in meerdere omgevingen of domeinen. Je hebt meer gezien dan één stack op één plek. 
-	&lt;li&gt;Je bent sterk in stakeholdermanagement: challengen waar nodig, verbinden waar het moet. 
-	&lt;li&gt;Je hebt ervaring met het aansturen van externe partijen (engineers, analisten, consultants). 
-	&lt;li&gt;Je begrijpt moderne data platformen, AWS is een plus, en bent vertrouwd met rapportering (Power BI of gelijkwaardig). 
-	&lt;li&gt;Je bent gestructureerd, proactief en houdt overzicht in een context met veel parallelle projecten en vragen. 
-	&lt;li&gt;Je spreekt vlot Nederlands en Engels en bent bereid om frequent op kantoor aanwezig te zijn. 
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Een impactvolle, senior rol waarin je echt mee de richting bepaalt van het datalandschap én van hoe de organisatie naar data kijkt. 
-	&lt;li&gt;Werken in een transformatiecontext met rijke en diverse data. 
-	&lt;li&gt;Een financieel gezonde omgeving met duidelijk vertrouwen in technologie en data, en een warme, informele teamcultuur. 
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/data-architect/"/>
-    <category term="BI/Data Architect"/>
-    <published>2025-11-18T08:30:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/databricks-data-engineer-hartje-antwerpen/</id>
