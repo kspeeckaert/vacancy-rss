@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-07T07:38:15.630705+00:00</updated>
+  <updated>2026-04-07T09:24:25.764533+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -2309,72 +2309,6 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <published>2026-02-11T14:47:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73038538</id>
-    <title>Senior Data Engineer (CONXION)</title>
-    <updated>2026-02-11T10:54:49+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
-&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
-&lt;p&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een 
-&lt;span&gt;Senior Database Engineer&lt;/span&gt; die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
-&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op 
-&lt;span&gt;Oracle database-technologie&lt;/span&gt; – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van 
-&lt;span&gt;data warehouses&lt;/span&gt; naar de 
-&lt;span&gt;Microsoft Azure stack&lt;/span&gt;.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ontwerpt, modeleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je aviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt een diepgaande kennis van 
-&lt;span&gt;SQL&lt;/span&gt; (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt kennis of sterke interesse in de 
-&lt;span&gt;Microsoft Azure data stack&lt;/span&gt; (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ervaring met 
-&lt;span&gt;Oracle-databases&lt;/span&gt; is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke interesse in 
-&lt;span&gt;nieuwe technologieën&lt;/span&gt; en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73038538"/>
-    <published>2026-02-11T10:54:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73053413</id>
     <title>Senior Data Engineer (Kwery)</title>
     <updated>2026-02-12T16:11:56+00:00</updated>
@@ -4424,5 +4358,64 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73414680"/>
     <published>2026-04-03T00:05:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73434221</id>
+    <title>Senior Data Engineer (CONXION)</title>
+    <updated>2026-04-07T10:52:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CONXION (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Boom&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;ConXioN begeleidt en inspireert klanten bij hun digitale transformatie door IT strategisch in te zetten. Met 29 jaar ervaring in de IT-markt en meer dan 250 medewerkers en 10 vestingen in Vlaanderen en Nederland, helpen we KMO's, mid-market &amp;amp; enterprise-klanten en klanten in de publieke sector met diensten op maat zoals Modern Workplace, Connectivity, Hybrid Cloud, Business Applications, Security, Data &amp;amp; AI, en Services.&lt;/p&gt; 
+&lt;p&gt;Onze certified partnerships bij spelers als Microsoft, HP, HPE, Fortinet, SentinelOne, Cisco en Kyocera geven ons de nodige kennis en expertise om onze dienstverlening naar een hoger niveau te tillen.&lt;/p&gt; 
+&lt;p&gt;Werken bij ConXioN betekent deel uitmaken van een ambitieus en groeiend bedrijf met een mensgericht beleid, en elke dag kunnen bijdragen aan duurzame IT‑oplossingen.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Senior Data Engineer&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Userfull Powered by ConXioN&lt;/strong&gt; is op zoek naar een Senior Database Engineer die zich thuis voelt in het ontwerpen, modelleren en beheren van complexe databases en data-omgevingen. In deze rol werk je zowel met bestaande productieomgevingen als met de opzet van nieuwe data-architecturen in de cloud. Userfull maakt deel uit van de ConXioN-Groep en opereert autonoom vanuit Boom.&lt;/p&gt; 
+&lt;p&gt;In eerste instantie ondersteun je een project voor een groot, bestaand productiesysteem. Dit systeem draait op Oracle database-technologie – ervaring hiermee is een groot voordeel, maar geen absolute vereiste. In een volgende fase zal je een sleutelrol spelen in het opzetten en migreren van data warehouses naar de Microsoft Azure stack.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Jouw takenpakket als Senior Data Engineer:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ontwerpt, modelleert en optimaliseert databases (tabellen, schema’s/namespaces, indexen).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je schrijft en optimaliseert SQL-scripts, stored procedures en (eventueel) PLSQL.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je onderhoudt en verbetert bestaande productieomgevingen.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je draagt bij aan de transitie naar Azure: migratie en inrichting van data warehouses en integratie met Microsoft Fabric.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je ondersteunt rapportage- en BI-oplossingen (Power BI of vergelijkbare reporting tools).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Proactief zoek je naar verbeteringen en automatiseringen (bijv. data syncs, servicebus, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je adviseert over database-architectuur, performance tuning en best practices.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;IT's a match? &lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt minimaal 5 jaar ervaring als Database Engineer, Database Administrator of Data Architect.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt een diepgaande kennis van SQL (DDL/DML), stored procedures en query-optimalisatie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt kennis of sterke interesse in de Microsoft Azure data stack (o.a. Azure SQL, Synapse, Fabric).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ervaring met Oracle-databases is een groot voordeel, maar geen must.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt interesse in rapportage- en BI-oplossingen (Power BI is een plus).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke interesse in nieuwe technologieën en automatisering (zoals servicebus, data syncs, NoSQL).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je hebt sterke analytische vaardigheden en oog voor performance en schaalbaarheid.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je kan zelfstandig werken, maar hebt oog voor samenwerken met ontwikkelteams en analisten.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom werken bij Userfull Powered by ConXioN?&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p&gt;Je komt terecht in een omgeving met oog voor samenwerken, collegialiteit en autonomie.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Een uitdagende rol in een omgeving waar data-architectuur en betrouwbaarheid centraal staan.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;De kans om mee te bouwen aan de transitie naar de moderne Azure data stack.&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Ruimte om te groeien: wij investeren in opleidingen en certificeringen (o.a. Microsoft Fabric, Power BI).&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p&gt;Marktconforme verloning met extralegale voordelen zoals maaltijdcheques, verzekeringen en een wagen of mobiliteitsbudget.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;We beschikken over een modern en licht kantoor voorzien van een open en gesloten werkplekken, een gezellige tuin én een uitgebreid aanbod aan functionaliteiten zoals een klimmuur.&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;&lt;span data-teams="true"&gt;Wij verzorgen onze rekrutering volledig inhouse en werken niet samen met externe rekruteringskantoren. Samenwerkingen met onderwijsinstellingen en VDAB-partners blijven wel mogelijk.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73434221"/>
+    <published>2026-04-07T10:52:00+00:00</published>
   </entry>
 </feed>
