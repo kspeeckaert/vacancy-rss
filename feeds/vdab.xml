@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-07T11:18:43.608252+00:00</updated>
+  <updated>2026-04-07T13:38:59.835189+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4358,6 +4358,28 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73414680"/>
     <published>2026-04-03T00:05:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73436708</id>
+    <title>Azure DevOps Engineer (LGA IT)</title>
+    <updated>2026-04-07T14:31:38+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: LGA IT (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;De Rol&lt;/strong&gt;&lt;br&gt;Als Azure DevOps Cloud Engineer ben je verantwoordelijk voor het ontwerpen en onderhouden van onze cloud-platformen. Je automatiseert processen, optimaliseert de performance en garandeert de veiligheid van onze systemen. Je werkt niet in een silo; je bent een cruciale schakel in onze Agile teams.&lt;/p&gt;&lt;p&gt;&lt;u&gt;Jouw verantwoordelijkheden:&lt;/u&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Architectuur &amp;amp; Beheer: Ontwerpen en implementeren van schaalbare Azure-omgevingen.&lt;/li&gt;&lt;li&gt;Automatisering: Bouwen en beheren van effici&amp;euml;nte CI/CD-pipelines voor naadloze releases.&lt;/li&gt;&lt;li&gt;Infrastructure as Code: Gebruikmaken van tools zoals Terraform of Bicep voor consistent beheer.&lt;/li&gt;&lt;li&gt;Security &amp;amp; Monitoring: Proactief bewaken van de systeemintegriteit en performance.&lt;/li&gt;&lt;li&gt;Innovatie: Adviseren over nieuwe technieken om onze workflow te versnellen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+     &lt;p&gt;&lt;strong&gt;Jouw Profiel&lt;/strong&gt;&lt;br&gt;Je bent een tech-liefhebber die houdt van stabiliteit &amp;eacute;n snelheid. Je vindt het leuk om complexe infrastructuren te vereenvoudigen door middel van automatisering.&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Je hebt relevante ervaring met Microsoft Azure en de bijbehorende diensten.&lt;/li&gt;&lt;li&gt;Azure DevOps kent voor jou geen geheimen.&lt;/li&gt;&lt;li&gt;Je hebt een sterke basis in scripting (bijv. PowerShell of Python).&lt;/li&gt;&lt;li&gt;Je hebt ervaring met container-technologie&amp;euml;n zoals Docker en Kubernetes (is een plus).&lt;/li&gt;&lt;li&gt;Je bent analytisch sterk en beheerst de Nederlandse en Engelse taal.&lt;/li&gt;&lt;/ul&gt;
+      &lt;h3&gt;Aanbod&lt;/h3&gt;
+       &lt;p&gt;&lt;strong&gt;Wat wij bieden&lt;/strong&gt;&lt;br /&gt;Wij geloven dat expertise beloond moet worden. Naast een uitdagende functie in een innovatieve omgeving, kun je rekenen op:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Salaris: Een competitief bruto maandsalaris tussen &amp;euro; 3.500 en &amp;euro; 5.000, afhankelijk van jouw ervaring en kennis.&lt;/li&gt;
+&lt;li&gt;Mobiliteit: Een representatieve bedrijfswagen met tankkaart (ook voor priv&amp;eacute;gebruik).&lt;/li&gt;
+&lt;li&gt;Maaltijdcheques: Elke gewerkte dag ontvang je maaltijdcheques.&lt;/li&gt;
+&lt;li&gt;Verzekeringen: Een uitgebreid pakket met zowel een groepsverzekering als een hospitalisatieverzekering.&lt;/li&gt;
+&lt;li&gt;Hybride werken: Een gezonde balans tussen werk en priv&amp;eacute; met de mogelijkheid om flexibel vanuit huis of op kantoor te werken.&lt;/li&gt;
+&lt;li&gt;Groei: Ruimte voor persoonlijke ontwikkeling en het behalen van relevante Microsoft-certificeringen op onze kosten.&lt;/li&gt;
+&lt;/ul&gt;
+      </content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73436708"/>
+    <published>2026-04-07T14:31:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73434221</id>
