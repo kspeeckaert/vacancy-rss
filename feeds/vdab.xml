@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-09T21:10:30.771264+00:00</updated>
+  <updated>2026-04-09T23:03:51.187963+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/68682857</id>
+    <title>Monitoring Engineer/Specialist (Cronos)</title>
+    <updated>2026-02-16T00:01:22+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Monitoring Engineer / Specialist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Word Monitoring Engineer bij Cronos en optimaliseer bestaande tools om de klantwaarde te verhogen. Werk in een dynamische omgeving met een competitief salaris en moderne samenwerkingstools. Solliciteer nu!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Functieprofiel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Voor ons Centraal Monitoring Center zoeken we een Monitoring Engineer / Specialist met een passie voor software. In deze rol ben je de drijvende kracht achter de Hard en Software Support, waarbij je bestaande monitoringstools optimaliseert die waarde toevoegen voor klanten en de efficiëntie van serviceoperaties verbeteren. In deze rol ben je mede verantwoordelijk voor maximale beschikbaarheid van de systemen van onze klanten door vroegtijdige waarschuwingen en foutdetectie vanuit het monitoringssysteem te interpreteren en adequaat te reageren.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Samen met je collega’s van de service afdelingen sta je in voor het opzetten, onderhouden en troubleshooten van Linux omgevingen voor het monitoren en beheren van de omgevingen van onze klanten. Verder sta je in voor remote en onsite support op deze omgevingen. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Je werkt nauw samen met onze technische servicedesk om alle meldingen vanuit de monitoring te registreren en op te lossen binnen de afgesproken serviceniveaus. We streven naar voortdurende verbetering, waarbij evaluaties van oproepen worden gebruikt om remote monitoring verder te verfijnen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat ga je doen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Actief monitoren van systemen en gegenereerde events;&lt;/li&gt;&lt;li&gt;Opvolging van openstaande tickets, service en change requesten en communicatie met de klant;&lt;/li&gt;&lt;li&gt;Afhandelen, evalueren en verbeteren van meldingen;&lt;/li&gt;&lt;li&gt;Analyseren van data ontvangen van het monitoring systeem;&lt;/li&gt;&lt;li&gt;Aansluiten en registreren van nieuwe installatie op monitoring tools;&lt;/li&gt;&lt;li&gt;Voorbereiding van technische documentatie;&lt;/li&gt;&lt;li&gt;Zorgen voor volledige registratie van gebeurtenissen;&lt;/li&gt;&lt;li&gt;Een klantgerichte benadering hanteren voor maximale klanttevredenheid;&lt;/li&gt;&lt;li&gt;Aan de hand van je expertise Monitoring-servicecontracten en andere diensten mee helpen promoten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat wij vragen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;We zoeken een collega, die pragmatisch is met een hands-on mentaliteit, die graag problemen analyseert en oplossingen zoekt.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt kennis in IT beheer en kan programmeren.&lt;/li&gt;&lt;li&gt;Je hebt minimaal 5 jaren ervaring als monitoring of devops engineer.&lt;/li&gt;&lt;li&gt;Je hebt oog voor kwaliteit en detail.&lt;/li&gt;&lt;li&gt;Je hebt de mindset om werkzaamheden te automatiseren.&lt;/li&gt;&lt;li&gt;Je beheerst tenminste 1 scripting taal: bij voorkeur Python, Powershell en/of Bash zijn een plus.&lt;/li&gt;&lt;li&gt;Je komt terecht in een omgeving waarin onderstaande technieken voorkomen. Kennis hiervan is een plus, maar geen absolute vereiste:&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Nagios XI&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Prometheus&lt;/li&gt;&lt;li class="ql-indent-1"&gt;New Relic&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Check MK&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Virtualisatie&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Cloud omgevingen in AWS/Azure/Google Cloud Platform&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Windows Server Farm&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Netwerk infra (Cisco, Meraki, …)&lt;/li&gt;&lt;li&gt;Je bent tweetalig (Nederlands/Engels), kennis van de Franse taal is een pluspunt.&lt;/li&gt;&lt;li&gt;Je beschikt over geavanceerde kennis van Linux.&lt;/li&gt;&lt;li&gt;Je bent flexibel en proactief.&lt;/li&gt;&lt;li&gt;Je hebt verantwoordelijkheidszin en neemt initiatief.&lt;/li&gt;&lt;li&gt;Je bent zelfstandig, resultaatgericht en hebt doorzettingsvermogen.&lt;/li&gt;&lt;li&gt;Je bent makkelijk te benaderen en een teamplayer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;Nagios XL&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Python&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Powershell&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Bash&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Monitoring&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Check MK&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;New Relic&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Prometheus&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Netwerk Infra&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat wij bieden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competitief salaris: Jouw inzet wordt beloond met een concurrerend salaris.&lt;/li&gt;&lt;li class="ql-indent-1"&gt;40 urenweek&lt;/li&gt;&lt;li class="ql-indent-1"&gt;20 wettelijke verlofdagen + 12 ADV-dagen&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Wagen + tankkaart/laadpas&lt;/li&gt;&lt;li class="ql-indent-1"&gt;extralegale voordelen zoals een maaltijdvergoeding, een hospitalisatie- en groepsverzekering, laptop, gsm+abo, korting op uw privé telecom abo &lt;/li&gt;&lt;li&gt;Teamomgeving: Je maakt deel uit van een enthousiast en ondersteunend team binnen een groeiend dynamisch bedrijf.&lt;/li&gt;&lt;li&gt;Inspirerende werkomgeving: Onze bedrijfscultuur is geworteld in passie, respect, leergierigheid en teamgeest.&lt;/li&gt;&lt;li&gt;&lt;span style="color: black;"&gt;Individuele ontwikkelingsplannen: we voorzien in je persoonlijke groei door middel van een eigen opleidingsbudget.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: black;"&gt;Het Cronos Care-pakket: een uitgebreid pakket met gratis aanbiedingen, voordelige prijzen en leuke kortingen, in combinatie met leuke bedrijfsevents&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Je bent welkom om deel uit te maken van onze bloeiende organisatie. Solliciteer nu en ontdek de mogelijkheden die we jou kunnen bieden!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt; &lt;/span&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/68682857"/>
+    <published>2024-04-18T16:56:30+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084446</id>
     <title>Oracle Database Administrator (DBA) (Cronos)</title>
@@ -254,21 +275,6 @@
 &lt;p&gt;Uiteraard ook toffe collega's in een agile werkomgeving.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/69414814"/>
     <published>2024-09-04T10:45:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69512290</id>
-    <title>.NET Developer (Cronos)</title>
-    <updated>2026-02-09T00:00:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ben jij wie we zoeken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een Master in de Computerwetenschappen, of gelijkgesteld door ervaring.&lt;/li&gt;&lt;li&gt;Je kan minstens 4 jaar relevante werkervaring op tafel leggen.&lt;/li&gt;&lt;li&gt;Je zet graag je schouders onder integratieprojecten.&lt;/li&gt;&lt;li&gt;Je bent een Full stack .NET Developer (.NET Core) in hart, nieren en vingertoppen.&lt;/li&gt;&lt;li&gt;Terminologie zoals SOLID, DDD, TDD, CQRS, Event driven, Unit Testing is jou niet onbekend.&lt;/li&gt;&lt;li&gt;Je bent vertrouwd met één of ander JavaScript framework (Angular, React, …)&lt;/li&gt;&lt;li&gt;Je gelooft in Microsoft Azure Cloud en je wil je hierin verder verdiepen.&lt;/li&gt;&lt;li&gt;Je spreekt Nederlands en een mondje Engels.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice-to-haves:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kan al eens lachen en jezelf relativeren.&lt;/li&gt;&lt;li&gt;Je inspireert teamleden met je expertise en inzet.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;.net&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;SOLID&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;TDD&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;DDD&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;CQRS&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Waarom wil je bij Narato werken?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In ruil voor je tomeloze inzet, krijg je van ons:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;een competitief loonpakket met interessante nettovergoedingen (o.a. wagen met tankkaart, hospitalisatie- en groepsverzekering, maaltijdcheques)&lt;/li&gt;&lt;li&gt;ruim voldoende vakantiedagen&lt;/li&gt;&lt;li&gt;een kans om bij te leren en te groeien via opleidingstrajecten&lt;/li&gt;&lt;li&gt;teamgenoten waarop je kan rekenen&lt;/li&gt;&lt;li&gt;een regelmatige dosis ontspanning&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69512290"/>
-    <published>2024-09-20T09:43:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/70227598</id>
@@ -4177,49 +4183,6 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <published>2026-04-03T16:16:54+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73414680</id>
-    <title>Operationeel analist (Talentus)</title>
-    <updated>2026-04-07T16:54:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
-&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Analyseren van operationele en technische problemen op basis van data, observaties en feedback uit de operatie.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Onderzoeken van processen op de werkvloer en&lt;strong&gt; vertalen van cijfers en rapporten naar concrete verbeteracties&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Voorstellen en implementeren van zowel korte termijn oplossingen als duurzame verbeteringen.&lt;/li&gt;
-&lt;li&gt;Overleggen en samenwerken met interne stakeholders zoals Operations, Continuous Improvement, IT, Finance, HR en projectteams.&lt;/li&gt;
-&lt;li&gt;Communiceren en afstemmen van procesaanpassingen om herhaling van problemen te voorkomen.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Implementeren en ondersteunen van operationele en technische verbeterprojecten op de sites&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Documenteren van processen&lt;/strong&gt; en ondersteunen van opleidingen op de werkvloer in samenwerking met de Technical Trainer.&lt;/li&gt;
-&lt;li&gt;Opbouwen en onderhouden van diepgaande kennis van logistieke end-to-end processen en ondersteunende systemen.&lt;/li&gt;
-&lt;li&gt;In deze rol rapporteer je rechtstreeks aan de Operations Manager.&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over volgende competenties:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In het bezit van een Bachelordiploma, bij voorkeur in een technische richting&lt;/li&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Minstens 3 jaar relevante werkervaring in een gelijkaardige functie waarbij trouble shooting en continuous improvement je focus hadden&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Een zeer sterke kennis van het &lt;strong&gt;Nederlands &lt;/strong&gt;en het &lt;strong&gt;Frans&lt;/strong&gt;, zowel gesproken als geschreven&lt;/li&gt;
-&lt;li&gt;Je werkt vlot met verschillende IT-systemen en MS Office applicaties, waaronder een sterke kennis van Excel&lt;/li&gt;
-&lt;li&gt;Sterk analytisch vermogen&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Je hanteert methodieken over diepgaande root-cause analyses&lt;/li&gt;
-&lt;li&gt;Je durft creatief en out-of-the-box na te denken over innovatieve en structurele oplossingen&lt;/li&gt;
-&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Flexibel ingesteld en bereid om je te verplaatsen tussen verschillende locaties in Belgi&amp;euml; (6 verschillende sites) zowel in dag als nacht&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Daarnaast kan je bij een &lt;strong&gt;dringende interventie &lt;/strong&gt;ook last-minute gecontacteerd worden&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Een sleutelrol met veel autonomie en verantwoordelijkheid&lt;/li&gt;
-&lt;li&gt;Opleidingsprogramma&lt;/li&gt;
-&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;
-&lt;li&gt;Laptop en GSM&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Maaltijdcheques van 8&amp;euro;/dag&lt;/li&gt;
-&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
-&lt;li&gt;Ambulante zorgverzekering&lt;/li&gt;
-&lt;li&gt;Jaarlijkse target bonus&lt;/li&gt;
-&lt;li&gt;Ecocheques van &amp;euro;250&lt;/li&gt;
-&lt;li&gt;Sectorpremie&lt;/li&gt;
-&lt;li&gt;Naast 20 wettelijke verlofdagen geniet je van 10 extralegale kaderverlofdagen&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73414680"/>
-    <published>2026-04-03T00:05:05+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73438160</id>
     <title>Project Delivery Manager (Kwery)</title>
     <updated>2026-04-07T16:21:17+00:00</updated>
@@ -4455,5 +4418,48 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITZU Jobs (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je bouwt en verbetert custom SAP-programma’s in nauwe samenwerking met de functionele SAP-analisten (MM/SD en FI/CO).&lt;/li&gt;&lt;li&gt;Je vertaalt functionele requirements naar een sterk technisch ontwerp en kwalitatieve code.&lt;/li&gt;&lt;li&gt;Je denkt actief mee over architectuur, integraties en best practices, samen met het SAP-team, andere IT-applicaties en de business.&lt;/li&gt;&lt;li&gt;Je optimaliseert bestaande toepassingen en pakt proactief verbeterpunten aan.&lt;/li&gt;&lt;li&gt;Je bewaakt de dagelijkse werking van het SAP-systeem en garandeert stabiliteit en performantie. Bij incidenten onderneem je meteen actie en ondersteun je collega’s bij analyse en oplossing.&lt;/li&gt;&lt;li&gt;Je neemt de technische lead in grote trajecten zoals de overstap naar S/4HANA, cloudmigraties, upgrades, system copies en andere technische interventies.&lt;/li&gt;&lt;li&gt;Je blijft op de hoogte van nieuwe ontwikkelingen binnen SAP en de bredere IT-wereld&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ervaring: Minstens vijf jaar ervaring in ABAP-ontwikkeling en bij voorkeur al kennis van S/4HANA. Je bent vertrouwd met MM/SD en FI/CO. Ervaring of affiniteit met retail is mooi meegenomen.&lt;/li&gt;&lt;li&gt;Expertise: Je blinkt uit in het ontwerpen, ontwikkelen en verbeteren van SAP-oplossingen en houdt altijd de stabiliteit, kwaliteit en performantie in de gaten.&lt;/li&gt;&lt;li&gt;Talen: Je spreekt vlot Nederlands, hebt een goede mondelinge en schriftelijke kennis van het Frans en beheerst Engels op een degelijk niveau.&lt;/li&gt;&lt;li&gt;Persoonlijkheid: Analytisch, oplossingsgericht, hands-on en met een sterke can-do mentaliteit. Je neemt ownership over jouw applicaties en oplossingen.&lt;/li&gt;&lt;li&gt;Communicatie: Je werkt zelfstandig aan design en code, maar functioneert ook sterk in teamcontext en ondersteunt collega’s wanneer nodig.&lt;/li&gt;&lt;li&gt;Cultuur: Je hebt een drive om continu bij te leren en kiest bewust voor een voltijdse rol waarin je bijdraagt aan de groei van onze klant.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Een competitief salaris met een uitgebreid pakket extralegale voordelen, waaronder maaltijdcheques, ecocheques, personeelskortingen en mogelijkheden tot thuiswerk.&lt;/li&gt;&lt;li&gt;Bedrijfswagen&lt;/li&gt;&lt;li&gt;Flexibele werk- en vakantieregeling.&lt;/li&gt;&lt;li&gt;Een uitdagende werkomgeving binnen een financieel gezonde en groeiende organisatie.&lt;/li&gt;&lt;li&gt;Een no-nonsense cultuur waarin persoonlijke groei en teamwork centraal staan.&lt;/li&gt;&lt;li&gt;Toegang tot een uitgebreid pakket opleidingen om jezelf verder te ontwikkelen.&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73459540"/>
     <published>2026-04-09T16:59:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73461163</id>
+    <title>Operationeel analist (Talentus)</title>
+    <updated>2026-04-10T00:05:03+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talentus (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Asse&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als &lt;strong&gt;operationeel analist&lt;/strong&gt;&amp;nbsp;ben je verantwoordelijk voor het analyseren en oplossen van technische en operationele problemen binnen de logistieke operaties. Je zorgt ervoor dat de processen op de verschillende logistieke sites in Belgi&amp;euml; effici&amp;euml;nt, stabiel en duurzaam verlopen.&lt;/p&gt;
+&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Analyseren van operationele en technische problemen op basis van data, observaties en feedback uit de operatie.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Onderzoeken van processen op de werkvloer en&lt;strong&gt; vertalen van cijfers en rapporten naar concrete verbeteracties&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Voorstellen en implementeren van zowel korte termijn oplossingen als duurzame verbeteringen.&lt;/li&gt;
+&lt;li&gt;Overleggen en samenwerken met interne stakeholders zoals Operations, Continuous Improvement, IT, Finance, HR en projectteams.&lt;/li&gt;
+&lt;li&gt;Communiceren en afstemmen van procesaanpassingen om herhaling van problemen te voorkomen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implementeren en ondersteunen van operationele en technische verbeterprojecten op de sites&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documenteren van processen&lt;/strong&gt; en ondersteunen van opleidingen op de werkvloer in samenwerking met de Technical Trainer.&lt;/li&gt;
+&lt;li&gt;Opbouwen en onderhouden van diepgaande kennis van logistieke end-to-end processen en ondersteunende systemen.&lt;/li&gt;
+&lt;li&gt;In deze rol rapporteer je rechtstreeks aan de Operations Manager.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je beschikt over volgende competenties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In het bezit van een Bachelordiploma, bij voorkeur in een technische richting&lt;/li&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Minstens 3 jaar relevante werkervaring in een gelijkaardige functie waarbij trouble shooting en continuous improvement je focus hadden&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Een zeer sterke kennis van het &lt;strong&gt;Nederlands &lt;/strong&gt;en het &lt;strong&gt;Frans&lt;/strong&gt;, zowel gesproken als geschreven&lt;/li&gt;
+&lt;li&gt;Je werkt vlot met verschillende IT-systemen en MS Office applicaties, waaronder een sterke kennis van Excel&lt;/li&gt;
+&lt;li&gt;Sterk analytisch vermogen&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Je hanteert methodieken over diepgaande root-cause analyses&lt;/li&gt;
+&lt;li&gt;Je durft creatief en out-of-the-box na te denken over innovatieve en structurele oplossingen&lt;/li&gt;
+&lt;li style="font-weight: bold;"&gt;&lt;strong&gt;Flexibel ingesteld en bereid om je te verplaatsen tussen verschillende locaties in Belgi&amp;euml; (6 verschillende sites) zowel in dag als nacht&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Daarnaast kan je bij een &lt;strong&gt;dringende interventie &lt;/strong&gt;ook last-minute gecontacteerd worden&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Een sleutelrol met veel autonomie en verantwoordelijkheid&lt;/li&gt;
+&lt;li&gt;Opleidingsprogramma&lt;/li&gt;
+&lt;li&gt;Bedrijfswagen met tank- of laadkaart&lt;/li&gt;
+&lt;li&gt;Laptop en GSM&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Maaltijdcheques van 8&amp;euro;/dag&lt;/li&gt;
+&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
+&lt;li&gt;Ambulante zorgverzekering&lt;/li&gt;
+&lt;li&gt;Jaarlijkse target bonus&lt;/li&gt;
+&lt;li&gt;Ecocheques van &amp;euro;250&lt;/li&gt;
+&lt;li&gt;Sectorpremie&lt;/li&gt;
+&lt;li&gt;Naast 20 wettelijke verlofdagen geniet je van 10 extralegale kaderverlofdagen&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73461163"/>
+    <published>2026-04-10T00:05:03+00:00</published>
   </entry>
 </feed>
