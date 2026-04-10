@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-10T07:49:16.333803+00:00</updated>
+  <updated>2026-04-10T09:32:35.795671+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -3672,14 +3672,6 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
     <published>2026-03-18T11:32:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73303100</id>
-    <title>DevOps Engineer (Equans)</title>
-    <updated>2026-03-27T12:06:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Equans (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Machelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;span&gt;&lt;strong&gt;What if you could build and optimize environments where development, deployment, and delivery all flow effortlessly - and every system runs like clockwork? &lt;/strong&gt;&lt;/span&gt;&lt;p&gt;&lt;span&gt;As a &lt;strong&gt;DevOps Engineer&lt;/strong&gt;, you’re the key link between development and operations, ensuring reliable, secure, and efficient systems across all environments. You’ll streamline processes, automate where it matters, and make sure every deployment is smoother and faster than the last.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Your work location&lt;/strong&gt;: BruCargo, with possible travel involved&lt;/span&gt;&lt;/p&gt;&lt;span&gt;&lt;strong&gt;Zoom on the job:&lt;/strong&gt; &lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;create and manage environments that enable faster, more reliable, and consistent application deployment&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;implement and optimize processes for developing, testing, and deploying applications&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;monitor and manage system health, analyzing changes in data volumes and performance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;drive continuous integration (CI) through automated systems for source code integration (e.g. GIT)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;set up performance monitoring systems for applications in production, ensuring they run at optimal levels&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;manage application versions and configurations in a controlled, structured way&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;integrate security practices across all stages of the application lifecycle, identifying and mitigating vulnerabilities early&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;span&gt;&lt;strong&gt;Are we a match?&lt;/strong&gt; &lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;at least 5 years of experience in DevOps or a similar role&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;broad understanding of DevOps tools and environments (Jira/Confluence, CI/CD, cloud, etc.)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;hands-on experience with technologies like Linux, Docker, Elasticsearch, ActiveMQ, Nginx, AWS, Postgres, SQL Server, C#/.NET, and more&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;experience with cloud environments such as AWS and Azure, as well as ElasticSearch stack, NodeJS, ReactJS/Native, Python, and REST APIs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;stress-resistant with a "geek spirit" and a passion for technology&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;independent yet collaborative, with an entrepreneurial approach to problem-solving&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;fluent in English and French, knowledge of Dutch is a plus&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Your technical toolkit&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;tools: DevOps: Git (Gitlab, GitHub), CI/CD, Jira, Grafana&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;languages: Python, JavaScript, SQL, C# / .NET&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;services: Nginx, PostgreSQL, SQL Server, Elastic Search, ActiveMQ, High availability&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;virtualization: Docker (Swarm), VMWare&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;network: TCP/IP, DNS, VLAN, Basic firewalling concepts &lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;cloud (nice to have): AWS&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;operating systems: Linux and Windows&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;span&gt;&lt;strong&gt;Want to tackle tomorrow’s multi-technical challenges with us?&lt;/strong&gt;&lt;/span&gt;&lt;p&gt;&lt;span&gt;At Equans, you find an exciting career within a stable and financially sound company. You work on challenging, diverse projects and assist our clients with today’s three major transitions: the energy transition, the industrial transition, and the digital transition.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;You have the opportunity to discover cutting-edge technologies and further develop your skills.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Joining Equans is more than that! You also get:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;a competitive salary in line with your education and experience&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;interesting training and career opportunities&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;group- &amp; hospitalization insurance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;eco &amp; meal vouchers, representation allowance, 13th month, holiday pay&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;lease car with charging card, bicycle lease plan&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;smartphone with subscription, internet fee&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;additional paid leave, seniority leave, homeworking (1 day/week)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;discounts through Benefits@Work (culture, sports, travel, and more)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Add to that the contagious warm atmosphere at Equans, and what are you waiting for?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;We look forward to welcoming you!&lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73303100"/>
-    <published>2026-03-18T15:48:23+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73304997</id>
     <title>Senior Functioneel Analist (Pensaert &amp; Partners BV)</title>
     <updated>2026-03-18T18:03:43+00:00</updated>
@@ -4461,5 +4453,89 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73461163"/>
     <published>2026-04-10T00:05:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73463529</id>
+    <title>Senior Oracle APEX ontwikkelaar (Het Facilitair Bedrijf) via Vlaanderen Connect (Vlaanderen connect.)</title>
+    <updated>2026-04-10T09:30:00+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Brussel&lt;/li&gt;&lt;li&gt;Type: Contractueel onbepaalde duur&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p class="MsoNormal"&gt;&lt;strong&gt;Inleiding&lt;/strong&gt;&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;Bij Het Facilitair Bedrijf (HFB) zijn we voor Team Tint+ (Team ICT, Netwerk, Telecommunicatie, AI, Data en Audiovisuele Technieken) op zoek naar een 
+&lt;strong&gt;Senior Oracle APEX ontwikkelaar met sterke front-end affiniteit&lt;/strong&gt;&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;Binnen het Facilitair Bedrijf spelen onze APEX-toepassingen een cruciale rol in de ondersteuning en digitalisering van kernprocessen. In een context van verdere automatisering, integratie van systemen en cloudtransitie, is het essentieel om deze toepassingen performant, veilig en toekomstgericht te blijven ontwikkelen.&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;Als Senior APEX Developer neem je hierin een sleutelrol op. Je combineert diepgaande technische expertise met een sterk inzicht in de business en bent verantwoordelijk voor het ontwerpen, ontwikkelen en verder uitbouwen van duurzame applicaties. Hierbij heb je niet alleen oog voor performantie en stabiliteit, maar ook voor gebruiksvriendelijkheid en moderne front-end ontwikkeling. Daarnaast wordt verwacht dat je actief inspeelt op nieuwe evoluties binnen softwareontwikkeling, waaronder AI-ondersteunde ontwikkeling en het integreren van AI-diensten binnen applicaties en datastromen. Op die manier draag je bij aan een toekomstbestendig applicatielandschap.&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;Je speelt bovendien een belangrijke rol in het versterken van de continuïteit en het verminderen van afhankelijkheden, door actief bij te dragen aan kennisdeling, coaching en het uitbouwen van een sterk en duurzaam ontwikkelteam.&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;Competenties&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Analytische en probleemoplossende competenties&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Sterk analytisch vermogen en in staat om complexe vraagstukken te vertalen naar werkbare oplossingen&lt;/li&gt; 
+&lt;li&gt;Kan businessbehoeften vertalen naar technische implementaties&lt;/li&gt; 
+&lt;li&gt;Denkt oplossingsgericht en werkt gestructureerd&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Samenwerking en communicatie&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Kan helder communiceren met zowel technische als niet-technische stakeholders&lt;/li&gt; 
+&lt;li&gt;Werkt constructief samen met business, architecten en IT-teams&lt;/li&gt; 
+&lt;li&gt;Neemt initiatief in overleg en stemt proactief af&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Organisatie en kwaliteitsbewaking&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Werkt gestructureerd en bewaakt kwaliteit, performantie en security van oplossingen&lt;/li&gt; 
+&lt;li&gt;Heeft oog voor standaarden, documentatie en herbruikbaarheid&lt;/li&gt; 
+&lt;li&gt;Neemt verantwoordelijkheid voor het behalen van resultaten binnen afgesproken scope&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;strong&gt;Senioriteit en leiderschap&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Neemt eigenaarschap over toepassingen en technische keuzes&lt;/li&gt; 
+&lt;li&gt;Coacht en ondersteunt collega-developers&lt;/li&gt; 
+&lt;li&gt;Draagt bij aan kennisdeling en de verdere professionalisering van het 
+&lt;strong&gt; &lt;/strong&gt;team&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p class="MsoNormal"&gt;&lt;strong&gt;Naar wie zijn wij op zoek? &lt;/strong&gt;&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;Team Tint is opzoek naar een ervaren APEX ontwikkelaar met een sterke affiniteit voor front-end ontwikkeling die snel kan ingezet worden voor de uitbouw van een sterk en duurzaam ontwikkelteam en iemand die beschikt over onderstaande opgesomde kennis en competenties.&lt;/p&gt; 
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;Must have&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul style="margin-top: 0cm;" type="disc"&gt; 
+&lt;li class="MsoNormal" style="mso-list: l5 level1 lfo1; tab-stops: list 36.0pt;"&gt;Aantoonbare ervaring met 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;Oracle APEX&lt;/span&gt; (min. 5 jaar)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l5 level1 lfo1; tab-stops: list 36.0pt;"&gt;Grondige kennis van 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;Oracle PL/SQL&lt;/span&gt; en Oracle Database&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l5 level1 lfo1; tab-stops: list 36.0pt;"&gt;Aantoonbare ervaring met 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;JavaScript&lt;/span&gt; voor het uitbreiden van APEX-functionaliteiten&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l5 level1 lfo1; tab-stops: list 36.0pt;"&gt;Goede kennis van 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;HTML en CSS&lt;/span&gt; (layout, styling, responsive design)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l5 level1 lfo1; tab-stops: list 36.0pt;"&gt;Aantoonbare ervaring met 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;REST API’s en JSON&lt;/span&gt; (integraties met externe systemen)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l5 level1 lfo1; tab-stops: list 36.0pt;"&gt;Ervaring met het ontwikkelen van gebruiksvriendelijke en performante webapplicaties 
+&lt;br style="mso-special-character: line-break;" /&gt;&lt;br style="mso-special-character: line-break;" /&gt;&lt;/li&gt; &lt;/ul&gt; 
+&lt;p class="MsoNormal"&gt;&lt;strong&gt;&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;Pluspunten (nice to have)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul style="margin-top: 0cm;" type="disc"&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Ervaring met 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;AJAX/ asynchronous calls&lt;/span&gt; binnen webapplicaties&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Kennis van CSS frameworks (bv. Bootstrap, Tailwind)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;&lt;span lang="EN-US" style="mso-ansi-language: EN-US;"&gt;Ervaring met moderne frontend frameworks (bv. React, Vue of Angular) &lt;/span&gt;&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Kennis van API testing tools (bv. Postman)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Inzicht in 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;UX/UI principes&lt;/span&gt; en gebruiksvriendelijkheid&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Ervaring met cloudomgevingen (AWS en/of Azure)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Affiniteit met in 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;AI-toepassingen binnen softwareontwikkeling&lt;/span&gt; (bv. AI-assisted development, automatisatie, data-analyse)&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Ervaring met het integreren van applicaties met AI-diensten (bv. via API’s) is een plus&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;Interesse in nieuwe architectuurpatronen zoals 
+&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;AI-agents en model-integraties (bv. MCP-servers)&lt;/span&gt;&lt;/li&gt; 
+&lt;li class="MsoNormal" style="mso-list: l0 level1 lfo2; tab-stops: list 36.0pt;"&gt;&lt;span lang="NL" style="mso-ansi-language: NL;"&gt;Ervaring met Jira &amp;amp; Confluence&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p class="MsoNormal"&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met:&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een aantrekkelijke bruto verloning, afhankelijk van ervaring, competenties en potentieel&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11).&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een mobiliteitsbudget&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag)&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een forfaitaire onkostenvergoeding van 165 EUR/maand&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten)&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Een groepsverzekering (4% werkgeversbijdrage en 1% werknemersbijdrage)&lt;/p&gt; 
+&lt;p class="MsoNormal" style="margin-left: 54.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"&gt;&lt;span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"&gt;&lt;span style="mso-list: Ignore;"&gt;· 
+&lt;span style="font: 7.0pt 'Times New Roman';"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73463529"/>
+    <published>2026-04-10T09:30:00+00:00</published>
   </entry>
 </feed>
