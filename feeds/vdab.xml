@@ -2,32 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-13T13:46:18.837008+00:00</updated>
+  <updated>2026-04-13T15:40:02.913787+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
-    <title>Freelance Integratie developer (Cronos)</title>
-    <updated>2026-02-17T15:39:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een ervaren integratie developer&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;Als integratieontwikkelaar krijg je de mogelijkheid om te werken aan uitdagende integratieprojecten. Je zult samenwerken met klanten om hun integratiebehoeften te begrijpen en oplossingen op maat te bieden met behulp van verschillende technologieën en cloud platformen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je verantwoordelijkheden als integratieontwikkelaar omvatten het ontwikkelen en implementeren van integraties die naadloze communicatie en efficiënte gegevensuitwisseling tussen systemen mogelijk maken. Je werkt nauw samen met het team om ervoor te zorgen dat de integraties voldoen aan de vereisten en de kwaliteitsnormen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;Om succesvol te zijn als integratieontwikkelaar ben je bekend met de volgende technische vaardigheden en concepten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met één of meer programmeertalen, zoals Java, C# of Python&lt;/li&gt;&lt;li&gt;Kennis of begrip van van API’s, webservices en messaging technologieën&lt;/li&gt;&lt;li&gt;Achtergrond in integratiepatronen en -architecturen is een plus.&lt;/li&gt;&lt;li&gt;Kennis en interesse in cloud- en integratieplatformen zoals Azure, Oracle, AWS.&lt;/li&gt;&lt;li&gt;Basiskennis van SQL en databases.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;API&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Integratie&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;c#&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;python&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;webservices&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;messaging technologieën&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;cloud&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;azure&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;aws&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;sql&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit. &lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084449"/>
-    <published>2024-07-02T09:28:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
     <title>Freelance Java Developer (Cronos)</title>
@@ -4444,6 +4421,44 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;p&gt;● Tegemoetkoming in de kosten van schoolvakantieopvang&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73479419"/>
     <published>2026-04-13T08:58:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73484439</id>
+    <title>Senior .NET Developer (ABC-GROEP)</title>
+    <updated>2026-04-13T15:37:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ABC-GROEP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Het .NETteam bij ABC-Groep is een sterk groeiende, gedreven groep developers die dagelijks werken aan uitdagende projecten bij toonaangevende klanten. Om onze groei te ondersteunen, zijn we op zoek naar een Teamlead .NET Developer: iemand die graag de technische kar trekt, aanspreekpunt is voor het team én tegelijk zelf handson wil blijven meebouwen aan kwalitatieve softwareoplossingen.&lt;/p&gt; 
+&lt;p&gt;Als Teamlead .NET Developer combineer je jouw ervaring in softwarearchitectuur en teamcoaching met een sterke technische drive. Je werkt mee aan projecten bij onze klanten of vanuit ons kantoor, en je neemt het team mee in het volledige proces van analyse tot ontwikkeling en oplevering.&lt;/p&gt; 
+&lt;p&gt;Wat ga je doen?&lt;/p&gt; 
+&lt;p&gt;Je neemt een leidende rol op in .NETprojecten en fungeert als technisch aanspreekpunt van het team.&lt;/p&gt; 
+&lt;p&gt;Je blijft hands-on ontwikkelen en bouwt mee aan moderne .NETapplicaties en microservices.&lt;/p&gt; 
+&lt;p&gt;Je leidt de modernisering richting Kubernetes en denkt mee over architecturale keuzes.&lt;/p&gt; 
+&lt;p&gt;Je begeleidt en coacht collega’s via pair programming, code reviews, feedbacksessies en technische ondersteuning.&lt;/p&gt; 
+&lt;p&gt;Je bewaakt de codekwaliteit en stimuleert best practices binnen het team.&lt;/p&gt; 
+&lt;p&gt;Je werkt volgens Agile/Scrum en schakelt vlot tussen businessbehoeften en technische oplossingen.&lt;/p&gt; 
+&lt;p&gt;Je ondersteunt bij het uittekenen van bounded contexts en een Domain Driven Design gedreven aanpak.&lt;/p&gt; 
+&lt;p&gt;Je helpt mee processen, standaarden en werkwijzen binnen het .NETteam te versterken.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;Profiel&lt;/p&gt; 
+&lt;p&gt;Je bent een ervaren .NET Developer met een bewezen achtergrond in C#, ASP.NET Core en enterpriseontwikkeling.&lt;/p&gt; 
+&lt;p&gt;Je bent technisch sterk, neemt ownership en blijft minstens 50% handson meebouwen aan de codebase.&lt;/p&gt; 
+&lt;p&gt;Je coacht, begeleidt en ondersteunt Junior en Medior .NET Developers in hun dagelijkse groei.&lt;/p&gt; 
+&lt;p&gt;Je werkt gestructureerd en hebt een passie voor clean code, maintainability en kwaliteit.&lt;/p&gt; 
+&lt;p&gt;Je hebt ervaring met of sterke interesse in microservices, eventgedreven architecturen, messaging en domain-driven design.&lt;/p&gt; 
+&lt;p&gt;Je begrijpt bounded contexts en kan deze helpen bewaken binnen een team.&lt;/p&gt; 
+&lt;p&gt;Je hebt ervaring met of interesse in containers en moderne cloudplatformen zoals Kubernetes.&lt;/p&gt; 
+&lt;p&gt;Je bent vertrouwd met CI/CD, git, design patterns, design principles en unit testing.&lt;/p&gt; 
+&lt;p&gt;Frontend technologieën als Angular zijn je niet vreemd.&lt;/p&gt; 
+&lt;p&gt;Je communiceert helder, geeft richting en durft beslissingen te nemen, zowel technisch als organisatorisch.&lt;/p&gt; 
+&lt;p&gt;Je werkt graag in nauwe samenwerking met analisten, architects en stakeholders.&lt;/p&gt; 
+&lt;p&gt;Je spreekt vloeiend Nederlands en drukt je professioneel uit in het Engels.&lt;/p&gt; 
+&lt;p&gt;Je bezit één of meerdere Microsoftcertificaten, of bent bereid deze op korte termijn te behalen.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Aantrekkelijk brutoloon&lt;/p&gt; 
+&lt;p&gt;Bedrijfswagen + tankkaart&lt;/p&gt; 
+&lt;p&gt;Thuiswerkvergoeding &amp;amp; internetvergoeding&lt;/p&gt; 
+&lt;p&gt;Hospitalisatie en groepsverzekering&lt;/p&gt; 
+&lt;p&gt;20 vakantiedagen + 6 ADV-dagen&lt;/p&gt; 
+&lt;p&gt;Mogelijkheid tot cafetariaplan – fiscaal voordeliger budget voor aankopen&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73484439"/>
+    <published>2026-04-13T15:37:37+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73479385</id>
