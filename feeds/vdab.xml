@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-15T13:44:59.460461+00:00</updated>
+  <updated>2026-04-15T15:28:58.414655+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/68682857</id>
-    <title>Monitoring Engineer/Specialist (Cronos)</title>
-    <updated>2026-02-16T00:01:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Monitoring Engineer / Specialist&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Word Monitoring Engineer bij Cronos en optimaliseer bestaande tools om de klantwaarde te verhogen. Werk in een dynamische omgeving met een competitief salaris en moderne samenwerkingstools. Solliciteer nu!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Functieprofiel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Voor ons Centraal Monitoring Center zoeken we een Monitoring Engineer / Specialist met een passie voor software. In deze rol ben je de drijvende kracht achter de Hard en Software Support, waarbij je bestaande monitoringstools optimaliseert die waarde toevoegen voor klanten en de efficiëntie van serviceoperaties verbeteren. In deze rol ben je mede verantwoordelijk voor maximale beschikbaarheid van de systemen van onze klanten door vroegtijdige waarschuwingen en foutdetectie vanuit het monitoringssysteem te interpreteren en adequaat te reageren.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Samen met je collega’s van de service afdelingen sta je in voor het opzetten, onderhouden en troubleshooten van Linux omgevingen voor het monitoren en beheren van de omgevingen van onze klanten. Verder sta je in voor remote en onsite support op deze omgevingen. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Je werkt nauw samen met onze technische servicedesk om alle meldingen vanuit de monitoring te registreren en op te lossen binnen de afgesproken serviceniveaus. We streven naar voortdurende verbetering, waarbij evaluaties van oproepen worden gebruikt om remote monitoring verder te verfijnen.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat ga je doen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Actief monitoren van systemen en gegenereerde events;&lt;/li&gt;&lt;li&gt;Opvolging van openstaande tickets, service en change requesten en communicatie met de klant;&lt;/li&gt;&lt;li&gt;Afhandelen, evalueren en verbeteren van meldingen;&lt;/li&gt;&lt;li&gt;Analyseren van data ontvangen van het monitoring systeem;&lt;/li&gt;&lt;li&gt;Aansluiten en registreren van nieuwe installatie op monitoring tools;&lt;/li&gt;&lt;li&gt;Voorbereiding van technische documentatie;&lt;/li&gt;&lt;li&gt;Zorgen voor volledige registratie van gebeurtenissen;&lt;/li&gt;&lt;li&gt;Een klantgerichte benadering hanteren voor maximale klanttevredenheid;&lt;/li&gt;&lt;li&gt;Aan de hand van je expertise Monitoring-servicecontracten en andere diensten mee helpen promoten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat wij vragen&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt;We zoeken een collega, die pragmatisch is met een hands-on mentaliteit, die graag problemen analyseert en oplossingen zoekt.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt kennis in IT beheer en kan programmeren.&lt;/li&gt;&lt;li&gt;Je hebt minimaal 5 jaren ervaring als monitoring of devops engineer.&lt;/li&gt;&lt;li&gt;Je hebt oog voor kwaliteit en detail.&lt;/li&gt;&lt;li&gt;Je hebt de mindset om werkzaamheden te automatiseren.&lt;/li&gt;&lt;li&gt;Je beheerst tenminste 1 scripting taal: bij voorkeur Python, Powershell en/of Bash zijn een plus.&lt;/li&gt;&lt;li&gt;Je komt terecht in een omgeving waarin onderstaande technieken voorkomen. Kennis hiervan is een plus, maar geen absolute vereiste:&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Nagios XI&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Prometheus&lt;/li&gt;&lt;li class="ql-indent-1"&gt;New Relic&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Check MK&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Virtualisatie&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Cloud omgevingen in AWS/Azure/Google Cloud Platform&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Windows Server Farm&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Netwerk infra (Cisco, Meraki, …)&lt;/li&gt;&lt;li&gt;Je bent tweetalig (Nederlands/Engels), kennis van de Franse taal is een pluspunt.&lt;/li&gt;&lt;li&gt;Je beschikt over geavanceerde kennis van Linux.&lt;/li&gt;&lt;li&gt;Je bent flexibel en proactief.&lt;/li&gt;&lt;li&gt;Je hebt verantwoordelijkheidszin en neemt initiatief.&lt;/li&gt;&lt;li&gt;Je bent zelfstandig, resultaatgericht en hebt doorzettingsvermogen.&lt;/li&gt;&lt;li&gt;Je bent makkelijk te benaderen en een teamplayer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;Nagios XL&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Python&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Powershell&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Bash&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;DevOps&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Monitoring&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Check MK&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;New Relic&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Prometheus&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Cloud&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;Netwerk Infra&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong style="color: black;"&gt;Wat wij bieden&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Competitief salaris: Jouw inzet wordt beloond met een concurrerend salaris.&lt;/li&gt;&lt;li class="ql-indent-1"&gt;40 urenweek&lt;/li&gt;&lt;li class="ql-indent-1"&gt;20 wettelijke verlofdagen + 12 ADV-dagen&lt;/li&gt;&lt;li class="ql-indent-1"&gt;Wagen + tankkaart/laadpas&lt;/li&gt;&lt;li class="ql-indent-1"&gt;extralegale voordelen zoals een maaltijdvergoeding, een hospitalisatie- en groepsverzekering, laptop, gsm+abo, korting op uw privé telecom abo &lt;/li&gt;&lt;li&gt;Teamomgeving: Je maakt deel uit van een enthousiast en ondersteunend team binnen een groeiend dynamisch bedrijf.&lt;/li&gt;&lt;li&gt;Inspirerende werkomgeving: Onze bedrijfscultuur is geworteld in passie, respect, leergierigheid en teamgeest.&lt;/li&gt;&lt;li&gt;&lt;span style="color: black;"&gt;Individuele ontwikkelingsplannen: we voorzien in je persoonlijke groei door middel van een eigen opleidingsbudget.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: black;"&gt;Het Cronos Care-pakket: een uitgebreid pakket met gratis aanbiedingen, voordelige prijzen en leuke kortingen, in combinatie met leuke bedrijfsevents&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: black;"&gt;Je bent welkom om deel uit te maken van onze bloeiende organisatie. Solliciteer nu en ontdek de mogelijkheden die we jou kunnen bieden!&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: black;"&gt; &lt;/span&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/68682857"/>
-    <published>2024-04-18T16:56:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084446</id>
     <title>Oracle Database Administrator (DBA) (Cronos)</title>
@@ -1354,88 +1333,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Brasschaat&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een toonaangevende organisatie binnen de IT-sector in Vlaanderen zoek ik naar een ervaren Functioneel Analist. Deze professional fungeert als cruciale schakel tussen business en IT en weet bedrijfsprocessen te vertalen naar duidelijke en gedragen functionele vereisten. Dankzij een sterke analytische aanpak en heldere communicatie sluiten digitale oplossingen optimaal aan bij de noden van de gebruikers.&lt;/p&gt;&lt;p&gt;De Functioneel Analist werkt nauw samen met product owners, developers, testers en key users en speelt een centrale rol in het realiseren van kwalitatieve en toekomstgerichte IT-oplossingen. Met minstens vijf jaar ervaring in functionele analyse ligt de focus op duidelijke requirements, realistische oplossingen en een vlotte samenwerking tussen alle betrokken partijen.&lt;/p&gt;&lt;p&gt;Hoe zal jouw takenpakket eruit zien?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je analyseert bedrijfsprocessen en de behoeften van diverse stakeholders en vertaalt deze naar concrete functionele vereisten.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je stelt functionele specificaties, use cases en user stories op die richting geven aan de developmentteams.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je brengt dataflows en integraties tussen verschillende systemen in kaart.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je coördineert workshops en interviews met business- en IT-partners om requirements te verfijnen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je ondersteunt bij testen en bewaakt de functionele kwaliteit van de opgeleverde oplossingen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wat verwachten wij van jou ?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je beschikt over minimaal vijf jaar ervaring als Functioneel Analist en hebt een sterk analytisch en procesmatig inzicht.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je hebt aantoonbare ervaring met het uitwerken van functionele documentatie, use cases en user stories binnen een Agile/Scrum-context.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je bent vertrouwd met tools zoals JIRA, Confluence of gelijkaardige analyse- en documentatietools.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je communiceert helder en overtuigend met zowel business als IT en kan meedenken over oplossingen.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je beheerst het Nederlands en/of Engels vlot.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat bieden wij jou ?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een brutoloon tussen €3.000 en €5.500 op basis van ervaring.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je komt terecht in een dynamische en technologisch vooruitstrevende werkomgeving met ervaren collega's.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je geniet van flexibele werktijden en de mogelijkheid om deels remote te werken.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je krijgt ruime kansen voor persoonlijke groei via opleidingen, training en certificering.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je werkt in een context waar kennisdeling, samenwerking en continue verbetering centraal staan.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72889785"/>
     <published>2026-01-22T15:13:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72890390</id>
-    <title>Full stack .NET developer (SODIWE)</title>
-    <updated>2026-04-02T11:31:04+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: SODIWE (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als full stack .NET developer bouw je mee aan de verdere ontwikkeling en uitbreiding van onze interne software-oplossingen. Je werkt end-to-end: van backend logica in 
-&lt;strong&gt;&lt;span&gt;C# (.NET / C# 10)&lt;/span&gt;&lt;/strong&gt; tot een gebruiksvriendelijke frontend in 
-&lt;strong&gt;&lt;span&gt;Angular&lt;/span&gt;&lt;/strong&gt;, en een performante databanklaag in 
-&lt;strong&gt;&lt;span&gt;SQL Server&lt;/span&gt;&lt;/strong&gt;.&lt;/p&gt; 
-&lt;p&gt;Je komt terecht in een team van vier waar iedereen ownership opneemt en waar je een directe impact hebt op het eindresultaat. Je denkt actief mee over technische keuzes, werkt gestructureerd aan nieuwe functionaliteiten en zorgt ervoor dat bestaande software stabiel en onderhoudbaar blijft.&lt;/p&gt; 
-&lt;p&gt;Bij Sodiwe zetten we sterk in op 
-&lt;strong&gt;&lt;span&gt;codekwaliteit, testbaarheid en duurzame softwareontwikkeling&lt;/span&gt;&lt;/strong&gt;. We combineren waar het nuttig is het beste van 
-&lt;strong&gt;&lt;span&gt;object-oriented&lt;/span&gt;&lt;/strong&gt; en 
-&lt;strong&gt;&lt;span&gt;functionele principes&lt;/span&gt;&lt;/strong&gt; in C#, en werken met duidelijke architecturale richtlijnen (o.a. 
-&lt;strong&gt;&lt;span&gt;DDD&lt;/span&gt;&lt;/strong&gt; en 
-&lt;strong&gt;&lt;span&gt;hexagonal architecture&lt;/span&gt;&lt;/strong&gt;) om onze oplossingen robuust en evolueerbaar te houden.&lt;/p&gt; 
-&lt;p&gt;Je werkt in een moderne ontwikkelomgeving waar we bewust investeren in efficiëntie en kwaliteit, met o.a. 
-&lt;strong&gt;&lt;span&gt;AI-assisted coding waar het waarde toevoegt&lt;/span&gt;&lt;/strong&gt; en sterke 
-&lt;strong&gt;&lt;span&gt;engineering practices&lt;/span&gt;&lt;/strong&gt; zoals code reviews, refactoring en testing.&lt;/p&gt; 
-&lt;p&gt;Concreet ga je aan de slag met:&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;ontwikkelen van nieuwe backend features en API’s in 
-&lt;strong&gt;&lt;span&gt;C# / .NET&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;bouwen en onderhouden van frontend functionaliteiten in 
-&lt;strong&gt;&lt;span&gt;Angular&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;schrijven en optimaliseren van 
-&lt;strong&gt;&lt;span&gt;SQL Server queries&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;analyseren, oplossen en voorkomen van issues (met aandacht voor kwaliteit op lange termijn)&lt;/li&gt; 
-&lt;li&gt;meedenken over architectuur, structuur en verdere technische verbeteringen&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Je bent een veelzijdige full stack developer die graag verantwoordelijkheid opneemt en energie krijgt van het bouwen aan kwalitatieve software in een klein team. Je combineert een pragmatische mindset met oog voor structuur, onderhoudbaarheid en codekwaliteit.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je hebt sterke ervaring met:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;C# en .NET&lt;/span&gt;&lt;/strong&gt; (.NET Core/.NET 6+)&lt;/li&gt; 
-&lt;li&gt;het bouwen van 
-&lt;strong&gt;&lt;span&gt;WebAPI’s&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;SQL Server&lt;/span&gt;&lt;/strong&gt; en het schrijven van performante, leesbare queries&lt;/li&gt; 
-&lt;li&gt;frontend ontwikkeling met 
-&lt;strong&gt;&lt;span&gt;Angular&lt;/span&gt;&lt;/strong&gt; (of een gelijkaardig modern framework zoals React/Vue, met bereidheid om over te stappen naar Angular)&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;TypeScript&lt;/span&gt;&lt;/strong&gt;, 
-&lt;strong&gt;&lt;span&gt;HTML5&lt;/span&gt;&lt;/strong&gt; en 
-&lt;strong&gt;&lt;span&gt;CSS&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span&gt;Entity Framework&lt;/span&gt;&lt;/strong&gt; en 
-&lt;strong&gt;&lt;span&gt;LINQ&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;strong&gt;&lt;span lang="EN-US"&gt;asynchronous programming&lt;/span&gt;&lt;/strong&gt;&lt;span lang="EN-US"&gt; (Task-based, async/await)&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;een sterke basiskennis van 
-&lt;strong&gt;&lt;span&gt;design patterns&lt;/span&gt;&lt;/strong&gt; en het schrijven van duidelijke, gestructureerde code&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Je werkt graag op een manier die kwaliteit ondersteunt:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;je schrijft code die 
-&lt;strong&gt;&lt;span&gt;testbaar&lt;/span&gt;&lt;/strong&gt; en 
-&lt;strong&gt;&lt;span&gt;onderhoudsvriendelijk&lt;/span&gt;&lt;/strong&gt; is&lt;/li&gt; 
-&lt;li&gt;je staat open voor 
-&lt;strong&gt;&lt;span&gt;code reviews&lt;/span&gt;&lt;/strong&gt;, feedback en continu verbeteren&lt;/li&gt; 
-&lt;li&gt;je denkt mee over betere oplossingen, en durft bestaande code te 
-&lt;strong&gt;&lt;span&gt;refactoren&lt;/span&gt;&lt;/strong&gt; waar nodig&lt;/li&gt; 
-&lt;li&gt;ervaring met 
-&lt;strong&gt;&lt;span&gt;unit testing&lt;/span&gt;&lt;/strong&gt; (en TDD als plus) is een meerwaarde&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;span&gt;Pluspunten (maar geen must):&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;interesse of ervaring in 
-&lt;strong&gt;&lt;span&gt;functioneel programmeren&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;affiniteit met 
-&lt;strong&gt;&lt;span&gt;DDD&lt;/span&gt;&lt;/strong&gt;, clean code en modulaire architectuur&lt;/li&gt; 
-&lt;li&gt;ervaring met 
-&lt;strong&gt;&lt;span&gt;hexagonal / clean architecture&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;ervaring met 
-&lt;strong&gt;&lt;span&gt;Docker / containerized development&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;basiskennis van 
-&lt;strong&gt;&lt;span&gt;Linux&lt;/span&gt;&lt;/strong&gt; en vlot kunnen werken via de 
-&lt;strong&gt;&lt;span&gt;command line&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span lang="EN-US"&gt;goede kennis van 
-&lt;strong&gt;&lt;span&gt;Git&lt;/span&gt;&lt;/strong&gt; (branching, pull requests, conflict resolution)&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;We bieden je &lt;/span&gt;&lt;span&gt;een 
-&lt;strong&gt;zelfstandige&lt;/strong&gt;, 
-&lt;strong&gt;verantwoordelijke&lt;/strong&gt; functie. Je komt terecht in een dynamische, stabiele organisatie met een boeiende visie waar er ruimte is voor bijscholing en verdere ontwikkeling. Verder hechten we veel belang aan een goed evenwicht tussen werk en privé.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Je krijgt een voltijds contract van onbepaalde duur.&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;Jouw salaris is 
-&lt;strong&gt;aantrekkelijk&lt;/strong&gt;, aangevuld met 
-&lt;strong&gt;extralegale voordelen:&lt;/strong&gt; bedrijfswagen, laptop, smartphone met abonnement, ruim aantal vakantiedagen (wettelijk verlof + 12 dagen werktijdverkorting + 3 dagen flexibiliteitsverlof + 5 dagen extra na 1 jaar anciënniteit, pro rata jouw tewerkstellingsbreuk), maaltijdcheques, eindejaarspremie, groepsverzekering en een hospitalisatieverzekering voor het hele gezin. &lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72890390"/>
-    <published>2026-01-22T16:19:07+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72889800</id>
@@ -4421,5 +4318,66 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;strong&gt;flexibele werktijden&lt;/strong&gt;, dit geeft je de vrijheid en autonomie om zelf je agenda te maken.&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73493064"/>
     <published>2026-04-14T15:30:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73502341</id>
+    <title>SENIOR FULL STACK .NET DEVELOPER (Skillflex People)</title>
+    <updated>2026-04-15T16:22:44+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Skillflex People (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Aartselaar&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Dit bedrijf helpt andere organisaties om beter met hun data om te gaan, vooral voor marketing en klantenbeheer.&lt;/p&gt;&lt;p&gt;Wil jij niet alleen code schrijven, maar ook mee bepalen hoe technologie een bedrijf laat groeien? Als &lt;strong&gt;SENIOR FULL STACK .NET DEVELOPER&lt;/strong&gt; bouw je niet alleen performante applicaties, maar zet je ook de technische koers uit. Je krijgt de kans om binnen enkele jaren door te groeien naar CTO, waar je de technische visie en architectuur van hun data-driven oplossingen bepaalt.
+&lt;/p&gt;&lt;p&gt;We zoeken een pragmatische probleemoplosser die impact wil maken met slimme cloudoplossingen, API’s en dataverwerking. Je werkt in een team waar strategie en technologie hand in hand gaan en hebt veel autonomie om je eigen ideeën uit te werken.&lt;/p&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Taken en verantwoordelijkheden als&lt;strong&gt; SENIOR FULL STACK .NET DEVELOPER:&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Ontwerpen en ontwikkelen van schaalbare full-stack oplossingen in .NET (C#) en React.
+&lt;/li&gt;&lt;li&gt;Bouwen en optimaliseren van API’s en koppelingen met externe systemen.
+&lt;/li&gt;&lt;li&gt;Beheren en uitbreiden van onze hybride infrastructuur (private cloud en Azure-integraties).
+&lt;/li&gt;&lt;li&gt;Werken aan Microsoft Fabric-integraties en data-gedreven processen.
+&lt;/li&gt;&lt;li&gt;Ontwikkelen van een technische roadmap die aansluit bij de bedrijfsstrategie.
+&lt;/li&gt;&lt;li&gt;Toezien op codekwaliteit en architectuur via best practices en code reviews.
+&lt;/li&gt;&lt;li&gt;Samenwerken met marketing &amp;amp; data-teams om businessdoelen te vertalen naar technische oplossingen.
+&lt;/li&gt;&lt;li&gt;Waarborgen van security en compliance binnen de IT-omgeving.
+&lt;/li&gt;&lt;li&gt;Optreden als sparringpartner voor het management en aanspreekpunt voor IT-leveranciers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;REF: WIL&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;5+ jaar ervaring met .NET (C#) en SQL Server, inclusief stored- en CLR-procedures.
+&lt;/li&gt;&lt;li&gt;Ervaring met cloudoplossingen in Microsoft Azure (Entra, Servicebus, Storage, Databricks).
+&lt;/li&gt;&lt;li&gt;Ervaring met API-ontwikkeling en koppelingen met externe systemen.
+&lt;/li&gt;&lt;li&gt;Hands-on ervaring met CI/CD pipelines en DevOps-processen (kennis van Jenkins is een plus).
+&lt;/li&gt;&lt;li&gt;Kennis van Windows Server en virtualisatie.
+&lt;/li&gt;&lt;li&gt;Ervaring met React (Typescript) voor frontend-ontwikkeling.
+&lt;/li&gt;&lt;li&gt;Analytisch &amp;amp; strategisch denkvermogen met een hands-on mentaliteit.
+&lt;/li&gt;&lt;li&gt;Vloeiend in Nederlands en Engels (Frans is een plus).
+&lt;/li&gt;&lt;li&gt;Kennis van Microsoft Fabric is een troef, maar we voorzien training indien nodig.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Doorgroeitraject naar CTO: We zoeken iemand die mee de toekomst vormgeeft.
+&lt;/li&gt;&lt;li&gt;Autonomie &amp;amp; innovatie: Veel vrijheid om technologische beslissingen te nemen en te experimenteren.
+&lt;/li&gt;&lt;li&gt;Impactvolle projecten: Werken aan cutting-edge oplossingen in data-driven marketing.
+&lt;/li&gt;&lt;li&gt;Flexibel werken: Minstens twee dagen remote werken en flexibele uren.
+&lt;/li&gt;&lt;li&gt;Sterk salarispakket: Netto onkostenvergoeding, Maaltijdcheques, Bedrijfswagen, Tankkaart, GSM-abonnement, Hospitalisatie, Groepsverzekering
+&lt;/li&gt;&lt;li&gt;Persoonlijk opleidingsbudget: Voor zowel technische als leiderschapstrainingen.
+&lt;/li&gt;&lt;li&gt;Startup-mentaliteit, zonder de chaos: Stratics combineert de dynamiek van een startup met de stabiliteit van een ervaren agency.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73502341"/>
+    <published>2026-04-15T16:22:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73502811</id>
+    <title>GROWTH HACKER/DIGITAL MARKETING EXPERT (Skillflex People)</title>
+    <updated>2026-04-15T16:48:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Skillflex People (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Aartselaar&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Dit bedrijf helpt andere organisaties om beter met hun data om te gaan, vooral voor marketing en klantenbeheer.
+&lt;/p&gt;&lt;p&gt;Je wordt enthousiast van het ontdekken en benutten van groeikansen. Het analyseren van gebruikersgedrag en het uitvoeren van experimenten om innovatieve strategieën te ontwikkelen geeft je energie. Je geniet ervan om creatief te zijn met data, nieuwe marketingkanalen te testen en resultaten continu te optimaliseren. Het maken van virale campagnes en het verhogen van klantbetrokkenheid en conversies is jouw passie. Je werkt graag in een dynamische omgeving waar je samen met een team ambitieuze doelen nastreeft en meetbare impact creëert.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ter uitbereiding van hun IT team zoekt deze klant een &lt;strong&gt;GROWTH HACKER/DIGITAL MARKETING EXPERT.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Taken en verantwoordelijkheden als&lt;strong&gt; GROWTH HACKER/DIGITAL MARKETING EXPERT:&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Ontwikkelen en uitvoeren van creatieve groeistrategieën.
+&lt;/li&gt;&lt;li&gt;Analyseren en optimaliseren van marketingcampagnes op basis van data.
+&lt;/li&gt;&lt;li&gt;Experimenteren met nieuwe kanalen en tactieken om de groei te stimuleren.
+&lt;/li&gt;&lt;li&gt;Beheren van digitale marketingkanalen zoals SEO, SEA, social media, en e-mail marketing.
+&lt;/li&gt;&lt;li&gt;Implementeren van marketing automation en CRM-systemen.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;REF: WIL&lt;/p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met data-analyse en digitale marketing.
+&lt;/li&gt;&lt;li&gt;Sterke analytische en probleemoplossende vaardigheden.
+&lt;/li&gt;&lt;li&gt;Vermogen om snel nieuwe tools en technieken te leren.
+&lt;/li&gt;&lt;li&gt;Kennis van SEO, SEA, social media, en e-mail marketing.
+&lt;/li&gt;&lt;li&gt;Ervaring met marketing automation, CDP en CRM-systemen.
+&lt;/li&gt;&lt;li&gt;Vloeiend in Nederlands en Engels; Frans is een plus.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Wie ben jij:&lt;/p&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Innovatief, resultaatgericht en analytisch.
+&lt;/li&gt;&lt;li&gt;Zelfstandig en proactief.
+&lt;/li&gt;&lt;li&gt;Uitstekende communicatieve vaardigheden en teamspeler.
+&lt;/li&gt;&lt;li&gt;Je bent open-minded en hebt gevoel voor humor.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;De kans om je analytische carrière vorm te geven&lt;/li&gt;&lt;li&gt;Je krijgt een persoonlijk opleidingsbudget dat je naar eigen inzicht kunt besteden, zolang het maar je vaardigheden respecteert.
+&lt;/li&gt;&lt;li&gt;Uitdagende en leuke projecten voor de meest invloedrijke merken en bedrijven die er zijn.
+&lt;/li&gt;&lt;li&gt;De kans om te werken voor een bedrijf met de ambitie, drive en mogelijkheden van een start-up.
+&lt;/li&gt;&lt;li&gt;Na de onboarding ga je aan de slag met één of meerdere klantprojecten.
+&lt;/li&gt;&lt;li&gt;Een uitgebreid salarispakket, aangevuld met een hele reeks extralegale voordelen zoals netto onkostenvergoedingen, maaltijdcheques, gsm-abonnement, enz.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+
+</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73502811"/>
+    <published>2026-04-15T16:48:26+00:00</published>
   </entry>
 </feed>
