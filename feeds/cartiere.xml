@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-04-15T13:25:28.909073+00:00</updated>
+  <updated>2026-04-15T15:10:48.458312+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
+    <title>Data Engineer</title>
+    <updated>2026-04-15T14:24:02+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie:  Sint-Clarastraat 48, 8000, Brugge, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-20 11:57:53+00:00, last change 2026-04-15 14:24:02+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-20 11:57:53+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Deze grootschalige, stabiele organisatie zet volop in op data als motor voor haar verdere groei. Met een complex landschap aan systemen en databronnen wordt er actief gebouwd aan een schaalbaar en performant data platform.&lt;/p&gt;
+
+&lt;p&gt;Vandaag transformeert de organisatie haar data landschap verder richting een modern, data-driven model. Volledig cloud, zero legacy. Data- en BI wordt hertekend met focus op automatisatie, betrouwbaarheid en performantie. Hierbij kom jij terecht in een omgeving waarin je actief meebouwt aan pipelines, architectuur en standaarden. Er is veel ruimte om processen te challengen, te optimaliseren en technische verbeteringen door te voeren binnen een moderne stack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Als Data Engineer ben je verantwoordelijk voor het bouwen en optimaliseren van data pipelines en datamodellen binnen een moderne data stack. Je vertaalt requirements naar performante technische oplossingen en werkt op grote en complexe datasets.&lt;/p&gt;
+
+&lt;p&gt;Je ontwikkelt en onderhoudt ETL/ELT processen, integreert verschillende databronnen en zorgt voor efficiënte en schaalbare dataflows. Daarnaast werk je mee aan technische ontwerpen en draag je bij aan de verdere uitbouw van het data platform.&lt;/p&gt;
+
+&lt;p&gt;Je neemt ook een actieve rol op binnen DevOps: je zet CI/CD pipelines op, automatiseert deployments en bewaakt kwaliteit via monitoring, testing en security. Je bent end-to-end betrokken: van development tot support en optimalisatie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;3 jaar ervaring als Data Engineer.&lt;/li&gt;
+	&lt;li&gt;Je hebt een sterke ervaring met SQL en de Microsoft Stack.&lt;/li&gt;
+	&lt;li&gt;Je hebt ervaring met Databricks, DAX en PowerBI. Idealiter met alle drie de tools.&lt;/li&gt;
+	&lt;li&gt;Je bent communicatief en Nederlandstalig.&lt;/li&gt;
+	&lt;li&gt;Je bent graag hands-on bezig.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Je krijgt de kans om mee te bouwen aan een data- en BI-landschap dat nog volop in ontwikkeling is, met veel impact en zichtbaarheid binnen de organisatie. Je werkt in een moderne data-omgeving met sterke focus op kwaliteit en samenwerking.&lt;br /&gt;
+&lt;br /&gt;
+Daarnaast geniet je van een stabiele werkomgeving, flexibele werkuren, de mogelijkheid tot thuiswerk en een gezonde work-life balance. De organisatie combineert de zekerheid van een grote speler met de dynamiek en ambitie van een omgeving in volle transformatie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benieuwd naar meer? Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/data-engineer-3/"/>
+    <category term="BI Developer"/>
+    <category term="BI/Data Analyst"/>
+    <category term="Data Engineering"/>
+    <published>2025-08-20T11:57:53+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-insights-analyst/</id>
     <title>Data Insights Analyst</title>
@@ -36,39 +79,38 @@ Je komt terecht in een jong, informeel en hecht team van andere ervaren data ana
     <published>2026-04-15T06:55:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/teamlead-data-engineering/</id>
-    <title>Teamlead Data Engineering</title>
+    <id>https://www.cartiere.be/jobs/medior-data-analist/</id>
+    <title>Medior Data Analist</title>
     <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:10:04+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:10:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br&gt;
-&lt;br&gt;
-De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-Als Team Lead Data Engineering ben je verantwoordelijk voor het technisch ontwerp, de&lt;br&gt;
-kwaliteit en de schaalbaarheid van het data-landschap. Je combineert een sterk hands-on data engineering profiel met inhoudelijk leiderschap en coaching. Hoewel dit geen klassieke people management rol is, neem je wel de technische eindverantwoordelijkheid over data engineering- en BI-projecten en fungeer je als inhoudelijke sparringpartner voor data-analisten, AI-profielen en stakeholders.&lt;br&gt;
-&lt;br&gt;
-In deze rol ontwerp, bouw en onderhoud je schaalbare data pipelines in een moderne cloud data omgeving. Je staat in voor de ingestie van data uit verschillende bronnen, het opzetten van efficiënte lakehouse-architecturen en het optimaliseren van bestaande oplossingen op vlak van performantie, schaalbaarheid en kost. Je werkt dagelijks hands-on met PySpark, Python en SQL en neemt onderbouwde technische beslissingen rond architectuur en data-oplossingen. Daarnaast ondersteun je bij datamodellering en BI- en dashboarding-oplossingen, en coach je data engineers en data-analisten inhoudelijk in hun verdere groei. Je volgt data-projecten op van A tot Z, met oog voor haalbaarheid, prioriteiten, risico’s en timing.&lt;br&gt;
-&lt;br&gt;
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:05:41+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:05:41+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
+Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br /&gt;
+&lt;br /&gt;
+De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br /&gt;
+&lt;br /&gt;
+JOBOMSCHRIJVING:&lt;br /&gt;
+Als Medior Data Analist speel je een sleutelrol op het kruispunt tussen data, business en AI. De focus ligt hoofdzakelijk op rapportering, maar evenzeer op het begrijpen, verklaren en challengen van cijfers en inzichten. Je combineert operationele analyses met proactieve monitoring van KPI’s, dashboarding en visualisatie, ondersteuning van AI- en data science projecten en inhoudelijke coaching van een junior data analist.&lt;br /&gt;
+&lt;br /&gt;
+In deze rol ontwerp, bouw en onderhoud je Power BI dashboards die intensief gebruikt worden binnen de organisatie. Daarnaast voer je ad-hoc SQL-analyses uit naar aanleiding van businessvragen en monitor je zelfstandig KPI’s om trends en afwijkingen tijdig te detecteren. Wanneer prestaties afwijken, ga je dieper in de data om verklarende analyses te maken, bijvoorbeeld rond ziekteverzuim, klantengedrag, conversie of churn. Je levert actief input voor AI- en voorspellende modellen door hypotheses aan te reiken, features te definiëren en resultaten mee te interpreteren. Hoewel requirements grotendeels door business analisten worden aangebracht, wordt verwacht dat je deze kritisch beoordeelt en inhoudelijk uitdaagt. Datakwaliteit bewaak je continu en verbeter je waar nodig. Daarnaast neem je een coachende rol op ten aanzien van de junior data analist.&lt;br /&gt;
+&lt;br /&gt;
 JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt 5 jaar ervaring als Data Engineer.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke kennis van Fabric of PySpark met Python en SQL.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Data Lakehouse architecture.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt idealiter kennis van Data Governance en security.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt 4 jaar ervaring als Data Analist.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een sterke kennis van Power BI, DAX en SQL.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Fabric, data modelleren of Data Governance zijn een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent kritisch en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
-Je bouwt mee aan een schaalbaar en future-proof data platform met grote technische impact in een organisatie waar data en AI strategisch belangrijk zijn. Je werkt nauw samen met data, BI en innovatie en krijgt veel autonomie en vertrouwen binnen een mensgerichte cultuur waar authenticiteit, respect en samenwerking centraal staan. Er zijn geen vastgeroeste structuren, er is ruimte om het technisch juist en duurzaam te doen.&lt;br&gt;
-&lt;br&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;UNIEK KARAKTER:&lt;br /&gt;
+Je hebt een impactvolle rol binnen een organisatie waar data en AI strategisch belangrijk zijn. Er is veel ruimte om mee richting te geven aan hoe data wordt ingezet en werkt daarvoor nauw samen met data, AI en innovatie binnen een moderne data-architectuur met focus op Microsoft Fabric en Power BI. Je komt terecht in een mensgerichte cultuur zonder vastgeroeste BI-structuren.&lt;br /&gt;
+&lt;br /&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95&amp;nbsp;voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </content>
-    <link href="https://www.cartiere.be/jobs/teamlead-data-engineering/"/>
-    <category term="Data Engineering"/>
-    <published>2026-01-15T16:10:04+00:00</published>
+    <link href="https://www.cartiere.be/jobs/medior-data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-01-15T16:05:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ai-developer/</id>
@@ -171,38 +213,39 @@ Ben jij klaar om je carrière te lanceren? Neem dan contact op met Nicolas Verca
     <published>2024-08-26T09:13:38+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/medior-data-analist/</id>
-    <title>Medior Data Analist</title>
+    <id>https://www.cartiere.be/jobs/teamlead-data-engineering/</id>
+    <title>Teamlead Data Engineering</title>
     <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:05:41+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:05:41+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
-Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br /&gt;
-&lt;br /&gt;
-De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br /&gt;
-&lt;br /&gt;
-JOBOMSCHRIJVING:&lt;br /&gt;
-Als Medior Data Analist speel je een sleutelrol op het kruispunt tussen data, business en AI. De focus ligt hoofdzakelijk op rapportering, maar evenzeer op het begrijpen, verklaren en challengen van cijfers en inzichten. Je combineert operationele analyses met proactieve monitoring van KPI’s, dashboarding en visualisatie, ondersteuning van AI- en data science projecten en inhoudelijke coaching van een junior data analist.&lt;br /&gt;
-&lt;br /&gt;
-In deze rol ontwerp, bouw en onderhoud je Power BI dashboards die intensief gebruikt worden binnen de organisatie. Daarnaast voer je ad-hoc SQL-analyses uit naar aanleiding van businessvragen en monitor je zelfstandig KPI’s om trends en afwijkingen tijdig te detecteren. Wanneer prestaties afwijken, ga je dieper in de data om verklarende analyses te maken, bijvoorbeeld rond ziekteverzuim, klantengedrag, conversie of churn. Je levert actief input voor AI- en voorspellende modellen door hypotheses aan te reiken, features te definiëren en resultaten mee te interpreteren. Hoewel requirements grotendeels door business analisten worden aangebracht, wordt verwacht dat je deze kritisch beoordeelt en inhoudelijk uitdaagt. Datakwaliteit bewaak je continu en verbeter je waar nodig. Daarnaast neem je een coachende rol op ten aanzien van de junior data analist.&lt;br /&gt;
-&lt;br /&gt;
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:10:04+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:10:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br&gt;
+&lt;br&gt;
+De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Team Lead Data Engineering ben je verantwoordelijk voor het technisch ontwerp, de&lt;br&gt;
+kwaliteit en de schaalbaarheid van het data-landschap. Je combineert een sterk hands-on data engineering profiel met inhoudelijk leiderschap en coaching. Hoewel dit geen klassieke people management rol is, neem je wel de technische eindverantwoordelijkheid over data engineering- en BI-projecten en fungeer je als inhoudelijke sparringpartner voor data-analisten, AI-profielen en stakeholders.&lt;br&gt;
+&lt;br&gt;
+In deze rol ontwerp, bouw en onderhoud je schaalbare data pipelines in een moderne cloud data omgeving. Je staat in voor de ingestie van data uit verschillende bronnen, het opzetten van efficiënte lakehouse-architecturen en het optimaliseren van bestaande oplossingen op vlak van performantie, schaalbaarheid en kost. Je werkt dagelijks hands-on met PySpark, Python en SQL en neemt onderbouwde technische beslissingen rond architectuur en data-oplossingen. Daarnaast ondersteun je bij datamodellering en BI- en dashboarding-oplossingen, en coach je data engineers en data-analisten inhoudelijk in hun verdere groei. Je volgt data-projecten op van A tot Z, met oog voor haalbaarheid, prioriteiten, risico’s en timing.&lt;br&gt;
+&lt;br&gt;
 JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt 4 jaar ervaring als Data Analist.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een sterke kennis van Power BI, DAX en SQL.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Fabric, data modelleren of Data Governance zijn een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent kritisch en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt 5 jaar ervaring als Data Engineer.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke kennis van Fabric of PySpark met Python en SQL.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Data Lakehouse architecture.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt idealiter kennis van Data Governance en security.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;UNIEK KARAKTER:&lt;br /&gt;
-Je hebt een impactvolle rol binnen een organisatie waar data en AI strategisch belangrijk zijn. Er is veel ruimte om mee richting te geven aan hoe data wordt ingezet en werkt daarvoor nauw samen met data, AI en innovatie binnen een moderne data-architectuur met focus op Microsoft Fabric en Power BI. Je komt terecht in een mensgerichte cultuur zonder vastgeroeste BI-structuren.&lt;br /&gt;
-&lt;br /&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95&amp;nbsp;voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
+Je bouwt mee aan een schaalbaar en future-proof data platform met grote technische impact in een organisatie waar data en AI strategisch belangrijk zijn. Je werkt nauw samen met data, BI en innovatie en krijgt veel autonomie en vertrouwen binnen een mensgerichte cultuur waar authenticiteit, respect en samenwerking centraal staan. Er zijn geen vastgeroeste structuren, er is ruimte om het technisch juist en duurzaam te doen.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </content>
-    <link href="https://www.cartiere.be/jobs/medior-data-analist/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2026-01-15T16:05:41+00:00</published>
+    <link href="https://www.cartiere.be/jobs/teamlead-data-engineering/"/>
+    <category term="Data Engineering"/>
+    <published>2026-01-15T16:10:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/vrijblijvend-gesprek-2/</id>
@@ -992,91 +1035,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.&lt;/em&gt;</content>
     <link href="https://www.cartiere.be/jobs/master-data-specialist/"/>
     <category term="Master Data Manager"/>
     <published>2026-01-13T10:08:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer-a-z/</id>
-    <title>Data Engineer (A-Z)</title>
-    <updated>2026-01-28T10:44:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie:  Sint-Clarastraat 48, 8000, Brugge, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-08-20 11:57:53+00:00, last change 2026-01-28 10:44:22+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-08-20 11:57:53+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Je komt terecht in een grote, stabiele organisatie met een sterke maatschappelijke rol en een zeer divers klantenbestand. De organisatie combineert een mensgerichte cultuur met een duidelijke langetermijnvisie en investeert sterk in digitalisering en data. Ondanks de grote van de organisatie wordt er gewerkt met korte communicatielijnen en heerst er een open, toegankelijke sfeer.&lt;br&gt;
-&lt;br&gt;
-Momenteel bevindt de organisatie zich in een belangrijke transformatie naar een meer data-gedreven werking. Data krijgt een centrale plaats binnen de besluitvorming en de optimalisatie van processen. In dit kader wordt het nieuwe data- en BI-team verder uitgebouwd om nog betere ondersteuning te bieden. Er wordt gewerkt met een moderne technologie stack en er is veel ruimte voor verbetering, innovatie en groei.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-Als Data Engineer (A-Z) ben je verantwoordelijk voor het ontwikkelen, verbeteren en onderhouden van BI- en data-oplossingen. Je vertaalt functionele vereisten naar technische implementaties en bouwt robuuste data pipelines, datamodellen en toepassingen die voldoen aan zowel functionele als non-functionele vereisten.&lt;br&gt;
-&lt;br&gt;
-Je werkt mee aan analyses en technische ontwerpen en zorgt voor kwalitatieve, performante en veilige oplossingen binnen de vastgelegde architectuur en standaarden. Je staat in voor het inschatten van werk, het opleveren van features en het oplossen van incidenten.&lt;br&gt;
-&lt;br&gt;
-Daarnaast neem je een actieve rol op in DevOps-activiteiten. Je zet CI/CD pipelines op en onderhoudt deze, voert deployments uit en bewaakt de kwaliteit van de toepassingen via monitoring, testing en security controls. Je bent end-to-end mee verantwoordelijk voor de applicaties in beheer, van build tot support. Ook testing, documentatie en ondersteuning van het supportteam maken deel uit van je takenpakket.&lt;br&gt;
-&lt;br&gt;
-JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;3 jaar ervaring als Data Engineer/ Analist.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke ervaring met SQL en de Microsoft Stack.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Power BI, DAX en Databricks. Idealiter met alle 3 de tools, &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;anders verwachten ze wel interesse in de missende zaken.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je bent communicatief en Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt sterke analytisch en bent graag hands on technisch bezig.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
-Je krijgt de kans om mee te bouwen aan een data- en BI-landschap dat nog volop in ontwikkeling is, met veel impact en zichtbaarheid binnen de organisatie. Je werkt in een moderne data-omgeving met sterke focus op kwaliteit en samenwerking.&lt;br&gt;
-&lt;br&gt;
-Daarnaast geniet je van een stabiele werkomgeving, flexibele werkuren, de mogelijkheid tot thuiswerk en een gezonde work-life balance. De organisatie combineert de zekerheid van een grote speler met de dynamiek en ambitie van een omgeving in volle transformatie.&lt;br&gt;
-&lt;br&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar robbe@cartiere.be en bel +32 3 369 33 09 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/data-engineer-a-z/"/>
-    <category term="BI Developer"/>
-    <category term="BI/Data Analyst"/>
-    <category term="Data Engineering"/>
-    <published>2025-08-20T11:57:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/energy-data-engineer-architect-greenfield/</id>
-    <title>Energy Data Engineer/Architect (greenfield)</title>
-    <updated>2026-01-19T11:56:29+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-19 12:56:29+00:00, last change 2026-01-19 11:56:29+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-19 12:56:29+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;West-Vlaanderen – interne functie – greenfield data omgeving&lt;/strong&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
-Deze organisatie is een toonaangevende energiemakelaar met een sterke internationale aanwezigheid en helpt bedrijven structureel besparen op hun energiekosten. Recent werd een zusterbedrijf opgericht dat zich volledig richt op duurzame energieoplossingen. Daarmee draagt de groep actief bij aan de transitie naar een groenere toekomst.&lt;br&gt;
-Door de snelle groei van deze scale-up komt er steeds meer data beschikbaar. Vandaag ligt de focus op het slim structureren, centraliseren en benutten van die data. Als Data Engineer/Architect kom je terecht in een jong, hecht en hands-on IT-team met korte communicatielijnen. Je bouwt mee aan innovatieve data-oplossingen die impact hebben op alle entiteiten binnen de groep.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data Engineer/Architect werk je mee aan de opbouw van de volledige data-infrastructuur en het toekomstige data platform. Het doel? Eén centrale, schaalbare data-oplossing voor de hele organisatie.&lt;br&gt;
-Concreet:
-&lt;ul&gt;
-	&lt;li&gt;Je ontwikkelt en onderhoudt data pipelines en ELT-processen op basis van interne en klantdata;
-	&lt;li&gt;Je werkt mee aan de opzet en optimalisatie van het data warehouse;
-	&lt;li&gt;Je vertaalt business requirements naar een doordachte technische architectuur;
-	&lt;li&gt;Je stemt af met interne stakeholders en externe partners;
-	&lt;li&gt;Je ondersteunt samen met de Data Analyst bij dashboards en visualisaties.
-&lt;/ul&gt;
-Je komt terecht in een pragmatische omgeving zonder bestaande DWH-structuur, maar met budget, vertrouwen en ruimte om te experimenteren. Dit zonder strikte procedures of “black box”-denken.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je hebt minstens 3 jaar ervaring als Data Engineer.
-	&lt;li&gt;Je hebt sterke kennis van SQL en Python, ervaring met ETL/ELT-processen.
-	&lt;li&gt;Je hebt ervaring met data-modellering en begrijpt hoe je databases en datawarehouses structureert.
-	&lt;li&gt;Je communiceert helder, ook met niet-technische stakeholders.
-	&lt;li&gt;Je bent hands-on, een teamplayer, dynamisch, proactief en neemt verantwoordelijkheid. 
-	&lt;li&gt;Ervaring met CI/CD en het opzetten van databases vanaf nul is een sterke troef.
-	&lt;li&gt;Je beheerst zowel Nederlands als Engels goed.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
-Het bedrijf biedt een open en informele cultuur, met een sterke collegiale sfeer waarin iedereen elkaar ondersteunt. Je krijgt veel kansen om initiatief te nemen, projecten op te pakken en bij te leren, met ruimte om te experimenteren en fouten te maken. Het is een echte greenfield-opportuniteit, waarbij je van nul kan bouwen, directe impact kan maken en jouw ideeën direct kan realiseren. De snelgroeiende, dynamische scale-up stimuleert ondernemerschap, verantwoordelijkheid en initiatief, biedt doorgroeimogelijkheden binnen de organisatie en een goede work-life balans. Daarnaast geniet je van een aantrekkelijk pakket met een wagen en mooie extra voordelen. Bovendien draag je dagelijks bij aan een groene en koolstofvrije wereld.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
-Stuur nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/energy-data-engineer-architect-greenfield/"/>
-    <category term="Data Engineering"/>
-    <published>2026-01-19T12:56:29+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ai-director/</id>
