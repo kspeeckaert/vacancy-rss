@@ -2,20 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-15T17:25:30.626071+00:00</updated>
+  <updated>2026-04-15T19:39:32.351588+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/69084446</id>
-    <title>Oracle Database Administrator (DBA) (Cronos)</title>
-    <updated>2026-02-17T15:39:31+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Cronos (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Job content&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Design new database environments and implement them.&lt;/li&gt;&lt;li&gt;Keep environments up to date with the latest technological evolutions by proposing the best possible solutions and implementing them.&lt;/li&gt;&lt;li&gt;Optimize environments, at the level of architecture, availability and performance.&lt;/li&gt;&lt;li&gt;Take proactive and corrective actions to prevent and resolve service interruptions.&lt;/li&gt;&lt;li&gt;Deliver high quality services to our customers and maintain their confidence by communicating professionally but with a personal touch &lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;About you&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;As a senior Oracle DBA you feel yourself comfortable in the topics above.&lt;/li&gt;&lt;li&gt;You still want to grow and improve your technical skills.&lt;/li&gt;&lt;li&gt;We can rely on you because you take responsibility and ownership.&lt;/li&gt;&lt;li&gt;You are only satisfied with the best solution for your customer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;Oracle DBA&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/69084446"/>
-    <published>2024-07-02T09:28:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
     <title>Freelance Integratie developer (Cronos)</title>
@@ -4318,6 +4307,14 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;strong&gt;flexibele werktijden&lt;/strong&gt;, dit geeft je de vrijheid en autonomie om zelf je agenda te maken.&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73493064"/>
     <published>2026-04-14T15:30:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73503822</id>
+    <title>Full-Stack .Net Developer (Pensaert &amp; Partners BV)</title>
+    <updated>2026-04-15T19:47:10+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Pensaert &amp;amp; Partners BV (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Boortmeerbeek&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je staat in voor de full-stack ontwikkeling van op maat gemaakte software. Naast .Net en C# zal je aan de slag gaan met verschillende technologieën zoals Angular, Blazor, Jenkins, Kubernetes, en meer.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Verder zal je klantbehoeften analyseren, ontwerpen van software oplossingen en integreren van systemen binnen bestaande IT-landschappen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot test, verbeter en update je applicaties om prestaties en veiligheid te garanderen, binnen een Agile/Scrum werkomgeving.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je bent een sterke medior of senior full-stack developer. We mikken toch op een minimum van 5 jaar ervaring.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Hierdoor heb je dan ook sterke kennis van .Net en een goede kennis van React, Angular of Blazor. Ervaring in AWS, Azure, GCP, CI/CD, Kanban, DevOps of architectuur is een grote troef!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Tot slot ben je een communicatiefve teamplayer, hands-on en kan je autonoom werken. &lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Mooi bruto maandsalaris dat kan variëren tussen de €4000 - €5000, afhankelijk van je kennis en ervaring. &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Naar je nieuwe werkplek rijden doe je alvast in een splinternieuwe bedrijfswagen naar keuze met bijhorende laadkaart. Aan comfort alvast geen gebrek!&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ook geniet je van een uitgebreide waaier aan extralegale voordelen zoals maaltijdcheques, thuiswerkvergoeding, groepsverzekering, hospitalisatieverzekering, ambulante verzekering en een netto vergoeding! Leuke extra's die écht het verschil maken.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Geniet van een uitstekende work-life balance met 2 tot 3 dagen thuiswerk, flexibele werkuren en 32 vakantiedagen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Elke maand kom je samen met collega's om cases te bespreken, nieuwe inzichten te delen, trainingen te volgen en inspirerende lezingen bij te wonen. Wil je je verdiepen in een nieuwe technologie? Dankzij een opleidingsbudget blijf je jezelf continu ontwikkelen en groeien. Kortom, hier staat jouw ontwikkeling nooit stil!&lt;br /&gt;&lt;br /&gt;Tot slot word je onderdeel van een warme, maar dynamische KMO waar kwaliteit en groei centraal staan.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73503822"/>
+    <published>2026-04-15T19:47:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73502341</id>
