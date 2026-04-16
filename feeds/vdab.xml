@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-16T13:50:09.914861+00:00</updated>
+  <updated>2026-04-16T15:49:04.101256+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -618,97 +618,9 @@
     <published>2025-11-20T15:17:44+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72474631</id>
-    <title>Full Stack Java Developer @itenium (ITENIUM)</title>
-    <updated>2026-02-09T11:07:00+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="2"&gt;Wij zijn op zoek naar een 
-&lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om te blijven leren en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
-&lt;p data-path-to-node="3"&gt;&lt;strong&gt;Heb jij&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="4"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,0,0"&gt;de drive om te blijven leren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,1,0"&gt;zin om deel uit te maken van een jong, dynamisch team van mensen die dezelfde waarden delen?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,2,0"&gt;een verantwoordelijkheidsgevoel voor wat je oplevert?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,3,0"&gt;een voorkeur voor 
-&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,4,0"&gt;de toewijding om 
-&lt;strong&gt;kwaliteit en professionaliteit&lt;/strong&gt; aan onze klanten te leveren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,5,0"&gt;de wens om ondersteund te worden door de beste technische mensen (20+ jaar ervaring) om je ontwikkeling en carrière een boost te geven?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,6,0"&gt;de ambitie om de nieuwste technologieën te leren om je passie te blijven voeden?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,7,0"&gt;kennis van het Nederlands met een grondige beheersing van het Engels?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="6"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Heb je frontend-ervaring met&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="8"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,0,0"&gt;Angular, React of Vue.js&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,1,0"&gt;JavaScript of TypeScript&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,2,0"&gt;RxJS en Redux&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,3,0"&gt;SASS, SCSS of Post-CSS&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="9"&gt;&lt;strong&gt;Heb je backend-ervaring met&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="10"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,0,0"&gt;Java 8+ en Android (een pré)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,1,0"&gt;Hibernate en Spring&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,2,0"&gt;Generics en Lambdas&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,3,0"&gt;Unit Testing&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,4,0"&gt;AWS of Azure&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="11"&gt;… 
-&lt;strong&gt;of sta je te popelen om ervaring op te bouwen in deze baanbrekende technologieën?&lt;/strong&gt;&lt;/p&gt; 
-&lt;p data-path-to-node="12"&gt;&lt;strong&gt;En ook met&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="13"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,0,0"&gt;SQL of No-SQL database(s)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,1,0"&gt;Design Patterns en Dependency Injection&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,2,0"&gt;Scrum en Kanban&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,3,0"&gt;DevOps en Continuous Integration&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="15"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Ben jij&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="16"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="16,0,0"&gt;niet bang om vragen te stellen of kunnen we je overtuigen om dit niet te zijn?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="16,1,0"&gt;in staat om 
-&lt;strong&gt;zelfstandig&lt;/strong&gt; te werken?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="16,2,0"&gt;&lt;strong&gt;communicatief&lt;/strong&gt; en een 
-&lt;strong&gt;teamspeler&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Minimaal 5 jaar recente relevante ervaring als fullstack Java developer&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,0,0"&gt;Competitief salaris&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,1,0"&gt;Bedrijfswagen met tankkaart&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,2,0"&gt;Mobiele telefoon&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,3,0"&gt;32 vakantiedagen (waarvan 12 ADV-dagen)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,4,0"&gt;Hospitalisatie- &amp;amp; Groepsverzekering&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,5,0"&gt;Maaltijdcheques &amp;amp; Ecocheques&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72474631"/>
-    <published>2025-11-21T15:01:24+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474484</id>
     <title>Full Stack .NET Developer @itenium (ITENIUM)</title>
-    <updated>2026-02-09T11:05:57+00:00</updated>
+    <updated>2026-04-16T16:17:14+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
 &lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om zijn/haar vaardigheden voortdurend te blijven leren en verbeteren.&lt;/p&gt; 
 &lt;p data-path-to-node="2"&gt;Heb jij:&lt;/p&gt; 
@@ -801,9 +713,97 @@
     <published>2025-11-21T14:51:34+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/72474631</id>
+    <title>Full Stack Java Developer @itenium (ITENIUM)</title>
+    <updated>2026-04-16T16:16:46+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="2"&gt;Wij zijn op zoek naar een 
+&lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om te blijven leren en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
+&lt;p data-path-to-node="3"&gt;&lt;strong&gt;Heb jij&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-path-to-node="4"&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,0,0"&gt;de drive om te blijven leren?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,1,0"&gt;zin om deel uit te maken van een jong, dynamisch team van mensen die dezelfde waarden delen?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,2,0"&gt;een verantwoordelijkheidsgevoel voor wat je oplevert?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,3,0"&gt;een voorkeur voor 
+&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,4,0"&gt;de toewijding om 
+&lt;strong&gt;kwaliteit en professionaliteit&lt;/strong&gt; aan onze klanten te leveren?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,5,0"&gt;de wens om ondersteund te worden door de beste technische mensen (20+ jaar ervaring) om je ontwikkeling en carrière een boost te geven?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,6,0"&gt;de ambitie om de nieuwste technologieën te leren om je passie te blijven voeden?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,7,0"&gt;kennis van het Nederlands met een grondige beheersing van het Engels?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-path-to-node="6"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Heb je frontend-ervaring met&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-path-to-node="8"&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="8,0,0"&gt;Angular, React of Vue.js&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="8,1,0"&gt;JavaScript of TypeScript&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="8,2,0"&gt;RxJS en Redux&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="8,3,0"&gt;SASS, SCSS of Post-CSS&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-path-to-node="9"&gt;&lt;strong&gt;Heb je backend-ervaring met&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-path-to-node="10"&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="10,0,0"&gt;Java 8+ en Android (een pré)&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="10,1,0"&gt;Hibernate en Spring&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="10,2,0"&gt;Generics en Lambdas&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="10,3,0"&gt;Unit Testing&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="10,4,0"&gt;AWS of Azure&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-path-to-node="11"&gt;… 
+&lt;strong&gt;of sta je te popelen om ervaring op te bouwen in deze baanbrekende technologieën?&lt;/strong&gt;&lt;/p&gt; 
+&lt;p data-path-to-node="12"&gt;&lt;strong&gt;En ook met&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul data-path-to-node="13"&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="13,0,0"&gt;SQL of No-SQL database(s)&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="13,1,0"&gt;Design Patterns en Dependency Injection&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="13,2,0"&gt;Scrum en Kanban&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="13,3,0"&gt;DevOps en Continuous Integration&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p data-path-to-node="15"&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Ben jij&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;/p&gt; 
+&lt;ul data-path-to-node="16"&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="16,0,0"&gt;niet bang om vragen te stellen of kunnen we je overtuigen om dit niet te zijn?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="16,1,0"&gt;in staat om 
+&lt;strong&gt;zelfstandig&lt;/strong&gt; te werken?&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="16,2,0"&gt;&lt;strong&gt;communicatief&lt;/strong&gt; en een 
+&lt;strong&gt;teamspeler&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Minimaal 5 jaar recente relevante ervaring als fullstack Java developer&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,0,0"&gt;Competitief salaris&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,1,0"&gt;Bedrijfswagen met tankkaart&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,2,0"&gt;Mobiele telefoon&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,3,0"&gt;32 vakantiedagen (waarvan 12 ADV-dagen)&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,4,0"&gt;Hospitalisatie- &amp;amp; Groepsverzekering&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p data-path-to-node="4,5,0"&gt;Maaltijdcheques &amp;amp; Ecocheques&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/72474631"/>
+    <published>2025-11-21T15:01:24+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474786</id>
     <title>Functioneel Analist @itenium (ITENIUM)</title>
-    <updated>2026-02-09T11:06:30+00:00</updated>
+    <updated>2026-04-16T16:17:04+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
 &lt;strong&gt;gepassioneerde functioneel analist&lt;/strong&gt; met de 
 &lt;strong&gt;drive&lt;/strong&gt; om de business te leren kennen en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
@@ -888,7 +888,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72518433</id>
     <title>Data Analist @itenium (ITENIUM)</title>
-    <updated>2026-02-09T11:04:20+00:00</updated>
+    <updated>2026-04-16T16:16:15+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een gepassioneerde en getalenteerde ontwikkelaar met de gedrevenheid om te blijven leren en zijn/haar vaardigheden te verbeteren&lt;/p&gt; 
 &lt;ul&gt; 
 &lt;li&gt; 
@@ -957,7 +957,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72474849</id>
     <title>Data Engineer @itenium (ITENIUM)</title>
-    <updated>2026-02-09T11:05:21+00:00</updated>
+    <updated>2026-04-16T16:17:22+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
 &lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om zijn/haar vaardigheden voortdurend te blijven leren en verbeteren.&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt; 
