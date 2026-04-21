@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-04-21T06:24:38.323672+00:00</updated>
+  <updated>2026-04-21T08:30:37.262798+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -4197,79 +4197,5 @@ Ik sta je graag te woord om uitleg te geven of je verder te adviseren via:
 &lt;p&gt; &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73531258"/>
     <published>2026-04-20T13:42:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73527842</id>
-    <title>Senior Developer (MALTA BELGIUM)</title>
-    <updated>2026-04-20T09:42:32+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: MALTA BELGIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Schelle&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Bedrijf&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Malta Belgium &lt;/strong&gt;is een softwarebedrijf gespecialiseerd in 
-&lt;strong&gt;softwaretoepassingen voor de zorgsector&lt;/strong&gt;. Gezien onze nauwe betrokkenheid bij de sector, onze zeer gebruiksvriendelijke oplossingen én het feit dat we kunnen rekenen op een zeer dynamisch team van medewerkers, bezitten wij een mooi en sterk groeiend marktaandeel. 
-&lt;br /&gt;Care Solutions heeft bovendien een stevige achtergrond en kan daardoor jobzekerheid en doorgroeimogelijkheden bieden.&lt;/p&gt; 
-&lt;p&gt;Wij leggen de focus op 
-&lt;strong&gt;service&lt;/strong&gt; naar onze klanten toe. Dat is de reden waarom wij recent een fusie met een ICT bedrijf aangingen. Hierdoor kunnen we onze klanten een nog ruimere totaalservice bieden, met slechts één servicedesk en aanspreekpunt.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Klantentevredenheid &lt;/strong&gt;stellen wij voorop! Daar kan jij aan meewerken en ook onze verdere ambities mee helpen ondersteunen.&lt;/p&gt; 
-&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Functieomschrijving&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;p&gt;Malta Belgium Nv is op zoek naar een ervaren 
-&lt;strong&gt;senior developer&lt;/strong&gt; die gebeten is door nieuwe technologieën en de brug kan maken van een efficiënte en aangename gebruikerservaring naar een performante back-end.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;Je zal mee instaan voor de 
-&lt;strong&gt;ontwikkeling&lt;/strong&gt; van een betekenisvolle 
-&lt;strong&gt;web-applicatie en APIs&lt;/strong&gt; die intensief zal gebruikt worden;&lt;/li&gt; 
-&lt;li&gt;Je zal een 
-&lt;strong&gt;verantwoordelijke rol &lt;/strong&gt;spelen in een 
-&lt;strong&gt;technisch team&lt;/strong&gt; van hoog niveau;&lt;/li&gt; 
-&lt;li&gt;Je zal genieten van een open en vriendschappelijke werksfeer.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;Je hebt minstens een aantal jaren 
-&lt;strong&gt;ervaring&lt;/strong&gt; in back-end development, 
-&lt;strong&gt;.NET c#&lt;/strong&gt; gewerkt, ervaring met 
-&lt;strong&gt;Dot Net Core, Azure.&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;Ervaring met OpenID Connect en Oauth 2.0 flows zijn een plus (OpenIDDict / Identity Server);&lt;/li&gt; 
-&lt;li&gt;Ervaring in HTML, CSS, JavasScript zijn een plus; Met name Angular apps worden gebruikt binnen Malta.&lt;/li&gt; 
-&lt;li&gt;Je geeft je 
-&lt;strong&gt;mening&lt;/strong&gt; over 
-&lt;strong&gt;alles&lt;/strong&gt; en treedt graag in gefundeerde discussie om in team te komen tot de beste keuzes.&lt;/li&gt; 
-&lt;li&gt;Jouw mening is formeel onderbouwd en kan ook in 
-&lt;strong&gt;Code Reviews&lt;/strong&gt; uitgedrukt worden om jouw collega’s op een hoge niveau te tillen.&lt;/li&gt; 
-&lt;li&gt;Je kent heel wat patterns en technieken (DDD, CQRS/ES, MCV, IoC, Repositories, Unit Of Work …) en kan evalueren welke, wanneer toegepast moeten worden&lt;/li&gt; 
-&lt;li&gt;Je hebt kennis van version control systems, meer specifiek GIT;&lt;/li&gt; 
-&lt;li&gt;Je werkte eerder als volgens Scrum proces;&lt;/li&gt; 
-&lt;li&gt;Je bent overtuigd van een test-driven aanpak;&lt;/li&gt; 
-&lt;li&gt;Voor jou is performance en monitoring geen bijzaak, maar een kernfeature.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je hebt minstens een aantal jaren 
-&lt;strong&gt;ervaring&lt;/strong&gt; in back-end development.&lt;/li&gt; 
-&lt;li&gt;Je geeft je 
-&lt;strong&gt;mening&lt;/strong&gt; over 
-&lt;strong&gt;alles&lt;/strong&gt; en treedt graag in gefundeerde discussie om in team te komen tot de beste keuzes.&lt;/li&gt; 
-&lt;li&gt;Jouw mening is formeel onderbouwd en kan ook in 
-&lt;strong&gt;Code Reviews&lt;/strong&gt; uitgedrukt worden om jouw collega’s op een hoge niveau te tillen.&lt;/li&gt; 
-&lt;li&gt;Je hebt reeds een 5-tal jaren met 
-&lt;strong&gt;.NET c#&lt;/strong&gt; gewerkt, ervaring met 
-&lt;strong&gt;Dot Net Core, Azure, &lt;/strong&gt;Identity Server zijn een plus.&lt;/li&gt; 
-&lt;li&gt;Je kent heel wat patterns en technieken (DDD, CQRS/ES, MCV, IoC, Repositories, Unit Of Work …) en kan evalueren welke, wanneer toegepast moeten worden.&lt;/li&gt; 
-&lt;li&gt;Je hebt kennis van version control systems, meer specifiek GIT.&lt;/li&gt; 
-&lt;li&gt;Je werkte al eerder volgens Scrum proces.&lt;/li&gt; 
-&lt;li&gt;Je bent overtuigd van een test-driven aanpak.&lt;/li&gt; 
-&lt;li&gt;Voor jou is performance en monitoring geen bijzaak, maar een kernfeature.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Deze functie staat open voor 
-&lt;strong&gt;bediendes &lt;/strong&gt;(geen zelfstandige consultants).&lt;/p&gt; 
-&lt;p&gt;Wat bieden we je:&lt;/p&gt; 
-&lt;ul type="disc"&gt; 
-&lt;li&gt;Een uitdagende functie binnen een no-nonsens bedrijfscultuur met focus op innovatie;&lt;/li&gt; 
-&lt;li&gt;Een optimale work-life balance met 
-&lt;strong&gt;thuiswerk&lt;/strong&gt;, de overige dagen werk je op ons kantoor in 
-&lt;strong&gt;Schelle&lt;/strong&gt;;&lt;/li&gt; 
-&lt;li&gt;Een open bedrijfscultuur waarin dialoog en persoonlijke aanpak centraal staan;&lt;/li&gt; 
-&lt;li&gt;Inzet en professioneel talent worden beloond met een 
-&lt;strong&gt;competitief salarispakket met extra-legale voordelen&lt;/strong&gt;zoals firmawagen, groepsverzekering, hospitalisatieverzekering, maaltijdcheques etc.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73527842"/>
-    <published>2026-04-20T09:42:32+00:00</published>
   </entry>
 </feed>
