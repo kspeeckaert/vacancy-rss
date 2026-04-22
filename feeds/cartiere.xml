@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-04-22T13:26:42.103542+00:00</updated>
+  <updated>2026-04-22T15:17:07.375277+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -79,30 +79,6 @@ Je komt terecht in een jong, informeel en hecht team van andere ervaren data ana
     <published>2026-04-15T06:55:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/cartiere-connect-data-analist/</id>
-    <title>Cartière Connect (Data Analist)</title>
-    <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-08-26 09:14:30+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-08-26 09:14:30+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;&lt;strong&gt;Ben jij op zoek naar je eerste uitdaging binnen Data of AI?&lt;/strong&gt;&lt;br /&gt;
-Klaar om je carrière een vliegende start te geven in een high potential track die écht het verschil maakt? Dan is Cartière Connect op zoek naar jou!&lt;br /&gt;
-&lt;br /&gt;
-Bij Cartière Connect begeleiden we jong talent zoals jij naar boeiende en toekomstgerichte functies binnen ons netwerk van meer dan 300 bedrijven actief in Data &amp;amp; AI. We bieden je een persoonlijke, op maat gemaakte aanpak waarbij jouw ambities en interesses centraal staan. Vanaf het eerste intakegesprek tot en met je onboarding, training en coaching on the job, begeleiden we je in elke stap van je traject. Zelfs na je opstart blijven we je ondersteunen en adviseren.&lt;br /&gt;
-&lt;br /&gt;
-We matchen je met bedrijven die willen investeren in jouw groei en bieden je exclusieve kansen die perfect aansluiten bij jouw profiel. Dankzij onze marktinzichten en gerichte voorbereiding ga je vol vertrouwen elk interview tegemoet. Zo vergroot je je kans op succes en geef je jouw carrière meteen de juiste richting.&lt;br /&gt;
-&lt;br /&gt;
-Je krijgt de kans om te starten in één van de vele boeiende domeinen binnen data, waaronder Data Analytics, Data Engineering, BI &amp;amp; ETL, Data Science, Machine Learning, Artificial Intelligence, Data Governance &amp;amp; Management en Data Strategy &amp;amp; Architecture. Je wordt ondergedompeld in een omgeving waar leren, groeien en impact maken centraal staan.&lt;br /&gt;
-&lt;br /&gt;
-Wat verwachten we van jou?&lt;br /&gt;
-Je hebt een bachelor- of masterdiploma op zak en bent gebeten door data en technologie. Je bent leergierig, ambitieus en klaar om je carrière stevig op de kaart te zetten. Je spreekt vlot Nederlands en Engels en kijkt uit naar begeleiding en kansen die echt bij je passen.&lt;br /&gt;
-&lt;br /&gt;
-Cartière is jouw carrièrepartner. Wij denken met je mee, geven je professioneel advies en zorgen dat je steeds een stap voor blijft in de snel evoluerende wereld van Data &amp;amp; AI.&lt;br /&gt;
-&lt;br /&gt;
-Ben jij klaar om je carrière te lanceren? Neem dan contact op met Nicolas Vercauteren, Talent &amp;amp; Account Manager, via +32 3 369 33 05&amp;nbsp;of Nicolas@cartiere.be. Meer info en actuele vacatures vind je ook op www.cartiere.be/jobs of via onze LinkedIn-pagina.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/cartiere-connect-data-analist/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2024-08-26T09:14:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cartiere.be/jobs/ai-developer/</id>
     <title>AI Developer</title>
     <updated>2026-03-31T14:14:37+00:00</updated>
@@ -155,38 +131,52 @@ Herken jij jou in deze functie? Stuur nu jouw CV naar Sander@cartiere.be en bel 
     <published>2025-03-19T14:14:50+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/medior-data-analist/</id>
-    <title>Medior Data Analist</title>
+    <id>https://www.cartiere.be/jobs/cartiere-connect-data-analist/</id>
+    <title>Cartière Connect (Data Analist)</title>
     <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:05:41+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:05:41+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
-Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br /&gt;
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-08-26 09:14:30+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-08-26 09:14:30+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;&lt;strong&gt;Ben jij op zoek naar je eerste uitdaging binnen Data of AI?&lt;/strong&gt;&lt;br /&gt;
+Klaar om je carrière een vliegende start te geven in een high potential track die écht het verschil maakt? Dan is Cartière Connect op zoek naar jou!&lt;br /&gt;
 &lt;br /&gt;
-De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br /&gt;
+Bij Cartière Connect begeleiden we jong talent zoals jij naar boeiende en toekomstgerichte functies binnen ons netwerk van meer dan 300 bedrijven actief in Data &amp;amp; AI. We bieden je een persoonlijke, op maat gemaakte aanpak waarbij jouw ambities en interesses centraal staan. Vanaf het eerste intakegesprek tot en met je onboarding, training en coaching on the job, begeleiden we je in elke stap van je traject. Zelfs na je opstart blijven we je ondersteunen en adviseren.&lt;br /&gt;
 &lt;br /&gt;
-JOBOMSCHRIJVING:&lt;br /&gt;
-Als Medior Data Analist speel je een sleutelrol op het kruispunt tussen data, business en AI. De focus ligt hoofdzakelijk op rapportering, maar evenzeer op het begrijpen, verklaren en challengen van cijfers en inzichten. Je combineert operationele analyses met proactieve monitoring van KPI’s, dashboarding en visualisatie, ondersteuning van AI- en data science projecten en inhoudelijke coaching van een junior data analist.&lt;br /&gt;
+We matchen je met bedrijven die willen investeren in jouw groei en bieden je exclusieve kansen die perfect aansluiten bij jouw profiel. Dankzij onze marktinzichten en gerichte voorbereiding ga je vol vertrouwen elk interview tegemoet. Zo vergroot je je kans op succes en geef je jouw carrière meteen de juiste richting.&lt;br /&gt;
 &lt;br /&gt;
-In deze rol ontwerp, bouw en onderhoud je Power BI dashboards die intensief gebruikt worden binnen de organisatie. Daarnaast voer je ad-hoc SQL-analyses uit naar aanleiding van businessvragen en monitor je zelfstandig KPI’s om trends en afwijkingen tijdig te detecteren. Wanneer prestaties afwijken, ga je dieper in de data om verklarende analyses te maken, bijvoorbeeld rond ziekteverzuim, klantengedrag, conversie of churn. Je levert actief input voor AI- en voorspellende modellen door hypotheses aan te reiken, features te definiëren en resultaten mee te interpreteren. Hoewel requirements grotendeels door business analisten worden aangebracht, wordt verwacht dat je deze kritisch beoordeelt en inhoudelijk uitdaagt. Datakwaliteit bewaak je continu en verbeter je waar nodig. Daarnaast neem je een coachende rol op ten aanzien van de junior data analist.&lt;br /&gt;
+Je krijgt de kans om te starten in één van de vele boeiende domeinen binnen data, waaronder Data Analytics, Data Engineering, BI &amp;amp; ETL, Data Science, Machine Learning, Artificial Intelligence, Data Governance &amp;amp; Management en Data Strategy &amp;amp; Architecture. Je wordt ondergedompeld in een omgeving waar leren, groeien en impact maken centraal staan.&lt;br /&gt;
 &lt;br /&gt;
-JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt 4 jaar ervaring als Data Analist.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een sterke kennis van Power BI, DAX en SQL.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Fabric, data modelleren of Data Governance zijn een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent kritisch en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;UNIEK KARAKTER:&lt;br /&gt;
-Je hebt een impactvolle rol binnen een organisatie waar data en AI strategisch belangrijk zijn. Er is veel ruimte om mee richting te geven aan hoe data wordt ingezet en werkt daarvoor nauw samen met data, AI en innovatie binnen een moderne data-architectuur met focus op Microsoft Fabric en Power BI. Je komt terecht in een mensgerichte cultuur zonder vastgeroeste BI-structuren.&lt;br /&gt;
+Wat verwachten we van jou?&lt;br /&gt;
+Je hebt een bachelor- of masterdiploma op zak en bent gebeten door data en technologie. Je bent leergierig, ambitieus en klaar om je carrière stevig op de kaart te zetten. Je spreekt vlot Nederlands en Engels en kijkt uit naar begeleiding en kansen die echt bij je passen.&lt;br /&gt;
 &lt;br /&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95&amp;nbsp;voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+Cartière is jouw carrièrepartner. Wij denken met je mee, geven je professioneel advies en zorgen dat je steeds een stap voor blijft in de snel evoluerende wereld van Data &amp;amp; AI.&lt;br /&gt;
+&lt;br /&gt;
+Ben jij klaar om je carrière te lanceren? Neem dan contact op met Nicolas Vercauteren, Talent &amp;amp; Account Manager, via +32 3 369 33 05&amp;nbsp;of Nicolas@cartiere.be. Meer info en actuele vacatures vind je ook op www.cartiere.be/jobs of via onze LinkedIn-pagina.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </content>
-    <link href="https://www.cartiere.be/jobs/medior-data-analist/"/>
+    <link href="https://www.cartiere.be/jobs/cartiere-connect-data-analist/"/>
     <category term="BI/Data Analyst"/>
-    <published>2026-01-15T16:05:41+00:00</published>
+    <published>2024-08-26T09:14:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/cartiere-connect-data-engineering/</id>
+    <title>Cartière Connect (Data Engineering)</title>
+    <updated>2026-03-31T14:14:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-08-26 09:13:38+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-08-26 09:13:38+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;&lt;strong&gt;Ben jij op zoek naar je eerste uitdaging binnen Data of AI?&lt;/strong&gt;&lt;br /&gt;
+Klaar om je carrière een vliegende start te geven in een high potential track die écht het verschil maakt? Dan is Cartière Connect op zoek naar jou!&lt;br /&gt;
+&lt;br /&gt;
+Bij Cartière Connect begeleiden we jong talent zoals jij naar boeiende en toekomstgerichte functies binnen ons netwerk van meer dan 300 bedrijven actief in Data &amp;amp; AI. We bieden je een persoonlijke, op maat gemaakte aanpak waarbij jouw ambities en interesses centraal staan. Vanaf het eerste intakegesprek tot en met je onboarding, training en coaching on the job, begeleiden we je in elke stap van je traject. Zelfs na je opstart blijven we je ondersteunen en adviseren.&lt;br /&gt;
+&lt;br /&gt;
+We matchen je met bedrijven die willen investeren in jouw groei en bieden je exclusieve kansen die perfect aansluiten bij jouw profiel. Dankzij onze marktinzichten en gerichte voorbereiding ga je vol vertrouwen elk interview tegemoet. Zo vergroot je je kans op succes en geef je jouw carrière meteen de juiste richting.&lt;br /&gt;
+&lt;br /&gt;
+Je krijgt de kans om te starten in één van de vele boeiende domeinen binnen data, waaronder Data Analytics, Data Engineering, BI &amp;amp; ETL, Data Science, Machine Learning, Artificial Intelligence, Data Governance &amp;amp; Management en Data Strategy &amp;amp; Architecture. Je wordt ondergedompeld in een omgeving waar leren, groeien en impact maken centraal staan.&lt;br /&gt;
+&lt;br /&gt;
+Wat verwachten we van jou?&lt;br /&gt;
+Je hebt een bachelor- of masterdiploma op zak en bent gebeten door data en technologie. Je bent leergierig, ambitieus en klaar om je carrière stevig op de kaart te zetten. Je spreekt vlot Nederlands en Engels en kijkt uit naar begeleiding en kansen die echt bij je passen.&lt;br /&gt;
+&lt;br /&gt;
+Cartière is jouw carrièrepartner. Wij denken met je mee, geven je professioneel advies en zorgen dat je steeds een stap voor blijft in de snel evoluerende wereld van Data &amp;amp; AI.&lt;br /&gt;
+&lt;br /&gt;
+Ben jij klaar om je carrière te lanceren? Neem dan contact op met Nicolas Vercauteren, Talent &amp;amp; Account Manager, via +32 3 369 33 05&amp;nbsp;of Nicolas@cartiere.be. Meer info en actuele vacatures vind je ook op www.cartiere.be/jobs of via onze LinkedIn-pagina.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/cartiere-connect-data-engineering/"/>
+    <category term="Data Engineering"/>
+    <published>2024-08-26T09:13:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/teamlead-data-engineering/</id>
@@ -224,28 +214,38 @@ Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94
     <published>2026-01-15T16:10:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/cartiere-connect-data-engineering/</id>
-    <title>Cartière Connect (Data Engineering)</title>
+    <id>https://www.cartiere.be/jobs/medior-data-analist/</id>
+    <title>Medior Data Analist</title>
     <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-08-26 09:13:38+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-08-26 09:13:38+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;&lt;strong&gt;Ben jij op zoek naar je eerste uitdaging binnen Data of AI?&lt;/strong&gt;&lt;br /&gt;
-Klaar om je carrière een vliegende start te geven in een high potential track die écht het verschil maakt? Dan is Cartière Connect op zoek naar jou!&lt;br /&gt;
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:05:41+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:05:41+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
+Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br /&gt;
 &lt;br /&gt;
-Bij Cartière Connect begeleiden we jong talent zoals jij naar boeiende en toekomstgerichte functies binnen ons netwerk van meer dan 300 bedrijven actief in Data &amp;amp; AI. We bieden je een persoonlijke, op maat gemaakte aanpak waarbij jouw ambities en interesses centraal staan. Vanaf het eerste intakegesprek tot en met je onboarding, training en coaching on the job, begeleiden we je in elke stap van je traject. Zelfs na je opstart blijven we je ondersteunen en adviseren.&lt;br /&gt;
+De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br /&gt;
 &lt;br /&gt;
-We matchen je met bedrijven die willen investeren in jouw groei en bieden je exclusieve kansen die perfect aansluiten bij jouw profiel. Dankzij onze marktinzichten en gerichte voorbereiding ga je vol vertrouwen elk interview tegemoet. Zo vergroot je je kans op succes en geef je jouw carrière meteen de juiste richting.&lt;br /&gt;
+JOBOMSCHRIJVING:&lt;br /&gt;
+Als Medior Data Analist speel je een sleutelrol op het kruispunt tussen data, business en AI. De focus ligt hoofdzakelijk op rapportering, maar evenzeer op het begrijpen, verklaren en challengen van cijfers en inzichten. Je combineert operationele analyses met proactieve monitoring van KPI’s, dashboarding en visualisatie, ondersteuning van AI- en data science projecten en inhoudelijke coaching van een junior data analist.&lt;br /&gt;
 &lt;br /&gt;
-Je krijgt de kans om te starten in één van de vele boeiende domeinen binnen data, waaronder Data Analytics, Data Engineering, BI &amp;amp; ETL, Data Science, Machine Learning, Artificial Intelligence, Data Governance &amp;amp; Management en Data Strategy &amp;amp; Architecture. Je wordt ondergedompeld in een omgeving waar leren, groeien en impact maken centraal staan.&lt;br /&gt;
+In deze rol ontwerp, bouw en onderhoud je Power BI dashboards die intensief gebruikt worden binnen de organisatie. Daarnaast voer je ad-hoc SQL-analyses uit naar aanleiding van businessvragen en monitor je zelfstandig KPI’s om trends en afwijkingen tijdig te detecteren. Wanneer prestaties afwijken, ga je dieper in de data om verklarende analyses te maken, bijvoorbeeld rond ziekteverzuim, klantengedrag, conversie of churn. Je levert actief input voor AI- en voorspellende modellen door hypotheses aan te reiken, features te definiëren en resultaten mee te interpreteren. Hoewel requirements grotendeels door business analisten worden aangebracht, wordt verwacht dat je deze kritisch beoordeelt en inhoudelijk uitdaagt. Datakwaliteit bewaak je continu en verbeter je waar nodig. Daarnaast neem je een coachende rol op ten aanzien van de junior data analist.&lt;br /&gt;
 &lt;br /&gt;
-Wat verwachten we van jou?&lt;br /&gt;
-Je hebt een bachelor- of masterdiploma op zak en bent gebeten door data en technologie. Je bent leergierig, ambitieus en klaar om je carrière stevig op de kaart te zetten. Je spreekt vlot Nederlands en Engels en kijkt uit naar begeleiding en kansen die echt bij je passen.&lt;br /&gt;
+JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt 4 jaar ervaring als Data Analist.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een sterke kennis van Power BI, DAX en SQL.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Fabric, data modelleren of Data Governance zijn een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent kritisch en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;UNIEK KARAKTER:&lt;br /&gt;
+Je hebt een impactvolle rol binnen een organisatie waar data en AI strategisch belangrijk zijn. Er is veel ruimte om mee richting te geven aan hoe data wordt ingezet en werkt daarvoor nauw samen met data, AI en innovatie binnen een moderne data-architectuur met focus op Microsoft Fabric en Power BI. Je komt terecht in een mensgerichte cultuur zonder vastgeroeste BI-structuren.&lt;br /&gt;
 &lt;br /&gt;
-Cartière is jouw carrièrepartner. Wij denken met je mee, geven je professioneel advies en zorgen dat je steeds een stap voor blijft in de snel evoluerende wereld van Data &amp;amp; AI.&lt;br /&gt;
-&lt;br /&gt;
-Ben jij klaar om je carrière te lanceren? Neem dan contact op met Nicolas Vercauteren, Talent &amp;amp; Account Manager, via +32 3 369 33 05&amp;nbsp;of Nicolas@cartiere.be. Meer info en actuele vacatures vind je ook op www.cartiere.be/jobs of via onze LinkedIn-pagina.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95&amp;nbsp;voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </content>
-    <link href="https://www.cartiere.be/jobs/cartiere-connect-data-engineering/"/>
-    <category term="Data Engineering"/>
-    <published>2024-08-26T09:13:38+00:00</published>
+    <link href="https://www.cartiere.be/jobs/medior-data-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-01-15T16:05:41+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/vrijblijvend-gesprek-2/</id>
@@ -562,56 +562,6 @@ Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie
     <link href="https://www.cartiere.be/jobs/data-insights-lead/"/>
     <category term="BI/Data Analyst"/>
     <published>2026-01-07T12:34:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/python-data-analyst-scientist-energiesector/</id>
-    <title>Python Data Analyst/Scientist - energiesector</title>
-    <updated>2026-03-18T08:55:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2025-11-20 12:50:23+00:00, last change 2026-03-18 08:55:38+00:00&lt;/li&gt;&lt;li&gt;Valid until 2026-11-20 12:50:23+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Stel je voor: werken bij een energiebedrijf dat niet alleen zegt dat het anders wil doen, maar het elke dag bewijst. Een organisatie die 100% hernieuwbare energie levert en voluit inzet op een duurzame toekomst, met investeringen in technologie, data-innovatie én sterk talent.&lt;br&gt;
-&lt;br&gt;
-Hier geen klassieke silo’s, maar klantgerichte en wendbare teams die snel schakelen en echte impact creëren. De lat ligt hoog: ze zoeken mensen die willen groeien, vernieuwen en het verschil willen maken.&lt;br&gt;
-&lt;br&gt;
-In deze dynamische context vormt het datateam een sterk center of expertise. Ze analyseren klantgedrag, bouwen slimme inzichten en ontwikkelen BI-, AI- en machine-learningoplossingen die het bedrijf vooruitstuwen.&lt;br&gt;
-&lt;br&gt;
-Omdat dit team een sleutelrol speelt in het vergroten van de datamaturiteit, kijken we voor hen uit naar een nieuwe collega die hun groei versterkt.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Python Data Analyst/Scientist werk je op het snijvlak tussen inzichten, BI en statistische modellering. Jij vertaalt businessvragen naar sterke analyses, duikt technisch diep in data en brengt complexe bevindingen helder over aan niet-technische stakeholders. Het is een hybride rol waarin je zowel strategisch meedenkt als hands-on waarde creëert.&lt;br&gt;
-&lt;br&gt;
-Jouw taken:
-&lt;ul&gt;
-	&lt;li&gt;Werken met grote databronnen in Snowflake: je ontsluit, transformeert en structureert data voor analyse.
-	&lt;li&gt;Uitvoeren van diepgaande analyses en het bouwen van modellen in Python die businesshypothesen bevestigen of ontkrachten.
-	&lt;li&gt;Businesscontext combineren met technische expertise om inzichten te genereren die écht het verschil maken.
-	&lt;li&gt;Nauw samenwerken met business stakeholders en hen begeleiden met duidelijke aanbevelingen en acties.
-	&lt;li&gt;Presenteren van inzichten aan zowel het leadership team als squad leads, die een sleutelrol spelen in change en implementatie.
-	&lt;li&gt;Vertalen van data naar heldere visualisaties en dashboards in Power BI die de organisatie verder helpen sturen.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;PROFIEL:&lt;/strong&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Je hebt minimaal 5 jaar relevante ervaring.
-	&lt;li&gt;Je beschikt over sterke Python-vaardigheden en een uitstekende SQL-kennis.
-	&lt;li&gt;Je hebt ervaring met ETL-processen en datamodellering. Ervaring met SAS, Databricks, Power BI en Snowflake zijn een plus.
-	&lt;li&gt;Je voelt je comfortabel in een dynamische context en toont initiatief.
-	&lt;li&gt;Je hebt een sterke kennis van statistische analyse.
-	&lt;li&gt;Je kunt inzichten vertalen naar heldere en overtuigende communicatie.
-	&lt;li&gt;Je spreekt vloeiend Nederlands en Engels.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;AANBOD:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een warme, informele en hechte werkomgeving waar collega’s elkaar écht kennen en samenwerken om impact te maken. Maandelijkse borrels, spontane traktaties en initiatieven voor goede doelen zorgen voor een gezellige sfeer, terwijl proactiviteit en initiatief hoog gewaardeerd worden. De energiesector bevindt zich midden in een razendsnelle transitie, gevoed door een explosie aan data uit digitale meters, een unieke speeltuin voor analytisch talent. Je werk is zichtbaar, relevant en draagt rechtstreeks bij aan de toekomst van duurzame energie. Als Python Data Analyst/Scientist zie je jouw analyses snel vertaald worden naar strategische beslissingen. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Wil je meer weten over deze functie? &lt;br&gt;
-Stuur nu jouw CV naar marte@cartiere.be en bel 03/343.94.91 voor meer informatie. Bekijk onze website www.cartiere.be voor meer data en BI vacatures.&lt;/strong&gt;&lt;br&gt;
-&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/python-data-analyst-scientist-energiesector/"/>
-    <category term="BI/Data Analyst"/>
-    <category term="Data Science"/>
-    <published>2025-11-20T12:50:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/ai-transformation-lead/</id>
