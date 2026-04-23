@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-04-23T13:28:07.668572+00:00</updated>
+  <updated>2026-04-23T15:56:28.071624+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -214,40 +214,6 @@ Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94
     <published>2026-01-15T16:10:04+00:00</published>
   </entry>
   <entry>
-    <id>https://www.cartiere.be/jobs/medior-data-analist/</id>
-    <title>Medior Data Analist</title>
-    <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:05:41+00:00, last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:05:41+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;BEDRIJF:&lt;br /&gt;
-Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br /&gt;
-&lt;br /&gt;
-De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br /&gt;
-&lt;br /&gt;
-JOBOMSCHRIJVING:&lt;br /&gt;
-Als Medior Data Analist speel je een sleutelrol op het kruispunt tussen data, business en AI. De focus ligt hoofdzakelijk op rapportering, maar evenzeer op het begrijpen, verklaren en challengen van cijfers en inzichten. Je combineert operationele analyses met proactieve monitoring van KPI’s, dashboarding en visualisatie, ondersteuning van AI- en data science projecten en inhoudelijke coaching van een junior data analist.&lt;br /&gt;
-&lt;br /&gt;
-In deze rol ontwerp, bouw en onderhoud je Power BI dashboards die intensief gebruikt worden binnen de organisatie. Daarnaast voer je ad-hoc SQL-analyses uit naar aanleiding van businessvragen en monitor je zelfstandig KPI’s om trends en afwijkingen tijdig te detecteren. Wanneer prestaties afwijken, ga je dieper in de data om verklarende analyses te maken, bijvoorbeeld rond ziekteverzuim, klantengedrag, conversie of churn. Je levert actief input voor AI- en voorspellende modellen door hypotheses aan te reiken, features te definiëren en resultaten mee te interpreteren. Hoewel requirements grotendeels door business analisten worden aangebracht, wordt verwacht dat je deze kritisch beoordeelt en inhoudelijk uitdaagt. Datakwaliteit bewaak je continu en verbeter je waar nodig. Daarnaast neem je een coachende rol op ten aanzien van de junior data analist.&lt;br /&gt;
-&lt;br /&gt;
-JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt 4 jaar ervaring als Data Analist.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een sterke kennis van Power BI, DAX en SQL.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Ervaring met Fabric, data modelleren of Data Governance zijn een plus.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je bent kritisch en analytisch ingesteld.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;span style="font-size:11.0px"&gt;&lt;span style="font-family:Arial,Helvetica,sans-serif"&gt;UNIEK KARAKTER:&lt;br /&gt;
-Je hebt een impactvolle rol binnen een organisatie waar data en AI strategisch belangrijk zijn. Er is veel ruimte om mee richting te geven aan hoe data wordt ingezet en werkt daarvoor nauw samen met data, AI en innovatie binnen een moderne data-architectuur met focus op Microsoft Fabric en Power BI. Je komt terecht in een mensgerichte cultuur zonder vastgeroeste BI-structuren.&lt;br /&gt;
-&lt;br /&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95&amp;nbsp;voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/medior-data-analist/"/>
-    <category term="BI/Data Analyst"/>
-    <published>2026-01-15T16:05:41+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cartiere.be/jobs/vrijblijvend-gesprek-2/</id>
     <title>Vrijblijvend gesprek</title>
     <updated>2026-03-31T13:43:43+00:00</updated>
@@ -313,6 +279,52 @@ Bekijk onze website www.cartiere.be voor meer BI &amp; data-vacatures.&lt;/stron
     <category term="Change Management"/>
     <category term="Project Management"/>
     <published>2024-06-27T07:10:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/integratie-analist/</id>
+    <title>Integratie Analist </title>
+    <updated>2026-03-25T08:39:28+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Napelsstraat 79, 2000, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-03-25 09:39:28+00:00, last change 2026-03-25 08:39:28+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-03-25 09:39:28+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Deze internationale, bekende logistieke dienstverlener in Antwerpen is bezig met een groot renovatieproject van een van hun locaties. Binnen dit project kijken ze uit naar een integratie analist die zich zal richten op operationele efficiëntie. Als wereldwijd actieve speler genieten ze van een uitstekende reputatie bij zowel klanten als hun werknemers. Momenteel heeft het bedrijf in Antwerpen ruim 3.000 medewerkers aan de slag op een unieke locatie. &lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Je bent verantwoordelijk voor het verwerken van operationele data van de locatie. Je gaat aan de slag met planningssystemen, scansystemen en andere relevante data.&lt;br&gt;
+Jouw takenpakket bestaat onder andere uit:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Het verzamelen van data uit de verschillende applicaties.  
+	&lt;li&gt;Het koppelen van de gegevens uit deze applicaties om zo analysequery&amp;apos;s te kunnen maken. 
+	&lt;li&gt;Het ontwikkelen/uitbreiden van dashboards.
+	&lt;li&gt;Het verzamelen van de gegevens buiten reguliere zoekopdrachten. 
+	&lt;li&gt;Het bepalen van de operationele performance van de omgeving in het labo, en de oorzaken vinden wanneer de performance niet aan de verwachtingen voldoet. 
+	&lt;li&gt;Het bouwen van query&amp;apos;s voor meerdere applicaties om zo de gevallen van slechte performance te vinden, en vervolgens het vinden van cases/oplossingen.
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over een bachelor- of masterdiploma. 
+	&lt;li&gt;Je hebt een eerste werkervaring achter de rug. 
+	&lt;li&gt;Je bent sterk in SQL. 
+	&lt;li&gt;Ervaring met Dynatrace is een plus. 
+	&lt;li&gt;Ervaring met Python is een mooie plus. 
+	&lt;li&gt;Je beschikt over voldoende maturiteit en kan zelfstandig werken. 
+	&lt;li&gt;Je denkt kritisch na en handelt proactief. 
+	&lt;li&gt;Je hebt interesse in de logistieke sector. 
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Je gaat aan het werk met heel relevante data en ziet het directe effect van jouw adviezen. Om jezelf verder te ontwikkelen worden alle nodige hulpmiddelen en trainingen aangeboden. Verder krijg je een competitief verloningspakket.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/integratie-analist/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-03-25T09:39:28+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-ai-talent-sourcer/</id>
