@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-04-28T10:17:06.321377+00:00</updated>
+  <updated>2026-04-28T16:14:35.850920+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/junior-medior-data-analyst/</id>
+    <title>Junior/Medior Data Analyst </title>
+    <updated>2026-04-28T12:24:14+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-04-27 09:45:43+00:00, last change 2026-04-28 12:24:14+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-04-27 09:45:43+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
+Deze organisatie is een gespecialiseerde Data &amp; BI-partner die bedrijven helpt om grip te krijgen op hun data en die te vertalen naar betrouwbare managementinzichten. Met een sterke focus op Power BI en een gestandaardiseerde Microsoft-stack bouwen ze schaalbare, futureproof BI-oplossingen: van financiële rapportering en sales dashboards tot een eigen herbruikbaar BI-product. Daarnaast zetten ze sterk in op de evolutie richting AI-gedreven analytics.&lt;br&gt;
+&lt;br&gt;
+Ze werken projectmatig, no-nonsense en zonder detachering. Je komt terecht in een gespecialiseerd team met veel technische diepgang, dat de wendbaarheid van een klein team combineert met de stabiliteit en schaal van een bredere bedrijvengroep. De klantenportefeuille is stabiel en divers, vaak met een Europese scope. Kwaliteit, transparantie en herbruikbaarheid staan centraal.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Voor de verdere uitbouw van het team kijken ze uit naar een Data Analyst met Power BI kennis. Je werkt mee aan zowel klantprojecten als aan een generiek BI-platform dat bij meerdere klanten wordt uitgerold.&lt;br&gt;
+&lt;br&gt;
+Jouw verantwoordelijkheden:
+&lt;ul&gt;
+	&lt;li&gt;Je capteert en valideert businessnoden, vertaalt deze naar heldere requirements en werkt samen met data engineering aan het juiste datamodel en de juiste databronnen. Je denkt mee in structuur, mapping en vertaling naar concrete oplossingen.
+	&lt;li&gt;Je werkt actief met business stakeholders en externe partijen: je plant gesprekken, haalt noden op en fungeert als sparringpartner. Je presenteert inzichten en dashboards en zorgt voor duidelijke, inhoudelijke terugkoppeling richting de business.
+	&lt;li&gt;Je bouwt en beheert Power BI dashboards van A tot Z. Na verloop van tijd neem je oplossingen zelfstandig op en beheer je deze autonoom, dicht bij de businessnoden.
+	&lt;li&gt;Je bouwt mee aan de evolutie richting AI-gedreven analytics: van klassieke BI (data engineering → datamodel → dashboards) tot experimenten met AI-toepassingen die gebruikers toelaten om via natuurlijke taal inzichten uit data te halen. Samen met het team werk je actief aan de verdere uitbouw van deze moderne data-omgeving.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Je beschikt over een hoger diploma.
+	&lt;li&gt;Je hebt minstens 2 jaar ervaring als data analyst (of in een gelijkaardige rol).
+	&lt;li&gt;Je hebt ervaring met end-to-end dashboarding en kan businessvragen vertalen naar duidelijke datamodellen en visualisaties.
+	&lt;li&gt;Je beheerst Power BI, DAX, Power Query, SQL en data modellering (o.a. stermodellen en medallion architectuur).
+	&lt;li&gt;Je communiceert vlot en bent sterk in stakeholdermanagement en businessanalyse.
+	&lt;li&gt;Je bent nuchter, hebt sterk zelfinzicht en bent proactief, dynamisch en leergierig.
+	&lt;li&gt;Je spreekt vloeiend Nederlands en Engels.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Je bouwt mee aan een echt, schaalbaar BI-product dat bij meerdere klanten wordt ingezet en continu verfijnd, waarbij je letterlijk onder de motorkap van de oplossingen werkt. Je krijgt end-to-end ownership en ziet direct de impact van je werk bij klanten, met ondersteuning van C-level beslissingen. Je start hands-on met Power BI, maar er is volop ruimte om door te groeien richting data modellering, AI of architectuur. Je maakt deel uit van een klein, slim team met directe lijnen naar de founders, terwijl je geniet van de stabiliteit en schaal van een grotere groep. Geen detachering, werken gebeurt op kantoor, in hartje Antwerpen en in team. Je werkt voor sterke, stabiele klanten in diverse sectoren, vaak met Europese of internationale projecten, en doet dit in een open, transparante cultuur waar samenwerking, vertrouwen en snelle beslissingen centraal staan. Op termijn krijg je ook de kans om nieuwe collega’s op te leiden en zo bij te dragen aan de groei van het team. Daarnaast bieden zij een mooi salarispakket met een wagen.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/junior-medior-data-analyst/"/>
+    <category term="BI/Data Analyst"/>
+    <published>2026-04-27T09:45:43+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
     <title>Data Engineer</title>
