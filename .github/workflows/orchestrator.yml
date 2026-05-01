@@ -2,7 +2,6 @@ name: Orchestrator
 
 on:
   schedule:
-    - cron: '0 4-22/2 * * *'
   workflow_call:
   workflow_dispatch:
 
