@@ -46,9 +46,12 @@ The scripts accept these options:
 |---|---|---|
 | `-d`, `--details` | `vdab.py`, `editx.py` | Downloads the full description of each vacancy. `cartiere.py` always does this. |
 | `-p`, `--page_count` | `vdab.py` | Sets the maximum number of search pages. The default is 20. |
+| `-r`, `--refresh` | `cartiere.py` | Downloads all vacancies, also the unchanged vacancies in the previous feed. |
 | `-v`, `--verbose` | All | Writes debug messages to the log. |
 
 The scripts wait 3 to 10 seconds between two requests for vacancy details. A full run of `vdab.py` can take more than 20 minutes.
+
+`cartiere.py` reads the previous feed from the output file before it writes the new feed. If the sitemap date of a vacancy did not change, the script copies the entry from the previous feed. It downloads only new and changed vacancies. If you change how `cartiere.py` builds an entry, run it once with `--refresh`, so that all entries get the new format.
 
 ## Change a search
 
