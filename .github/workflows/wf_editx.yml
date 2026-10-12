@@ -8,6 +8,9 @@ jobs:
   generate-rss:
     runs-on: ubuntu-latest
     
+    # Stop a stalled run instead of waiting for the 6-hour default
+    timeout-minutes: 60
+
     env:
       CONFIG_FILE: config/editx.json
       OUTPUT_FILE: feeds/editx.xml

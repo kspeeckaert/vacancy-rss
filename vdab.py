@@ -4,18 +4,23 @@ from pathlib import Path
 from datetime import datetime, timezone
 from random import randint
 import time
+import sys
 import requests
-from requests.exceptions import HTTPError
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from feedgen.feed import FeedGenerator
 
 import json
 from yattag import Doc
 
+__version__ = '0.2.20261012'
 
 BASE_URL = 'https://www.vdab.be/vindeenjob/vacatures'
 BASE_URL_REST = 'https://www.vdab.be/rest/vindeenjob/v4/vacatures'
 PAGE_COUNT = 20
 FEED_ID = 'e2590d85-368a-4ef9-863c-931baa40fcec'
+# (connect, read) timeout in seconds for every HTTP request
+REQUEST_TIMEOUT = (10, 60)
 
 
 def create_session() -> requests.Session:
@@ -27,6 +32,12 @@ def create_session() -> requests.Session:
                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15',
                'Vej-Key-Monitor': 'b277002f-e1fa-4fc5-868a-fdab633c3851'
               }
+    # Retry transient failures (connection errors, rate limiting, server errors).
+    # allowed_methods=None also retries the search POST, which does not change data.
+    retry = Retry(total=3, backoff_factor=2,
+                  status_forcelist=(429, 500, 502, 503, 504),
+                  allowed_methods=None)
+    sess.mount('https://', HTTPAdapter(max_retries=retry))
     return sess
 
 
@@ -43,8 +54,9 @@ def get_data(config_file: Path|str, page_count: int) -> list:
         for i in range(page_count):
             logging.debug(f'Requesting data ({i}/{page_count})...')
             config_data['pagina'] = i
-            r = sess.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek', 
-                          data=json.dumps(config_data))
+            r = sess.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek',
+                          data=json.dumps(config_data),
+                          timeout=REQUEST_TIMEOUT)
             r.raise_for_status()
             partial_data = r.json()['resultaten']
             if len(partial_data) == 0:
@@ -60,6 +72,25 @@ def get_data(config_file: Path|str, page_count: int) -> list:
     return data
 
 
+def get_entry_id(entry: dict):
+    '''Return the VDAB post ID, or None when the post has no usable ID.'''
+    try:
+        return entry['id']['id']
+    except (KeyError, TypeError):
+        return None
+
+
+def collect_items(post_id, items) -> list:
+    '''Evaluate each item function and keep the results that do not fail.'''
+    result = []
+    for item in items:
+        try:
+            result.append(item())
+        except Exception as e:
+            logging.debug(f'Post {post_id}: field left out: {e!r}')
+    return result
+
+
 def get_posting_details(data: list) -> dict:
     
     details = {}
@@ -67,20 +98,24 @@ def get_posting_details(data: list) -> dict:
     sess = create_session()
     
     for i, entry in enumerate(data):
-        entry_id = entry['id']['id']
+        entry_id = get_entry_id(entry)
+        if entry_id is None:
+            logging.warning(f'Post {i} has no ID, skipping details.')
+            continue
         logging.debug(f'Retrieving details for post ID {entry_id}...')
         if entry_id in details:
             logging.warning(f'Detail data for post ID {entry_id} already exists. This should not happen!')
             continue
 
         try:
-            r = sess.get(f'{BASE_URL_REST}/{entry_id}')
+            r = sess.get(f'{BASE_URL_REST}/{entry_id}', timeout=REQUEST_TIMEOUT)
             r.raise_for_status()
             details[entry_id] = r.json()
-            if i < post_count-1:
-                time.sleep(randint(3,10))
         except Exception as e:
             logging.error(f'Exception while retrieving details for post ID {entry_id}: {e!r}.')
+        # Also wait after a failure, to avoid hammering the server
+        if i < post_count-1:
+            time.sleep(randint(3,10))
     
     logging.debug(f'Retrieved {len(details)} detail record(s).')
     return details
@@ -97,48 +132,68 @@ def generate_feed(data: list, details: dict, output_file: Path|str) -> None:
     fg.updated(run_timestamp)
     
     for entry in data:
+        entry_id = get_entry_id(entry)
         fe = fg.add_entry()
-        entry_id = entry['id']['id']
+        # Required fields: if one of these fails, only this entry is dropped
         try:
-            fe.title(f'{entry['vacaturefunctie']['naam']} ({entry['vacatureBedrijfsnaam']})')
+            if entry_id is None:
+                raise ValueError('post has no ID')
+            company = entry.get('vacatureBedrijfsnaam')
+            title = entry['vacaturefunctie']['naam']
+            fe.title(f'{title} ({company})' if company else title)
             link = f'{BASE_URL}/{entry_id}'
             fe.id(link)
             fe.link(href=link)
-            fe.published(entry['eerstePublicatieDatum'])
-            fe.updated(entry['laatsteWijzigingDatum'])
+        except Exception as e:
+            logging.error(f'Failed to generate entry for post ID {entry_id}, skipping it: {e!r}')
+            fg.remove_entry(fe)
+            continue
 
-            detail_data = details.get(entry_id)
+        # Optional fields: a failure only leaves out that part
+        for setter, key in ((fe.published, 'eerstePublicatieDatum'), (fe.updated, 'laatsteWijzigingDatum')):
+            try:
+                setter(entry.get(key))
+            except Exception as e:
+                logging.warning(f'Post ID {entry_id}: invalid {key} "{entry.get(key)}": {e!r}')
 
-            # Build the entry content
+        detail_data = details.get(entry_id)
+
+        # Build the entry content
+        try:
             doc, tag, text, line = Doc().ttl()
-            with tag('p'):
-                with tag('ul'):
-                    line('li', f'Bedrijf: {entry['vacatureBedrijfsnaam']} ({entry['leverancier']['type'].lower()})')
-                    line('li', f'Locatie: {entry['tewerkstellingsLocatieRegioOfAdres'].title()}')
-                    line('li', f'Type: {entry['vacaturefunctie']['arbeidscircuitLijn']}')
-            
-            if detail_data is not None:
-                try:
-                    line('h3', 'Functieomschrijving')
-                    doc.asis(detail_data['functie']['omschrijving']['html'])
-                except Exception:
-                    pass
-                try:
-                    line('h3', 'Profiel')
-                    doc.asis(detail_data['profiel']['vereisteKwalificaties']['html'])
-                except Exception:
-                    pass
-                try:
-                    line('h3', 'Aanbod')
-                    doc.asis(detail_data['profiel']['aanbod']['aanbodEnVoordelen']['html'])
-                except Exception:
-                    pass
-            
+            summary = collect_items(entry_id, (
+                lambda: f'Bedrijf: {entry['vacatureBedrijfsnaam']} ({entry['leverancier']['type'].lower()})',
+                lambda: f'Locatie: {entry['tewerkstellingsLocatieRegioOfAdres'].title()}',
+                lambda: f'Type: {entry['vacaturefunctie']['arbeidscircuitLijn']}',
+            ))
+            if summary:
+                with tag('p'):
+                    with tag('ul'):
+                        for item in summary:
+                            line('li', item)
+
+            if isinstance(detail_data, dict):
+                sections = (
+                    ('Functieomschrijving', lambda: detail_data['functie']['omschrijving']['html']),
+                    ('Profiel', lambda: detail_data['profiel']['vereisteKwalificaties']['html']),
+                    ('Aanbod', lambda: detail_data['profiel']['aanbod']['aanbodEnVoordelen']['html']),
+                )
+                for heading, get_html in sections:
+                    html = collect_items(entry_id, (get_html,))
+                    if html and isinstance(html[0], str) and html[0].strip():
+                        line('h3', heading)
+                        doc.asis(html[0])
+
             fe.content(doc.getvalue(), type='html')
         except Exception as e:
-            logging.error(f'Failed to generate entry for post ID {entry_id}: {e!r}')
+            logging.warning(f'Failed to build content for post ID {entry_id}: {e!r}')
 
-    logging.info(f'Writing to {output_file}...')
+    # Do not replace a working feed with an empty one
+    entry_count = len(fg.entry())
+    if entry_count == 0:
+        raise RuntimeError('The feed has no entries, the existing feed file is kept.')
+
+    logging.info(f'Writing {entry_count} entries to {output_file}...')
     fg.atom_file(output_file, pretty=True)
     logging.info(f'RSS feed saved.')
 
@@ -175,10 +230,15 @@ if __name__ == "__main__":
 
     # Verify if configuration file exists
     if not Path(args.config_file).is_file():
-        logging.error(f'File not found: {config_file}')
-        exit(1)
+        logging.error(f'File not found: {args.config_file}')
+        sys.exit(1)
 
-    main(config_file=args.config_file, 
-         output_file=args.output_file, 
-         page_count=args.page_count, 
-         fetch_details=args.details)
+    try:
+        main(config_file=args.config_file,
+             output_file=args.output_file,
+             page_count=args.page_count,
+             fetch_details=args.details)
+    except Exception:
+        # A non-zero exit code stops the workflow before it commits the feed
+        logging.exception('Feed generation failed.')
+        sys.exit(1)
