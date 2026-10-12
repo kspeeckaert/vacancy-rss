@@ -68,6 +68,17 @@ To update all packages to their latest versions, run `uv lock --upgrade`.
 
 If `uv.lock` does not match `pyproject.toml`, the workflow jobs fail, because they install with `uv sync --locked`.
 
+## Code structure
+
+Each site has its own script: `vdab.py`, `editx.py` and `cartiere.py`. A script contains the code that reads the data of its site and turns it into feed entries.
+
+The file `common.py` contains the code that the three scripts share:
+
+- The HTTP session, with a timeout and retries for each request.
+- The pause between two detail requests.
+- The feed header, the entry with its required fields, and the empty-feed guard.
+- The logging setup and the exit code for the workflow.
+
 ## Versions
 
-The project uses the version format `major.minor.date`, for example `0.3.20261012`. The version is in `pyproject.toml` and in the `__version__` value of each script.
+The project uses the version format `major.minor.date`, for example `0.4.20261012`. The version is in `pyproject.toml` and in the `__version__` value of each script and of `common.py`.

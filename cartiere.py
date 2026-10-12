@@ -1,51 +1,38 @@
 import argparse
 import logging
 from pathlib import Path
-from datetime import datetime, timezone
-from random import randint
-import time
-import sys
+from datetime import datetime
 import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-from feedgen.feed import FeedGenerator
 
 from bs4 import BeautifulSoup
 import xmltodict
 import json
 from yattag import Doc
 
-__version__ = '0.2.20261012'
+import common
+
+__version__ = '0.4.20261012'
 
 URL_JOB_LISTING = 'https://www.cartiere.be/matador-job-listings-sitemap.xml'
 FEED_ID = '9069cb01-9b04-4d24-9a64-8e1fedbf261f'
-# (connect, read) timeout in seconds for every HTTP request
-REQUEST_TIMEOUT = (10, 60)
 
 
 def create_session() -> requests.Session:
-    sess = requests.Session()
-
-    sess.headers = {'Content-Type': 'application/json',
-                              'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                              'Referer': 'https://www.cartiere.be/matador-job-listings-sitemap.xml',
-                              'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15',
-                              'Host': 'www.cartiere.be'}
-    # Retry transient failures (connection errors, rate limiting, server errors)
-    retry = Retry(total=3, backoff_factor=2,
-                  status_forcelist=(429, 500, 502, 503, 504),
-                  allowed_methods=None)
-    sess.mount('https://', HTTPAdapter(max_retries=retry))
-    return sess
+    return common.create_session({'Content-Type': 'application/json',
+                                  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                                  'Referer': 'https://www.cartiere.be/matador-job-listings-sitemap.xml',
+                                  'User-Agent': common.USER_AGENT,
+                                  'Host': 'www.cartiere.be'
+                                 })
 
 
 def get_data() -> list:
 
     sess = create_session()
-    
+
     try:
         logging.debug('Fetching sitemap data...')
-        r = sess.get(URL_JOB_LISTING, timeout=REQUEST_TIMEOUT)
+        r = sess.get(URL_JOB_LISTING, timeout=common.REQUEST_TIMEOUT)
         r.raise_for_status()
         # force_list keeps 'url' a list, also when the sitemap has only one entry
         job_listing = xmltodict.parse(r.content, force_list=('url',))['urlset']['url']
@@ -74,11 +61,11 @@ def get_data() -> list:
 
 
 def add_posting_details(data: list) -> None:
-    
+
     def extract_data_from_page(sess: requests.Session, url:str ) -> dict:
 
         try:
-            r = sess.get(url, timeout=REQUEST_TIMEOUT)
+            r = sess.get(url, timeout=common.REQUEST_TIMEOUT)
             r.raise_for_status()
             # Take the page contents and extract the LD JSON data
             soup = BeautifulSoup(r.text, 'lxml')
@@ -101,23 +88,22 @@ def add_posting_details(data: list) -> None:
 
     post_count = len(data)
     sess = create_session()
-    
+
     for i, entry in enumerate(data):
         logging.debug(f'Retrieving details for post {i}...')
-        
+
         try:
             entry['details'] = extract_data_from_page(sess, entry['url'])
         except Exception as e:
             logging.error(f'Exception while retrieving details for post {i}: {e!r}.')
-        # Also wait after a failure, to avoid hammering the server
-        if i < post_count-1:
-            time.sleep(randint(3,10))
+        # Also wait after a failure
+        common.pause_between_requests(i, post_count)
 
 
 def generate_feed(data: list, output_file: Path|str) -> None:
 
     def get_address(listing: dict) -> str:
-        
+
         fields = []
         try:
             address_entry = listing['details']['jobLocation']['address']
@@ -134,14 +120,8 @@ def generate_feed(data: list, output_file: Path|str) -> None:
         return ', '.join(fields)
 
 
-    fg = FeedGenerator()
-    run_timestamp = datetime.now(timezone.utc)
-    fg.title('Cartière')
-    fg.id(FEED_ID)
-    fg.link(href='https://www.cartiere.be', rel='alternate')
-    fg.lastBuildDate(run_timestamp)
-    fg.updated(run_timestamp)
-    
+    fg = common.new_feed('Cartière', FEED_ID, 'https://www.cartiere.be')
+
     for entry in data:
         details = entry.get('details')
         if not isinstance(details, dict):
@@ -154,24 +134,16 @@ def generate_feed(data: list, output_file: Path|str) -> None:
             # Not interested in freelance offers
             continue
 
-        fe = fg.add_entry()
-        # Required fields: if one of these fails, only this entry is dropped
-        try:
-            fe.title(details['title'])
-            # No unique ID available, so we'll use the URL
-            fe.id(entry['url'])
-            fe.link(href=entry['url'])
-        except Exception as e:
-            logging.error(f'Failed to generate entry for post {entry.get('url')}, skipping it: {e!r}')
-            fg.remove_entry(fe)
+        # Required fields: if one of these fails, only this entry is dropped.
+        # No unique ID available, so we'll use the URL.
+        url = entry.get('url')
+        fe = common.add_entry(fg, url, lambda: details['title'], url)
+        if fe is None:
             continue
 
         # Optional fields: a failure only leaves out that part
-        for setter, value in ((fe.published, details.get('datePosted')), (fe.updated, entry.get('lastModification'))):
-            try:
-                setter(value)
-            except Exception as e:
-                logging.warning(f'Post {entry['url']}: invalid date "{value}": {e!r}')
+        common.set_optional_date(fe.published, details.get('datePosted'), url, 'datePosted')
+        common.set_optional_date(fe.updated, entry.get('lastModification'), url, 'lastmod')
 
         # Build the entry content
         try:
@@ -185,19 +157,15 @@ def generate_feed(data: list, output_file: Path|str) -> None:
             if details.get('validThrough'):
                 summary.append(f'Valid until {details['validThrough']}')
 
-            doc, tag, text, line = Doc().ttl()
-            if summary:
-                with tag('p'):
-                    with tag('ul'):
-                        for item in summary:
-                            line('li', item)
+            doc = Doc()
+            common.add_list(doc, summary)
 
             description = details.get('description')
             if isinstance(description, str):
                 doc.asis(description)
             fe.content(doc.getvalue(), type='html')
         except Exception as e:
-            logging.warning(f'Failed to build content for post {entry['url']}: {e!r}')
+            logging.warning(f'Failed to build content for post {url}: {e!r}')
 
         # Split occupational categories string (if available) into separate entries
         try:
@@ -205,16 +173,9 @@ def generate_feed(data: list, output_file: Path|str) -> None:
             if categories:
                 fe.category(categories)
         except Exception as e:
-            logging.debug(f'Post {entry['url']}: categories left out: {e!r}')
+            logging.debug(f'Post {url}: categories left out: {e!r}')
 
-    # Do not replace a working feed with an empty one
-    entry_count = len(fg.entry())
-    if entry_count == 0:
-        raise RuntimeError('The feed has no entries, the existing feed file is kept.')
-
-    logging.info(f'Writing {entry_count} entries to {output_file}...')
-    fg.atom_file(output_file, pretty=True)
-    logging.info(f'RSS feed saved.')
+    common.write_feed(fg, output_file)
 
 
 def main(output_file: Path|str) -> None:
@@ -231,19 +192,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate RSS feeds for Cartière jobs.')
     parser.add_argument('output_file', help='Filename to write the RSS feed to')
     parser.add_argument('-v', '--verbose', action='store_true', help='Enable debug logging')
-    
+
     args = parser.parse_args()
 
-    # Set up logging
-    log_level = logging.DEBUG if args.verbose else logging.INFO
-    logging.basicConfig(level=log_level, format='%(asctime)s - %(levelname)s - %(message)s')
-    # Avoid logging from requests
-    logging.getLogger('requests').setLevel(logging.WARNING)
-    logging.getLogger('urllib3').setLevel(logging.WARNING)
-
-    try:
-        main(output_file=args.output_file)
-    except Exception:
-        # A non-zero exit code stops the workflow before it commits the feed
-        logging.exception('Feed generation failed.')
-        sys.exit(1)
+    common.setup_logging(args.verbose)
+    common.run(main, output_file=args.output_file)
