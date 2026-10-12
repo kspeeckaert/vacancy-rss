@@ -314,8 +314,8 @@ wheels = [
 ]
 
 [[package]]
-name = "vdab-job-seeker"
-version = "0.2.20261012"
+name = "vacancy-rss"
+version = "0.3.20261012"
 source = { virtual = "." }
 dependencies = [
     { name = "beautifulsoup4" },

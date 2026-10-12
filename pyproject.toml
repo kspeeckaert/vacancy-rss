@@ -1,8 +1,8 @@
 [project]
-name = "vdab-job-seeker"
-version = "0.2.20261012"
-description = "Add your description here"
-readme = "README.md"
+name = "vacancy-rss"
+version = "0.3.20261012"
+description = "Scrape job vacancies from VDAB, editx and Cartière and publish them as Atom feeds"
+readme = "readme.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.5",

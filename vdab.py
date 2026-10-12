@@ -13,10 +13,11 @@ from feedgen.feed import FeedGenerator
 import json
 from yattag import Doc
 
-__version__ = '0.2.20261012'
+__version__ = '0.3.20261012'
 
 BASE_URL = 'https://www.vdab.be/vindeenjob/vacatures'
 BASE_URL_REST = 'https://www.vdab.be/rest/vindeenjob/v4/vacatures'
+SEARCH_URL_REST = 'https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek'
 PAGE_COUNT = 20
 FEED_ID = 'e2590d85-368a-4ef9-863c-931baa40fcec'
 # (connect, read) timeout in seconds for every HTTP request
@@ -52,9 +53,9 @@ def get_data(config_file: Path|str, page_count: int) -> list:
     
     try:
         for i in range(page_count):
-            logging.debug(f'Requesting data ({i}/{page_count})...')
+            logging.debug(f'Requesting data ({i+1}/{page_count})...')
             config_data['pagina'] = i
-            r = sess.post('https://www.vdab.be/rest/vindeenjob/v4/vacatureLight/zoek',
+            r = sess.post(SEARCH_URL_REST,
                           data=json.dumps(config_data),
                           timeout=REQUEST_TIMEOUT)
             r.raise_for_status()
