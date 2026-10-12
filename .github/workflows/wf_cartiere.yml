@@ -15,16 +15,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
+      # setup-uv publishes no major-version tag, so pin the release commit
+      - uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
 
+      # Install Python from .python-version and the exact versions from uv.lock.
+      # --locked fails the job when uv.lock does not match pyproject.toml.
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --locked
 
       - name: Generate RSS feed
         run: |
-          python cartiere.py -v $OUTPUT_FILE
+          uv run python cartiere.py -v $OUTPUT_FILE
 
       # The orchestrator commits all feeds in one job. A manual run of
       # only this workflow uploads the feed and commits nothing.
