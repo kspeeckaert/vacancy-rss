@@ -2,8 +2,18 @@ name: Orchestrator
 
 on:
   schedule:
+    - cron: '0 4-22/2 * * *'
   workflow_call:
   workflow_dispatch:
+
+# The feed jobs only need read access. Only the commit job can write.
+permissions:
+  contents: read
+
+# Do not start a new run while the previous run still works on the feeds
+concurrency:
+  group: feeds
+  cancel-in-progress: false
 
 jobs:
   call-vdab:
@@ -12,3 +22,42 @@ jobs:
     uses: ./.github/workflows/wf_editx.yml
   call-cartiere:
     uses: ./.github/workflows/wf_cartiere.yml
+
+  commit-feeds:
+    # Also run when a feed job failed, so that the other feeds are still published
+    needs: [call-vdab, call-editx, call-cartiere]
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download feeds
+        uses: actions/download-artifact@v8
+        with:
+          pattern: feed-*
+          path: feeds
+          merge-multiple: true
+
+      - name: Commit and push changed feeds
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add feeds/
+          # The feed-level <updated> line changes on every run. Ignore it,
+          # so that a run without real changes makes no commit.
+          if git diff --cached --quiet -I '^  <updated>'; then
+            echo "No feed content changed."
+            exit 0
+          fi
+          git commit -m "Update RSS feeds"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            echo "Push attempt $attempt failed, trying again in 10 seconds."
+            sleep 10
+          done
+          exit 1

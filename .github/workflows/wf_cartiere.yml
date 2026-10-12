@@ -7,18 +7,17 @@ on:
 jobs:
   generate-rss:
     runs-on: ubuntu-latest
-
     # Stop a stalled run instead of waiting for the 6-hour default
     timeout-minutes: 60
 
     env:
       OUTPUT_FILE: feeds/cartiere.xml
-      
+
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.13' 
+          python-version: '3.13'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -27,11 +26,12 @@ jobs:
         run: |
           python cartiere.py -v $OUTPUT_FILE
 
-      - name: Commit RSS feed
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add -f $OUTPUT_FILE
-          git diff-index --quiet HEAD || git commit -m "Update Cartiere RSS feed"
-          git pull --rebase origin main
-          git push
+      # The orchestrator commits all feeds in one job. A manual run of
+      # only this workflow uploads the feed and commits nothing.
+      - name: Upload feed
+        uses: actions/upload-artifact@v7
+        with:
+          name: feed-cartiere
+          path: ${{ env.OUTPUT_FILE }}
+          retention-days: 1
+          if-no-files-found: error
