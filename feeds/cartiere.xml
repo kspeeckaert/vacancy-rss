@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-10-15T14:31:23.173257+00:00</updated>
+  <updated>2026-10-16T08:34:39.367912+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/ai-engineer-2/</id>
+    <title>AI-Engineer</title>
+    <updated>2026-10-15T07:33:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-10-15 08:33:26+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-10-15 07:33:26+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-10-15 08:33:26+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;BEDRIJF:&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Deze Belgische B2B SaaS-speler ontwikkelt software waarmee professionele gebruikers complexe dossiers, documenten en dagelijkse processen beheren. Het platform heeft vandaag al een stevige gebruikersbasis en staat voor een belangrijke technologische evolutie: AI wordt een integraal onderdeel van het product.&lt;br /&gt;
+&lt;br /&gt;
+De ambitie is om repetitieve processen te automatiseren, grote hoeveelheden informatie toegankelijk te maken en gebruikers te ondersteunen met intelligente AI-functionaliteiten waaronder een semantic search engine.&lt;br /&gt;
+&lt;br /&gt;
+Je komt terecht in een ondernemende productomgeving met de financiële slagkracht van een sterke groep. De lijnen zijn kort, de technologische ambities groot en er is veel ruimte om zelf technische keuzes te maken.&lt;br /&gt;
+&lt;br /&gt;
+JOBOMSCHRIJVING:&lt;br /&gt;
+&lt;br /&gt;
+Als AI Engineer bouw je mee aan de verdere ontwikkeling van een commercieel SaaS-platform naar een AI-driven product. Je ontwikkelt RAG-oplossingen die informatie ontsluiten uit grote documentcollecties, gebruikt LLM's om documenten automatisch te interpreteren en structureren, en bouwt AI Agents die taken en processen zelfstandig uitvoeren.&lt;br /&gt;
+&lt;br /&gt;
+Je bent betrokken bij het volledige traject: van het ontwerpen van de oplossing en het selecteren van modellen tot de integratie in het platform en de uitrol naar productie.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Samen met Product Owners, Designers en Software Developers vertaal je nieuwe use cases naar concrete productfunctionaliteiten. Je krijgt de autonomie om technologiekeuzes te maken, nieuwe toepassingen uit te testen en mee richting te geven aan de AI-architectuur en productroadmap.&lt;br /&gt;
+&lt;br /&gt;
+JOUW PROFIEL:&lt;br /&gt;
+&lt;br /&gt;
+Voor deze rol wordt gezocht naar een AI Engineer met een sterke technische basis en duidelijke interesse in AI. Kandidaten met een achtergrond in data engineering, data science of backend development komen zeker in aanmerking.
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minstens 3 jaar relevante ervaring als AI Engineer of ML Engineer.&lt;/li&gt;
+	&lt;li&gt;Je bent sterk in Python en hebt ervaring met LLM-toepassingen in productie.&lt;/li&gt;
+	&lt;li&gt;Je hebt kennis van RAG-architecturen, vector databases en AI Agents.&lt;/li&gt;
+	&lt;li&gt;Je hebt ervaring met frameworks zoals LangChain&lt;/li&gt;
+	&lt;li&gt;Je hebt aandacht voor monitoring, evaluatie en betrouwbaarheid van AI-systemen.&lt;/li&gt;
+	&lt;li&gt;Je denkt mee over performantie, schaalbaarheid en kostenoptimalisatie.&lt;/li&gt;
+	&lt;li&gt;Je communiceert vlot met zowel technische als niet-technische stakeholders.&lt;/li&gt;
+	&lt;li&gt;Je hebt bij voorkeur ervaring met Azure OpenAI of cloud-native architecturen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+UNIEK KARAKTER:&lt;br /&gt;
+&lt;br /&gt;
+Je bouwt AI-functionaliteiten die rechtstreeks geïntegreerd worden in een bestaand SaaS-product en dagelijks hun weg vinden naar duizenden gebruikers. Je krijgt de vrijheid om te experimenteren, mee te bouwen aan de AI-roadmap maar ook de verantwoordelijkheid om je oplossingen betrouwbaar en schaalbaar in productie te brengen.&lt;br /&gt;
+&lt;br /&gt;
+De combinatie van een ondernemende productomgeving, financiële slagkracht en veel technische autonomie maakt dit een interessante stap voor een AI-Engineer die mee de technologische richting wil bepalen. Je zit dicht bij de productontwikkeling, hebt invloed op architectuurkeuzes en bouwt mee aan een platform waarin AI een centrale rol krijgt.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;Benieuwd naar meer?&amp;nbsp;&lt;br /&gt;
+Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 369 33 05 voor meer informatie.&lt;br /&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;</content>
+    <link href="https://www.cartiere.be/jobs/ai-engineer-2/"/>
+    <category term="AI &amp; ML Engineer"/>
+    <published>2026-10-15T08:33:26+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/analyics-engineer/</id>
     <title>Analyics Engineer</title>
