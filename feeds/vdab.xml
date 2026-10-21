@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-10-21T09:23:02.167908+00:00</updated>
+  <updated>2026-10-21T20:10:58.846905+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73822362</id>
-    <title>Full Stack Java Ontwikkelaar (OVAM) via Vlaanderen connect (Vlaanderen Connect.)</title>
-    <updated>2026-10-21T06:06:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Vlaanderen Connect. (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;/b&gt;&lt;p style="text-align:justify;"&gt;Wil je meewerken aan minder afval, een zuivere bodem en de overstap naar een circulaire economie in Vlaanderen? Dan ben je bij OVAM aan het juiste adres. OVAM - Openbare Vlaamse Afvalstoffenmaatschappij - is een Vlaamse overheidsinstelling die ijvert voor een beter leefmilieu. Concreet staat zij in voor de voorbereiding en uitvoering van het Vlaamse afvalstoffen- materialen- en bodemsaneringsbeleid. Ook jij kunt je steentje daar aan bijdragen!&lt;/p&gt;&lt;p&gt;We zoeken een Full Stack Java Ontwikkelaar die energie haalt uit het bouwen van performante en toekomstgerichte softwareoplossingen. In deze rol combineer je je sterke backend-expertise in Java met moderne frontend skills, zoals React, om gebruiksvriendelijke en schaalbare applicaties te realiseren. Je denkt analytisch en gestructureerd, en vertaalt complexe technische vraagstukken naar heldere en efficiënte oplossingen. &lt;/p&gt;&lt;p&gt;Je werkt nauw samen met je team in een Agile omgeving, waar kennisdeling en samenwerking centraal staan. Daarnaast neem je ook een coachende rol op en help je collega-ontwikkelaars groeien in hun vak. Je voelt je comfortabel in het volledige ontwikkelproces, van analyse en ontwikkeling tot testen en deployment. Interesse in innovatieve technologieën, zoals AI binnen softwareontwikkeling, zien we als een sterke troef. Kortom, een veelzijdige rol voor een ervaren developer die impact wil maken en graag meebouwt aan kwalitatieve digitale oplossingen binnen een dynamische omgeving&lt;/p&gt;&lt;b style="text-align:justify;"&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;/b&gt;&lt;p&gt;Je hebt &lt;u&gt;4 jaar ervaring &lt;/u&gt;als Full Stack Java Ontwikkelaar en voelt je helemaal in je element binnen een team waar samenwerking centraal staat. Vanaf de analyse, doorheen de ontwikkeling tot testen en finaal de oplevering, voer je opdrachten efficiënt en gestructureerd uit. Je hebt een goed inzicht in de sterktes van flexibele, open-source oplossingen en weet deze doelgericht in te zetten binnen uiteenlopende toepassingen. Daarnaast ben je vertrouwd met het bouwen van robuuste integraties tussen systemen en externe databronnen. Je volgt technologische evoluties op de voet en hebt interesse in het inzetten van AI, waarbij je kansen ziet om processen slimmer, efficiënter en innovatiever te maken.&lt;/p&gt;&lt;p&gt;Je beschikt over de volgende competenties als ontwikkelaar:  &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kan programmatieopdrachten zeer vlot uitvoeren over de gehele levenscyclus van het ontwikkelproces: coderen, testen, debuggen en deployen.  &lt;/li&gt;&lt;li&gt;Je beschikt over gedegen ervaring in het maken van technische analyses en het uitwerken van de architectuur.&lt;/li&gt;&lt;li&gt;Je stelt samenwerken centraal, kan het ontwikkelteam op sleeptouw nemen en je collega ontwikkelaars coachen. &lt;/li&gt;&lt;li&gt;Projecten en organisaties die werken volgens de Agile principes zijn jou bekend.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Je werkt binnen een ecosysteem met onder meer een Kubernetes platform, databases zoals DB2 en PostgreS, ontwikkeltools zoals Git, Maven en Bamboo, frameworks zoals React, Spring Boot, Spring Security en IAM tool Keycloak. Je kan de volgende technische vaardigheden voorleggen om je bijdrage te leveren binnen ons IT landschap: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je beschikt over ruime ervaring in de ontwikkeling van JAVA gebaseerde toepassingen. &lt;/li&gt;&lt;li&gt;Eveneens heb je kennis van het ontwikkelen van moderne, gebruiksvriendelijke single-page applicaties. &lt;/li&gt;&lt;li&gt;Je kan REST services ontwikkelen en integreren, waarbij je data op een gestandaardiseerde en efficiënte manier ontsluit via HTTP-methoden (API). &lt;/li&gt;&lt;li&gt;Relationele databases zijn jou bekend, waarbij je ook vertrouwd bent met het modelleren, beheren en optimaliseren van gegevens. &lt;/li&gt;&lt;li&gt;Je hebt ervaring met containertechnologieën en weet hoe je applicaties efficiënt verpakt, uitrolt en beheert binnen moderne omgevingen. &lt;/li&gt;&lt;li&gt;Je hebt ervaring met Java build pipelines en integratietools, en weet hoe je het build- en deployproces betrouwbaar organiseert. &lt;/li&gt;&lt;li&gt;Je toont interesse in AI-driven development en low-code oplossingen. Je volgt de evoluties binnen dit domein met het oog op betere en snellere ontwikkelingstrajecten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Jouw toekomstig team&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:justify;"&gt;Jouw rol als Senior Full Stack Java Ontwikkelaar zal je opnemen binnen de Openbare Vlaamse Afvalstoffenmaatschappij. OVAM verzekert in Vlaanderen een duurzame omgang met afvalstoffen, materialen en bodem. We vullen de economische behoefte aan grondstoffen en materialen lokaal in door de kringloopeconomie uit te bouwen. We stimuleren onze doelgroepen om zorgvuldig om te springen met materialen en zetten in op preventie en hergebruik. We waarborgen de behoefte aan een goede bodemkwaliteit, open ruimte en gezond drinkwater. Dat doen we door nieuwe bodemverontreinigingen te vermijden en een effectief en billijk saneringsbeleid te voeren. We zijn in Vlaanderen hét aanspreekpunt voor het duurzame beheer van afval, materialen en bodem. Op wereldvlak zetten we onze expertise in afvalstoffen, materialen en bodem in om het internationale beleid mee vorm te geven.&lt;/p&gt;&lt;p style="text-align:justify;"&gt;&lt;strong&gt;Waar ga je werken&lt;/strong&gt;&lt;/p&gt;&lt;p style="text-align:justify;"&gt;Je werkt in Mechelen, op wandelafstand van het station.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;/b&gt;&lt;p&gt;Vlaanderen connect biedt een contract van 38 uur voor onbepaalde duur en een competitief salarispakket met: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijke bruto verloning (salaris tussen 3920 EUR en 5300 EUR, afhankelijk van ervaring, competenties en potentieel)&lt;/li&gt;&lt;li&gt;Een bonussysteem op basis van vast te leggen doelstellingen&lt;/li&gt;&lt;li&gt;28 dagen verlof en extra wettelijke feestdagen (11/07, 02/11 en 15/11). &lt;/li&gt;&lt;li&gt;Een mobiliteitsbudget van 810 EUR/maand&lt;/li&gt;&lt;li&gt;Maaltijdcheques van 8 euro/dag (eigen bijdrage 1,09 euro/dag) &lt;/li&gt;&lt;li&gt;Een forfaitaire onkostenvergoeding van 165 EUR/maand&lt;/li&gt;&lt;li&gt;Een hospitalisatieverzekering (je kan gezinsleden aansluiten) &lt;/li&gt;&lt;li&gt;Een groepsverzekering  (4% werkgeversbijdrage en 1% werknemersbijdrage)&lt;/li&gt;&lt;li&gt;Een arbeidsongevallenverzekering&lt;/li&gt;&lt;li&gt;Een opleidingsbudget&lt;/li&gt;&lt;li&gt;Flexibele werkuren &lt;/li&gt;&lt;li&gt;Mogelijkheden tot thuiswerk&lt;/li&gt;&lt;li&gt;Tegemoetkoming in de kosten van schoolvakantieopvang &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Redenen om voor Vlaanderen Connect te kiezen!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Werk bij Vlaanderen Connect en maak elke dag tastbaar verschil voor 6,5 miljoen mensen, van je straat tot de toekomst van heel Vlaanderen. Duik in uitdagende projecten waar kwaliteit, resultaat en de nieuwste technologieën centraal staan. Groei tussen digitale experten, deel je talent en krijg de ruimte om je ambities waar te maken. Voel je écht gewaardeerd, voor wie je bent en wat je bijdraagt, als professional en als mens.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In 6 stappen naar een job bij Vlaanderen Connect &lt;/strong&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Solliciteer&lt;/li&gt;&lt;li&gt;CV-screening &lt;/li&gt;&lt;li&gt;Testen&lt;/li&gt;&lt;li&gt;Interview&lt;/li&gt;&lt;li&gt;Voorstel&lt;/li&gt;&lt;li&gt;Welkom!&lt;/li&gt;&lt;/ol&gt;&lt;b&gt;&lt;strong&gt;Vragen over deze vacature?&lt;/strong&gt;&lt;/b&gt;&lt;p&gt;Contactpersoon&lt;/p&gt;&lt;p&gt;Gitte Collier&lt;/p&gt;&lt;p&gt;selectiesvlaanderenconnect@vlaanderen.be &lt;/p&gt;&lt;b style="text-align:justify;"&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73822362"/>
-    <published>2026-05-29T14:06:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73905424</id>
     <title>Teamlead Infrastructure (LGA IT)</title>
@@ -2230,7 +2222,7 @@ Je ondersteunt cloudmigraties, werkt mee aan infrastructuurprojecten en zorgt sa
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74793148</id>
     <title>C# / DevOps Engineer (Kingfisher IT)</title>
-    <updated>2026-10-08T14:16:55+00:00</updated>
+    <updated>2026-10-21T11:19:25+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze Belgische onderneming is een jong en dynamisch bedrijf gevestigd in regio Sint-Niklaas. Ze zijn gespecialiseerd in het ontwerpen, bouwen en onderhouden van geautomatiseerde systemen voor kleine tot middelgrote bedrijven, zowel in binnen als in het buitenland. &lt;br/&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je staat in voor de verdere ontwikkeling en optimalisatie van hun softwaresysteem in C#/.NET. Je ontwikkelt nieuwe functionaliteiten, verbetert bestaande componenten en bewaakt de kwaliteit, performantie en onderhoudbaarheid van de applicatie.&lt;br/&gt;Daarnaast werkt de medewerker mee aan de DevOps-werking, met focus op Docker, CI/CD en het automatiseren. Je helpt bij het beheren en verbeteren van de ontwikkel- en productieomgevingen en draagt bij aan een stabiele en efficiënte software.&lt;br/&gt;Je analyseert technische problemen, implementeert duurzame oplossingen en werkt nauw samen met het IT team.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je beschikt minstens over een bachelordiploma&lt;/li&gt;&lt;li&gt;Meer dan 3 jaar relevante ervaring&lt;/li&gt;&lt;li&gt;Kennis van development in C# / .NET&lt;/li&gt;&lt;li&gt;Kennis van CI/CD, Docker,...&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk&lt;/li&gt;&lt;li&gt;Je spreekt vlot Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Zeer competitief salaris&lt;/li&gt;&lt;li&gt;Stevige nettovergoeding&lt;/li&gt;&lt;li&gt;Elektrische bedrijfswagen met laadpas&lt;/li&gt;&lt;li&gt;Groeps- &amp; hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;32 vakantiedagen&lt;/li&gt;&lt;li&gt;Glijdende werkuren&lt;/li&gt;&lt;li&gt;Thuiswerk&lt;/li&gt;&lt;li&gt;Doorgroeimogelijkheden&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74793148"/>
     <published>2026-10-08T14:16:55+00:00</published>
@@ -2246,7 +2238,7 @@ Je ondersteunt cloudmigraties, werkt mee aan infrastructuurprojecten en zorgt sa
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74792860</id>
     <title>C# / DevOps Engineer (Kingfisher Recruitment)</title>
-    <updated>2026-10-08T13:46:19+00:00</updated>
+    <updated>2026-10-21T11:14:02+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Niklaas&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je staat in voor de verdere ontwikkeling en optimalisatie van hun softwaresysteem in C#/.NET. Je ontwikkelt nieuwe functionaliteiten, verbetert bestaande componenten en bewaakt de kwaliteit, performantie en onderhoudbaarheid van de applicatie.&lt;br&gt;Daarnaast werkt de medewerker mee aan de DevOps-werking, met focus op Docker, CI/CD en het automatiseren. Je helpt bij het beheren en verbeteren van de ontwikkel- en productieomgevingen en draagt bij aan een stabiele en efficiënte software.&lt;br&gt;Je analyseert technische problemen, implementeert duurzame oplossingen en werkt nauw samen met het IT team.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je beschikt minstens over een bachelordiploma&lt;/li&gt;&lt;li&gt;Meer dan 3 jaar relevante ervaring&lt;/li&gt;&lt;li&gt;Kennis van development in C# / .NET&lt;/li&gt;&lt;li&gt;Kennis van CI/CD, Docker,...&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk&lt;/li&gt;&lt;li&gt;Je spreekt vlot Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Deze Belgische onderneming is een jong en dynamisch bedrijf gevestigd in regio Sint-Niklaas. Ze zijn gespecialiseerd in het ontwerpen, bouwen en onderhouden van geautomatiseerde systemen voor kleine tot middelgrote bedrijven, zowel in binnen als in het buitenland.&amp;#160;&lt;br&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Zeer competitief salaris&lt;/li&gt;&lt;li&gt;Stevige nettovergoeding&lt;/li&gt;&lt;li&gt;Elektrische bedrijfswagen met laadpas&lt;/li&gt;&lt;li&gt;Groeps- &amp;amp; hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;32 vakantiedagen&lt;/li&gt;&lt;li&gt;Glijdende werkuren&lt;/li&gt;&lt;li&gt;Thuiswerk&lt;/li&gt;&lt;li&gt;Doorgroeimogelijkheden&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74792860"/>
     <published>2026-10-08T13:46:19+00:00</published>
@@ -2430,60 +2422,62 @@ Een veelzijdige functie met veel autonomie, verantwoordelijkheid en ontwikkeling
     <published>2026-10-09T07:17:47+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74798407</id>
-    <title>Kwery - Senior Functioneel Analist (ictjob.be)</title>
-    <updated>2026-10-12T11:18:09+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Voor een gevestigde organisatie met een sterke maatschappelijke missie binnen duurzaamheid en circulaire economie zijn we op zoek naar een gedreven Senior Functional Analyst. Je komt terecht in een dynamische omgeving waar digitalisering centraal staat en waar jouw ideeën en expertise écht het verschil kunnen maken.&lt;br /&gt;
-
-Vanuit de regio Diegem werk je mee aan uiteenlopende digitaliseringsprojecten binnen onder andere marketing, Finance en HR. Je krijgt de vrijheid om initiatief te nemen, processen kritisch te bekijken en projecten van analyse tot implementatie mee vorm te geven. Dit alles binnen een hecht team met korte communicatielijnen, waar samenwerking en zelfstandigheid hand in hand gaan.&lt;p&gt;&lt;strong&gt;Hoe zal jouw takenpakket eruit zien?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+    <id>https://www.vdab.be/vindeenjob/vacatures/74798847</id>
+    <title>Kwery - Functioneel Analist (ictjob.be)</title>
+    <updated>2026-10-12T11:18:08+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;
 
 &lt;li&gt;
-Je analyseert businessbehoeften en vertaalt deze naar heldere functionele specificaties, user stories en procesmodellen.&lt;br /&gt;
+Je brengt functionele behoeften in kaart en vertaalt deze naar duidelijke requirements, user stories en praktische oplossingen.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-Je werkt aan uiteenlopende digitaliseringsprojecten, waaronder webapplicaties, CRM-systemen, marketingtools en op maat ontwikkelde applicaties.&lt;br /&gt;
+Je analyseert bestaande bedrijfsprocessen en applicaties en onderzoekt hoe deze efficiënter en gebruiksvriendelijker kunnen worden ingericht.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-Je vormt de brug tussen business en IT en werkt nauw samen met stakeholders, ontwikkelaars, externe leveranciers en technische teams.&lt;br /&gt;
+Je werkt mee aan diverse IT-projecten, zoals de ontwikkeling van webapplicaties, CRM-oplossingen en de optimalisatie van interne systemen.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-Je neemt een trekkersrol binnen projecten, van functionele analyse en testing tot implementatie en go-live, waarbij je ook minder ervaren collega's ondersteunt.&lt;br /&gt;
+Je stemt regelmatig af met business stakeholders, IT-collega's en externe partners om ervoor te zorgen dat oplossingen aansluiten bij de noden van de organisatie.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-Je identificeert optimalisatiemogelijkheden binnen bestaande systemen en processen en denkt proactief mee over innovatieve oplossingen.&lt;br /&gt;
+Je ondersteunt het volledige traject van analyse en functionele testing tot implementatie, waarbij je de kwaliteit en goede werking van nieuwe toepassingen bewaakt.&lt;br /&gt;
 &lt;br /&gt;
 
 &lt;/li&gt;
 
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+
+Voor een stabiele en toekomstgerichte organisatie in de regio Diegem zoeken we een Functional Analyst die graag meedenkt over slimme digitale oplossingen. Je komt terecht in een omgeving waar technologie, innovatie en duurzaamheid samenkomen en waar volop wordt geïnvesteerd in de verdere digitalisering van de organisatie.&lt;br /&gt;
+
+Je krijgt de kans om betrokken te zijn bij uiteenlopende IT-projecten binnen verschillende afdelingen, van marketing en Finance tot HR. Geen eenzijdige functie dus, maar een veelzijdige uitdaging waarin je nauw samenwerkt met collega's uit de business en IT. Dankzij de informele werksfeer, korte communicatielijnen en ruimte voor eigen initiatief kan je hier echt jouw stempel drukken.&lt;p&gt;&lt;strong&gt;Wat verwachten zij van jou?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
 
 &lt;li&gt;
-Een bachelordiploma en minstens 8 jaar ervaring als Functioneel Analist of Business Analist.&lt;br /&gt;
+Een bachelordiploma en minstens 5 jaar ervaring als Functioneel Analist of Business Analist.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
-Ervaring met BPMN, UML en Agile/Scrum. Kennis van SQL, systeemintegraties en tools zoals Jira of Azure DevOps is een plus.&lt;br /&gt;
+Ervaring met functionele analysemethodologieën, zoals BPMN, UML en Agile/Scrum. Kennis van SQL, systeemintegraties of Jira is een pluspunt.&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;li&gt;
 Je communiceert vlot in het Nederlands, durft je uit te drukken in het Frans en hebt een goede kennis van het Engels. Je bent zelfstandig, proactief en communicatief sterk, met een oprechte interesse in duurzaamheid.&lt;br /&gt;
-&lt;br /&gt;
+
 
 &lt;/li&gt;
 
@@ -2526,7 +2520,7 @@ Maar liefst 35 verlofdagen, waarvan 12 ADV-dagen&lt;br /&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-2 dagen thuiswerk per week en flexibele werkuren met opstart tussen 7u30 en 10u&lt;br /&gt;
+2 dagen thuiswerk per week en flexibele werkuren&lt;br /&gt;
 
 
 &lt;/li&gt;
@@ -2550,14 +2544,14 @@ Een groepsverzekering en hospitalisatieverzekering&lt;br /&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-Een veelzijdige functie met veel autonomie, verantwoordelijkheid en ontwikkelingsmogelijkheden binnen een organisatie die duurzaamheid centraal stelt&lt;br /&gt;
+Een afwisselende functie met ruimte voor initiatief en professionele ontwikkeling, binnen een betrokken organisatie waar jouw werk bijdraagt aan een duurzamere toekomst&lt;br /&gt;
 
 
 &lt;/li&gt;
 
 &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74798407"/>
-    <published>2026-10-09T07:17:47+00:00</published>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/74798847"/>
+    <published>2026-10-09T09:17:49+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74798847</id>
@@ -3223,5 +3217,35 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Voor onze klant binnen de &lt;strong&gt;financiële sector &lt;/strong&gt;ben ik op zoek naar een Full Stack .NET Developer. Deze organisatie is niet blind voor de huidige digitale stroomversnelling van onze wereld en investeert dan ook al jaren fors in de nieuwste technologieën, wat zich consequent vertaalt in de kwaliteit van haar dienstverlening.&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Je zal&amp;nbsp;&lt;strong&gt;meewerken aan de verdere digitalisering van de ondersteunende afdelingen binnen de organisatie&lt;/strong&gt;. Je&amp;nbsp;&lt;strong&gt;ontwerpt, bouwt en onderhoudt applicaties die bedrijfsprocessen over verschillende afdelingen heen ondersteunen&lt;/strong&gt;. Daarbij werk je nauw samen met analisten van de aanvragende domeinen om de requirements goed te begrijpen en te vertalen naar kwalitatieve technische oplossingen. Samen met de Domain en Platform Architects zorg je ervoor dat je ontwikkelingen aansluiten bij het bredere applicatie- en technologielandschap.&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Je bent betrokken bij de&amp;nbsp;&lt;strong&gt;volledige software lifecycle&lt;/strong&gt;: van&amp;nbsp;&lt;strong&gt;solution design en implementatie tot deployment, monitoring en continue verbetering&lt;/strong&gt;. Daarbij ligt de focus op het ontwikkelen van herbruikbare oplossingen die meerdere afdelingen ten goede komen. Je krijgt de ruimte om actief mee te denken over technische verbeteringen en applicaties die een concrete meerwaarde bieden voor de business.&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;Daarbij combineer je je kennis van&amp;nbsp;&lt;strong&gt;.NET, C# en Angular&lt;/strong&gt; met moderne ontwikkelmethodes, waaronder&amp;nbsp;&lt;strong&gt;AI-assisted development&lt;/strong&gt; en tools zoals&amp;nbsp;&lt;strong&gt;GitHub Copilot&lt;/strong&gt;. Zo draag je bij aan kwalitatieve en efficiënte softwareontwikkeling binnen een hoogtechnologische omgeving.&lt;/span&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je behaalde een relevant&amp;nbsp;&lt;strong&gt;bachelor- of masterdiploma&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je hebt minstens 5 jaar relevante&amp;nbsp;&lt;strong&gt;ervaring als Full Stack .NET/Angular Developer&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je combineert een analytische mindset met een hands-on aanpak en vertaalt requirements vlot naar technische oplossingen&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je werkt graag samen met analisten, architecten en andere developers om applicaties te ontwikkelen die verschillende bedrijfsprocessen ondersteunen&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;&lt;strong&gt;Tech: .NET, C#, Angular en TypeScript&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Je staat open voor &lt;strong&gt;AI-assisted development&lt;/strong&gt; en hebt ervaring met tools zoals &lt;strong&gt;GitHub Copilot&lt;/strong&gt; om je ontwikkelproces efficiënter te maken.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Competitief loon, aangevuld met extralegale voordelen (&lt;strong&gt;bedrijfswagen of mobiliteitsbudget&lt;/strong&gt;, nettovergoeding, hospitalisatieverzekering voor jou en je gezin, groepsverzekering, ecocheques...)&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Aantrekkelijk aandelenoptieplan&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Prachtig hoofdkantoor met&amp;nbsp;&lt;strong&gt;bedrijfsrestaurant&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;span&gt;Zeer weinig verloop en een stabiele werkomgeving&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74875628"/>
     <published>2026-10-20T09:11:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/74887590</id>
+    <title>Cybersecurity Automation Engineer (HIVE Consultancy)</title>
+    <updated>2026-10-21T14:11:24+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: HIVE Consultancy (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor onze klant, actief in de industriële sector, zijn wij op zoek naar een Cybersecurity Automation Engineer voor de regio Antwerpen, Kempen of Genk. &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je voert cybersecurityprojecten uit van analyse en inventarisatie tot implementatie en oplevering&lt;/li&gt; 
+&lt;li&gt;Je brengt industriële netwerken en de aangesloten assets in kaart en zorgt voor een correcte documentatie van de bestaande situatie&lt;/li&gt; 
+&lt;li&gt;Je werkt mee aan de uitwerking en implementatie van netwerksegmentatie binnen industriële omgevingen&lt;/li&gt; 
+&lt;li&gt;Je configureert en implementeert firewalls, switches en oplossingen voor veilige externe toegang&lt;/li&gt; 
+&lt;li&gt;Je zet monitoring op binnen de netwerken om zicht te krijgen op netwerkverkeer en verbonden systemen&lt;/li&gt; 
+&lt;li&gt;Je test, valideert en neemt oplossingen in dienst, steeds in overleg met de klant zodat de productieprocessen maximaal gegarandeerd blijven&lt;/li&gt; 
+&lt;li&gt;Je ondersteunt cybersecurity assessments en helpt bij het identificeren van mogelijke verbeterpunten binnen de omgeving&lt;/li&gt; 
+&lt;li&gt;Je documenteert netwerkarchitecturen, configuraties en technische wijzigingen op een gestructureerde manier&lt;/li&gt; 
+&lt;li&gt;Je fungeert als technisch aanspreekpunt op de site en stemt af met operators, onderhoudstechniekers, IT-teams en andere betrokken stakeholders&lt;/li&gt; 
+&lt;li&gt;Je ondersteunt de projectmanager bij de planning, voortgangsopvolging en rapportering van de projecten&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je beschikt over een bachelor- of masterdiploma in automatisatie, elektromechanica, elektronica-ICT of een gelijkwaardige technische richting&lt;/li&gt; 
+&lt;li&gt;Je hebt ervaring met industriële automatisatieomgevingen en bent vertrouwd met PLC-, SCADA- en/of DCS-systemen&lt;/li&gt; 
+&lt;li&gt;Je hebt kennis van industriële netwerken en protocollen zoals Profinet, Modbus TCP en EtherNet/IP&lt;/li&gt; 
+&lt;li&gt;Je beschikt over een goede basiskennis van netwerken, waaronder IP-adressering, VLAN’s, switching en routing&lt;/li&gt; 
+&lt;li&gt;Je hebt een sterke interesse in OT-cybersecurity en netwerkbeveiliging en wilt je hier verder in ontwikkelen. Ervaring binnen cybersecurity is geen vereiste&lt;/li&gt; 
+&lt;li&gt;Je werkt nauwkeurig en hecht belang aan een correcte en volledige technische documentatie&lt;/li&gt; 
+&lt;li&gt;Je voelt je thuis in een industriële omgeving en werkt graag op locatie bij klanten&lt;/li&gt; 
+&lt;li&gt;Je communiceert vlot met verschillende stakeholders, waaronder operators, onderhoudstechniekers en IT-medewerkers&lt;/li&gt; 
+&lt;li&gt;Je bent leergierig, staat open voor kennisdeling en haalt energie uit samenwerken met ervaren collega’s&lt;/li&gt; 
+&lt;li&gt;Je communiceert vlot in het Nederlands en beschikt over een goede kennis van het Engels&lt;/li&gt; 
+&lt;li&gt;Je beschikt over een rijbewijs B&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/74887590"/>
+    <published>2026-10-21T14:11:24+00:00</published>
   </entry>
 </feed>
