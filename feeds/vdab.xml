@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-10-25T09:13:27.277350+00:00</updated>
+  <updated>2026-10-25T14:26:16.620351+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73914605</id>
+    <title>Senior Azure BI &amp; Data Engineer (Datashift)</title>
+    <updated>2026-09-18T09:36:32+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Datashift (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Datashift is a fast-growing consultancy team with a focus on delivering solutions that answer business questions with data and facts. For one of our fastest growing practices, we are looking for a skilled &lt;strong&gt;Azure BI &amp;amp; Data Engineer&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Do you have at least&lt;strong&gt; 4 to 6 years of experience?&lt;/strong&gt; Do you love to work on projects and look at them from an end-to-end data perspective. Then we are delighted to receive your personal application and we’ll contact you for an interview and a (virtual) cup of coffee.&lt;/p&gt;&lt;strong&gt;Your responsibilities&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Leverage your Azure expertise to credibly translate customer needs into components and best practices within the Azure Data Platform.&lt;/li&gt;&lt;li&gt;Serve as the primary internal and external contact for specialized Azure expertise, with the opportunity to progress toward an Architect role.&lt;/li&gt;&lt;li&gt;Design and build data solutions within the Azure framework, making the trade-off between cost and maintainability.&lt;/li&gt;&lt;li&gt;You thrive on collaborating with colleagues and leverage your expertise to maximize your impact within our organization.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Stay up to date with technical developments, particularly those related to Azure, and quickly identify new features that can add value to data solutions.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Your qualifications&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;You have 4+ years of hands-on experience in the Microsoft BI ecosystem (Azure Data Factory, Azure Synapse Analytics, Databricks, Microsoft Fabric, Analysis Services en SQL Server Integration Services), preferably within an Azure cloud environment.&lt;/li&gt;&lt;li&gt;Demonstrated experience in building and optimizing ETL/ELT data pipelines and integrating data from diverse sources (also api’s).&lt;/li&gt;&lt;li&gt;Deep understanding of modern data architecture concepts, including Data Warehouses, the Kimball methodology, and Data Lakehouses, with hands-on experience and best practices in these areas.&lt;/li&gt;&lt;li&gt;&lt;p&gt;SQL is your Swiss army knife for data transformation, and you’re also well-versed in Python to tackle any data challenge that comes your way.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Our offer&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;A highly entrepreneurial team;&lt;/li&gt;&lt;li&gt;A no-nonsense working environment with a focus on high quality;&lt;/li&gt;&lt;li&gt;Excellent terms of employment (including company car, fuel card, meal vouchers &amp;amp; bonus);&lt;/li&gt;&lt;li&gt;Fringe benefits including continuous training that builds and extends professional, technical and management skills in all areas;&lt;/li&gt;&lt;li&gt;The opportunity to grow together with Datashift in terms of capabilities as well as financial benefits.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73914605"/>
+    <published>2026-06-11T15:32:32+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73914474</id>
     <title>Security / Cybersecurity Specialist | Mwingz (Proximus Group)</title>
@@ -156,14 +164,6 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je neemt een sleutelrol op binnen complexe softwareprojecten en digitale platformen. Je combineert hands-on development met technische leadership en begeleidt teams bij het bouwen van schaalbare, performante en toekomstgerichte .NET-oplossingen.&lt;br&gt;Je denkt actief mee over softwarearchitectuur, technische keuzes en codekwaliteit en fungeert als inhoudelijke sparringpartner voor developers, analisten en stakeholders. Daarbij help je technische uitdagingen te vertalen naar pragmatische oplossingen en bewaak je de technische richting van projecten.&lt;br&gt;Naast je eigen ontwikkeling speel je ook een belangrijke rol in het coachen van collega's, het stimuleren van kennisdeling en het verder uitbouwen van engineering best practices. Je krijgt hierbij veel autonomie en vertrouwen om verbeteringen door te voeren en impact te maken op zowel de technische werking als de eindoplossing.&lt;br&gt;Je werkt in een omgeving waar moderne technologieën, cloudplatformen, AI-tools en software craftsmanship centraal staan.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT&lt;/li&gt;&lt;li&gt;Sterke professionele ervaring binnen .NET&lt;/li&gt;&lt;li&gt;Sterke kennis van moderne softwarearchitectuur, design patterns en best practices&lt;/li&gt;&lt;li&gt;Kennis van front-end frameworks in JavaScript/TypeScript is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en voelt je comfortabel in overleg met zowel technische als niet-technische stakeholders&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Een jonge Belgische softwarebouwer, opgericht door ervaren software engineers, bouwt hoogwaardige digitale platformen en bedrijfskritische applicaties voor uiteenlopende klanten. In tegenstelling tot klassieke consultancybedrijven ligt de focus hier niet op zoveel mogelijk mensen plaatsen, maar op het leveren van technische kwaliteit, duurzame oplossingen en sterke engineering teams.&lt;br&gt;De organisatie werd opgericht vanuit de overtuiging dat goede software ontstaat wanneer getalenteerde engineers de ruimte krijgen om hun vak uit te oefenen, van elkaar te leren en technische uitdagingen inhoudelijk aan te pakken. Kennisdeling, innovatie, vakmanschap en persoonlijke groei vormen dan ook de fundamenten van hun cultuur.&lt;br&gt;Door hun sterke groei breiden ze hun team vandaag uit.&lt;br/&gt;&lt;br/&gt;Je komt terecht in een organisatie die volledig gebouwd werd door engineers, voor engineers. Technische kwaliteit staat centraal en je krijgt de ruimte om jezelf verder te ontwikkelen in een omgeving waar kennisdeling en ondernemerschap dagelijks worden gestimuleerd.&lt;br&gt;Daarnaast mag je rekenen op:&lt;br&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon met jaarlijkse groeiperspectieven&lt;/li&gt;&lt;li&gt;bedrijfswagen met tankkaart of laadkaart&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;internetvergoeding&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;cafetariaplan&lt;/li&gt;&lt;li&gt;uitgebreid opleidings- en mentorprogramma&lt;/li&gt;&lt;li&gt;technische communities en kennisdelingssessies&lt;/li&gt;&lt;li&gt;regelmatige teamactiviteiten en events&lt;/li&gt;&lt;li&gt;véél thuiswerkmogelijkheden&lt;/li&gt;&lt;li&gt;uitdagende projecten met moderne technologieën en AI-tools&lt;/li&gt;&lt;/ul&gt;Interesse?michael@kingfisher-it.be</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73945109"/>
     <published>2026-06-15T14:03:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73945114</id>
-    <title>.NET Full Stack Engineer (Senior) (Kingfisher Recruitment)</title>
-    <updated>2026-09-21T09:28:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je werkt in team aan complexe applicaties en softwareplatformen binnen uiteenlopende omgevingen. Je neemt verantwoordelijkheid over de technische uitwerking van oplossingen, denkt mee na over architectuur en technische keuzes en werkt nauw samen met andere developers, analisten en stakeholders. Je krijgt veel autonomie, vertrouwen en de ruimte om technische verbeteringen aan te brengen die echt impact hebben. Ook AI &amp;amp; relevante tools zijn ze uiteraard ook fervent gebruikers van.&lt;br&gt;Je werkt in een omgeving waar moderne technologieën, cloudoplossingen, AI-tools en software craftsmanship een vanzelfsprekend onderdeel zijn van de dagelijkse werking.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT&lt;/li&gt;&lt;li&gt;Sterke professionele ervaring binnen .NET&lt;/li&gt;&lt;li&gt;Sterke kennis van moderne softwarearchitectuur, design patterns en best practices&lt;/li&gt;&lt;li&gt;Kennis van front-end frameworks in JavaScript/TypeScript is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en voelt je comfortabel in overleg met zowel technische als niet-technische stakeholders&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Een jonge Belgische softwarebouwer, opgericht door ervaren software engineers, bouwt hoogwaardige digitale platformen en bedrijfskritische applicaties voor uiteenlopende klanten. In tegenstelling tot klassieke consultancybedrijven ligt de focus hier niet op zoveel mogelijk mensen plaatsen, maar op het leveren van technische kwaliteit, duurzame oplossingen en sterke engineering teams.&lt;br&gt;De organisatie werd opgericht vanuit de overtuiging dat goede software ontstaat wanneer getalenteerde engineers de ruimte krijgen om hun vak uit te oefenen, van elkaar te leren en technische uitdagingen inhoudelijk aan te pakken. Kennisdeling, innovatie, vakmanschap en persoonlijke groei vormen dan ook de fundamenten van hun cultuur.&lt;br&gt;Door hun sterke groei breiden ze hun team vandaag uit.&lt;br/&gt;&lt;br/&gt;Je komt terecht in een organisatie die volledig gebouwd werd door engineers, voor engineers. Technische kwaliteit staat centraal en je krijgt de ruimte om jezelf verder te ontwikkelen in een omgeving waar kennisdeling en ondernemerschap dagelijks worden gestimuleerd.&lt;br&gt;Daarnaast mag je rekenen op:&lt;br&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon met jaarlijkse groeiperspectieven&lt;/li&gt;&lt;li&gt;bedrijfswagen met tankkaart of laadkaart&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;internetvergoeding&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;cafetariaplan&lt;/li&gt;&lt;li&gt;uitgebreid opleidings- en mentorprogramma&lt;/li&gt;&lt;li&gt;technische communities en kennisdelingssessies&lt;/li&gt;&lt;li&gt;regelmatige teamactiviteiten en events&lt;/li&gt;&lt;li&gt;véél thuiswerkmogelijkheden&lt;/li&gt;&lt;li&gt;uitdagende projecten met moderne technologieën en AI-tools&lt;/li&gt;&lt;/ul&gt;Interesse?michael@kingfisher-it.be</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73945114"/>
-    <published>2026-06-15T14:03:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73941702</id>
@@ -1738,86 +1738,6 @@ Je ondersteunt cloudmigraties, werkt mee aan infrastructuurprojecten en zorgt sa
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Pensaert &amp;amp; Partners BV (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wil jij organisaties helpen om écht waarde te halen uit Data &amp;amp; AI en tegelijk de koers bepalen van complexe transformatietrajecten?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als &lt;strong&gt;Data &amp;amp; AI Transformation Manager&lt;/strong&gt; kom je terecht in een ambitieus consultancybedrijf in &lt;strong&gt;Mechelen&lt;/strong&gt;, waar impact en samenwerking centraal staan. Je begeleidt organisaties bij strategische Data &amp;amp; AI-vraagstukken en vertaalt complexe uitdagingen naar concrete transformatietrajecten die ook daadwerkelijk resultaat opleveren.&lt;/p&gt;&lt;p&gt;Je werkt nauw samen met business leaders, C-level stakeholders en gespecialiseerde data- en AI-profielen en neemt de leiding over projecten rond onder andere &lt;strong&gt;AI-adoptie, data governance, operating models en digitale transformatie&lt;/strong&gt;. Geen technologie om de technologie, maar oplossingen die organisaties slimmer, efficiënter en toekomstgerichter maken.&lt;br /&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruitzien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;Leiden van end-to-end Data &amp;amp; AI transformatieprogramma's van strategie tot implementatie en operationalisatie.&lt;/li&gt;&lt;li dir="ltr"&gt;Managen van multidisciplinaire projectteams met data strategen, analytics experts, data engineers, AI specialisten en verandermanagers.&lt;/li&gt;&lt;li dir="ltr"&gt;Adviseren van senior management en C-level stakeholders over transformatiestrategie en uitvoering.&lt;/li&gt;&lt;li dir="ltr"&gt;Ontwikkelen van transformatieroadmaps, business cases en implementatieplannen afgestemd op klantdoelstellingen.&lt;/li&gt;&lt;li dir="ltr"&gt;Begeleiden van organisaties bij adoptie van geavanceerde analytics, machine learning, generatieve AI en nieuwe AI-technologiën.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;Minimaal 6 jaar relevante ervaring in Data, Analytics, AI of digitale transformatieconsulting met bewezen leiderschap in complexe projecten.&lt;/li&gt;&lt;li dir="ltr"&gt;Sterke kennis van de volledige Data &amp;amp; AI waardeketen, inclusief strategie, governance, data kwaliteit, architectuur en advanced analytics.&lt;/li&gt;&lt;li dir="ltr"&gt;Uitstekende communicatieve vaardigheden en ervaring met stakeholdermanagement op senior en directieniveau.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Een aantrekkelijk brutosalaris tussen €6.000 en €7.500 per maand, afgestemd op jouw ervaring&lt;/li&gt;&lt;li dir="ltr"&gt;Een aantrekkelijk salarispakket inclusief premium elektrische bedrijfswagen met laadkaart, netto vergoedingen, bonus en een gepersonaliseerd cafetariaplan.&lt;/li&gt;&lt;li dir="ltr"&gt;Volledige verzekeringsdekking inclusief groeps- en hospitalisatieverzekering met extra opties.&lt;/li&gt;&lt;li dir="ltr"&gt;Flexibele werktijden, hybride werken en de mogelijkheid om 20 dagen per jaar wereldwijd te werken.&lt;/li&gt;&lt;li dir="ltr"&gt;Een inclusieve werkomgeving met diverse communities waar je jezelf kunt zijn.&lt;/li&gt;&lt;li dir="ltr"&gt;Gerichte opleidingen en persoonlijke ontwikkelingsmogelijkheden met ondersteuning van buddy en performance manager.&lt;/li&gt;&lt;li dir="ltr"&gt;Mogelijkheden om deel te nemen aan sportieve en maatschappelijke initiatieven via interne programma's.&lt;/li&gt;&lt;li dir="ltr"&gt;Ondersteuning voor mentale en emotionele gezondheid met vertrouwenspersonen en hulpprogramma's.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74681732"/>
     <published>2026-09-24T09:28:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74697514</id>
-    <title>Business Process &amp; Project Manager (Synergie Belgium nv Hoofdkantoor)</title>
-    <updated>2026-09-27T18:33:24+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Synergie Belgium nv Hoofdkantoor (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Breng structuur in processen. Laat projecten landen. Maak impact.&lt;p&gt;&lt;strong&gt;Ben jij een ervaren Business Process Manager, Project Manager of Business Analist die energie krijgt van het verbeteren van processen én het succesvol realiseren van projecten?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Je bent de verbindende schakel tussen business en IT, brengt stakeholders samen en zorgt voor duurzame verandering.&lt;/p&gt;
-&lt;p&gt;Je focus ligt op: &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Procesmanagement &amp; Procesoptimalisatie&lt;/strong&gt;&lt;p&gt;Je bouwt mee aan een organisatie waarin processen helder, efficiënt en toekomstbestendig zijn.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ontwikkelen en implementeren van een uniforme aanpak voor &lt;strong&gt;procesdocumentatie&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;End-to-end processen&lt;/strong&gt; in kaart brengen en rollen, verantwoordelijkheden en kennis borgen&lt;/li&gt;
-&lt;li&gt;Waken over de &lt;strong&gt;kwaliteit en actualiteit&lt;/strong&gt; van procesdocumentatie&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Proceseigenaars begeleiden&lt;/strong&gt; bij het onderhouden en verbeteren van hun processen&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Projectmanagement &lt;/strong&gt;&lt;p&gt;Je leidt projecten van idee tot succesvolle implementatie.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Definiëren van &lt;strong&gt;doelstellingen, scope, planning&lt;/strong&gt; en verantwoordelijkheden&lt;/li&gt;
-&lt;li&gt;Toepassen van een &lt;strong&gt;gestandaardiseerde projectmethodiek &lt;/strong&gt;en rapportering&lt;/li&gt;
-&lt;li&gt;Bewaken van &lt;strong&gt;voortgang, risico's,&lt;/strong&gt; afhankelijkheden en capaciteit&lt;/li&gt;
-&lt;li&gt;Coördineren van &lt;strong&gt;stakeholders &lt;/strong&gt;en zorgen voor heldere communicatie&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Business Analyse &amp; IT Vertaling &lt;/strong&gt;&lt;p&gt;Je vormt de brug tussen business en IT.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Analyseren en optimaliseren van &lt;strong&gt;bedrijfsprocessen&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Vertalen van &lt;strong&gt;businessnoden &lt;/strong&gt;naar functionele oplossingen&lt;/li&gt;
-&lt;li&gt;Ondersteunen van &lt;strong&gt;digitaliserings- en verbetertrajecten&lt;/strong&gt; binnen ERP-, CRM- en ATS-omgevingen&lt;/li&gt;
-&lt;li&gt;Begeleiden van&lt;strong&gt; testing, implementatie en ingebruikname&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Stakeholder- &amp; Change Management&lt;/strong&gt;&lt;p&gt;Je creëert draagvlak voor verandering en verbetering.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Uitbouwen van sterke relaties met&lt;strong&gt; interne en externe stakeholders&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Faciliteren van &lt;strong&gt;besluitvorming &lt;/strong&gt;rond complexe vraagstukken&lt;/li&gt;
-&lt;li&gt;Begeleiden van &lt;strong&gt;verandertrajecten &lt;/strong&gt;via communicatie, opleiding en adoptie&lt;/li&gt;
-&lt;li&gt;Verankeren van &lt;strong&gt;nieuwe processen, systemen en werkwijzen&lt;/strong&gt; binnen de organisatie&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Teamontwikkeling &lt;/strong&gt;&lt;p&gt;Je versterkt de interne expertise en samenwerking.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Functioneel aansturen&lt;/strong&gt; en ondersteunen van projectteamleden&lt;/li&gt;
-&lt;li&gt;Coachen van collega's in procesdenken, projectwerking en analyse&lt;/li&gt;
-&lt;li&gt;Borgen van kennis via &lt;strong&gt;standaarden, templates en best practices&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat breng je mee?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Je bent een analytische en gestructureerde professional die mensen weet mee te krijgen en graag verantwoordelijkheid neemt.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wat heb je zeker op zak:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Minimaal &lt;strong&gt;5 jaar ervaring&lt;/strong&gt; in procesmanagement, business analyse en projectmanagement&lt;/li&gt;
-&lt;li&gt;Ervaring met het documenteren, optimaliseren en borgen van bedrijfsprocessen&lt;/li&gt;
-&lt;li&gt;Ervaring met het &lt;strong&gt;leiden van projecten&lt;/strong&gt; van analyse tot implementatie&lt;/li&gt;
-&lt;li&gt;Sterke stakeholdermanagement- en communicatieve vaardigheden&lt;/li&gt;
-&lt;li&gt;Ervaring in de samenwerking tussen business en IT&lt;/li&gt;
-&lt;li&gt;Vlotte kennis van &lt;strong&gt;Nederlands &lt;/strong&gt;en Engels&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Basiskennis Frans&lt;/strong&gt; voor interne communicatie&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Mooie extra's:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ervaring met&lt;strong&gt; ERP-, ATS- en/of CRM&lt;/strong&gt;-systemen&lt;/li&gt;
-&lt;li&gt;Ervaring met het functioneel aansturen van projectteams&lt;/li&gt;
-&lt;li&gt;Ervaring met portfoliomanagement of projectprioritering&lt;/li&gt;
-&lt;li&gt;Ambitie om door te groeien naar een leidinggevende rol binnen Project Management&lt;/li&gt;
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat mag je verwachten?&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Vast contract van onbepaalde duur&lt;/li&gt;
-&lt;li&gt;Brutoloon tussen €4.000 en €5.000 per maand, afhankelijk van ervaring&lt;/li&gt;
-&lt;li&gt;Bedrijfswagen&lt;/li&gt;
-&lt;li&gt;Maaltijdcheques&lt;/li&gt;
-&lt;li&gt;Hospitalisatie- en groepsverzekering&lt;/li&gt;
-&lt;li&gt;GSM en laptop&lt;/li&gt;
-&lt;li&gt;Twee dagen thuiswerk per week&lt;/li&gt;
-&lt;li&gt;32 verlofdagen die je vrij kan opnemen &lt;/li&gt;
-&lt;li&gt;Benefits@work&lt;/li&gt;
-&lt;li&gt;Jaarbonusregeling &lt;/li&gt;
-&lt;li&gt;Doorgroeimogelijkheden naar Portfolio Manager of Team Lead Project Management&lt;/li&gt;
-&lt;li&gt;Een rol met directe impact op de werking en groei van de organisatie&lt;/li&gt;
-&lt;li&gt;Nauwe samenwerking met de Head of IT en het management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Waarom kiezen voor Synergie?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bij Synergie krijg je de ruimte om initiatief te nemen, processen te verbeteren en nieuwe ideeën uit te werken. We investeren in onze mensen, stimuleren samenwerking en geven vertrouwen om verantwoordelijkheid op te nemen. Zo krijg je niet alleen de kans om campagnes te beheren, maar ook om mee te bouwen aan de toekomst van onze marketingwerking. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Interesse?&lt;/strong&gt;&lt;p&gt;&lt;strong&gt;Solliciteer vandaag nog en vertel ons waarom deze functie bij jou past. We maken graag kennis met je.&lt;/strong&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74697514"/>
-    <published>2026-09-25T16:52:14+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74695734</id>
