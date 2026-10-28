@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-10-28T00:48:38.240451+00:00</updated>
+  <updated>2026-10-28T10:06:29.716314+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -147,90 +147,6 @@ Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt
     <link href="https://www.cartiere.be/jobs/analyics-engineer/"/>
     <category term="Analytics Engineer"/>
     <published>2026-07-07T16:42:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer-4/</id>
-    <title>Data Engineer</title>
-    <updated>2026-10-05T14:54:07+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Frederik Lintsstraat 57, 3000, Flemish Brabant Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-09-11 07:06:47+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-10-05 14:54:07+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-09-11 07:06:47+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;Data Engineer&lt;br&gt;
-Regio Vlaams-Brabant - Internationaal&lt;/strong&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Een snelgroeiende AI-start-up uit Vlaams-Brabant bouwt aan een volledig nieuw CRM- en ATS-platform dat de rekruteringswereld radicaal vernieuwt. Geen klassieke software met wat AI erbovenop, maar een AI-native systeem dat repetitieve taken automatiseert en recruitmentteams in staat stelt meer te realiseren in minder tijd. Het resultaat is een alles-in-één oplossing waarin kandidaten, vacatures, klanten, communicatie, AI-toepassingen en analytics volledig geïntegreerd zijn. Geen versnippering, maar één krachtig geheel.&lt;br&gt;
- &lt;br&gt;
-Het platform is schaalbaar en geschikt voor recruitmentbedrijven wereldwijd. Op korte tijd groeide de organisatie van een jonge start-up naar een internationale scale-up met klanten in verschillende continenten. Ook het team, de buitenlandse aanwezigheid en het aantal nieuwe klanten namen sterk toe. Daardoor wordt de migratieorganisatie verder uitgebreid en geprofessionaliseerd. Je komt terecht in een jonge, ambitieuze en technisch sterke omgeving waarin het tempo hoog ligt en nog bijzonder veel kan worden opgebouwd en verbeterd.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data Engineer word je verantwoordelijk voor een van de belangrijkste momenten in de klantreis: de volledige datamigratie naar het platform. Je analyseert bestaande ATS- en CRM-omgevingen, brengt datastructuren en datakwaliteit in kaart en bouwt de migraties technisch uit met SQL en dbt. Je werkt rechtstreeks met klanten, bepaalt hoe hun data het best gemapt wordt en zorgt dat elke overstap correct en vlot verloopt.&lt;br&gt;
- &lt;br&gt;
-Tegelijk kijk je verder dan één migratie. Je automatiseert processen, bouwt herbruikbare workflows en denkt mee hoe datamigraties schaalbaar kunnen meegroeien met een groeiend internationaal klantenbestand. Wat jij vandaag bouwt om één overstap beter te maken, kan morgen de standaard worden voor honderden volgende klanten.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je hebt minstens twee jaar relevante ervaring als Data Engineer.
-	&lt;li&gt;Je hebt ervaring met complexe datamigraties.
-	&lt;li&gt;Je bent sterk in SQL en Python.
-	&lt;li&gt;Je hebt ervaring met dbt.
-	&lt;li&gt;Kennis van Snowflake is een plus.
-	&lt;li&gt;Je analyseert graag complexe datastructuren en vindt snel patronen en oplossingen.
-	&lt;li&gt;Je communiceert vlot in het Engels en voelt je thuis in rechtstreeks klantcontact.
-	&lt;li&gt;Je hebt een universitair diploma.
-	&lt;li&gt;Je krijgt energie van een omgeving die snel groeit en verandert.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
-Dit is vooral een sterke opportuniteit voor wie vroeg wil instappen in een internationaal AI-bedrijf met uitzonderlijke groeiambities. Je werkt vanuit Vlaams-Brabant, aan een product dat vandaag al wereldwijd gebruikt wordt, en krijgt technische vraagstukken die snel groter en complexer worden: meer klanten, meer bronsystemen, grotere datasets en migraties die steeds verder geautomatiseerd moeten worden.&lt;br&gt;
-&lt;br&gt;
-Je zit bovendien dicht bij het product en de founders. Je maakt van dichtbij mee hoe een Belgische tech-start-up echt internationaal doorbreekt, en krijgt volop ruimte om mee te groeien naarmate het bedrijf verder schaalt.&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer?&lt;br&gt;
-Stuur nu jouw CV naar lola@cartiere.be en bel +32 3 343 94 94 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/data-engineer-4/"/>
-    <category term="Data Engineering"/>
-    <published>2026-09-11T07:06:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer/</id>
-    <title>Data Engineer</title>
-    <updated>2026-10-02T13:45:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Ieper, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-10-02 14:45:46+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-10-02 13:45:46+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-10-02 14:45:46+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
-Deze internationale productiegroep ontwikkelt en produceert elektronica en bekabeling op maat van klanten in sectoren waar kwaliteit en betrouwbaarheid cruciaal zijn, waaronder ruimtevaart, defensie, mobiliteit, healthcare en industrie. De organisatie heeft productiesites in Europa, Noord-Amerika en Azië.&lt;br&gt;
-&lt;br&gt;
-Data krijgt vandaag een steeds belangrijkere rol binnen die omgeving. Het bestaande platform draait op Azure, maar de volgende stap moet nog gebouwd worden: een nieuwe dataomgeving op Microsoft Fabric. En net daar kom jij binnen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data Engineer combineer je een bestaand platform met een greenfield uitdaging. Samen met een collega Data Engineer neem je het huidige Azure-platform voor je rekening: je bouwt en optimaliseert pipelines in Azure Data Factory, schrijft SQL, werkt aan datamodellen en bouwt mee aan de semantische laag achter Power BI. Je focus ligt op de backend, de visualisaties nemen andere collega&amp;apos;s op. Tegelijk start de migratie naar Microsoft Fabric. Je trekt die mee, maakt technische keuzes en bepaalt mee hoe het toekomstige dataplatform eruitziet.&lt;br&gt;
-&lt;br&gt;
-Je werkt in een klein team en rechtstreeks met mensen uit de business. De beslissingslijnen zijn kort: zie je dat iets beter kan, dan krijg je de ruimte om het aan te pakken. Je neemt verantwoordelijkheid op en ziet je eigen keuzes terug in het platform van morgen.&lt;br&gt;
-&lt;br&gt;
-De functie staat open voor zowel een vaste tewerkstelling op &lt;strong&gt;payroll&lt;/strong&gt; als een &lt;strong&gt;freelance&lt;/strong&gt; samenwerking.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je hebt 3 tot 5 jaar ervaring als Data Engineer.
-	&lt;li&gt;Je hebt sterke ervaring met Azure Data Factory.
-	&lt;li&gt;Je hebt ervaring met Microsoft Fabric of je wil je er snel in verdiepen.
-	&lt;li&gt;Je hebt ervaring met datamodellering.
-	&lt;li&gt;Je kent de backend van Power BI en hebt basiskennis van DAX.
-	&lt;li&gt;Je hebt ervaring met Python, PySpark is mooi meegenomen.
-	&lt;li&gt;Je gaat makkelijk in gesprek met de business.
-	&lt;li&gt;Je spreekt vlot Engels en Nederlands.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
-Je stapt in vóór het nieuwe dataplatform gebouwd is. Een Microsoft Fabric-omgeving vanaf nul mee vormgeven en de migratie zelf trekken: een ervaring die veel Data Engineers pas veel later in hun loopbaan krijgen.&lt;br&gt;
-&lt;br&gt;
-En daar stopt het niet. Zodra het datafundament staat, wil de organisatie nadrukkelijk richting AI. Die use-cases staan nog in de beginfase, dus je denkt nu al mee over wat mogelijk is en hoe het platform daarop voorbereid wordt. Eerst Fabric bouwen, daarna mee bepalen wat AI er bovenop kan betekenen.&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer?&lt;br&gt;
-Stuur nu jouw CV naar lola@cartiere.be en bel +32 3 343 94 94 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
-    <link href="https://www.cartiere.be/jobs/data-engineer/"/>
-    <category term="Data Engineering"/>
-    <published>2026-10-02T14:45:46+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/functioneel-data-analist-2/</id>
@@ -1065,6 +981,41 @@ Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content
     <published>2026-04-27T09:45:43+00:00</published>
   </entry>
   <entry>
+    <id>https://www.cartiere.be/jobs/teamlead-data-engineering/</id>
+    <title>Teamlead Data Engineering</title>
+    <updated>2026-03-31T14:14:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:10:04+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:10:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
+Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br&gt;
+&lt;br&gt;
+De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Team Lead Data Engineering ben je verantwoordelijk voor het technisch ontwerp, de&lt;br&gt;
+kwaliteit en de schaalbaarheid van het data-landschap. Je combineert een sterk hands-on data engineering profiel met inhoudelijk leiderschap en coaching. Hoewel dit geen klassieke people management rol is, neem je wel de technische eindverantwoordelijkheid over data engineering- en BI-projecten en fungeer je als inhoudelijke sparringpartner voor data-analisten, AI-profielen en stakeholders.&lt;br&gt;
+&lt;br&gt;
+In deze rol ontwerp, bouw en onderhoud je schaalbare data pipelines in een moderne cloud data omgeving. Je staat in voor de ingestie van data uit verschillende bronnen, het opzetten van efficiënte lakehouse-architecturen en het optimaliseren van bestaande oplossingen op vlak van performantie, schaalbaarheid en kost. Je werkt dagelijks hands-on met PySpark, Python en SQL en neemt onderbouwde technische beslissingen rond architectuur en data-oplossingen. Daarnaast ondersteun je bij datamodellering en BI- en dashboarding-oplossingen, en coach je data engineers en data-analisten inhoudelijk in hun verdere groei. Je volgt data-projecten op van A tot Z, met oog voor haalbaarheid, prioriteiten, risico’s en timing.&lt;br&gt;
+&lt;br&gt;
+JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt 5 jaar ervaring als Data Engineer.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke kennis van Fabric of PySpark met Python en SQL.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Data Lakehouse architecture.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt idealiter kennis van Data Governance en security.&lt;/span&gt;&lt;/span&gt;
+	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
+Je bouwt mee aan een schaalbaar en future-proof data platform met grote technische impact in een organisatie waar data en AI strategisch belangrijk zijn. Je werkt nauw samen met data, BI en innovatie en krijgt veel autonomie en vertrouwen binnen een mensgerichte cultuur waar authenticiteit, respect en samenwerking centraal staan. Er zijn geen vastgeroeste structuren, er is ruimte om het technisch juist en duurzaam te doen.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+    <link href="https://www.cartiere.be/jobs/teamlead-data-engineering/"/>
+    <category term="Data Engineering"/>
+    <published>2026-01-15T16:10:04+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.cartiere.be/jobs/cartiere-connect-data-engineering/</id>
     <title>Cartière Connect (Data Engineering)</title>
     <updated>2026-03-31T14:14:37+00:00</updated>
@@ -1163,41 +1114,6 @@ Herken jij jou in deze functie? Stuur nu jouw CV naar Sander@cartiere.be en bel 
     <link href="https://www.cartiere.be/jobs/ai-developer/"/>
     <category term="AI &amp; ML Engineer"/>
     <published>2025-03-19T14:14:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/teamlead-data-engineering/</id>
-    <title>Teamlead Data Engineering</title>
-    <updated>2026-03-31T14:14:37+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Limburg Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-01-15 16:10:04+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-03-31 14:14:37+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-01-15 16:10:04+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;BEDRIJF:&lt;br&gt;
-Deze organisatie is een sterke en snelgroeiende Belgische onderneming actief binnen de dienstverlening met meerdere businesslijnen actief binnen HR, operations en commerciële dienstverlening. Met duizenden medewerkers en een uitgebreid netwerk aan vestigingen combineert de organisatie schaalgrootte met een uitgesproken mensgerichte en niet-corporate bedrijfscultuur.&lt;br&gt;
-&lt;br&gt;
-De organisatie bevindt zich in een belangrijke transformatie richting datagedreven werken, waarbij data en AI bewust worden ingezet als strategische hefboom voor efficiëntie, innovatie en betere besluitvorming. Er is veel ruimte om mee richting te geven aan processen, architectuur en prioriteiten.&lt;br&gt;
-&lt;br&gt;
-JOBOMSCHRIJVING:&lt;br&gt;
-Als Team Lead Data Engineering ben je verantwoordelijk voor het technisch ontwerp, de&lt;br&gt;
-kwaliteit en de schaalbaarheid van het data-landschap. Je combineert een sterk hands-on data engineering profiel met inhoudelijk leiderschap en coaching. Hoewel dit geen klassieke people management rol is, neem je wel de technische eindverantwoordelijkheid over data engineering- en BI-projecten en fungeer je als inhoudelijke sparringpartner voor data-analisten, AI-profielen en stakeholders.&lt;br&gt;
-&lt;br&gt;
-In deze rol ontwerp, bouw en onderhoud je schaalbare data pipelines in een moderne cloud data omgeving. Je staat in voor de ingestie van data uit verschillende bronnen, het opzetten van efficiënte lakehouse-architecturen en het optimaliseren van bestaande oplossingen op vlak van performantie, schaalbaarheid en kost. Je werkt dagelijks hands-on met PySpark, Python en SQL en neemt onderbouwde technische beslissingen rond architectuur en data-oplossingen. Daarnaast ondersteun je bij datamodellering en BI- en dashboarding-oplossingen, en coach je data engineers en data-analisten inhoudelijk in hun verdere groei. Je volgt data-projecten op van A tot Z, met oog voor haalbaarheid, prioriteiten, risico’s en timing.&lt;br&gt;
-&lt;br&gt;
-JOUW PROFIEL:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt 5 jaar ervaring als Data Engineer.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een sterke kennis van Fabric of PySpark met Python en SQL.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt ervaring met Data Lakehouse architecture.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt idealiter kennis van Data Governance en security.&lt;/span&gt;&lt;/span&gt;
-	&lt;li&gt;&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;Je hebt een coachende mindset en bent Nederlandstalig.&lt;/span&gt;&lt;/span&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;span style="font-size: 11.0px;"&gt;&lt;span style="font-family: Arial , Helvetica , sans-serif;"&gt;UNIEK KARAKTER:&lt;br&gt;
-Je bouwt mee aan een schaalbaar en future-proof data platform met grote technische impact in een organisatie waar data en AI strategisch belangrijk zijn. Je werkt nauw samen met data, BI en innovatie en krijgt veel autonomie en vertrouwen binnen een mensgerichte cultuur waar authenticiteit, respect en samenwerking centraal staan. Er zijn geen vastgeroeste structuren, er is ruimte om het technisch juist en duurzaam te doen.&lt;br&gt;
-&lt;br&gt;
-Benieuwd naar meer? Stuur nu jouw CV naar Sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie. Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/teamlead-data-engineering/"/>
-    <category term="Data Engineering"/>
-    <published>2026-01-15T16:10:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/vrijblijvend-gesprek-2/</id>
