@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-10-30T10:31:43.715840+00:00</updated>
+  <updated>2026-10-30T17:22:05.526964+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -264,48 +264,6 @@ Stuur nu jouw CV naar nicolas@cartiere.be en bel +32 3 369 33 05 voor meer infor
     <category term="AI Strategist"/>
     <category term="AI &amp; ML Engineer"/>
     <published>2026-09-11T16:26:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/functioneel-data-analist/</id>
-    <title>Functioneel Data Analist</title>
-    <updated>2026-09-11T13:37:35+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sneeuwbeslaan 14, 2610, Wilrijk, Antwerpen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-09-11 14:37:35+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-09-11 13:37:35+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-09-11 14:37:35+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;B E D R I J F :&lt;br /&gt;
-&lt;br /&gt;
-Deze internationale logistieke organisatie, met een grootschalig Europees netwerk investeerde sterk in een modern dataplatform waardoor het vandaag over een bijzonder goed gevulde data-roadmap beschikt. Projecten lopen over een vijftiental businessdomeinen, van financial reporting en Business Central tot acquisities, market intelligence... De volgende ambitie is helder: evolueren van betrouwbare rapportering naar predictive insights voor de verschillende business units.&amp;nbsp;&lt;br /&gt;
-&amp;nbsp;
-&lt;div&gt;J O B O M S C H R I J V I N G :&lt;br /&gt;
-&lt;br /&gt;
-Als Functioneel Data Analist ben jij hét centrale aanspreekpunt voor datavraagstukken vanuit de business. Je werkt rechtstreeks samen met Operations, Finance, Sales en andere afdelingen in binnen- en buitenland. Via workshops breng je operationele en strategische behoeften in kaart en vertaal je deze naar concrete BI-oplossingen, features en user stories.&lt;br /&gt;
-&lt;br /&gt;
-Je beheert de volledige flow van een project: van eerste businesscase en POC tot de technische uitwerking en oplevering. Met Power BI bouw je mock-ups en showcases waarmee je ideeën snel tastbaar maakt en samen met stakeholders verder aanscherpt.&lt;br /&gt;
-&lt;br /&gt;
-Je tekent conceptuele datamodellen uit en bepaalt welke opdrachten bij de data engineers, data analisten of andere specialisten terechtkomen. Daarbij krijg je rechtstreeks toegang tot de silver- en gold layer van het dataplatform. Zo onderzoek je zelf welke data al beschikbaar is, welke aanvullingen nodig zijn en wat dit betekent voor de timing en haalbaarheid van een project. Je bewaakt de scope, brengt een realitycheck wanneer requirements blijven groeien en helpt prioriteiten bepalenbinnen de sterk gevulde backlog en data roadmap.&lt;br /&gt;
-&lt;br /&gt;
-Naast projectwerk bouw je mee aan data literacy en self-service BI binnen de&lt;br /&gt;
-organisatie. Je helpt businessgebruikers zelfstandiger met data werken en legt mee het fundament voor toekomstige predictive insights.&lt;br /&gt;
-&lt;br /&gt;
-J O U W P R O F I E L :
-&lt;ul&gt;
-	&lt;li&gt;Kennis van SQL, datamodellering (ster- en dimensioneel model).&lt;/li&gt;
-	&lt;li&gt;Je hebt een sterke achtergrond in PowerBI&amp;nbsp;en kent de best practices.&lt;/li&gt;
-	&lt;li&gt;Proceskennis: je begrijpt de processen binnen de logistieke context en bent een ervaren stekeholdermanager.&lt;/li&gt;
-	&lt;li&gt;Je bent communicatief sterk en analytisch ingesteld.&lt;/li&gt;
-	&lt;li&gt;Je spreekt Nederlands en Engels.&lt;/li&gt;
-&lt;/ul&gt;
-U N I E K K A R A K T E R :&lt;br /&gt;
-&lt;br /&gt;
-Hier stap je in een dataomgeving met schaal, variatie en een roadmap die al stevig&lt;br /&gt;
-gevuld is. Je wacht niet tot iemand een afgewerkte vraag aanlevert, maar identificeert zelf opportuniteiten en brengt ze samen met de business tot leven.&lt;br /&gt;
-Door je toegang tot het dataplatform kun je inhoudelijk verder gaan dan requirements verzamelen.&lt;br /&gt;
-&lt;br /&gt;
-Je onderzoekt data, bouwt POC’s en begeleidt projecten tot de effectieve technische oplevering. Met een vijftiental businessdomeinen, veel internationaal stakeholdercontact en ambities rond predictive insights krijg je de ruimte om als functioneel data analist brede en zichtbare impact te maken.&lt;br /&gt;
-&lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;Benieuwd naar meer? Stuur nu jouw CV naar Gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br /&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/functioneel-data-analist/"/>
-    <category term="Business Analyst"/>
-    <published>2026-09-11T14:37:35+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-engineer-azure/</id>
