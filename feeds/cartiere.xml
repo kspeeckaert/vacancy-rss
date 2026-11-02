@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-11-02T11:45:52.458606+00:00</updated>
+  <updated>2026-11-02T20:57:49.416145+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -817,53 +817,6 @@ Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/em&gt;</content>
     <link href="https://www.cartiere.be/jobs/data-architect-4/"/>
     <category term="BI/Data Architect"/>
     <published>2026-05-18T09:01:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/data-engineer-3/</id>
-    <title>Data Engineer</title>
-    <updated>2026-05-06T07:38:50+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-05-06 08:38:50+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-05-06 07:38:50+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-05-06 08:38:50+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
-Dit consultancybedrijf onderscheidt zich door een sterke focus op consumentendata en een echte passie voor het begrijpen van de eindgebruiker. Alles draait hier rond het optimaliseren van de customer experience, met slimme toepassingen zoals gepersonaliseerde communicatie: de juiste boodschap, op het juiste moment, volledig afgestemd op gedrag en profiel van de klant. Vaak gaan ze ook end-to-end aan de slag met de opzet en implementatie van digital analytics-omgevingen.&lt;br&gt;
-&lt;br&gt;
-In tegenstelling tot klassieke consultancy ligt de focus hier niet op brede domeinen, maar op diepgaande expertise in marketingtechnologie en data-ecosystemen. Ze werken rond het ontsluiten van real-time data, het combineren van CRM-, sales- en marketingdata en het inzetten van AI in cloudomgevingen om analyses naar een hoger niveau te tillen. Daarnaast zijn ze sterk technologiegedreven en product-oriented.&lt;br&gt;
-&lt;br&gt;
-Het hoofdkantoor bevindt zich in Oost-Vlaanderen. Het team is hecht, aangevuld met enkele remote collega’s in Europa en de VS.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als Data Engineer speel je een sleutelrol in het voorbereiden, structureren en transformeren van data voor uiteenlopende analytische en operationele toepassingen. Je vertaalt requirements van analisten en klanten naar robuuste, schaalbare data-oplossingen en zorgt ervoor dat data correct, efficiënt en in het juiste format beschikbaar is.&lt;br&gt;
-&lt;br&gt;
-Je bent verantwoordelijk voor het ophalen en verwerken van data uit de juiste bronnen, het bouwen en onderhouden van betrouwbare data pipelines en het modelleren van data in een performante architectuur. Samen met de data architect werk je actief mee aan het opzetten en verbeteren van de data-architectuur. Het grootste deel van je werk gebeurt in cloudomgevingen.&lt;br&gt;
-&lt;br&gt;
-Je werkt nauw samen met klanten en hun technische teams om noden te begrijpen, risico’s te analyseren en concrete oplossingen te implementeren. Dit zorgt ervoor dat je ook regelmatig klantencontact hebt, waardoor je de data en businesscontext echt goed leert begrijpen.&lt;br&gt;
-&lt;br&gt;
-Daarnaast werk je intensief samen met data analysts en andere engineers om snel ideeën te prototypen, hypotheses te testen en innovatieve data-oplossingen uit te werken. Je helpt mee bij het operationaliseren van AI/ML-modellen en zorgt ervoor dat deze effectief in productie kunnen draaien.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je hebt een eerste relevante werkervaring, bij voorkeur tussen 1 en 3 jaar.
-	&lt;li&gt;Je hebt ervaring met ETL- en ELT-processen.
-	&lt;li&gt;Je beschikt over kennis van datamodellering.
-	&lt;li&gt;Je hebt ervaring met één of meerdere cloudplatformen, zoals Azure, AWS of GCP.
-	&lt;li&gt;Je kan vlot werken met Python en SQL.
-	&lt;li&gt;Je beschikt over sterke communicatieve vaardigheden en communiceert helder en professioneel.
-	&lt;li&gt;Een achtergrond in marketing of sales is een sterke troef.
-	&lt;li&gt;Je spreekt vlot Nederlands en Engels.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
-Je werkt in een informele, collegiale sfeer waar verantwoordelijkheid en initiatief centraal staan. Dankzij de vlakke structuur worden ideeën snel opgepikt en effectief omgezet in actie. Er heerst een sterke teamspirit, met gezamenlijke lunches, regelmatige teambuildings en een jaarlijkse buitenlandse trip waar het hele team samen op pad gaat.&lt;br&gt;
-&lt;br&gt;
-Internationaal zijn er ook heel wat mogelijkheden: deelname aan projecten en conferenties, met vaak de optie om je verblijf te verlengen op kosten van het bedrijf. Daarnaast is er flexibiliteit om tot 15 dagen per jaar binnen Europa remote te werken en 2 dagen per week van thuis uit.&lt;br&gt;
-&lt;br&gt;
-Tot slot wordt er sterk ingezet op persoonlijke groei, een duidelijk ontwikkeltraject, opleidingsbudget en de mogelijkheid om certificaten te behalen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
-Stuur nu jouw CV naar marte@cartiere.be en bel +32 3 343 94 91 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt;
- </content>
-    <link href="https://www.cartiere.be/jobs/data-engineer-3/"/>
-    <category term="Data Engineering"/>
-    <published>2026-05-06T08:38:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/marketing-data-analyst/</id>
