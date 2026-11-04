@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-11-04T00:15:05.641577+00:00</updated>
+  <updated>2026-11-04T11:41:34.040991+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-scientist/</id>
+    <title>Data Scientist</title>
+    <updated>2026-10-21T08:41:25+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Sint-Antoniusweg, 9130, Doel, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-10-21 09:41:25+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-10-21 08:41:25+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-10-21 09:41:25+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;BEDRIJF: &lt;br&gt;
+Deze industriële speler opereert in een omgeving waar continuïteit, schaal en operationele precisie cruciaal zijn. Achter de schermen draait een complexe operationele context waarin data een steeds belangrijkere strategische rol krijgt. De voorbije jaren werd een sterk technisch fundament gelegd. Vandaag ligt de focus op de volgende stap: data niet alleen technisch goed organiseren, maar ook sterker verankeren in besluitvorming, governance en toekomstige innovatie.&lt;br&gt;
+&lt;br&gt;
+De omgeving is complex, met verschillende systemen, processen en stakeholders die dagelijks op elkaar moeten aansluiten. Data speelt hier niet langer een louter ondersteunende rol, maar krijgt steeds nadrukkelijker een strategische plaats binnen de organisatie. De cultuur is nuchter, inhoudelijk sterk en gericht op lange termijn. Mensen krijgen ruimte om verantwoordelijkheid op te nemen, ownership te tonen en zichtbaar impact te maken in een omgeving die volop in beweging is.&lt;br&gt;
+&lt;br&gt;
+JOBOMSCHRIJVING:&lt;br&gt;
+Als Data Scientist vertaal je operationele uitdagingen naar modellen en toepassingen die de dagelijkse werking verbeteren. Je wordt de eerste gespecialiseerde Data Scientist binnen de organisatie en krijgt de ruimte om deze discipline inhoudelijk mee uit te bouwen. Je bepaalt mee welke vraagstukken aandacht verdienen, onderzoekt de haalbaarheid en ontwikkelt oplossingen die aansluiten bij wat de business nodig heeft.&lt;br&gt;
+ &lt;br&gt;
+Je komt terecht in een team van vijf data-analisten dat dicht bij de operationele processen staat. Samen met hen en de operationele stakeholders verdiep je je in de werking van de organisatie: hoe worden capaciteit en transportbewegingen gepland, waar ontstaan inefficiënties en welke beslissingen kunnen beter worden onderbouwd? Je onderzoekt de beschikbare data, brengt datakwaliteitsproblemen in kaart en kiest de aanpak die voor het vraagstuk de meeste waarde oplevert.&lt;br&gt;
+&lt;br&gt;
+De mogelijke projecten zijn breed en tastbaar. Denk aan het voorspellen van onderhoud aan technische installaties, het verbeteren van operationele planning of het efficiënter inzetten van mensen en middelen. Afhankelijk van de uitdaging werk je met forecasting, time series, clustering, classificatie of optimalisatie. Ook reinforcement learning en genAI kunnen aan bod komen wanneer ze een passende oplossing bieden.&lt;br&gt;
+&lt;br&gt;
+Voor de technische realisatie werk je nauw samen met de Data Platform Engineer en het team dat het datafundament beheert. Jij richt je op exploratie, modellering en ontwikkeling; de engineer ondersteunt bij de technische verfijning en het in productie brengen van je oplossingen. Bij grotere projecten werk je ook samen met externe partners, waarvan je het data science-werk inhoudelijk beoordeelt.&lt;br&gt;
+&lt;br&gt;
+De projectagenda ligt nog niet volledig vast. Zie je een kans en kun je de waarde en haalbaarheid ervan onderbouwen, dan krijg je ruimte om stakeholders te overtuigen en je idee verder uit te werken.&lt;br&gt;
+&lt;br&gt;
+JOUW PROFIEL:
+&lt;ul&gt;
+	&lt;li&gt;Je hebt minstens drie jaar relevante ervaring met data science en kunt zelfstandig een vraagstuk analyseren, modelleren en uitwerken.
+	&lt;li&gt;Je combineert analytisch inzicht met interesse in bedrijfsprocessen en wilt begrijpen wat er achter de data gebeurt.
+	&lt;li&gt;Je hebt praktijkervaring met Python.
+	&lt;li&gt;Je bent vertrouwd met verschillende soorten vraagstukken, zoals forecasting, time series, clustering, classificatie of optimalisatie. Affiniteit met genAI is een plus.
+	&lt;li&gt;Kennis van SQL is sterk gewenst. Je analytisch denkvermogen, leervermogen en begrip van data wegen zwaarder dan een specifieke toolstack.
+	&lt;li&gt;Je voelt je comfortabel als eerste specialist binnen je discipline en combineert zelfstandigheid met een open, samenwerkingsgerichte houding.
+	&lt;li&gt;Je maakt ideeën concreet en legt technische inzichten helder uit aan analisten, engineers, operationele collega's en management.
+	&lt;li&gt;Je spreekt vloeiend Nederlands en communiceert professioneel in het Engels.
+&lt;/ul&gt;
+&lt;br&gt;
+UNIEK KARAKTER:&lt;br&gt;
+In deze rol werk je aan een fysieke omgeving waarin de impact van je modellen zichtbaar wordt. Een betere voorspelling of slimmere planning kan rechtstreeks bijdragen aan hoe materieel wordt ingezet, goederen bewegen en capaciteit wordt benut. De combinatie van onderling afhankelijke processen, grote volumes en dagelijkse operationele beslissingen biedt een brede waaier aan data science-vraagstukken.&lt;br&gt;
+&lt;br&gt;
+Als eerste Data Scientist krijg je veel inhoudelijke invloed: je bouwt mee aan de aanpak, brengt zelf use cases aan en helpt bepalen waar data science het verschil kan maken. Tegelijk kun je terugvallen op analisten met operationele kennis, een Data Platform Engineer en gespecialiseerde partners. Zo combineer je autonomie met ondersteuning om toepassingen ook daadwerkelijk in gebruik te brengen.&lt;br&gt;
+&lt;br&gt;
+Benieuwd naar meer? &lt;br&gt;
+Stuur nu jouw CV naar sander@cartiere.be en bel +32 3 343 94 95 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.</content>
+    <link href="https://www.cartiere.be/jobs/data-scientist/"/>
+    <category term="Data Science"/>
+    <published>2026-10-21T09:41:25+00:00</published>
+  </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-ai-talent-accountmanager/</id>
     <title>Data &amp; AI Talent- &amp; Accountmanager</title>
