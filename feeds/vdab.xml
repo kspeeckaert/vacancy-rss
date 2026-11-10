@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-11-10T12:20:19.367937+00:00</updated>
+  <updated>2026-11-10T19:24:32.569442+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084444</id>
+    <title>Cloud Engineer (CRONOS)</title>
+    <updated>2026-10-28T00:04:33+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CRONOS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;De job&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vanuit je rol als Cloud Engineer ondersteun je onze klanten met de migratie van hun klassiek softwareontwikkelingsmodel naar een PaaS-oplossing. Je zorgt mee voor technische innovatie en efficiëntie door repetetieve zaken te automatiseren.&lt;/p&gt;&lt;p&gt;Naast ontwerp en design van de cloud omgeving, ondersteun je continuous integration en de delivery pipeline (CI/CD). Verder is het verbeteren en het verzekeren van de security (zowel technisch als procesmatig) van de cloud infrastructuur ook een cruciaal onderdeel van jouw takenpakket.&lt;/p&gt;&lt;p&gt;Om dit te realiseren, werk je nauw samen met het development team.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wie we zoeken&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Jij bent gebeten door systeem- en netwerkbeheer, efficiëntie en automatisatie.&lt;/li&gt;&lt;li&gt;Je bent een cloud liefhebber met kennis van een aantal cloud providers, wij werken hoofdzakelkijk met Oracle Cloud&lt;/li&gt;&lt;li&gt;Een brede kennis van automatisatietools: Linux, Gitlab, Jenkins en Ansible, …&lt;/li&gt;&lt;li&gt;Communicatie is cruciaal, je begrijpt de noden van de verschillende technische teams en kan ze ook met de neuzen in dezelfde richting brengen.&lt;/li&gt;&lt;li&gt;Proactiviteit is sterk bij jou aanwezig: je werkt actief mee aan de zoektocht naar de beste oplossing.&lt;/li&gt;&lt;li&gt;Je bent leergierig en volgt de nieuwste technologische trends en ontwikkelingen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;Oracle Cloud&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;linux&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;gitlab&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;ansible&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084444"/>
+    <published>2024-07-02T09:28:33+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084449</id>
     <title>Freelance Integratie developer (CRONOS)</title>
@@ -770,12 +786,65 @@
     <published>2026-03-21T18:21:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73559708</id>
-    <title>Senior Functional Analyst (Kingfisher Recruitment)</title>
-    <updated>2026-10-05T11:35:11+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je speelt een sleutelrol in het vertalen van businessnoden naar concrete IT-oplossingen voor een volledig nieuw platform dat vanaf nul wordt opgebouwd. Je werkt nauw samen met Business stakeholders om hun processen en behoeften scherp te krijgen en je vertaalt deze naar duidelijke functionele analyses, user stories en specificaties voor jouw developmentteam.&lt;br&gt;Je denkt mee over zowel API-integraties als UI/UX flows en zorgt ervoor dat alle vereisten helder, gestructureerd en bruikbaar zijn voor developers en testers. Binnen een Agile context neem je actief deel aan ceremonies en werk je intens samen met een dedicated team van developers en testers om nieuwe functionaliteiten succesvol te realiseren.&lt;br&gt;Je bewaakt de kwaliteit en consistentie van de functionele documentatie en zorgt ervoor dat complexe processen worden omgezet in duidelijke en werkbare oplossingen binnen een business-critical omgeving.&amp;#160;&lt;br&gt;Na het greenfield project word je uiteraard ook betrokken bij nieuwe uitdagende projecten.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma behaald in relevante studie (IT, economie, logistiek...)&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional of Business Analyst&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en vertaalt makkelijk op niveau van je gesprekspartner&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Deze internationale speler binnen logistiek bouwt dagelijks aan hun sterk netwerk. Achter deze operaties zit een krachtig IT-landschap dat grotendeels in-house ontwikkeld wordt en een cruciale rol speelt in de werking van de volledige groep.&lt;/p&gt;&lt;p&gt;Binnen hun dedicated IT-team werkt een multidisciplinair team aan de ontwikkeling en optimalisatie van business-critical applicaties. De organisatie investeert sterk in digitale innovatie, Agile werking en human development, met een cultuur die zowel professioneel als mensgericht is.&lt;/p&gt;&lt;p&gt;Door de opstart van een groot Greenfield project breiden ze vandaag hun team uit.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73559708"/>
-    <published>2026-04-23T14:31:02+00:00</published>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73327363</id>
+    <title>Web Developer .NET (POSGARD)</title>
+    <updated>2026-10-20T16:57:43+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: POSGARD (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;POSGARD ondersteunt klanten bij het nog efficiënter runnen van de horecazaak en food shop. De food &amp;amp; beverages markten zijn in volle beweging. Nu zoeken wij nieuwe collega’s voor ons tof team in groei.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;POSGARD &lt;/strong&gt;zoekt 
+&lt;strong&gt;web developer&lt;/strong&gt; met +5 jaar ervaring in voornamelijk frontend 
+&lt;strong&gt;.NET, Azure en online &amp;amp; desktop applicaties&lt;/strong&gt; om ons ontwikkelingsteam te versterken, dat instaat voor de 
+&lt;strong&gt;ontwikkeling van de gebruiksvriendelijke food &amp;amp; drinks tech applicaties&lt;/strong&gt; van POSGARD - kantoor 10 min ten zuiden van Antwerpen (geen files!).&lt;/p&gt; 
+&lt;p&gt;Benieuwd wat je al gedaan hebt met ondersteuning van AI.&lt;/p&gt; 
+&lt;p&gt;In samenwerking met het team zoek je mee naar innovatieve oplossingen die antwoord bieden op de noden van onze klanten, waarbij analytisch en creatief denken belangrijk zijn.&lt;/p&gt; 
+&lt;p&gt;Je ontwikkelt graag applicaties die 
+&lt;strong&gt;door de vele gebruikers worden gewaardeerd&lt;/strong&gt; waarbij je het belang inziet van het onderhoud en de support van de applicaties op (middel)lange termijn.&lt;/p&gt; 
+&lt;p&gt;Je bent verantwoordelijk om zelfstandig delen van de voorgestelde oplossingen te implementeren. 
+&lt;span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: NL-BE; mso-fareast-language: NL-BE; mso-bidi-language: AR-SA;"&gt;Na jaren ervaring op te hebben gedaan bij het ontwikkelen en onderhouden van specifieke applicaties bij een bedrijf of verschillende opdrachtgevers zoek je nu een 
+&lt;strong&gt;echt waardevolle uitdaging bij een bedrijf met eigen producten en services&lt;/strong&gt;, &lt;/span&gt;daarom solliciteer je direct bij ons.&lt;/p&gt; 
+&lt;p&gt;Zowel de 
+&lt;strong&gt;kwaliteit van de code&lt;/strong&gt; als het 
+&lt;strong&gt;uiteindelijke resultaat&lt;/strong&gt; zijn belangrijk voor je.&lt;/p&gt; 
+&lt;p&gt;Ook jij ziet dat de wereld naar slimme software oplossingen in combinatie met eenvoudig te gebruiken hardware gaat. Wij bieden je een passend opstart traject en winning team om dit te bereiken! Je weet dat handige tools er zijn om het (werkend) leven eenvoudig te maken.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;U bent 
+&lt;strong&gt;&lt;span lang="NL" style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: NL; mso-fareast-language: NL-BE; mso-bidi-language: AR-SA;"&gt;Web developer en zoekt 60 – 90% frontend uitdaging&lt;/span&gt;&lt;/strong&gt;:&lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;&lt;span lang="NL" style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: NL;"&gt;&lt;span lang="NL"&gt;Ervaring in het ontwikkelen van Web Applicaties met 
+&lt;strong&gt;ASP.NET MVC&lt;/strong&gt; 5 en REST gebaseerde API’s met ASP.NET Web API&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;Zeer goed begrip van .NET 4.0 tot 9.0 en C#, goed begrip van OO en Design Patterns&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;Ervaring met 
+&lt;strong&gt;Azure&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;&lt;strong&gt;HTML, CSS, Blazor, TypeScript/JavaScript&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;Ervaring met Bootstrap en jQuery&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;Ervaring in het ontwikkelen en/of onderhouden van WPF 
+&lt;strong&gt; &lt;/strong&gt;applicaties is een plus&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;Ervaring in het gebruik van MS SQL Database / SQL CE in combinatie met het Entity Framework&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; 
+&lt;li&gt; 
+&lt;p class="MsoNormal"&gt;&lt;span lang="NL"&gt;Ervaring met of interesse in Mobiele apps Maui / Xamarin / Android wordt gezien als een plus&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;Het Development, Design &amp;amp; Support team van POSGARD kijkt uit naar de 
+&lt;strong&gt;samenwerking met de nieuwe collega&lt;/strong&gt; om de projecten voor onze klanten naar nog hogere niveaus te brengen!&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt;&lt;span lang="NL"&gt;Het Team biedt u 
+&lt;strong&gt;verantwoordelijkheid in bestaande en uitdagende innovatieve projecten&lt;/strong&gt;, super producten voor restaurants &amp;amp; food&amp;amp; drinks shops die een belangrijke rol spelen in onze maatschappij en naast dit alles een mooi salaris pakket.&lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;ul type="disc"&gt; 
+&lt;li&gt;Je hebt minimaal hoger onderwijs werk- en denkniveau&lt;/li&gt; 
+&lt;li&gt;Je ziet in dat pro-actieve communicatie en opvolging veel tijd en gedoe bespaart&lt;/li&gt; 
+&lt;li&gt;Je bent een doorzetter en helpt graag andere mensen&lt;/li&gt; 
+&lt;li&gt;Je hebt een goede beheersing van in elk geval de Engelse taal&lt;/li&gt; 
+&lt;li&gt;Je sluit graag iets af en laat je niet afleiden op de momenten dat je meters zuivere code maakt&lt;/li&gt; 
+&lt;li&gt;Je werkt graag constructief samen met het team op een professionele en collegiale manier&lt;/li&gt; 
+&lt;li&gt;Als iets mis zou gaan neem je verantwoordelijkheid&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Werken aan duurzame software oplossingen met veel eindgebruikers&lt;/li&gt; 
+&lt;li&gt;Streven naar best-practice code &amp;amp; oplossingen&lt;/li&gt; 
+&lt;li&gt;Goede werksfeer met het toffe team&lt;/li&gt; 
+&lt;li&gt;Opleidingsmogleijkheden&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73327363"/>
+    <published>2026-03-21T18:21:11+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73559708</id>
@@ -946,12 +1015,12 @@
     <published>2026-06-11T15:30:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/73915256</id>
-    <title>Back-end developer (Madison Recruitment)</title>
-    <updated>2026-09-18T09:36:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Madison Recruitment (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor een klant met een sterke sociale focus zijn we op zoek naar een &lt;strong&gt;back-end Python-developer&lt;/strong&gt; die wil bijdragen aan de ontwikkeling van een innovatief sensorsysteem voor zorgbehoevenden.&lt;/p&gt;&lt;p&gt;Hun softwareplatformen, &lt;strong&gt;VITAL&lt;/strong&gt; en &lt;strong&gt;PANDA&lt;/strong&gt;, analyseren gegevens zoals beweging, licht en temperatuur. Wanneer afwijkingen worden gedetecteerd die buiten de dagelijkse routine vallen, wordt automatisch een signaal gestuurd naar familie, mantelzorgers en/of verpleegkundigen. Bovendien beschikt het systeem over een draadloze luister- en spraakfunctie die direct verbonden is met de zorgcentrale.&lt;/p&gt;&lt;p&gt;Je komt terecht in een team van 10 ervaren developers. Als back-end developer breng je ervaring mee in &lt;strong&gt;Python&lt;/strong&gt;, en bij voorkeur ook in &lt;strong&gt;C++&lt;/strong&gt; of &lt;strong&gt;C&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Profiel&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt ervaring in Python&lt;/li&gt;&lt;li&gt;Je hebt een bachelor of master behaald&lt;/li&gt;&lt;li&gt;Complexe projecten klinkt jou als muziek in de oren en zie je als een uitdaging&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je hebt interesse in sensor technologieën&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Aanbod&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Financieel kan je rekenen op een &lt;strong&gt;ver bovengemiddeld salaris&lt;/strong&gt; + alle extra-legale voordelen&lt;/li&gt;&lt;li&gt;Je krijgt de kans om te werken met &lt;strong&gt;de nieuwste technologieën&lt;/strong&gt; aan hoogtechnologisch, vooruitstrevende producten.&lt;/li&gt;&lt;li&gt;Je werkt samen met getalenteerde en ervaren collega’s in een &lt;strong&gt;open en familiale&lt;/strong&gt; cultuur.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;#LI-CV1&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/73915256"/>
-    <published>2026-06-11T16:19:29+00:00</published>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73914561</id>
+    <title>Senior .Net Developer (TalentChain)</title>
+    <updated>2026-09-18T09:35:35+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: TalentChain (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Sint-Katelijne-Waver&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;strong&gt;Beschrijving&lt;/strong&gt;&lt;p&gt;Onze klant, met hoofdkantoor regio Mechelen, is een jonge en snelgroeiende consultancyorganisatie met een sterke technische focus. Ze brengen ervaren developers samen met uitdagende projecten in uiteenlopende sectoren. Ze hebben ongeveer 45 consultants en naast solo projecten, kunnen ze ook een team als service uitsturen.&lt;/p&gt;&lt;p&gt;Voor hun team zijn ze op zoek naar een senior .Net Developer. Je komt terecht in een dynamische groep waar technische uitmuntendheid, collegialiteit en persoonlijke begeleiding centraal staan. Als consultant werk je aan innovatieve projecten bij klanten waar je zowel aan de backend als aan de frontend met moderne frameworks zoals Angular, React of Vue.js zal bouwen. Je kiest bewust voor kwaliteit boven kwantiteit en bent betrokken bij het hele ontwikkelingsproces, van analyse tot oplevering. Hun klanten liggen in de driehoek tussen Antwerpen, Brussel en Gent en ze houden veel rekening met woon-werkafstand. Daarnaast organiseren ze veel tech events, maar ook teambuildings, personeelsfeesten, etc. Ze hebben per niche een competentiecentrum, waardoor je continu kan bijleren.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Profiel&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Zeer mooi salaris, aangevuld met een wagen, uitgebreid pakket, 12 ADV dagen, fietslease, flexibele uren, thuiswerk,&lt;/li&gt;&lt;li&gt;Persoonlijke coaching vanuit het competence center&lt;/li&gt;&lt;li&gt;Leuke teambuildings&lt;/li&gt;&lt;li&gt;Opleidingen en doorgroei plannen op maat.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;strong&gt;Aanbod&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Minimum 7 jaar .Net ervaring&lt;/li&gt;&lt;li&gt;Bachelor denkniveau&lt;/li&gt;&lt;li&gt;Vlotte kennis van het Nederlands en Engels&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73914561"/>
+    <published>2026-06-11T15:30:48+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73915256</id>
@@ -992,6 +1061,14 @@
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Talencia Consulting (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Heb jij een passie voor softwareontwikkeling? Heb je een open innovatieve mindset? Denk je graag out-of-the-box en proactief over hoe je softwareontwikkeling naar een hoger niveau kunt brengen? Dan ben jij degene die we zoeken voor onze vacature Senior Angular Developer.&lt;/p&gt;&lt;p&gt;Voor één van onze klanten in de regio van Antwerpen (2800) zijn wij op zoek naar een&amp;nbsp;&lt;strong&gt;Angular Developer met een grote ervaring&lt;/strong&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Je profiel&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt een grondige ervaring met&amp;nbsp;&lt;strong&gt;Angular en enige kennis van Java.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Je hebt minstens&amp;nbsp;&lt;strong&gt;5 jaar ervaring met UI-ontwikkeling.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Je hebt een abstracte geest en bent bereid om te zoeken naar nieuwe uitdagingen en oplossingen in het softwaredomein.&lt;/li&gt;&lt;li&gt;Je denkt altijd 3 stappen vooruit en vindt innovatie erg belangrijk.&lt;/li&gt;&lt;li&gt;Je hebt een gezonde portie ambitie en bent bereid om uit je comfortzone te stappen.&lt;/li&gt;&lt;li&gt;Je hebt een langetermijnvisie in het softwareontwikkelingsproces in plaats van een focus op kortetermijnhypes.&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je bent meertalig, bij voorkeur Nederlands, Engels of bereid om te leren.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Denk jij dat je een goed match kan zijn ?&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Stuur gerust u CV.&lt;/p&gt;&lt;p&gt;Groeten,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Talencia Team&lt;/em&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73928751"/>
     <published>2026-06-12T11:17:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/73945114</id>
+    <title>.NET Full Stack Engineer (Senior) (Kingfisher Recruitment)</title>
+    <updated>2026-11-02T11:08:25+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je werkt in team aan complexe applicaties en softwareplatformen binnen uiteenlopende omgevingen. Je neemt verantwoordelijkheid over de technische uitwerking van oplossingen, denkt mee na over architectuur en technische keuzes en werkt nauw samen met andere developers, analisten en stakeholders. Je krijgt veel autonomie, vertrouwen en de ruimte om technische verbeteringen aan te brengen die echt impact hebben. Ook AI &amp;amp; relevante tools zijn ze uiteraard ook fervent gebruikers van.&lt;br&gt;Je werkt in een omgeving waar moderne technologieën, cloudoplossingen, AI-tools en software craftsmanship een vanzelfsprekend onderdeel zijn van de dagelijkse werking.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT&lt;/li&gt;&lt;li&gt;Sterke professionele ervaring binnen .NET&lt;/li&gt;&lt;li&gt;Sterke kennis van moderne softwarearchitectuur, design patterns en best practices&lt;/li&gt;&lt;li&gt;Kennis van front-end frameworks in JavaScript/TypeScript is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en voelt je comfortabel in overleg met zowel technische als niet-technische stakeholders&lt;/li&gt;&lt;li&gt;Je werkt vlot in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Een jonge Belgische softwarebouwer, opgericht door ervaren software engineers, bouwt hoogwaardige digitale platformen en bedrijfskritische applicaties voor uiteenlopende klanten. In tegenstelling tot klassieke consultancybedrijven ligt de focus hier niet op zoveel mogelijk mensen plaatsen, maar op het leveren van technische kwaliteit, duurzame oplossingen en sterke engineering teams.&lt;br&gt;De organisatie werd opgericht vanuit de overtuiging dat goede software ontstaat wanneer getalenteerde engineers de ruimte krijgen om hun vak uit te oefenen, van elkaar te leren en technische uitdagingen inhoudelijk aan te pakken. Kennisdeling, innovatie, vakmanschap en persoonlijke groei vormen dan ook de fundamenten van hun cultuur.&lt;br&gt;Door hun sterke groei breiden ze hun team vandaag uit.&lt;br/&gt;&lt;br/&gt;Je komt terecht in een organisatie die volledig gebouwd werd door engineers, voor engineers. Technische kwaliteit staat centraal en je krijgt de ruimte om jezelf verder te ontwikkelen in een omgeving waar kennisdeling en ondernemerschap dagelijks worden gestimuleerd.&lt;br&gt;Daarnaast mag je rekenen op:&lt;br&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon met jaarlijkse groeiperspectieven&lt;/li&gt;&lt;li&gt;bedrijfswagen met tankkaart of laadkaart&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;internetvergoeding&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;cafetariaplan&lt;/li&gt;&lt;li&gt;uitgebreid opleidings- en mentorprogramma&lt;/li&gt;&lt;li&gt;technische communities en kennisdelingssessies&lt;/li&gt;&lt;li&gt;regelmatige teamactiviteiten en events&lt;/li&gt;&lt;li&gt;véél thuiswerkmogelijkheden&lt;/li&gt;&lt;li&gt;uitdagende projecten met moderne technologieën en AI-tools&lt;/li&gt;&lt;/ul&gt;Interesse?michael@kingfisher-it.be</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/73945114"/>
+    <published>2026-06-15T14:03:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73945105</id>
@@ -1843,14 +1920,6 @@ Waarom kiezen voor ons?
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Sander (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Schaarbeek&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Do you thrive in fast-paced environments where no two days are the same? Then this Brussels-based opportunity might be exactly what you're looking for!&lt;/p&gt;&lt;p&gt;&lt;span&gt;Our client is a growing company focused on IT services and professional B2B software solutions. They are currently seeking a motivated&lt;/span&gt;&lt;strong&gt;Support Engineer (3rd line)&lt;/strong&gt;&lt;span&gt;ready to take on technical challenges and deliver high-quality service to clients.&lt;/span&gt;&lt;/p&gt;Support Engineer - Your Job&lt;ul&gt;&lt;li&gt;Oversee and &lt;strong&gt;maintain IT infrastructure and network systems&lt;/strong&gt;, ensuring reliability and performance for clients.&lt;/li&gt;&lt;li&gt;Manage and configure Microsoft environments, including Microsoft 365, Intune, Active Directory, and related tools.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Identify potential technical issues&lt;/strong&gt; early and implement preventive measures to minimize downtime.&lt;/li&gt;&lt;li&gt;Handle hardware and network equipment, making sure all devices are properly configured and up to date.&lt;/li&gt;&lt;li&gt;Provide daily technical support to clients, offering clear solutions and practical advice tailored to their needs.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Support Engineer - Your Profile&lt;ul&gt;&lt;li&gt;Junior to mid-level experience (&lt;strong&gt;minimum 3 years in a similar role&lt;/strong&gt;).&lt;/li&gt;&lt;li&gt;Fluent in French and English; Dutch is considered an advantage.&lt;/li&gt;&lt;li&gt;Strong technical background with tools and technologies such as &lt;strong&gt;Microsoft 365, PowerShell, SharePoint, Apple&lt;/strong&gt; environments, &lt;strong&gt;Cisco, VPNs, DNS, firewalls, and switching.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Able to work independently while taking initiative when needed.&lt;/li&gt;&lt;li&gt;Customer-focused mindset with a proactive, solution-oriented approach.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Support Engineer - Offer &amp;amp; Benefits&lt;ul&gt;&lt;li&gt;A permanent contract within a &lt;strong&gt;dynamic and expanding organization&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;Company car with fuel card included.&lt;/li&gt;&lt;li&gt;Competitive salary package with performance-related bonuses.&lt;/li&gt;&lt;li&gt;Meal vouchers and additional benefits.&lt;/li&gt;&lt;li&gt;Group insurance and hospitalization coverage.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ongoing training &lt;/strong&gt;to enhance your technical expertise.&lt;/li&gt;&lt;li&gt;A varied role combining technical responsibility and client interaction.&lt;/li&gt;&lt;li&gt;Healthy work-life balance.&lt;/li&gt;&lt;/ul&gt;Benefits&lt;ul&gt;&lt;li&gt;Company Car&lt;/li&gt;&lt;li&gt;Meal Vouchers&lt;/li&gt;&lt;li&gt;Fuel Card&lt;/li&gt;&lt;li&gt;Internal &amp;amp; External trainings&lt;/li&gt;&lt;li&gt;Company phone &amp;amp; subscription&lt;/li&gt;&lt;li&gt;Net Expenses&lt;/li&gt;&lt;li&gt;End-of-year bonuses&lt;/li&gt;&lt;li&gt;Group Insurance&lt;/li&gt;&lt;li&gt;Health Insurance&lt;/li&gt;&lt;li&gt;Team-building &amp;amp; incentives&lt;/li&gt;&lt;li&gt;1 day remote&lt;/li&gt;&lt;li&gt;Flexible holidays&lt;/li&gt;&lt;li&gt;Flexible working hours&lt;/li&gt;&lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74586913"/>
     <published>2026-09-11T08:20:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74594004</id>
-    <title>EDI Integratie Specialist (Kwery)</title>
-    <updated>2026-09-11T16:45:10+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Willebroek&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Een vooraanstaande en sterk groeiende logistieke speler met meer dan 20 vestigingen in België is op zoek naar versterking voor het IT-team. Het bedrijf is al decennialang gespecialiseerd in transport, opslag en slimme distributie voor grote namen binnen retail, voeding en chemie. Binnen een dynamische omgeving wordt momenteel gewerkt aan de verdere modernisering van het IT-landschap, waarbij de overstap naar een nieuw WMS-systeem (Boltrix) centraal staat. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;In de functie van EDI &amp;amp; Integratie Specialist speel je een sleutelrol in de verdere digitalisering en het in-house halen van cruciale IT-kennis. Je werkt nauw samen met een ervaren projectmanager en integratiespecialist om robuuste EDI-connecties voor diverse vestigingen op te zetten. Dit is een permanente rol waarin je met name IT-technisch aan de slag gaat met het programmeren van stylesheets en het afstemmen van integraties met systeembeheerders van klanten.&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je zet zorgvuldig robuuste EDI-connecties op tussen interne systemen en de omgevingen van klanten of externe partners.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je programmeert stylesheets en bouwt aan de technische mapping en testing van EDI-berichten.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je stemt op een heldere en communicatieve manier af met de systeembeheerders van diverse klanten.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je bent nauw betrokken bij de uitrol en implementatie van het nieuwe WMS-systeem Boltrix over alle vestigingen heen.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je fungeert als het interne aanspreekpunt voor EDI-vragen en incidenten om snel adequate oplossingen te bieden.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten wij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je beschikt over minstens 3 tot 5 jaar relevante ervaring met EDI-integraties en bijbehorende standaarden.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt grondige technische kennis van het programmeren van stylesheets, XSLT, XPath en XML.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je combineert een analytische en nauwkeurige werkwijze met vlot communicatieve vaardigheden.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je hebt bij voorkeur affiniteit met of kennis van logistieke en opslagprocessen.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je werkt zelfstandig en resultaatgericht binnen een gedreven en deels op afstand werkend team.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden wij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Brutosalaris met een range tussen €4.000 en €6.000 per maand. &lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bedrijfswagen met laadkaart. &lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Maaltijdcheques €6 en ecocheques. &lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Netto onkostenvergoeding. &lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Extralegale voordelen zoals een groepsverzekering en hospitalisatieverzekering. &lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;De kans om de interne IT-pijler van een stabiele, groeiende sectorleider vorm te geven met flexibele thuiswerkmogelijkheden (2 tot 3 dagen per week).&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Deze vacature wordt beheerd door Mathieu Bracke&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;📞0470203327&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;📩&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;🌐www.kwery.be&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt; &lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74594004"/>
-    <published>2026-09-11T16:45:10+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74639579</id>
@@ -3535,75 +3604,6 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <published>2026-11-02T08:54:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74967603</id>
-    <title>Randstad Digital - SOC Manager (Managed Detection &amp; Response) (Randstad Digital)</title>
-    <updated>2026-11-03T11:18:11+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Randstad Digital (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Ben jij een ervaren cybersecurityprofessional met leidinggevende kwaliteiten en een scherp oog voor dreigingsanalyse? Bij Randstad Digital zoeken we een gedreven SOC Manager die ons Security Operations Center naar een hoger niveau tilt. In deze veelzijdige rol stuur je het operationele SOC-team aan, bewaak je de security-KPI's en onderhoud je strategische klantcontacten. Je bouwt actief mee aan de verdere professionalisering van onze geavanceerde detectie- en responsediensten (Managed XDR &amp; Soar).&lt;br /&gt;
-&lt;ul&gt;
-
-&lt;li&gt;Locatie: Hybride (Kantoor Wommelgem of Lochristi, met 3 dagen per week thuiswerk)
-&lt;/li&gt;
-
-&lt;li&gt;Ervaring: 5+ jaar relevante ervaring binnen SOC, Information Security of Security Consultancy
-&lt;/li&gt;
-
-&lt;li&gt;Opleiding: Bachelor- of Masterdiploma in Informatica/Cybersecurity of gelijkwaardig door ervaring
-&lt;/li&gt;
-
-&lt;li&gt;Contractvorm: Zowel vast contract van onbepaalde duur als freelance (initiële duur van 6 maanden met optie tot verlenging), 40 uur per week
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Jouw taken&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Aansturen, coachen en operationeel begeleiden van het team van SOC Analysts (incident handling, threat hunting en monitoring).
-&lt;/li&gt;
-
-&lt;li&gt;Waarborgen van de dagelijkse SOC-operaties binnen de afgesproken SLA's en het sturen op kwalitatieve incidentrapportages.
-&lt;/li&gt;
-
-&lt;li&gt;Leiden van periodieke service meetings met klanten en fungeren als inhoudelijk adviseur rondom kwetsbaarheden en mitigerende maatregelen.
-&lt;/li&gt;
-
-&lt;li&gt;Bepalen, verfijnen en realiseren van de strategische SOC-roadmap en procesverbeteringen.
-&lt;/li&gt;
-
-&lt;li&gt;Fungeren als prioritair escalatiepunt bij ernstige security incidenten en datalekken.
-&lt;/li&gt;
-
-&lt;li&gt;Opstellen en optimaliseren van procedures, playbooks en richtlijnen voor security incidents, in afstemming met het netwerkteam en stakeholders.
-&lt;/li&gt;
-
-&lt;li&gt;Continu verbeteren van de Managed XDR- en Soar-diensten op basis van actuele dreigingen en technologische ontwikkelingen.
-&lt;/li&gt;
-
-&lt;li&gt;Actief meewerken aan de selectie en aanwerving van nieuwe teamleden.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-
-&lt;li&gt;Aantoonbare ervaring in een vergelijkbare rol binnen een SOC-omgeving, security consultancy of IT-risk management.
-&lt;/li&gt;
-
-&lt;li&gt;Gedegen technische expertise rondom XDR, Soar, SIEM-technologieën en vulnerability management.
-&lt;/li&gt;
-
-&lt;li&gt;Ervaring met het definiëren, analyseren en presenteren van cybersecurity-KPI's aan zowel technische als niet-technische gesprekspartners.
-&lt;/li&gt;
-
-&lt;li&gt;Een evenwichtige mix van diepgaande technische vakkennis en commerciële/communicatieve flair.
-&lt;/li&gt;
-
-&lt;li&gt;Uitstekende beheersing van het Nederlands en het Engels, zowel mondeling als schriftelijk.
-&lt;/li&gt;
-
-&lt;li&gt;Certificeringen zoals CISSP, CISM, CEH, GCIH of vergelijkbaar gelden als een sterke troef.
-&lt;/li&gt;
-
-&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74967603"/>
-    <published>2026-11-02T13:17:54+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74967463</id>
     <title>Senior ERP Specialist (Madison Recruitment)</title>
     <updated>2026-11-02T12:47:50+00:00</updated>
@@ -3717,5 +3717,77 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: VAN MOER GROUP (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Van Moer Logistics is een groeiende logistieke dienstverlener, actief in transport en distributie, opslag, binnenvaart- en luchtvrachtactiviteiten en tankcontainerlogistiek. Ons doel is om de logistieke processen van onze klanten naadloos te ondersteunen en te optimaliseren. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Om onze verdere groei en de digitalisering van onze Finance-organisatie te ondersteunen, zijn wij op zoek naar een Finance Business Support Analyst. In een eerste fase speel je een actieve rol in de implementatie van ons nieuwe ERP-systeem. Daarna word je het centrale functionele aanspreekpunt voor Finance en ondersteun je de verdere optimalisatie van processen en applicaties binnen Accounts Payable, General Ledger, Controlling en Procurement. Je werkt daarbij nauw samen met de Application Manager Finance binnen IT en vormt de brug tussen Finance, IT en externe implementatiepartners.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Wil je deel uitmaken van een dynamisch team, een snelgroeiende organisatie met sterke internationale ambities? Kom werken bij Van Moer Logistics en bouw mee aan onze toekomst!&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Jouw rol: &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;ERP-implementatie: Je neemt vanuit Finance actief deel aan de implementatie van het nieuwe ERP-systeem. Je helpt processen en requirements scherp te stellen, denkt mee over de inrichting, voert functionele testen en UAT uit, ondersteunt datamigratie en masterdata en begeleidt de finance-afdeling bij opleiding en go-live.&lt;/li&gt;&lt;li&gt;Schakel tussen Finance en IT: Je bent het centrale functionele aanspreekpunt vanuit Finance en de sparringpartner van de Application Manager Finance binnen IT. Je vertaalt behoeften vanuit AP, GL, Controlling en Procurement naar duidelijke functionele requirements en bewaakt mee dat oplossingen werkbaar en correct worden ge&amp;iuml;mplementeerd.&lt;/li&gt;&lt;li&gt;Functioneel beheer en support: Je treedt op als key user voor de Finance-applicaties en het nieuwe ERP. Je verleent eerstelijnssupport aan Finance-collega&amp;rsquo;s, analyseert incidenten en wijzigingsvragen en volgt complexere issues samen met IT of de leverancier op tot een duurzame oplossing is gevonden.&lt;/li&gt;&lt;li&gt;Procesverbetering en automatisering: Je kijkt actief over de verschillende Finance-processen heen, identificeert manuele en repetitieve werkzaamheden en werkt samen met Finance en IT oplossingen uit om processen te vereenvoudigen, standaardiseren en verder te automatiseren.&lt;/li&gt;&lt;li&gt;Releases, wijzigingen en testing: Je analyseert nieuwe functionaliteiten en releases, beoordeelt de impact op processen, parameters, rapporten en koppelingen en co&amp;ouml;rdineert de functionele en regressietesten. Je bouwt functionele documentatie op en houdt procesbeschrijvingen, parameters, handleidingen en werkinstructies actueel.&lt;/li&gt;&lt;li&gt;Controls en governance: Je helpt mee waken over correcte workflows, masterdata, gebruikersrechten en interne controles binnen de Finance-systemen en signaleert risico&amp;rsquo;s of verbetermogelijkheden.&lt;/li&gt;&lt;li&gt;Communicatie en opleiding: Je begeleidt Finance-medewerkers, leidinggevenden en eindgebruikers bij nieuwe functionaliteiten of gewijzigde processen en zorgt voor duidelijke opleiding en documentatie.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Wie ben jij? &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je beschikt bij voorkeur over een bacheloropleiding in Finance, Accounting, Business, IT of een aanverwante richting, of over gelijkwaardige relevante ervaring in een financi&amp;euml;le en/of ERP-omgeving.&lt;/li&gt;&lt;li&gt;Je hebt een goede kennis van financi&amp;euml;le processen en een sterke affiniteit met softwarepakketten, ERP-systemen en digitalisering. Ervaring met een ERP-implementatie of als key user/functioneel analist is een duidelijke plus.&lt;/li&gt;&lt;li&gt;Je beschikt over een sterk analytisch vermogen en kan businessbehoeften vertalen naar duidelijke processen en functionele requirements.&lt;/li&gt;&lt;li&gt;Je communiceert vlot in het Nederlands en Engels, zowel mondeling als schriftelijk, en werkt gemakkelijk samen met Finance, IT, eindgebruikers en externe partners.&lt;/li&gt;&lt;li&gt;Je bent hulpvaardig en servicegericht, maar durft tegelijk bestaande werkwijzen kritisch in vraag te stellen en verbeteringen voor te stellen.&lt;/li&gt;&lt;li&gt;Je werkt nauwkeurig, gestructureerd en ownership-gedreven: je volgt dossiers actief op, laat niets liggen en weet de juiste prioriteiten te stellen.&lt;/li&gt;&lt;li&gt;Je bent proactief en resultaatgericht en krijgt energie van procesverbetering, automatisering en het oplossen van complexe functionele vraagstukken.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Persoonsgebonden competenties (soft skills):&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Analyseren&lt;/li&gt;&lt;li&gt;Coachen&lt;/li&gt;&lt;li&gt;Communiceren&lt;/li&gt;&lt;li&gt;Digitaal denken&lt;/li&gt;&lt;li&gt;Initiatief&lt;/li&gt;&lt;li&gt;Plannen en organiseren&lt;/li&gt;&lt;li&gt;Samenwerken&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Ons aanbod:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je komt terecht in een sterk groeiend en ambitieus bedrijf, met veel werkzekerheid.&lt;/li&gt;&lt;li&gt;Bij Van Moer Logistics werk je in een familiebedrijf dat nog steeds gelooft in persoonlijke betrokkenheid en een hecht team. Wij zijn trots op onze familiale sfeer, die ervoor zorgt dat je je hier nooit een nummer voelt, zelfs niet binnen ons wereldwijde netwerk van transport en logistiek.&lt;/li&gt;&lt;li&gt;Naast een marktconform loon krijg je bij ons ook maaltijdcheques, vakantiegeld, een eindejaarspremie, een hospitalisatieverzekering &amp;eacute;n kan je een fiets leasen via het bedrijf.&lt;/li&gt;&lt;li&gt;Je krijgt een gevarieerd takenpakket met diverse entiteiten en klanten waarbij geen enkele dag hetzelfde is &amp;mdash; afwisseling en uitdaging gegarandeerd in de logistiek!&lt;/li&gt;&lt;li&gt;Je bouwt samen met een groep gedreven en betrokken collega&amp;#39;s aan de verdere uitbouw van de afdeling en Van Moer Logistics.&lt;/li&gt;&lt;li&gt;Je werkt vanuit ons hoofdkantoor te Zwijndrecht. Thuiswerk is mogelijk na een inwerkperiode.&lt;/li&gt;&lt;li&gt;We bieden een voltijdse betrekking aan.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Elke dag werk je mee om het verschil te maken in een groot wereldwijd logistiek proces.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/75012768"/>
     <published>2026-11-09T09:48:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75027255</id>
+    <title>Senior IT Service &amp; Vendor Engineer (ictjob.be)</title>
+    <updated>2026-11-10T14:17:46+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Vilvoorde&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;b&gt;Your new role
+ &lt;br&gt; 
+ &lt;br&gt; &lt;/b&gt;
+&lt;br&gt;
+As a &lt;b&gt;Senior IT Service &amp;amp; Vendor Engineer&lt;/b&gt;, you will play a key role in ensuring the quality and performance of IT services delivered by external suppliers. Working in an international multi-vendor environment, you will monitor service delivery, challenge vendors and drive structural improvements across IT services.
+&lt;br&gt;
+&amp;nbsp;
+&lt;br&gt;
+&lt;b&gt;Your main responsibilities include:&lt;/b&gt;
+&lt;br&gt;
+&lt;ul&gt;
+ &lt;li&gt;Leading regular &lt;b&gt;supplier service reviews&lt;/b&gt; and contributing to &lt;b&gt;quarterly business reviews.&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;Monitoring&lt;b&gt; SLAs, service performance, breaches &lt;/b&gt;and &lt;b&gt;supplier actions.&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Challenging vendors &lt;/b&gt;on performance, root-cause analyses and recurring service issues.&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Identifying opportunities&lt;/b&gt; for structural and continuous &lt;b&gt;service improvement.&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;Coordinating issues involving multiple IT suppliers and driving them towards resolution.&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Maintaining &lt;/b&gt;the SLA framework, service catalogue, vendor register and renewal calendar.&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Validating &lt;/b&gt;supplier invoices, cloud consumption and software licensing against contractual scope.&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Supporting &lt;/b&gt;contract renewals and amendments.&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Coordinating &lt;/b&gt;service transitions when IT services move between suppliers.&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Contributing &lt;/b&gt;to service reporting and overall supplier governance.&lt;/li&gt;
+&lt;/ul&gt;
+&amp;nbsp;
+&lt;br&gt;
+&lt;b&gt;Your profile&lt;/b&gt;
+&lt;br&gt;
+&lt;br&gt;
+You combine solid experience in&lt;b&gt; IT Service Management, Service Delivery&lt;/b&gt; and &lt;b&gt;Vendor Management&lt;/b&gt; with a good technical understanding of &lt;b&gt;infrastructure &lt;/b&gt;and &lt;b&gt;cloud &lt;/b&gt;environments.
+&lt;br&gt;
+&lt;ul&gt;
+ &lt;li&gt;You have at least &lt;b&gt;10 years of relevant IT experience&lt;/b&gt;, ideally within outsourced or multi-vendor environments.&lt;/li&gt;
+ &lt;li&gt;You have experience in&lt;b&gt; IT Service Management, Service Delivery, Service Integration, Vendor Management and/or Supplier Governance.&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;You have a strong understanding of &lt;b&gt;infrastructure&lt;/b&gt;, &lt;b&gt;cloud &lt;/b&gt;and &lt;b&gt;security&lt;/b&gt;, allowing you to challenge external IT &lt;b&gt;suppliers&lt;/b&gt;.&lt;/li&gt;
+ &lt;li&gt;Experience working with &lt;b&gt;offshore&lt;/b&gt;, &lt;b&gt;nearshore &lt;/b&gt;and&lt;b&gt; multi-vendor&lt;/b&gt; environments is an advantage.&lt;/li&gt;
+ &lt;li&gt;You are comfortable leading service review meetings involving multiple external suppliers.&lt;/li&gt;
+ &lt;li&gt;You &lt;b&gt;communicate clearly&lt;/b&gt; and diplomatically with technical, business and external stakeholders.&lt;/li&gt;
+ &lt;li&gt;You are structured, proactive, solution-oriented and able to challenge vendors constructively.&lt;/li&gt;
+ &lt;li&gt;You are fluent in &lt;b&gt;English&lt;/b&gt;. Knowledge of Dutch and/or French is an advantage.&lt;/li&gt;
+ &lt;li&gt;You have a relevant bachelor's degree or equivalent professional experience.&lt;/li&gt;
+&lt;/ul&gt;
+&amp;nbsp;
+&lt;br&gt;
+&lt;b&gt;What you'll get in return&lt;/b&gt;
+&lt;br&gt;
+&lt;br&gt;
+In return for your expertise, you will receive an attractive salary package including:
+&lt;br&gt;
+&lt;ul&gt;
+ &lt;li&gt;Gross monthly salary &lt;b&gt;between EUR5,000 and EUR6,100.&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Company car&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Group &lt;/b&gt;and &lt;b&gt;hospitalization &lt;/b&gt;&lt;b&gt;insurance&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;EUR125 net&lt;/b&gt;/month &lt;b&gt;allowance&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Meal vouchers &lt;/b&gt;of&lt;b&gt; EUR8 &lt;/b&gt;per worked day and&lt;b&gt; EUR250 eco vouchers&lt;/b&gt; per reference year&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Bonus potential of 10%&lt;/b&gt; of the annual gross salary, subject to the applicable bonus plan&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;Laptop &lt;/b&gt;and &lt;b&gt;mobile &lt;/b&gt;phone/subscription&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;26 holidays&lt;/b&gt;&lt;/li&gt;
+ &lt;li&gt;A &lt;b&gt;39-hour working week &lt;/b&gt;with flexible working hours and time registration&lt;/li&gt;
+ &lt;li&gt;After the first three months of office-based onboarding,&lt;b&gt; two teleworking days per week,&lt;/b&gt; with fixed days agreed with the supervisor. Teleworking from abroad is not possible.&lt;/li&gt;
+&lt;/ul&gt;
+&amp;nbsp;
+&lt;br&gt;
+&lt;b&gt;What you need to do now&lt;/b&gt;
+&lt;br&gt;
+&lt;br&gt;
+Are you interested in this role? Please contact Alexia Brosens from Hays or click 'apply...&lt;h3&gt;Profiel&lt;/h3&gt;-&lt;h3&gt;Aanbod&lt;/h3&gt;-</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75027255"/>
+    <published>2026-11-10T14:17:46+00:00</published>
   </entry>
 </feed>
