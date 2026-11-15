@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-11-14T11:27:13.744368+00:00</updated>
+  <updated>2026-11-15T01:52:25.468786+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/69084442</id>
+    <title>Freelance Java Developer (CRONOS)</title>
+    <updated>2026-10-28T00:04:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CRONOS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Rol:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Als consultant kom je terecht in diverse omgevingen, bij diverse klanten, waar je mee kan instaan voor het uitwerken en bouwen van innovatieve cloudapplicaties.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je kijkt verder dan je code alleen en kan functionele vereisten vertalen naar een technische oplossing&lt;/li&gt;&lt;li&gt;Naast jouw specialisatie blijf je een brede kijk houden op technologie en deins je er niet voor terug om nieuwe dingen op te pikken&lt;/li&gt;&lt;li&gt;Wisselende omgevingen en inwerken bij nieuwe teams zie je als een meerwaarde in je job&lt;/li&gt;&lt;li&gt;Opvolgen van de nieuwste trends en ontwikkelingen in cloud architectuur en tools zit in je DNA&lt;/li&gt;&lt;li&gt;Communicatie is cruciaal, je toetst je oplossing af met de functionele teams en overlegt op regelmatige basis met je collega’s&lt;/li&gt;&lt;li&gt;Je spreekt Nederlands en Engels. Frans is een plus&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Vereiste kennis:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt relevante werkervaring in Java, Node.JS, Spring, Spring Boot, Maven, Jenkins, Git, containers (Docker, Kubernetes)&lt;/li&gt;&lt;li&gt;Je bent volledig mee met cloud providers zoals Amazon Web Services, Google Cloud Platform en Oracle Cloud&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;node.js&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;spring&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;angular&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;maven&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;jenkins&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;git&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;docker&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;kubernetes&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;amazon web services&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;google cloud platform&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;oracle cloud&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Als dedicated freelance-resource contact zorgen we voor een snelle, flexibele en persoonlijke aanpak. Onze samenwerking is gebaseerd op respect, vertrouwen en continuïteit.&lt;/p&gt;&lt;p&gt;We hebben steeds rechtstreeks contact met de opdrachtgever, een project wordt altijd op voorhand besproken met de freelancer.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Wil je meer info of gewoon een gesprek?&lt;/p&gt;&lt;p&gt;Neem snel contact op.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;recruitment@fieldside.be of diana.dierckx@fieldside.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/69084442"/>
+    <published>2024-07-02T09:28:31+00:00</published>
+  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/69084439</id>
     <title>Freelance Data Engineer (CRONOS)</title>
@@ -695,49 +718,6 @@
 &lt;li&gt;Maaltijdcheques &amp;amp; Ecocheques&lt;/li&gt; &lt;/ul&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/72474849"/>
     <published>2025-11-28T10:00:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72840831</id>
-    <title>SAP Area Lead (Delhaize)</title>
-    <updated>2026-09-07T08:50:39+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Delhaize (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kobbegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als SAP Area Lead ben je verantwoordelijk voor het beheren van de technisch applicatieve en transactionele processen binnen Retail, finance en Supply Chain (SAP retail).&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Concreet neem je de leading rol op binnen het domein van Masterdata (MD) en Source to Assort (S2A, alle technische en functionele processen met betrekking tot promo, pricing en assortimentbeheer). Je ondersteunt de business met betrekking tot alle processen die deel uitmaken van jouw domein teneinde vereenvoudigde en geoptimaliseerde processen en tools aan te leveren die de E2E supply chain-efficiëntie verhoogt.&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;Jouw verantwoordelijkheden:&lt;/p&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Als area lead ondersteun je de business en ben je de link naar onze IT-departementen.&lt;/li&gt; 
-&lt;li&gt;Je maakt actief deel uit van projecten: je analyseert de technische applicatieve en operationele processen van het project en stelt oplossingen voor.&lt;/li&gt; 
-&lt;li&gt;Je plant, organiseert en beheert jouw area betreffende staffing, workload en processen in samenspraak met jouw manager.&lt;/li&gt; 
-&lt;li&gt;Je coördineert en prioriteert aanvragen naar het IT-departement van jouw business om zo een efficiënte en adequate ondersteuning te bieden voor de belangrijkste en meest urgente requests.&lt;/li&gt; 
-&lt;li&gt;Je staat in voor het oplossen van complexe incidenten en ondersteunt de experts en specialisten binnen het BPO-team alsook van onze interne klanten (Masterdatateamn, pricing teams, assortment teams,…) in het aanbieden van deskundige oplossingen voor vraagstukken, verbeteringen of problemen.&lt;/li&gt; 
-&lt;li&gt;Je zorgt voor een degelijke opleiding aan de belanghebbenden bij bijvoorbeeld introductie van nieuwe velden, of de lancering van nieuwe tools.&lt;/li&gt; 
-&lt;li&gt;Je stelt KPI’s op, volgt ze op en je ontwikkelt een gezamenlijke rapportering met als doel visibiliteit te creëren naar alle stakeholders inzake status, stabiliteit, volledigheid en performantie.&lt;/li&gt; 
-&lt;li&gt;Je rapporteert aan het head of BPO.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;&lt;span&gt;Je kan 
-&lt;span&gt;minstens 5 jaar ervaring&lt;/span&gt; voorleggen binnen master data en/of supply chain processen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt operationele kennis van 
-&lt;span&gt;retailprocessen&lt;/span&gt;.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt doorgedreven kennis van 
-&lt;span&gt;SAP (retail)&lt;/span&gt; en 
-&lt;span&gt;masterdata&lt;/span&gt;, 
-&lt;span&gt;assortment&lt;/span&gt;, 
-&lt;span&gt;promo creation&lt;/span&gt; en 
-&lt;span&gt;pricing&lt;/span&gt;. &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Kennis van andere business user applicaties ( SAP BW, Incident Management tools, DIAMS Delhaize article mgmt.. tool, Power BI ...) is een plus.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je bent een 
-&lt;span&gt;vlotte&lt;/span&gt;, 
-&lt;span&gt;assertieve&lt;/span&gt; 
-&lt;span&gt;communicator&lt;/span&gt; en je durft je 
-&lt;span&gt;zichtbaar&lt;/span&gt; op te stellen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je bent 
-&lt;span&gt;pragmatisch&lt;/span&gt; ingesteld en je hebt een 
-&lt;span&gt;kritisch&lt;/span&gt; denkvermogen. &lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je kan 
-&lt;span&gt;prioriteiten&lt;/span&gt; stellen.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72840831"/>
-    <published>2026-01-15T16:11:09+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72889800</id>
@@ -1862,21 +1842,9 @@ Waarom kiezen voor ons?
     <published>2026-09-08T15:56:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74564109</id>
-    <title>Medior/ Senior Java Developer (CRONOS)</title>
-    <updated>2026-10-14T00:00:38+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CRONOS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Rol &amp; context&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Java Developer werk je mee aan grootschalige &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;legacy-migratie- en versie-upgradetrajecten&lt;/span&gt;. Samen met een klein, ervaren team zorg je ervoor dat bestaande applicaties technisch klaar zijn voor de toekomst.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Concreet migreer je oudere &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java 8/J2EE-codebases naar Java 21 en Jakarta EE 10&lt;/span&gt;. Afhankelijk van het traject zet je daarnaast ook de stap naar &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Quarkus 3&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je zit daarbij dicht op de code: je voert de effectieve migraties uit, gebruikt tooling om het proces te versnellen en grijpt manueel in waar automatisatie niet volstaat.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Wat ga je doen?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bestaande &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;J2EE-code migreren naar Jakarta EE 10&lt;/span&gt;, inclusief namespaces, dependencies en configuratie.&lt;/li&gt;&lt;li&gt;Waar relevant componenten migreren naar &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Quarkus 3&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Migratietooling zoals &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;OpenRewrite&lt;/span&gt; en &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;IntelliJ Migration Assistant&lt;/span&gt; inzetten en manueel remediëren waar nodig.&lt;/li&gt;&lt;li&gt;Configuratiebestanden zoals web.xml, application.xml en weblogic.xml aanpassen aan de nieuwe versies.&lt;/li&gt;&lt;li&gt;Technische problemen analyseren en oplossen die tijdens de migratie naar boven komen.&lt;/li&gt;&lt;li&gt;Samenwerken met testers en business tijdens de verschillende test- en validatie-iteraties.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Jouw technische toolkit&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Naast de juiste mindset zoeken we uiteraard ook de nodige technische bagage.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Must-have&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Stevige ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java&lt;/span&gt;, bij voorkeur ook met oudere &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java EE/J2EE-codebases&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Kennis van &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;EJB, JMS en JTA/XA&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Maven&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Interesse en bereidheid om je verder te verdiepen in &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Jakarta EE 10 en Quarkus 3&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Nice-to-have&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;OpenRewrite&lt;/span&gt; of vergelijkbare migratietooling.&lt;/li&gt;&lt;li&gt;Kennis van &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Oracle en/of PL/SQL&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Vaadin&lt;/span&gt; of &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Struts2&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Wat je kan verwachten&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Technisch uitdagend migratiewerk waarbij je bestaande applicaties grondig moderniseert en mee klaarstoomt voor de toekomst.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je krijgt de kans om je verder te verdiepen in moderne Java-technologieën en tooling zoals &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java 21, Jakarta EE 10, Quarkus 3 en OpenRewrite&lt;/span&gt;, terwijl je samenwerkt met ervaren collega's die dezelfde technische uitdagingen aanpakken.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74564109"/>
-    <published>2026-09-08T17:12:34+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74564293</id>
     <title>Senior Java Migration Engineer (Tech Lead Migratie) (CRONOS)</title>
-    <updated>2026-10-14T00:00:47+00:00</updated>
+    <updated>2026-11-15T00:01:01+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CRONOS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Rol &amp; context&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Voor grootschalige legacy-migratie- en versie-upgradetrajecten zoeken we een Senior Java Migration Engineer die technisch het voortouw neemt.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je werkt aan omvangrijke Java EE-platformen op WebLogic, met een groot aantal applicaties, schermen en batchprocessen. Functioneel blijft de werking behouden, maar technisch verandert er veel: van Java 8 naar Java 21, van Java EE naar Jakarta EE 10 en, waar relevant, een migratie naar Quarkus 3. In bepaalde trajecten wordt dit bovendien gecombineerd met een Vaadin-migratie.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Als Tech Lead neem je het architecturale eigenaarschap over het migratietraject op. Je bepaalt mee de technische richting, bewaakt de gemaakte keuzes en zorgt ervoor dat het team op een consistente en kwalitatieve manier door de verschillende applicaties heen migreert.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wat ga je doen?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Per applicatie een technische analyse en plan van aanpak opstellen, ondersteund door een architect.&lt;/li&gt;&lt;li&gt;Belangrijke technische keuzes documenteren in Architecture Decision Records (ADR’s).&lt;/li&gt;&lt;li&gt;Per applicatie mee bepalen of een WebLogic-upgrade volstaat of een migratie naar Quarkus de beste keuze is.&lt;/li&gt;&lt;li&gt;Eén of meerdere pilootapplicaties technisch trekken en de opgedane lessen vertalen naar volgende migraties.&lt;/li&gt;&lt;li&gt;Migratietooling inzetten, evalueren en bepalen waar automatisatie volstaat en waar manuele remediatie nodig is.&lt;/li&gt;&lt;li&gt;Mee bewaken van de acceptatiecriteria, waaronder regressietesten, testcoverage en kritische businessflows.&lt;/li&gt;&lt;li&gt;Junior en medior teamleden technisch begeleiden en coachen tijdens het migratietraject.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Jouw technische toolkit&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Voor deze rol zoeken we iemand die niet alleen sterk is in Java, maar ook ervaring heeft met de complexiteit van enterprise-omgevingen en grootschalige upgrades.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Must-have&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ruime ervaring met Java EE/Jakarta EE op WebLogic, inclusief EJB, JMS, JTA/XA en JNDI.&lt;/li&gt;&lt;li&gt;Sterke Java-kennis, van Java 8 tot Java 21/25, inclusief typische upgrade- en compatibiliteitsproblemen.&lt;/li&gt;&lt;li&gt;Kennis van Jakarta EE 10 en de overgang van javax naar jakarta.&lt;/li&gt;&lt;li&gt;Affiniteit met Quarkus 3 en inzicht in de verschillen met een volwaardige Java EE-appserver.&lt;/li&gt;&lt;li&gt;Ervaring met het schrijven van ADR’s en technische analyses.&lt;/li&gt;&lt;li&gt;Ervaring met Maven.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nice-to-have&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met grootschalige legacy-migratietrajecten.&lt;/li&gt;&lt;li&gt;Kennis van containerplatformen en AWS.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
                     &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
                     &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
@@ -1884,6 +1852,18 @@ Waarom kiezen voor ons?
 &lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wat je kan verwachten&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je komt terecht in technisch uitdagende migratie- en tech-leadtrajecten waarbij je een centrale rol speelt in de modernisering van complexe Java-platformen.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je werkt in een team dat technisch vakmanschap belangrijk vindt, met aandacht voor code reviews, onderbouwde architectuurkeuzes via ADR’s en ruimte om nieuwe tooling en migratie-aanpakken te testen en te evalueren.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74564293"/>
     <published>2026-09-08T17:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/74564109</id>
+    <title>Medior/ Senior Java Developer (CRONOS)</title>
+    <updated>2026-11-15T00:00:52+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CRONOS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Rol &amp; context&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Als Java Developer werk je mee aan grootschalige &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;legacy-migratie- en versie-upgradetrajecten&lt;/span&gt;. Samen met een klein, ervaren team zorg je ervoor dat bestaande applicaties technisch klaar zijn voor de toekomst.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Concreet migreer je oudere &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java 8/J2EE-codebases naar Java 21 en Jakarta EE 10&lt;/span&gt;. Afhankelijk van het traject zet je daarnaast ook de stap naar &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Quarkus 3&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je zit daarbij dicht op de code: je voert de effectieve migraties uit, gebruikt tooling om het proces te versnellen en grijpt manueel in waar automatisatie niet volstaat.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Wat ga je doen?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bestaande &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;J2EE-code migreren naar Jakarta EE 10&lt;/span&gt;, inclusief namespaces, dependencies en configuratie.&lt;/li&gt;&lt;li&gt;Waar relevant componenten migreren naar &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Quarkus 3&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Migratietooling zoals &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;OpenRewrite&lt;/span&gt; en &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;IntelliJ Migration Assistant&lt;/span&gt; inzetten en manueel remediëren waar nodig.&lt;/li&gt;&lt;li&gt;Configuratiebestanden zoals web.xml, application.xml en weblogic.xml aanpassen aan de nieuwe versies.&lt;/li&gt;&lt;li&gt;Technische problemen analyseren en oplossen die tijdens de migratie naar boven komen.&lt;/li&gt;&lt;li&gt;Samenwerken met testers en business tijdens de verschillende test- en validatie-iteraties.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Jouw technische toolkit&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Naast de juiste mindset zoeken we uiteraard ook de nodige technische bagage.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Must-have&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Stevige ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java&lt;/span&gt;, bij voorkeur ook met oudere &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java EE/J2EE-codebases&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Kennis van &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;EJB, JMS en JTA/XA&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Maven&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Interesse en bereidheid om je verder te verdiepen in &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Jakarta EE 10 en Quarkus 3&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Nice-to-have&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;OpenRewrite&lt;/span&gt; of vergelijkbare migratietooling.&lt;/li&gt;&lt;li&gt;Kennis van &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Oracle en/of PL/SQL&lt;/span&gt;.&lt;/li&gt;&lt;li&gt;Ervaring met &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Vaadin&lt;/span&gt; of &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Struts2&lt;/span&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
+                    &lt;li&gt;&lt;p&gt;software development&lt;/p&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;p&gt;java&lt;/p&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;&lt;strong style="background-color: rgba(0, 0, 0, 0);"&gt;Wat je kan verwachten&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Technisch uitdagend migratiewerk waarbij je bestaande applicaties grondig moderniseert en mee klaarstoomt voor de toekomst.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Je krijgt de kans om je verder te verdiepen in moderne Java-technologieën en tooling zoals &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;Java 21, Jakarta EE 10, Quarkus 3 en OpenRewrite&lt;/span&gt;, terwijl je samenwerkt met ervaren collega's die dezelfde technische uitdagingen aanpakken.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/74564109"/>
+    <published>2026-09-08T17:12:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74586913</id>
