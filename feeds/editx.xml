@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>d34c4e59-e6f2-4fce-8ea6-e0da265fbf22</id>
   <title>editx</title>
-  <updated>2026-11-15T11:38:52.887513+00:00</updated>
+  <updated>2026-11-16T12:12:18.265237+00:00</updated>
   <link href="https://www.editx.eu" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -112,6 +112,15 @@
     <published>2026-10-14T08:05:43+00:00</published>
   </entry>
   <entry>
+    <id>https://editx.eu/en/it-jobs/19047</id>
+    <title>Medior - Senior Data Engineer - interne functie (CLOVR)</title>
+    <updated>2026-07-22T08:11:20+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CLOVR&lt;/li&gt;&lt;li&gt;Recruiter: Wout Raeyen, Managing Partner - Senior Recruiter – CLOVR&lt;/li&gt;&lt;li&gt;Locatie: Tienen (Tienen)&lt;/li&gt;&lt;li&gt;Published on more than 1 month, last change 22/07/2026&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Rol&lt;/h3&gt;&lt;p&gt;Voor deze gerenommeerde internationale onderneming te regio Tienen zijn we op zoek naar een gedreven Data Engineer.&lt;/p&gt;&lt;p&gt;Jouw takenpakket bestaat uit onder andere:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontwerpen, ontwikkelen en managen van data pipelines&lt;/li&gt;&lt;li&gt;Het ontwikkelen en bouwen van future proof dataplatformen&lt;/li&gt;&lt;li&gt;Het samenwerken met andere specialisten zoals BA's en de technical data lead&lt;/li&gt;&lt;li&gt;Data integratie en ETL (ontwikkelen van ETL processen,...)&lt;/li&gt;&lt;li&gt;Ontwikkeling en management van databases&lt;/li&gt;&lt;li&gt;....&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt &lt;strong&gt;minstens 3 jaar ervaring als Data Engineer&lt;/strong&gt; (of een gelijkaardige relevante rol) en beschikt over goede analytische vaardigheden;&lt;/li&gt;&lt;li&gt;Uitstekende kennis van &lt;strong&gt;databases (SQL Server, Oracle, Postgress, MongoDB&lt;/strong&gt;), programmeertalen zoals &lt;strong&gt;Python, R, SQL,&lt;/strong&gt; ervaring met &lt;strong&gt;Azure (Azure Data Factory, Data Lake Storage&lt;/strong&gt;,..), ervaring met &lt;strong&gt;data modeling en ETL processen&lt;/strong&gt;,..&lt;/li&gt;&lt;li&gt;Je kan moeilijke technische concepten duidelijk en eenvoudig overbrengen naar niet-technische gebruikers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat is het aanbod?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Contract onbepaalde duur in een groeiende internationale speler&lt;/li&gt;&lt;li&gt;Salaris afhankelijk van jouw competenties (&lt;strong&gt;+/- 4000-5500 euro bruto/maand&lt;/strong&gt;)&lt;/li&gt;&lt;li&gt;Vergoeding woonwerkverkeer&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Uitgebreide hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Zeer interessante groepsverzekering&lt;/li&gt;&lt;li&gt;Glijdende uren &amp;amp; mogelijkheid tot &lt;strong&gt;thuiswerk (2 dagen/week)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;GSM en laptop&lt;/li&gt;&lt;li&gt;39 u/week maar wél &lt;strong&gt;12 ADV dagen&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;inhouse&lt;/strong&gt; functie&lt;/li&gt;&lt;li&gt;Tal van &lt;strong&gt;opleidingen, trainingen, ontwikkelingsmogelijkheden&lt;/strong&gt;,..&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Bedrijf&lt;/h3&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Adres: Lil &lt;/li&gt;&lt;li&gt;Vacatures: 43&lt;/li&gt;&lt;li&gt;Sector: Staffing &amp;amp; Recruiting&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content>
+    <link href="https://editx.eu/en/it-jobs/19047"/>
+    <category term="Azure"/>
+    <published>2026-07-22T08:11:20+00:00</published>
+  </entry>
+  <entry>
     <id>https://editx.eu/en/it-jobs/10115</id>
     <title>Data Scientist Engineer  (Devoteam)</title>
     <updated>2026-05-11T09:53:09+00:00</updated>
@@ -123,15 +132,6 @@
     <category term="Python"/>
     <category term="Amazon Web Services (AWS)"/>
     <published>2026-05-11T09:53:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://editx.eu/en/it-jobs/19047</id>
-    <title>Medior - Senior Data Engineer - interne functie (CLOVR)</title>
-    <updated>2026-07-22T08:11:20+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CLOVR&lt;/li&gt;&lt;li&gt;Recruiter: Wout Raeyen, Managing Partner - Senior Recruiter – CLOVR&lt;/li&gt;&lt;li&gt;Locatie: Tienen (Tienen)&lt;/li&gt;&lt;li&gt;Published on more than 1 month, last change 22/07/2026&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Rol&lt;/h3&gt;&lt;p&gt;Voor deze gerenommeerde internationale onderneming te regio Tienen zijn we op zoek naar een gedreven Data Engineer.&lt;/p&gt;&lt;p&gt;Jouw takenpakket bestaat uit onder andere:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Ontwerpen, ontwikkelen en managen van data pipelines&lt;/li&gt;&lt;li&gt;Het ontwikkelen en bouwen van future proof dataplatformen&lt;/li&gt;&lt;li&gt;Het samenwerken met andere specialisten zoals BA's en de technical data lead&lt;/li&gt;&lt;li&gt;Data integratie en ETL (ontwikkelen van ETL processen,...)&lt;/li&gt;&lt;li&gt;Ontwikkeling en management van databases&lt;/li&gt;&lt;li&gt;....&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wie ben jij?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt &lt;strong&gt;minstens 3 jaar ervaring als Data Engineer&lt;/strong&gt; (of een gelijkaardige relevante rol) en beschikt over goede analytische vaardigheden;&lt;/li&gt;&lt;li&gt;Uitstekende kennis van &lt;strong&gt;databases (SQL Server, Oracle, Postgress, MongoDB&lt;/strong&gt;), programmeertalen zoals &lt;strong&gt;Python, R, SQL,&lt;/strong&gt; ervaring met &lt;strong&gt;Azure (Azure Data Factory, Data Lake Storage&lt;/strong&gt;,..), ervaring met &lt;strong&gt;data modeling en ETL processen&lt;/strong&gt;,..&lt;/li&gt;&lt;li&gt;Je kan moeilijke technische concepten duidelijk en eenvoudig overbrengen naar niet-technische gebruikers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Wat is het aanbod?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Contract onbepaalde duur in een groeiende internationale speler&lt;/li&gt;&lt;li&gt;Salaris afhankelijk van jouw competenties (&lt;strong&gt;+/- 4000-5500 euro bruto/maand&lt;/strong&gt;)&lt;/li&gt;&lt;li&gt;Vergoeding woonwerkverkeer&lt;/li&gt;&lt;li&gt;Maaltijd- en ecocheques&lt;/li&gt;&lt;li&gt;Netto-onkostenvergoeding&lt;/li&gt;&lt;li&gt;Uitgebreide hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Zeer interessante groepsverzekering&lt;/li&gt;&lt;li&gt;Glijdende uren &amp;amp; mogelijkheid tot &lt;strong&gt;thuiswerk (2 dagen/week)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;GSM en laptop&lt;/li&gt;&lt;li&gt;39 u/week maar wél &lt;strong&gt;12 ADV dagen&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Een &lt;strong&gt;inhouse&lt;/strong&gt; functie&lt;/li&gt;&lt;li&gt;Tal van &lt;strong&gt;opleidingen, trainingen, ontwikkelingsmogelijkheden&lt;/strong&gt;,..&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h3&gt;Bedrijf&lt;/h3&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Adres: Lil &lt;/li&gt;&lt;li&gt;Vacatures: 43&lt;/li&gt;&lt;li&gt;Sector: Staffing &amp;amp; Recruiting&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content>
-    <link href="https://editx.eu/en/it-jobs/19047"/>
-    <category term="Azure"/>
-    <published>2026-07-22T08:11:20+00:00</published>
   </entry>
   <entry>
     <id>https://editx.eu/en/it-jobs/17704</id>
