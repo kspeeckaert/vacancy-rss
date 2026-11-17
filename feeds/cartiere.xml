@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-11-17T12:35:03.723967+00:00</updated>
+  <updated>2026-11-17T21:57:03.908621+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -106,6 +106,49 @@ Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;br&gt
     <link href="https://www.cartiere.be/jobs/data-ai-specialist-west-vlaanderen/"/>
     <category term="Analytics Engineer"/>
     <published>2026-11-04T14:31:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cartiere.be/jobs/data-platform-engineer/</id>
+    <title>Data (platform) engineer</title>
+    <updated>2026-10-28T13:37:05+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Oudstrijdersstraat 76, 9700, Oudenaarde, Oost-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2026-10-28 14:37:05+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-10-28 13:37:05+00:00&lt;/li&gt;&lt;li&gt;Valid until 2027-10-28 14:37:05+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;strong&gt;BEDRIJF:&lt;/strong&gt;&lt;br&gt;
+Dit Belgische data- en AI-projecthuis helpt organisaties om hun data bruikbaar te maken in de dagelijkse werking. Dat gaat van het bepalen van een data-aanpak en het bouwen van platformen tot analytics, AI-toepassingen en de overdracht naar de teams van de klant. Technologie wordt gekozen op basis van het probleem en de bestaande omgeving van de klant, zonder zich aan één leverancier of tool te binden.&lt;br&gt;
+&lt;br&gt;
+De organisatie werkt voor klanten van uiteenlopende omvang en uit verschillende sectoren. Ze kiezen bewust voor organisaties met een duidelijke ambitie en ruimte om beslissingen te nemen, van kleinere KMO’s tot grotere internationale ondernemingen. De internationale opzet brengt verschillende expertises bij elkaar en maakt het mogelijk om grotere projectteams samen te stellen.&lt;br&gt;
+&lt;br&gt;
+De organisatie groeit en biedt ruimte om je rol mee vorm te geven. Eigen initiatief, open communicatie en een pragmatische aanpak staan centraal.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
+Als Data Engineer combineer je data engineering met cloud- en platformengineering. Je bouwt pipelines en datamodellen, maar zorgt ook dat de infrastructuur, deployments en omgevingen waarop ze draaien betrouwbaar zijn. Voor je eerste project werk je aan een GCP-platform met onder meer BigQuery, dbt, Airflow, Kubernetes en Terraform. Een belangrijk traject is de verdere scheiding tussen development en productie. Je integreert nieuwe databronnen, ontwikkelt transformaties en maakt data beschikbaar voor analisten, data scientists en AI-toepassingen. Daarbij bewaak je datakwaliteit, performantie en kosten.&lt;br&gt;
+&lt;br&gt;
+Ook de platformkant neem je mee in handen. Je automatiseert infrastructuur en deployments met infrastructure as code en CI/CD, helpt ontwikkel- en productieomgevingen duidelijk scheiden en verbetert monitoring, toegangsbeheer en foutafhandeling.&lt;br&gt;
+&lt;br&gt;
+Daarnaast werk je mee aan het in productie brengen van AI-toepassingen. Je voorziet de nodige data, ondersteunt containerworkloads en helpt agents betrouwbaar draaien. Zo combineer je het bouwen van een stevig datafundament met concrete toepassingen die daarop verder bouwen.&lt;br&gt;
+&lt;br&gt;
+Je doet dit samen met een projectteam van technische collega’s. Je bespreekt keuzes met technische collega’s en stakeholders, legt afwegingen uit en neemt initiatief wanneer het platform beter kan.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;3 jaar relevante ervaring in data engineering, platform engineering, DevOps of een combinatie daarvan.
+	&lt;li&gt;Sterke SQL- en Python-kennis; je hebt code en pipelines al in productie gebracht.
+	&lt;li&gt;Ervaring met GCP, Bigquery en Kubernetes/GKE. 
+	&lt;li&gt;Ervaring met dbt voor transformaties en datamodellen en met Airflow voor orchestratie.
+	&lt;li&gt;Ervaring met Terraform of vergelijkbare infrastructure as code, Docker, Git en CI/CD.
+	&lt;li&gt;Inzicht in datakwaliteit, monitoring, beveiliging en het beheren van gescheiden ontwikkel- en productieomgevingen.
+	&lt;li&gt;Je spreekt Engels en Nederlands of Frans.
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
+Data engineering, platformengineering en AI komen hier samen. Je bouwt datastromen én de omgeving die ze betrouwbaar laat draaien. Tegelijk help je AI-toepassingen naar productie brengen, waardoor je technisch breed blijft en je verder kunt verdiepen in AI.&lt;br&gt;
+&lt;br&gt;
+Je stapt in in een verhaal van groei en ambitie. Het bedrijf bevindt zich in volle ontwikkeling en biedt jou de unieke kans om mee te bouwen aan de toekomst. Je krijgt niet alleen de ruimte om je eigen rol vorm te geven, maar ook om echt impact te hebben op het team, de projecten en de koers van de organisatie.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;Benieuwd naar meer?&lt;br&gt;
+Stuur nu jouw CV naar gilles@cartiere.be en bel +32 3 343 94 93 voor meer informatie.&lt;br&gt;
+Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;</content>
+    <link href="https://www.cartiere.be/jobs/data-platform-engineer/"/>
+    <category term="Data Engineering"/>
+    <published>2026-10-28T14:37:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-scientist/</id>

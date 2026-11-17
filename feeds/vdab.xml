@@ -2,508 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>e2590d85-368a-4ef9-863c-931baa40fcec</id>
   <title>VDAB</title>
-  <updated>2026-11-17T13:02:14.566103+00:00</updated>
+  <updated>2026-11-17T22:22:26.842124+00:00</updated>
   <link href="https://www.vdab.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/71894679</id>
-    <title>Full Stack Developer (Medior/Senior) (MOoN R&amp;C)</title>
-    <updated>2026-11-06T10:24:46+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: MOoN R&amp;amp;C (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Heist-Op-Den-Berg&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;span&gt;Ben jij een gepassioneerde &lt;/span&gt;&lt;span&gt;Full Stack Developer&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;(Medior en Senior)&lt;/span&gt;&lt;span&gt; die klaar is voor een nieuwe uitdaging? Wil jij werken aan innovatieve projecten met de nieuwste technologieën in een &lt;/span&gt;&lt;span&gt;groeiend ICT-bedrijf&lt;/span&gt;&lt;span&gt;? Dan zijn wij op zoek naar jou!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Als &lt;/span&gt;&lt;span&gt;Full Stack Developer&lt;/span&gt;&lt;span&gt; maak je deel uit van een &lt;/span&gt;&lt;span&gt;dynamisch en hecht team&lt;/span&gt;&lt;span&gt; waar samenwerking en innovatie centraal staan. Je werkt met de &lt;/span&gt;&lt;span&gt;modernste technologieën&lt;/span&gt;&lt;span&gt; en krijgt de ruimte om je eigen ideeën te realiseren. Geen dag is hetzelfde: van het bouwen van intuïtieve frontends tot het optimaliseren van complexe backendprocessen – jij draait je hand er niet voor om.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span&gt;Wat ga je doen?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Ontwikkelen en optimaliseren van webapplicaties met 
-&lt;span&gt;.NET 6, Angular en SQL&lt;/span&gt;.&lt;/li&gt; 
-&lt;li&gt;Werken met 
-&lt;span&gt;Entity Framework, Docker en Git&lt;/span&gt; (ervaring hiermee is een plus!).&lt;/li&gt; 
-&lt;li&gt;Meedenken over 
-&lt;span&gt;architectuur en nieuwe features&lt;/span&gt;.&lt;/li&gt; 
-&lt;li&gt;Oplossingen bedenken voor 
-&lt;span&gt;technische uitdagingen&lt;/span&gt; en deze implementeren.&lt;/li&gt; 
-&lt;li&gt;Samenwerken in een team waar 
-&lt;span&gt;kennisdeling en innovatie&lt;/span&gt; vooropstaan.&lt;/li&gt; 
-&lt;li&gt;Werken aan 
-&lt;span&gt;diverse projecten&lt;/span&gt;, zowel in-house als voor externe klanten.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Sterke kennis van .NET 6, Angular en SQL.&lt;/li&gt; 
-&lt;li&gt;Ervaring met Entity Framework, Docker en Git is een pre.&lt;/li&gt; 
-&lt;li&gt;Interesse in Linq, Azure DevOps, OAuth en Keycloak? Mooi meegenomen!&lt;/li&gt; 
-&lt;li&gt;Analytische mindset: je denkt in oplossingen en komt graag met vernieuwende ideeën.&lt;/li&gt; 
-&lt;li&gt;Proactieve en zelfstandige werkhouding, maar ook een echte teamplayer.&lt;/li&gt; 
-&lt;li&gt;Goede communicatieve vaardigheden en een kritische, maar positieve instelling.&lt;/li&gt; 
-&lt;li&gt;Een gezonde dosis humor – want werken moet ook leuk zijn!&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Inspirerende werkomgeving – Een groeiend bedrijf met een informele, open cultuur waar jouw stem telt.&lt;/li&gt; 
-&lt;li&gt;Kennisdeling en ontwikkeling – Regelmatige meet-ups en trainingen om jouw skills naar een hoger niveau te tillen.&lt;/li&gt; 
-&lt;li&gt;Aantrekkelijke arbeidsvoorwaarden: Competitief salaris + 
-&lt;em&gt;bedrijfswagen met tankkaart, nettovergoeding, DKV hospitalisatieverzekering, maaltijdcheques, 38-uren werkweek&lt;/em&gt;&lt;/li&gt; 
-&lt;li&gt;Flexibiliteit en work/life balance – Hybride werken mogelijk, met flexibele kantoor- en thuiswerkdagen.&lt;/li&gt; 
-&lt;li&gt;Fun &amp;amp; verbinding – Regelmatig leuke activiteiten zoals sportieve challenges, cafébezoekjes en een legendarische jaarlijkse teambuilding.&lt;/li&gt; 
-&lt;li&gt;Persoonlijke groei – Wij investeren in opleidingen en doorgroeimogelijkheden, zodat jij het beste uit jezelf kunt halen.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/71894679"/>
-    <published>2025-09-09T10:07:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72371888</id>
-    <title>Senior WPF software engineer (Kingfisher Recruitment)</title>
-    <updated>2026-09-28T09:56:41+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Als Senior WPF software engineer krijg je de unieke kans om in een groeiverhaal te stappen waar jij verantwoordelijk wordt voor de toekomst van hun software. Zo bepaal jij de richting van hun applicatie, maak jij de technische keuzes om hun product future proof te maken en zorg jij voor de nieuwe ontwikkelingen.&amp;#160;Deze unieke rol biedt de opportuniteit om impact te maken in een zeer uitdagende omgeving waar software en hardware op een naadloze manier samenwerken.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma of gelijkwaardig door ervaring&lt;/li&gt;&lt;li&gt;Sterke werkervaring met WPF&lt;/li&gt;&lt;li&gt;Ervaring met Azure is een plus&lt;/li&gt;&lt;li&gt;Je bent communicatief ingesteld&lt;/li&gt;&lt;li&gt;Zelfstandige en kritische mindset&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Deze Belgische software scale-up met hun eigen innovatief soft- en hardwareproduct is wegens groot succes enorm aan het groeien. Na groot succes in hun start blijkt nu dat hun toepassing een veel bredere toepasbaarheid heeft in verschillende industrieën, wat maakt dat ze vandaag&amp;#160;in hun team&amp;#160;sterk inzetten om deze schaalbaarheid waar te maken.&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Mogelijkheid tot &lt;b&gt;freelance&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Payroll verloning inclusief bedrijfswagen + tankkaart&lt;/li&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&amp;#160;&lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;Laptop&lt;/li&gt;&lt;li&gt;Veel flexibiliteit: 32 vakantiedagen, thuiswerk en glijdende werkuren&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72371888"/>
-    <published>2025-11-06T10:56:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72456913</id>
-    <title>Senior .Net Software Engineer (Kingfisher Recruitment)</title>
-    <updated>2026-10-05T11:35:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je schrijft robuuste code in .Net en zorgt voor continue verbetering van hun software, dit in projectwerking voor complexe omgevingen. De software wordt intern gebouwd én nauw geïntegreerd met de klantomgevingen, dus je impact reikt verder dan enkel development, je bent mee een drijvende kracht in de lange termijnrelatie met de klant.&lt;br&gt;Je komt terecht in een moderne, technisch sterke omgeving met een developmentafdeling verdeeld over kleinere teams van 6 à 7 mensen. Binnen die teams heerst een open sfeer waarin kennisdelen en elkaar helpen vanzelfsprekend zijn.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT is een grote plus&lt;/li&gt;&lt;li&gt;Sterke werkervaring met .NET&lt;/li&gt;&lt;li&gt;Kennis van Angular of andere JavaScript frameworks is een plus&lt;/li&gt;&lt;li&gt;Je bent analytisch en oplossingsgericht ingesteld&lt;/li&gt;&lt;li&gt;Je werkt graag samen in een team maar kan ook zelfstandig verantwoordelijkheid opnemen&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;4 dagen thuiswerk mogelijk (als je wil)&lt;br&gt;Een snelgroeiende en gevestigde Belgische softwareorganisatie ontwikkelt haar eigen bedrijfsapplicaties die bij klanten in diverse sectoren worden geïmplementeerd, uitgebreid en continu verbeterd. Dankzij de sterke instroom aan nieuwe projecten breidt het developmentteam verder uit. De cultuur binnen de organisatie is vlak, informeel en collegiaal, met korte lijnen en veel aandacht voor samenwerking, kennisdeling en ownership.&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Brutoloon o.b.v. jouw ervaringsniveau&lt;/li&gt;&lt;li&gt;Bedrijfswagen + tank/laadkaart&lt;/li&gt;&lt;li&gt;4 dagen per week thuiswerk en een uitstekende work/life balance&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;Voordelen PC200&lt;/li&gt;&lt;li&gt;GSM-abonnement&lt;/li&gt;&lt;li&gt;Sport-abonnement&lt;/li&gt;&lt;li&gt;Opleiding en persoonlijke ontwikkeling als kern van je groeipad&lt;/li&gt;&lt;li&gt;Een hecht team met leuke teambuildings, sportieve uitdagingen en afterworkactiviteiten&lt;/li&gt;&lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72456913"/>
-    <published>2025-11-19T14:07:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72474484</id>
-    <title>Full Stack .NET Developer @itenium (ITENIUM)</title>
-    <updated>2026-09-15T13:13:11+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
-&lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om zijn/haar vaardigheden voortdurend te blijven leren en verbeteren.&lt;/p&gt; 
-&lt;p data-path-to-node="2"&gt;Heb jij:&lt;/p&gt; 
-&lt;ul data-path-to-node="3"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,0,0"&gt;de 
-&lt;strong&gt;drive om te blijven leren&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,1,0"&gt;zin om deel uit te maken van een 
-&lt;strong&gt;jong, dynamisch team&lt;/strong&gt; dat dezelfde waarden deelt?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,2,0"&gt;een 
-&lt;strong&gt;verantwoordelijkheidsgevoel&lt;/strong&gt; voor wat je oplevert?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,3,0"&gt;de neiging om te kiezen voor 
-&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,4,0"&gt;de toewijding om 
-&lt;strong&gt;kwaliteit en professionaliteit&lt;/strong&gt; bij onze klanten te brengen?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,5,0"&gt;de wens om 
-&lt;strong&gt;bijgestaan te worden door de beste technische mensen&lt;/strong&gt; (20+ jaar ervaring) om je ontwikkeling en carrière een boost te geven?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,6,0"&gt;de drang om de 
-&lt;strong&gt;nieuwste technologieën&lt;/strong&gt; te leren om je passie brandend te houden?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="3,7,0"&gt;spreek je 
-&lt;strong&gt;Nederlands met een grondige kennis van het Engels&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="4"&gt;&lt;strong&gt;Technologieën&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Heb je frontend ervaring met:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="6"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="6,0,0"&gt;JavaScript of TypeScript&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="6,1,0"&gt;SASS, SCSS of Post-CSS&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="6,2,0"&gt;Angular, React of Vue.js&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="6,3,0"&gt;RxJS en Redux&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="7"&gt;&lt;strong&gt;Heb je backend ervaring met:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="8"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,0,0"&gt;.NET Core&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,1,0"&gt;EntityFramework&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,2,0"&gt;ASP.NET WebApi en REST&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,3,0"&gt;LINQ, Generics en async/await&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,4,0"&gt;Unit Testing&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,5,0"&gt;AWS of Azure&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,6,0"&gt;... of sta je te popelen om ervaring op te doen in deze baanbrekende technologieën?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="9"&gt;&lt;strong&gt;En ook met:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="10"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,0,0"&gt;SQL of No-SQL database(s)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,1,0"&gt;Design Patterns en Dependency Injection&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,2,0"&gt;Scrum en Kanban&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,3,0"&gt;DevOps en Continuous Integration&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="11"&gt;&lt;strong&gt;Ben jij:&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="12"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="12,0,0"&gt;&lt;strong&gt;niet bang om vragen te stellen&lt;/strong&gt; of kunnen we je overtuigen om dat niet te zijn?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="12,1,0"&gt;in staat om 
-&lt;strong&gt;zelfstandig te werken&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="12,2,0"&gt;&lt;strong&gt;communicatief&lt;/strong&gt; en een 
-&lt;strong&gt;teamspeler&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Minimaal 5 jaar recente ervaring als Full Stack .NET Developer&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,0,0"&gt;Competitief salaris&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,1,0"&gt;Bedrijfswagen met tankkaart&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,2,0"&gt;Mobiele telefoon&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,3,0"&gt;32 vakantiedagen (waarvan 12 ADV)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,4,0"&gt;Hospitalisatie- en Groepsverzekering&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,5,0"&gt;Maaltijdcheques en Ecocheques&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72474484"/>
-    <published>2025-11-21T14:51:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72474631</id>
-    <title>Full Stack Java Developer @itenium (ITENIUM)</title>
-    <updated>2026-09-15T13:12:54+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="2"&gt;Wij zijn op zoek naar een 
-&lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om te blijven leren en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
-&lt;p data-path-to-node="3"&gt;&lt;strong&gt;Heb jij&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="4"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,0,0"&gt;de drive om te blijven leren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,1,0"&gt;zin om deel uit te maken van een jong, dynamisch team van mensen die dezelfde waarden delen?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,2,0"&gt;een verantwoordelijkheidsgevoel voor wat je oplevert?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,3,0"&gt;een voorkeur voor 
-&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,4,0"&gt;de toewijding om 
-&lt;strong&gt;kwaliteit en professionaliteit&lt;/strong&gt; aan onze klanten te leveren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,5,0"&gt;de wens om ondersteund te worden door de beste technische mensen (20+ jaar ervaring) om je ontwikkeling en carrière een boost te geven?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,6,0"&gt;de ambitie om de nieuwste technologieën te leren om je passie te blijven voeden?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,7,0"&gt;kennis van het Nederlands met een grondige beheersing van het Engels?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="6"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Heb je frontend-ervaring met&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="8"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,0,0"&gt;Angular, React of Vue.js&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,1,0"&gt;JavaScript of TypeScript&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,2,0"&gt;RxJS en Redux&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="8,3,0"&gt;SASS, SCSS of Post-CSS&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="9"&gt;&lt;strong&gt;Heb je backend-ervaring met&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="10"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,0,0"&gt;Java 8+ en Android (een pré)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,1,0"&gt;Hibernate en Spring&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,2,0"&gt;Generics en Lambdas&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,3,0"&gt;Unit Testing&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="10,4,0"&gt;AWS of Azure&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="11"&gt;… 
-&lt;strong&gt;of sta je te popelen om ervaring op te bouwen in deze baanbrekende technologieën?&lt;/strong&gt;&lt;/p&gt; 
-&lt;p data-path-to-node="12"&gt;&lt;strong&gt;En ook met&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="13"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,0,0"&gt;SQL of No-SQL database(s)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,1,0"&gt;Design Patterns en Dependency Injection&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,2,0"&gt;Scrum en Kanban&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="13,3,0"&gt;DevOps en Continuous Integration&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="15"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Ben jij&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="16"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="16,0,0"&gt;niet bang om vragen te stellen of kunnen we je overtuigen om dit niet te zijn?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="16,1,0"&gt;in staat om 
-&lt;strong&gt;zelfstandig&lt;/strong&gt; te werken?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="16,2,0"&gt;&lt;strong&gt;communicatief&lt;/strong&gt; en een 
-&lt;strong&gt;teamspeler&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Minimaal 5 jaar recente relevante ervaring als fullstack Java developer&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,0,0"&gt;Competitief salaris&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,1,0"&gt;Bedrijfswagen met tankkaart&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,2,0"&gt;Mobiele telefoon&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,3,0"&gt;32 vakantiedagen (waarvan 12 ADV-dagen)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,4,0"&gt;Hospitalisatie- &amp;amp; Groepsverzekering&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,5,0"&gt;Maaltijdcheques &amp;amp; Ecocheques&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72474631"/>
-    <published>2025-11-21T15:01:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72474786</id>
-    <title>Functioneel Analist @itenium (ITENIUM)</title>
-    <updated>2026-09-15T13:12:03+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
-&lt;strong&gt;gepassioneerde functioneel analist&lt;/strong&gt; met de 
-&lt;strong&gt;drive&lt;/strong&gt; om de business te leren kennen en zijn/haar vaardigheden te verbeteren.&lt;/p&gt; 
-&lt;p data-path-to-node="3"&gt;Heb je:&lt;/p&gt; 
-&lt;ul data-path-to-node="4"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,0,0"&gt;de drive om 
-&lt;strong&gt;constant te blijven leren&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,1,0"&gt;graag deel uitmaken van een 
-&lt;strong&gt;jong, dynamisch team&lt;/strong&gt; van mensen die dezelfde waarden delen?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,2,0"&gt;een 
-&lt;strong&gt;verantwoordelijkheidsgevoel&lt;/strong&gt; voor wat je oplevert?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,3,0"&gt;de voorkeur voor 
-&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,4,0"&gt;de toewijding om 
-&lt;strong&gt;kwaliteit en professionaliteit&lt;/strong&gt; aan onze klanten te leveren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,5,0"&gt;de wens om 
-&lt;strong&gt;bijgestaan te worden door de beste technische mensen&lt;/strong&gt; (20+ jaar ervaring) om je ontwikkeling en carrière een boost te geven?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,6,0"&gt;de ambitie om de 
-&lt;strong&gt;nieuwste technologieën&lt;/strong&gt; te leren om je passie brandend te houden?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,7,0"&gt;een 
-&lt;strong&gt;Nederlandstalige&lt;/strong&gt; achtergrond met een 
-&lt;strong&gt;grondige kennis van het Engels&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="6"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Technologieën &amp;amp; Kennis&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="7"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="7,0,0"&gt;UML&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="7,1,0"&gt;Domain Modelling (Domeinmodellering)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="7,2,0"&gt;SQL&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="7,3,0"&gt;Scrum&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="8"&gt;&lt;strong&gt;Persoonlijkheid&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="9"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="9,0,0"&gt;Een Probleemoplosser&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="9,1,0"&gt;Oplossingsgericht&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="9,2,0"&gt;Een Bruggenbouwer&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="9,3,0"&gt;Flexibel en Stressbestendig&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="10"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Ben je...&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;ul data-path-to-node="11"&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="11,0,0"&gt;niet bang om 
-&lt;strong&gt;vragen te stellen&lt;/strong&gt;, of kunnen we je overtuigen dit niet te zijn?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="11,1,0"&gt;in staat om 
-&lt;strong&gt;zelfstandig&lt;/strong&gt; te werken?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="11,2,0"&gt;&lt;strong&gt;communicatief&lt;/strong&gt; en een 
-&lt;strong&gt;teamspeler&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Minimaal 5 jaar recente ervaring als functioneel analist&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,0,0"&gt;Competitief salaris&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,1,0"&gt;Bedrijfswagen met tankkaart&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,2,0"&gt;Mobiele telefoon&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,3,0"&gt;32 vakantiedagen (waarvan 12 ADV-dagen)&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,4,0"&gt;Hospitalisatie- &amp;amp; Groepsverzekering&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="4,5,0"&gt;Maaltijdcheques &amp;amp; Ecocheques&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72474786"/>
-    <published>2025-11-21T15:08:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72518433</id>
-    <title>Data Analist @itenium (ITENIUM)</title>
-    <updated>2026-09-15T13:11:18+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Wij zijn op zoek naar een gepassioneerde en getalenteerde ontwikkelaar met de gedrevenheid om te blijven leren en zijn/haar vaardigheden te verbeteren&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,0,0"&gt;Heb je de 
-&lt;strong&gt;drive&lt;/strong&gt; om te blijven leren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,1,0"&gt;Wil je deel uitmaken van een 
-&lt;strong&gt;jong, dynamisch team&lt;/strong&gt; van mensen die dezelfde waarden delen?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,2,0"&gt;Voel je je 
-&lt;strong&gt;verantwoordelijk&lt;/strong&gt; voor wat je levert?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,3,0"&gt;Kies je voor 
-&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,4,0"&gt;Heb je de toewijding om 
-&lt;strong&gt;kwaliteit en professionaliteit&lt;/strong&gt; aan onze klanten te leveren?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,5,0"&gt;Wil je worden bijgestaan door de 
-&lt;strong&gt;beste technische mensen&lt;/strong&gt; (20+ jaar ervaring) om je ontwikkeling en carrière een boost te geven?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,6,0"&gt;Wil je de 
-&lt;strong&gt;nieuwste technologieën&lt;/strong&gt; leren om je passie brandend te houden?&lt;/p&gt; &lt;/li&gt; 
-&lt;li&gt; 
-&lt;p data-path-to-node="1,7,0"&gt;Spreek je 
-&lt;strong&gt;Nederlands&lt;/strong&gt; met een grondige kennis van het 
-&lt;strong&gt;Engels&lt;/strong&gt;?&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Technologies Responsibilities&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Analyseren van cross-domein bedrijfsprocessen en vertalen naar duidelijke, geïntegreerde datavraagstukken.&lt;/li&gt; 
-&lt;li&gt;Ontwerpen, bouwen en onderhouden van intuïtieve dashboards en rapporten (Power BI/Tableau) ter ondersteuning van organisatiebrede besluitvorming.&lt;/li&gt; 
-&lt;li&gt;Uitvoeren van diepgaande data-exploratie om trends, patronen en optimalisatiekansen te identificeren die domein overstijgend zijn.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met stakeholders om de rapportagebehoeften te verzamelen en te specificeren.&lt;/li&gt; 
-&lt;li&gt;Monitoren van datakwaliteit en zorgen voor de consistentie van de rapportagegegevens.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;You have experience with&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;3+ jaar ervaring in data-analyse, Business Intelligence of vergelijkbare rol.&lt;/li&gt; 
-&lt;li&gt;Zeer sterke SQL-vaardigheden voor data-extractie en manipulatie.&lt;/li&gt; 
-&lt;li&gt;Uitgebreide ervaring met een toonaangevende BI-tool (Power BI of Tableau).&lt;/li&gt; 
-&lt;li&gt;Inzicht en ervaring in gelaagde data warehouse architecturen.&lt;/li&gt; 
-&lt;li&gt;Diepgaande kennis van datawarehouse concepten zoals Snowflaking, Slowly Changing Dimensions en dimensionele modellering (Kimball/Inmon).&lt;/li&gt; 
-&lt;li&gt;Sterke analytische en probleemoplossende vaardigheden.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Ervaring met programmeertalen zoals Python of R.&lt;/li&gt; 
-&lt;li&gt;Kennis van ETL/ELT-processen of moderne data-integratietools.&lt;/li&gt; 
-&lt;li&gt;Blootstelling aan cloudplatforms (Azure, AWS, GCP).&lt;/li&gt; 
-&lt;li&gt;Ervaring met A/B-testen of statistische modellering.&lt;/li&gt; 
-&lt;li&gt;Relevante certificeringen (Microsoft Certified: Data Analyst Associate).&lt;/li&gt; 
-&lt;li&gt;Kennis van moderne Data Architecturen: 
-&lt;ul&gt; 
-&lt;li&gt;Notebook-omgevingen zoals Jupyter Hub of Databricks.&lt;/li&gt; 
-&lt;li&gt;Datavault (Linstedt).&lt;/li&gt; 
-&lt;li&gt;Datalakes: Parquet, Spark of Dask.&lt;/li&gt; 
-&lt;li&gt;Lakehouse-concepten: Apache Iceberg, DeltaLake of Hudi.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Impactvolle data-analyse projecten over de gehele organisatie.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheid om te leren van ervaren specialisten en je carrière te versnellen.&lt;/li&gt; 
-&lt;li&gt;Ongoing training en ondersteuning voor certificeringen.&lt;/li&gt; 
-&lt;li&gt;Competitief salaris en flexibele voordelen.&lt;/li&gt; 
-&lt;li&gt;Hybride en flexibele werkopties.&lt;/li&gt; 
-&lt;li&gt;Warm en samenwerkend bedrijfscultuur.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72518433"/>
-    <published>2025-11-28T09:34:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72474849</id>
-    <title>Data Engineer @itenium (ITENIUM)</title>
-    <updated>2026-09-15T13:11:39+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ITENIUM (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p data-path-to-node="0"&gt;Wij zijn op zoek naar een 
-&lt;strong&gt;gepassioneerde en getalenteerde ontwikkelaar&lt;/strong&gt; met de drijfveer om zijn/haar vaardigheden voortdurend te blijven leren en verbeteren.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Verantwoordelijkheden&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Bouwen en onderhouden van schaalbare, efficiënte ETL/ELT-pijplijnen.&lt;/li&gt; 
-&lt;li&gt;Optimaliseren van data lakes en datawarehouses voor prestaties en kwaliteit.&lt;/li&gt; 
-&lt;li&gt;Ontwerpen van robuuste datamodellen voor analyses en machine learning.&lt;/li&gt; 
-&lt;li&gt;Samenwerken met analisten, wetenschappers en belanghebbenden.&lt;/li&gt; 
-&lt;li&gt;Automatiseren van dataworkflows en bijdragen aan CI/CD-pijplijnen.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p data-path-to-node="9"&gt;&lt;/p&gt; 
-&lt;p&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Heb jij:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;de drive om continu bij te leren?&lt;/li&gt; 
-&lt;li&gt;zin om deel uit te maken van een 
-&lt;strong&gt;jong, dynamisch team&lt;/strong&gt; dat dezelfde waarden deelt?&lt;/li&gt; 
-&lt;li&gt;een sterk 
-&lt;strong&gt;verantwoordelijkheidsgevoel&lt;/strong&gt; voor wat je oplevert?&lt;/li&gt; 
-&lt;li&gt;de voorkeur voor 
-&lt;strong&gt;kwaliteit boven kwantiteit&lt;/strong&gt;?&lt;/li&gt; 
-&lt;li&gt;de toewijding om kwaliteit en professionaliteit bij onze klanten te brengen?&lt;/li&gt; 
-&lt;li&gt;de wens om begeleid te worden door de 
-&lt;strong&gt;beste technische mensen&lt;/strong&gt; (20+ jaar ervaring) om je ontwikkeling en carrière te stimuleren?&lt;/li&gt; 
-&lt;li&gt;de ambitie om de nieuwste technologieën te leren om je passie te blijven voeden?&lt;/li&gt; 
-&lt;li&gt;een goede beheersing van het 
-&lt;strong&gt;Nederlands&lt;/strong&gt; en een grondige kennis van het 
-&lt;strong&gt;Engels&lt;/strong&gt;?&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Technologie &amp;amp; Ervaring&lt;/strong&gt;&lt;/p&gt; 
-&lt;p&gt;Je hebt ervaring met:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;5+ jaar in data engineering of een gerelateerde functie. &lt;/li&gt; 
-&lt;li&gt;Sterke vaardigheden in SQL en Python.&lt;/li&gt; 
-&lt;li&gt;Azure, AWS of GCP.&lt;/li&gt; 
-&lt;li&gt;Azure Data Factory, Databricks, Spark of Kafka.&lt;/li&gt; 
-&lt;li&gt;Data lakes en datawarehousing (bijv. ADLS, Snowflake, BigQuery).&lt;/li&gt; 
-&lt;li&gt;Datamodellering en DevOps-concepten.&lt;/li&gt; 
-&lt;li&gt;Klantgerichte communicatie en samenwerking met belanghebbenden.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Aangename extra's (Nice to have)&lt;/strong&gt;:&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Power BI of vergelijkbare visualisatietools.&lt;/li&gt; 
-&lt;li&gt;Ervaring met machine learning of AI-workflows.&lt;/li&gt; 
-&lt;li&gt;Relevante certificeringen (Azure Data Engineer, Databricks, etc.).&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt; &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Competitief salaris&lt;/li&gt; 
-&lt;li&gt;Bedrijfswagen met tankkaart&lt;/li&gt; 
-&lt;li&gt;Mobiele telefoon&lt;/li&gt; 
-&lt;li&gt;32 vakantiedagen (waarvan 12 ADV-dagen)&lt;/li&gt; 
-&lt;li&gt;Hospitalisatie- &amp;amp; Groepsverzekering&lt;/li&gt; 
-&lt;li&gt;Maaltijdcheques &amp;amp; Ecocheques&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72474849"/>
-    <published>2025-11-28T10:00:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72889800</id>
-    <title>.NET Architect (OMETA)</title>
-    <updated>2026-11-06T13:53:12+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: OMETA (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Wommelgem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Bij Ometa werken we aan oplossingen die organisaties helpen grip te krijgen op complexe informatiestromen. Al meer dan twintig jaar verbinden we bedrijfskritische systemen en zorgen we ervoor dat data op het juiste moment, op de juiste plek beschikbaar is. Onze technologie vormt de stille kracht achter processen die dag in, dag uit moeten blijven draaien — ongeacht schaal of complexiteit. Om onze ambities waar te maken, zoeken we een 
-&lt;strong&gt;.&lt;/strong&gt;NET Architect die niet alleen technisch sterk is, maar ook richting geeft. Iemand die overzicht bewaart, vooruitdenkt en samen met het team bouwt aan een toekomstbestendig platform. In deze rol krijg je de ruimte om impact te maken op strategisch niveau en een sleutelrol te spelen in de verdere evolutie van ons Ometa Framework.&lt;/p&gt; 
-&lt;p&gt;Het Ometa Framework is geen standaard applicatie; het is een high-speed integratie-engine. Wij koppelen complexe ERP-systemen, portals en externe API’s via een volledig Event-Driven design. Jouw missie? Het Framework herbouwen tot een systeem dat moeiteloos miljoenen requests verwerkt met minimale latency. Of het nu gaat om het real-time pushen van data naar een portaal of het triggeren van kritieke service-orders in een ERP: jij zorgt dat de architectuur onverwoestbaar, veilig en extreem schaalbaar is.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw verantwoordelijkheden:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Architectural Vision: Ontwerpen en bewaken van de blauwdruk voor een multi-tenant systeem dat miljoenen events per seconde kan verwerken.&lt;/li&gt; 
-&lt;li&gt;Event-Driven Mastery: Optimaliseren van onze Kafka-implementatie voor maximale throughput, betrouwbaarheid en guaranteed delivery.&lt;/li&gt; 
-&lt;li&gt;Performance Engineering: Analyseren van performance traces tot op detailniveau en structureel elimineren van bottlenecks in de pipeline.&lt;/li&gt; 
-&lt;li&gt;Security by Design: Verankeren van secure coding-principes in de kern van het framework om data-integriteit en vertrouwelijkheid te waarborgen.&lt;/li&gt; 
-&lt;li&gt;Cloud-Native Orchestration: Inrichten en optimaliseren van Docker- en Kubernetes-omgevingen die elastisch meeschalen met pieken in dataverkeer.&lt;/li&gt; &lt;/ul&gt; 
-&lt;p&gt;&lt;strong&gt;Jouw technisch profiel:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Deep .NET Knowledge: Expert in .NET (Core), met diepgaande kennis van asynchrone patronen, threading en memory management.&lt;/li&gt; 
-&lt;li&gt;Message Broker Expert: Kafka kent voor jou geen geheimen: topics, partitions, consumer groups, idempotency en delivery semantics zijn dagelijkse kost.&lt;/li&gt; 
-&lt;li&gt;Kubernetes Architect: Ruime ervaring met auto-scaling, service meshes en container security binnen Kubernetes-landschappen.&lt;/li&gt; 
-&lt;li&gt;Security Expert: Sterke kennis van OWASP-principes, encryptie en veilige data-uitwisseling (OAuth 2.0, OpenID Connect).&lt;/li&gt; 
-&lt;li&gt;Theoretisch zwaargewicht: Concepten als Event Sourcing, CQRS en Backpressure kun je niet alleen uitleggen, maar ook pragmatisch en schaalbaar implementeren.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul type="disc"&gt; 
-&lt;li&gt;&lt;span&gt;Je beschikt over een bachelor- of masterdiploma in Informatica, Software Engineering of een vergelijkbare technische opleiding.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt minimaal 8 jaar ervaring in een senior software engineering-, lead developer- of architectrol binnen complexe .NET-omgevingen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Aantoonbare ervaring met het ontwerpen van schaalbare, high-performance architecturen, bij voorkeur in event-driven of integratiegedreven landschappen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je communiceert helder en overtuigend in zowel Nederlands als Engels, met technische én niet-technische stakeholders.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je hebt een proactieve, analytische en resultaatgerichte mindset en durft architecturale keuzes te maken en uit te dragen.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je kunt zelfstandig werken, maar voelt je net zo verantwoordelijk binnen een multidisciplinair team en blijft scherp onder druk van deadlines.&lt;/span&gt;&lt;/li&gt; 
-&lt;li&gt;&lt;span&gt;Je bent bereid om op locatie te werken en beschikt over een geldig rijbewijs.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Een competitief salaris.&lt;/li&gt; 
-&lt;li&gt;Een uitgebreid voordelenpakket, inclusief een groene bedrijfswagen, laadpas, lunch- en ecocheques, ziektekostenverzekering en pensioenplannen.&lt;/li&gt; 
-&lt;li&gt;Een netto-onkostenvergoeding.&lt;/li&gt; 
-&lt;li&gt;Mogelijkheden voor professionele groei en carrièreontwikkeling.&lt;/li&gt; 
-&lt;li&gt;Een ondersteunende en samenwerkende werkomgeving met doorlopende training.&lt;/li&gt; 
-&lt;li&gt;Flexibele werktijden en de mogelijkheid om vanuit huis te werken.&lt;/li&gt; 
-&lt;li&gt;Sociale, bekwame en vaak humoristische collega's.&lt;/li&gt; 
-&lt;li&gt;Al onze software wordt in België gemaakt. Geloof in onze software, het verkoopt zichzelf.&lt;/li&gt; 
-&lt;li&gt;Gratis koffie en een modern kantoor met state-of-the-art apparatuur.&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72889800"/>
-    <published>2026-01-22T15:19:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/72975978</id>
-    <title>AI Business Engineer (CRONOS)</title>
-    <updated>2026-11-14T00:00:43+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: CRONOS (gewone_bedrijven)&lt;/li&gt;&lt;li&gt;Locatie: Kontich&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;🧭 Wat jij doet&lt;/p&gt;&lt;p&gt;Je wordt één van de drijvende krachten binnen onze TRANSFORM-track. Concreet ga je:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bedrijfsprocessen analyseren en AI-opportuniteiten identificeren&lt;/li&gt;&lt;li&gt;Workshops begeleiden rond efficiëntie, bottlenecks en AI-toepassingen&lt;/li&gt;&lt;li&gt;AI use cases uitwerken van idee → concept → implementatie&lt;/li&gt;&lt;li&gt;Vertalen tussen business, stakeholders en onze AI engineers&lt;/li&gt;&lt;li&gt;Procesflows hertekenen met AI als versneller (bv. intake, validatie, compliance, customer journeys…)&lt;/li&gt;&lt;li&gt;Roadmaps en adoptieplannen opstellen&lt;/li&gt;&lt;li&gt;Data- en contextnoden scherpstellen voor AI-oplossingen&lt;/li&gt;&lt;li&gt;Impactmetingen opzetten en processen optimaliseren op basis van resultaten&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;In één zin:&lt;/p&gt;&lt;p&gt;👉 &lt;em style="background-color: rgba(0, 0, 0, 0);"&gt;Je helpt organisaties zichzelf heruitvinden met AI als hefboom.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;⚙️ Wie jij bent&lt;/p&gt;&lt;p&gt;Je herkent jezelf hierin:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je hebt minstens een 5-tal jaar ervaring in business analyse, procesoptimalisatie, digitale transformatie of een gelijkaardig domein&lt;/li&gt;&lt;li&gt;Je bent geboeid door AI én hoe het werk fundamenteel kan verbeteren&lt;/li&gt;&lt;li&gt;Je kan helder praten met zowel business als IT&lt;/li&gt;&lt;li&gt;Je hebt ervaring met één of meerdere van deze elementen:&lt;/li&gt;&lt;li&gt;BPMN of andere procesmodellering&lt;/li&gt;&lt;li&gt;Service design / journey mapping&lt;/li&gt;&lt;li&gt;Data- en informatiestromen begrijpen&lt;/li&gt;&lt;li&gt;AI use case identificatie&lt;/li&gt;&lt;li&gt;Workshop facilitatie&lt;/li&gt;&lt;li&gt;Je hoeft geen pure ontwikkelaar te zijn — wel iemand die AI begrijpt, ermee werkt en het praktisch vertaalt&lt;/li&gt;&lt;li&gt;Je denkt in oplossingen, niet in problemen&lt;/li&gt;&lt;li&gt;Sterke communicator in NL en EN&lt;/li&gt;&lt;li&gt;Je brengt energie, structuur en visie mee naar klanten&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Of je nu &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;medior&lt;/span&gt; of &lt;span style="background-color: rgba(0, 0, 0, 0);"&gt;senior &lt;/span&gt;bent:&lt;/p&gt;&lt;p&gt;als je &lt;em style="background-color: rgba(0, 0, 0, 0);"&gt;business + AI + verandering&lt;/em&gt; samenbrengt, willen we je spreken.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;
-                    &lt;li&gt;&lt;p&gt;AI&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;BPMN&lt;/p&gt;&lt;/li&gt;
-                    &lt;li&gt;&lt;p&gt;business analyse&lt;/p&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt; Wat wij bieden&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Werken in een jong AI-team dat impactgedreven is&lt;/li&gt;&lt;li&gt;Projecten waar AI écht proces- en organisatiewerking verandert&lt;/li&gt;&lt;li&gt;Autonomie, vertrouwen en permanente ontwikkelingsruimte&lt;/li&gt;&lt;li&gt;Directe samenwerking met onze enable-, built- en empower-teams&lt;/li&gt;&lt;li&gt;De kans om AI-trajecten van A tot Z mee vorm te geven&lt;/li&gt;&lt;li&gt;De Cronos Groep achter ons betekent sterke voordelen, een groot netwerk en extra ontwikkelkansen&lt;/li&gt;&lt;li&gt;Competitief loon, doorgroeimogelijkheden en een team met veel goesting&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;MAXQlabs is de plek voor mensen die verandering willen versnellen.&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/72975978"/>
-    <published>2026-02-03T11:52:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/72988386</id>
     <title>IT Officer (LAMBO LABORATORIA)</title>
@@ -585,7 +86,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73559708</id>
     <title>Senior Functional Analyst (Kingfisher Recruitment)</title>
-    <updated>2026-10-05T11:35:11+00:00</updated>
+    <updated>2026-11-17T15:34:20+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je speelt een sleutelrol in het vertalen van businessnoden naar concrete IT-oplossingen voor een volledig nieuw platform dat vanaf nul wordt opgebouwd. Je werkt nauw samen met Business stakeholders om hun processen en behoeften scherp te krijgen en je vertaalt deze naar duidelijke functionele analyses, user stories en specificaties voor jouw developmentteam.&lt;br&gt;Je denkt mee over zowel API-integraties als UI/UX flows en zorgt ervoor dat alle vereisten helder, gestructureerd en bruikbaar zijn voor developers en testers. Binnen een Agile context neem je actief deel aan ceremonies en werk je intens samen met een dedicated team van developers en testers om nieuwe functionaliteiten succesvol te realiseren.&lt;br&gt;Je bewaakt de kwaliteit en consistentie van de functionele documentatie en zorgt ervoor dat complexe processen worden omgezet in duidelijke en werkbare oplossingen binnen een business-critical omgeving.&amp;#160;&lt;br&gt;Na het greenfield project word je uiteraard ook betrokken bij nieuwe uitdagende projecten.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma behaald in relevante studie (IT, economie, logistiek...)&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional of Business Analyst&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en vertaalt makkelijk op niveau van je gesprekspartner&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Deze internationale speler binnen logistiek bouwt dagelijks aan hun sterk netwerk. Achter deze operaties zit een krachtig IT-landschap dat grotendeels in-house ontwikkeld wordt en een cruciale rol speelt in de werking van de volledige groep.&lt;/p&gt;&lt;p&gt;Binnen hun dedicated IT-team werkt een multidisciplinair team aan de ontwikkeling en optimalisatie van business-critical applicaties. De organisatie investeert sterk in digitale innovatie, Agile werking en human development, met een cultuur die zowel professioneel als mensgericht is.&lt;/p&gt;&lt;p&gt;Door de opstart van een groot Greenfield project breiden ze vandaag hun team uit.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73559708"/>
     <published>2026-04-23T14:31:02+00:00</published>
@@ -593,7 +94,7 @@
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/73559774</id>
     <title>IT Business Analyst - Agile (Kingfisher Recruitment)</title>
-    <updated>2026-10-05T11:35:08+00:00</updated>
+    <updated>2026-11-17T15:34:16+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je speelt een sleutelrol in het vertalen van businessnoden naar concrete IT-oplossingen voor een volledig nieuw platform dat vanaf nul wordt opgebouwd. Je werkt nauw samen met Business stakeholders om hun processen en behoeften scherp te krijgen en je vertaalt deze naar duidelijke functionele analyses, user stories en specificaties voor jouw developmentteam.&lt;br&gt;Je denkt mee over zowel API-integraties als UI/UX flows en zorgt ervoor dat alle vereisten helder, gestructureerd en bruikbaar zijn voor developers en testers. Binnen een Agile context neem je actief deel aan ceremonies en werk je intens samen met een dedicated team van developers en testers om nieuwe functionaliteiten succesvol te realiseren.&lt;br&gt;Je bewaakt de kwaliteit en consistentie van de functionele documentatie en zorgt ervoor dat complexe processen worden omgezet in duidelijke en werkbare oplossingen binnen een business-critical omgeving.&amp;#160;&lt;br&gt;Na het greenfield project word je uiteraard ook betrokken bij nieuwe uitdagende projecten.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma behaald in relevante studie (IT, economie, logistiek...)&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional of Business Analyst&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en vertaalt makkelijk op niveau van je gesprekspartner&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Deze internationale speler binnen logistiek bouwt dagelijks aan hun sterk netwerk. Achter deze operaties zit een krachtig IT-landschap dat grotendeels in-house ontwikkeld wordt en een cruciale rol speelt in de werking van de volledige groep.&lt;/p&gt;&lt;p&gt;Binnen hun dedicated IT-team werkt een multidisciplinair team aan de ontwikkeling en optimalisatie van business-critical applicaties. De organisatie investeert sterk in digitale innovatie, Agile werking en human development, met een cultuur die zowel professioneel als mensgericht is.&lt;/p&gt;&lt;p&gt;Door de opstart van een groot Greenfield project breiden ze vandaag hun team uit.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/73559774"/>
     <published>2026-04-23T14:35:41+00:00</published>
@@ -1701,61 +1202,6 @@ Je ondersteunt cloudmigraties, werkt mee aan infrastructuurprojecten en zorgt sa
     <published>2026-09-18T09:32:49+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74646470</id>
-    <title>Teamlead IT Infrastructure  (Kwery)</title>
-    <updated>2026-09-18T16:35:30+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Beveren-Kruibeke-Zwijndrecht&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je stuurt het ICT-team aan en zorgt voor een efficiënte werking van de IT-infrastructuur en Service Desk.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je leidt IT-infrastructuurprojecten van A tot Z en bewaakt planning, budget, kwaliteit en voortgang.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beheert en optimaliseert de volledige IT-omgeving, inclusief servers, netwerken, hardware, software en security.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je werkt een strategische ICT-roadmap uit, beheert het IT-budget en adviseert over investeringen en technologische verbeteringen.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je waarborgt de betrouwbaarheid, performantie en beveiliging van de IT-omgeving door onderhoud, monitoring, patchmanagement en continue optimalisatie.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een IT diploma.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt minstens 5-7 jaar ervaring als System Engineer en reeds enkele jaren ervaring als Infrastructure Manager, ICT Team Lead of IT Infrastructure Team Lead.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een grondige kennis van netwerken, servervirtualisatie, NAS- en back-upsystemen, telecommunicatie, firewalls en switches, aangevuld met ervaring met projectmanagementmethodologieën zoals Scrum/Agile.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je hebt een sterke kennis van Microsoft-technologieën zoals SQL Server, Active Directory, Domain Controllers, SharePoint, SCCM, Microsoft 365 en Azure.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je bent een communicatieve people manager die technische oplossingen weet te vertalen naar de business en teams kan aansturen, coachen en motiveren.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je ontvangt een aantrekkelijk brutoloon tussen €4.500 en €6.200, afgestemd op je ervaring, expertise en verantwoordelijkheden.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je beschikt over een bedrijfswagen met tank- of laadkaart voor een comfortabele mobiliteit.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijd- en ecocheques zorgen voor een extra financieel voordeel bovenop je loonpakket.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je geniet van een uitgebreide groeps-, hospitalisatie- en tandverzekering voor jou en je gezin.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Dankzij een 39-urenweek met 12 ADV-dagen, 1 dag thuiswerk per week en flexibele werkuren geniet je van een gezonde work-life balance.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je komt terecht in een internationale en innovatieve werkomgeving waar persoonlijke ontwikkeling, kennisdeling en groei centraal staan.&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;Deze vacature wordt beheerd door Toon Laurijssen. Je kan mij altijd bereiken via: | +32 470 26 82 35&lt;/p&gt;&lt;p dir="ltr"&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74646470"/>
-    <published>2026-09-18T16:35:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74657196</id>
-    <title>Senior .NET Developer (PeakPeople)</title>
-    <updated>2026-09-21T14:04:21+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Waasland&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Mijn klant bouwt zijn eigen ERP- en retailplatform. Geen standaardpakket dat je configureert, maar software die intern ontworpen, gebouwd en jaar na jaar verder uitgebouwd wordt. &lt;/p&gt; 
-&lt;p&gt;Als 
-&lt;strong&gt;Senior .NET Developer&lt;/strong&gt; krijg je daar echte modules van in handen: van het eerste ontwerp tot de oplevering. &lt;/p&gt; 
-&lt;p&gt;Je werkt niet in één hoekje van de applicatie. Je schuift tussen modules, neemt technische beslissingen en denkt mee over de architectuur van het platform. De vraagstukken zijn zelden simpel, want het platform ondersteunt uiteenlopende processen bij retailers en groothandelaars.&lt;/p&gt; 
-&lt;p&gt;Daarnaast draai je mee in klantprojecten. Databasedesign, applicaties sneller maken, analyseren waarom iets niet doet wat het moet doen. Het soort werk waarbij je eerst begrijpt hoe een bedrijf werkt en daarna pas begint te typen.&lt;/p&gt; 
-&lt;p&gt;&lt;strong&gt;Wat je concreet doet:&lt;/strong&gt;&lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Eigenaarschap nemen over belangrijke modules binnen het ERP- en retailplatform.&lt;/li&gt; 
-&lt;li&gt;Ontwikkelen en onderhouden in 
-&lt;strong&gt;C#, .NET, SQL server en MVC5.&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;Complexe technische uitdagingen analyseren en schaalbare oplossingen voorstellen. &lt;/li&gt; 
-&lt;li&gt;Code reviews doen en het technische gesprek in het team op gang trekken.&lt;/li&gt; 
-&lt;li&gt;Waken over kwaliteit, performantie en security.&lt;/li&gt; 
-&lt;li&gt;Werken volgens Kanban, met inschattingen die je zelf onderbouwt.&lt;/li&gt; 
-&lt;li&gt;AI-tools inzetten in je dagelijkse werk voor analyse, code, testing, documentatie en kennisdeling. &lt;/li&gt; 
-&lt;li&gt;Mee bepalen waar AI en automatisatie een plek krijgen in de eigen oplossingen. &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Minstens 
-&lt;strong&gt;8 jaar ervaring als .NET Developer.&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;Bachelor Toegepaste Informatica of gelijkwaardig door ervaring.&lt;/li&gt; 
-&lt;li&gt;Aantoonbare ervaring in retailsector: e-commerceplatformen, POS-systemen, voorraadbeheer of omnichannel.&lt;/li&gt; 
-&lt;li&gt;Diepgaande kennis van 
-&lt;strong&gt;C#, SQL Server en MVC5&lt;/strong&gt;, met oog voor kwaliteit en best practices. &lt;/li&gt; 
-&lt;li&gt;Solide ervaring met 
-&lt;strong&gt;HTML5, CSS en JavaScript.&lt;/strong&gt;&lt;/li&gt; 
-&lt;li&gt;Sterk in software analyse, architectuur en testing.&lt;/li&gt; 
-&lt;li&gt;Ervaring met of duidelijke affiniteit met AI-gestuurde ontwikkeltools.&lt;/li&gt; 
-&lt;li&gt;Nauwkeurig, proactief en oplossingsgericht.&lt;/li&gt; 
-&lt;li&gt;Goede communicatieskills, ook richting klanten en collega's buiten development.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Een marktconform loon, in lijn met acht jaar ervaring en een senior verantwoordelijkheid&lt;/li&gt; 
-&lt;li&gt;Bedrijfswagen met tankkaart&lt;/li&gt; 
-&lt;li&gt;Gsm met abonnement&lt;/li&gt; 
-&lt;li&gt;Hospitalisatieverzekering&lt;/li&gt; 
-&lt;li&gt;Maaltijdcheques en ecocheques&lt;/li&gt; 
-&lt;li&gt;Vergoeding voor permanentie&lt;/li&gt; 
-&lt;li&gt;Benefits at Work&lt;/li&gt; 
-&lt;li&gt;Een cafetariaplan waarmee je je pakket zelf invult&lt;/li&gt; 
-&lt;li&gt;2 dagen per week thuiswerk na je inwerkperiode&lt;/li&gt; 
-&lt;li&gt;Een vaste job van onbepaalde duur bij het bedrijf zelf, geen detachering&lt;/li&gt; 
-&lt;li&gt;Toegang tot moderne AI-tools en de tijd om ze goed te leren gebruiken&lt;/li&gt; 
-&lt;li&gt;Ruimte om te groeien in de richting die bij jou past: dieper technisch, of richting architectuur en teamverantwoordelijkheid&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74657196"/>
-    <published>2026-09-21T14:04:21+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74663232</id>
     <title>Ingénieur Réseau | Routing &amp; Switching (Sander)</title>
     <updated>2026-09-22T08:28:13+00:00</updated>
@@ -1859,7 +1305,7 @@ Je ondersteunt cloudmigraties, werkt mee aan infrastructuurprojecten en zorgt sa
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74705284</id>
     <title>OpenShift Engineer (Kingfisher Recruitment)</title>
-    <updated>2026-09-28T10:55:46+00:00</updated>
+    <updated>2026-11-17T15:24:15+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Westmalle&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je krijgt een brede hands-on rol binnen de technische IT-omgeving en werkt nauw samen met de IT Manager. Je zorgt mee voor de stabiliteit, performantie en verdere evolutie van de cloud- en platforminfrastructuur (OpenShift) en bewaakt tegelijk de samenhang tussen applicaties, infrastructuur, databases en deploymentprocessen.&lt;br&gt;Je werkt intensief rond Kubernetes en ondersteunt developmentteams bij het bouwen, deployen en operationeel houden van moderne applicaties. Daarnaast werk je mee aan de verdere professionalisering van CI/CD.&lt;br&gt;Je bent daarbij niet enkel degene die technologie configureert. Je kijkt breder naar beheer, continuïteit en samenhang: hoe worden applicaties gedeployed, hoe communiceren componenten, waar zitten risico’s en wat moet structureel verbeterd worden?&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT&lt;/li&gt;&lt;li&gt;Sterke ervaring in cloud engineering &amp;amp; OpenShift&lt;/li&gt;&lt;li&gt;Kennis van Kubernetes, Linux en CI/CD&lt;/li&gt;&lt;li&gt;Je bent een doener en werkt graag in teamverband&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands en een stukje in het Engels&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Deze organisatie een internationaal actieve Belgische organisatie die sterk investeert in de verdere modernisering van haar eigen applicatie- en infrastructuurlandschap. Binnen IT wordt gewerkt aan een brede cloudtransformatie.&lt;br&gt;Het interne IT-team bestaat uit specialisten rond IoT, front-end, backend, DevOps en infrastructuur en werkt nauw samen aan verschillende strategische digitaliseringsprojecten. Er wordt bewust gekozen voor korte lijnen, dagelijkse afstemming en veel ownership binnen het team.&lt;br&gt;Om deze omgeving verder te versterken zoeken ze een Cloud Engineer die technisch sterk is, maar vooral ook de maturiteit heeft om verantwoordelijkheid te nemen, werk te zien liggen en zaken effectief tot een goed einde te brengen.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Je komt terecht in een ervaren intern IT-team waar je technisch op hoog niveau kan werken en rechtstreeks impact hebt op belangrijke moderniseringsprojecten.&lt;/p&gt;&lt;p&gt;Daarnaast mag je rekenen op:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief brutoloon afgestemd op je senioriteit&lt;/li&gt;&lt;li&gt;Bedrijfswagen + tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques (10euro) &amp;amp; ecocheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;extra pensioenspaarplan&lt;/li&gt;&lt;li&gt;26 vakantiedagen + 12 feestdagen&lt;/li&gt;&lt;li&gt;GSM + abonnement&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;thuiswerk en flexibiliteit&lt;/li&gt;&lt;li&gt;opleidingen en mogelijkheid om relevante certificeringen te behalen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74705284"/>
     <published>2026-09-28T10:55:46+00:00</published>
@@ -1966,20 +1412,20 @@ Je ondersteunt cloudmigraties, werkt mee aan infrastructuurprojecten en zorgt sa
     <published>2026-10-08T11:33:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74791360</id>
-    <title>Software Engineer .NET | In-house (Kingfisher Recruitment)</title>
-    <updated>2026-10-08T11:33:22+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Temse&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;In deze functie werk je mee aan in-house software binnen een moderne.NET-omgeving. Je ontwikkelt nieuwe functionaliteiten en bouwt verder aan API’s, integraties en backendcomponenten die rechtstreeks verbonden zijn met logistieke en operationele processen. Je denkt actief mee over architectuur, performantie, betrouwbaarheid en de kwaliteit van de code, en je pakt technische uitdagingen zelfstandig vast. Daarbij stem je regelmatig af met andere developers, analysts en testers zodat oplossingen goed aansluiten bij de bredere werking. Je bent iemand die niet enkel uitvoert wat op een ticket staat, maar ook zelf analyseert waar het probleem zit, oplossingsrichtingen formuleert en opvolgt tot de functionaliteit correct en kwalitatief in productie staat.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Masterdiploma in IT&lt;/li&gt;&lt;li&gt;Sterke ervaring in .NET&lt;/li&gt;&lt;li&gt;Kennis van Kubernetes &amp;amp; Docker&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Deze sterke en groeiende Belgische organisatie bouwt hun eigen software waarmee complexe bedrijfsprocessen slimmer, efficiënter en beter geïntegreerd kunnen verlopen, voor hen én hun klanten.&lt;br&gt;De software wordt volledig intern ontwikkeld en bevindt zich in een belangrijke groeifase. De eerste externe klanten zullen het platform steeds intensiever gaan gebruiken, waardoor softwarekwaliteit, betrouwbaarheid en een sterke gebruikerservaring cruciaal worden.&lt;br&gt;Om die verdere groei te ondersteunen zoeken ze een .NET ontwikkelaar die volledig in-house werkt en bouwt aan nieuwe functionaliteiten.&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Je mag rekenen op een mooi loonpakket:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief brutoloon afgestemd op je ervaring&lt;/li&gt;&lt;li&gt;bedrijfswagen + laadkaart&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;uitgebreide groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;cafetariaplan&lt;/li&gt;&lt;li&gt;32 vakantiedagen&lt;/li&gt;&lt;li&gt;ruimte voor opleidingen en relevante certificeringen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;/p&gt;&lt;p&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74791360"/>
-    <published>2026-10-08T11:33:22+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74798399</id>
     <title>Functioneel Analist (Kwery)</title>
     <updated>2026-10-09T07:00:04+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Evere&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je brengt &lt;strong&gt;functionele behoeften in kaart&lt;/strong&gt; en vertaalt deze naar duidelijke requirements, user stories en praktische oplossingen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Je analyseert bestaande bedrijfsprocessen en applicaties&lt;/strong&gt; en onderzoekt hoe deze efficiënter en gebruiksvriendelijker kunnen worden ingericht.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je werkt mee aan diverse IT-projecten, zoals de ontwikkeling van webapplicaties, CRM-oplossingen en de optimalisatie van interne systemen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je stemt regelmatig af met business stakeholders, IT-collega's en externe partners om ervoor te zorgen dat &lt;strong&gt;oplossingen aansluiten bij de noden van de organisatie&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je ondersteunt het &lt;strong&gt;volledige traject van analyse en functionele testing tot implementatie&lt;/strong&gt;, waarbij je de kwaliteit en goede werking van nieuwe toepassingen bewaakt.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;bachelordiploma en minstens 5 jaar ervaring&lt;/strong&gt; als Functioneel Analist of Business Analist.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ervaring met &lt;strong&gt;functionele analysemethodologieën&lt;/strong&gt;, zoals BPMN, UML en Agile/Scrum. Kennis van SQL, systeemintegraties of Jira is een pluspunt.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het &lt;strong&gt;Nederlands&lt;/strong&gt;, durft je uit te drukken in het &lt;strong&gt;Frans&lt;/strong&gt; en hebt een goede kennis van het&lt;strong&gt; Engels&lt;/strong&gt;. Je bent zelfstandig, proactief en communicatief sterk, met een oprechte &lt;strong&gt;interesse in duurzaamheid&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;brutoloon van €4.300 tot €6.200 per maand&lt;/strong&gt;, afhankelijk van jouw ervaring.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een jaarlijkse &lt;strong&gt;bonus tot 10%&lt;/strong&gt; van je brutojaarsalaris.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;mobiliteitsbudget&lt;/strong&gt; of een &lt;strong&gt;elektrische bedrijfswagen&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Maaltijdcheques&lt;/strong&gt; van €10 per gewerkte dag.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een netto thuiswerkvergoeding van €145 per maand.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maar liefst &lt;strong&gt;35 verlofdagen,&lt;/strong&gt; waarvan 12 ADV-dagen&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;2 dagen thuiswerk&lt;/strong&gt; per week en &lt;strong&gt;flexibele werkuren&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;cafetariaplan &lt;/strong&gt;om jouw verloningspakket flexibel samen te stellen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;laptop, smartphone (iPhone of Samsung) en gsm-abonnement.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;groepsverzekering en hospitalisatieverzekering&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een afwisselende functie met ruimte voor &lt;strong&gt;initiatief en professionele ontwikkeling&lt;/strong&gt;, binnen een betrokken organisatie waar jouw werk bijdraagt aan een duurzamere toekomst.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/strong&gt;&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/74798399"/>
     <published>2026-10-09T07:00:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/74798876</id>
+    <title>Senior Functioneel Analist (Kwery)</title>
+    <updated>2026-10-09T09:21:34+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Hoe zal jouw takenpakket eruit zien?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je &lt;strong&gt;analyseert businessbehoeften&lt;/strong&gt; en vertaalt deze naar heldere functionele specificaties, user stories en procesmodellen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je werkt aan &lt;strong&gt;uiteenlopende digitaliseringsprojecten&lt;/strong&gt;, waaronder webapplicaties, CRM-systemen, marketingtools en op maat ontwikkelde applicaties.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je vormt de &lt;strong&gt;brug tussen business en IT&lt;/strong&gt; en werkt nauw samen met stakeholders, ontwikkelaars, externe leveranciers en technische teams.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je neemt een &lt;strong&gt;trekkersrol&lt;/strong&gt; binnen projecten, van functionele analyse en testing tot implementatie en go-live, waarbij je ook minder ervaren &lt;strong&gt;collega's ondersteunt&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je identificeert &lt;strong&gt;optimalisatiemogelijkheden&lt;/strong&gt; binnen bestaande systemen en processen en denkt proactief mee over innovatieve oplossingen.&lt;br /&gt; &lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een bachelordiploma en minstens&lt;strong&gt; 8 jaar ervaring&lt;/strong&gt; als Functioneel Analist of Business Analist.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ervaring met BPMN, UML en Agile/Scrum. Kennis van SQL, systeemintegraties en tools zoals Jira of Azure DevOps is een plus.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Je communiceert vlot in het &lt;strong&gt;Nederlands&lt;/strong&gt;, durft je uit te drukken in het &lt;strong&gt;Frans&lt;/strong&gt; en hebt een goede kennis van het &lt;strong&gt;Engels&lt;/strong&gt;. Je bent zelfstandig, proactief en communicatief sterk, met een oprechte &lt;strong&gt;interesse in duurzaamheid&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou?&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;brutoloon van €4.300 tot €6.200 per maand&lt;/strong&gt;, afhankelijk van jouw ervaring.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een jaarlijkse &lt;strong&gt;bonus tot 10%&lt;/strong&gt; van je brutojaarsalaris.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een&lt;strong&gt; mobiliteitsbudget &lt;/strong&gt;of een elektrische &lt;strong&gt;bedrijfswagen&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maaltijdcheques van €10 per gewerkte dag.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een netto &lt;strong&gt;thuiswerkvergoeding&lt;/strong&gt; van €145 per maand.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Maar liefst &lt;strong&gt;35 verlofdagen&lt;/strong&gt;, waarvan 12 ADV-dagen &lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;2 dagen thuiswerk&lt;/strong&gt; per week en flexibele werkuren met opstart tussen 7u30 en 10u.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een&lt;strong&gt; cafetariaplan &lt;/strong&gt;om jouw verloningspakket flexibel samen te stellen.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;laptop, smartphone (iPhone of Samsung) en gsm-abonnement.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een &lt;strong&gt;groepsverzekering en hospitalisatieverzekering&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Een veelzijdige functie met &lt;strong&gt;veel autonomie, verantwoordelijkheid en ontwikkelingsmogelijkheden&lt;/strong&gt; binnen een organisatie die duurzaamheid centraal stelt.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/strong&gt;&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/74798876"/>
+    <published>2026-10-09T09:21:34+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74798876</id>
@@ -2518,34 +1964,144 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <published>2026-10-21T14:11:24+00:00</published>
   </entry>
   <entry>
-    <id>https://www.vdab.be/vindeenjob/vacatures/74887590</id>
-    <title>Cybersecurity Automation Engineer (HIVE Consultancy)</title>
-    <updated>2026-10-21T14:11:24+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: HIVE Consultancy (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Voor onze klant, actief in de industriële sector, zijn wij op zoek naar een Cybersecurity Automation Engineer voor de regio Antwerpen, Kempen of Genk. &lt;/p&gt; 
-&lt;ul&gt; 
-&lt;li&gt;Je voert cybersecurityprojecten uit van analyse en inventarisatie tot implementatie en oplevering&lt;/li&gt; 
-&lt;li&gt;Je brengt industriële netwerken en de aangesloten assets in kaart en zorgt voor een correcte documentatie van de bestaande situatie&lt;/li&gt; 
-&lt;li&gt;Je werkt mee aan de uitwerking en implementatie van netwerksegmentatie binnen industriële omgevingen&lt;/li&gt; 
-&lt;li&gt;Je configureert en implementeert firewalls, switches en oplossingen voor veilige externe toegang&lt;/li&gt; 
-&lt;li&gt;Je zet monitoring op binnen de netwerken om zicht te krijgen op netwerkverkeer en verbonden systemen&lt;/li&gt; 
-&lt;li&gt;Je test, valideert en neemt oplossingen in dienst, steeds in overleg met de klant zodat de productieprocessen maximaal gegarandeerd blijven&lt;/li&gt; 
-&lt;li&gt;Je ondersteunt cybersecurity assessments en helpt bij het identificeren van mogelijke verbeterpunten binnen de omgeving&lt;/li&gt; 
-&lt;li&gt;Je documenteert netwerkarchitecturen, configuraties en technische wijzigingen op een gestructureerde manier&lt;/li&gt; 
-&lt;li&gt;Je fungeert als technisch aanspreekpunt op de site en stemt af met operators, onderhoudstechniekers, IT-teams en andere betrokken stakeholders&lt;/li&gt; 
-&lt;li&gt;Je ondersteunt de projectmanager bij de planning, voortgangsopvolging en rapportering van de projecten&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
-&lt;li&gt;Je beschikt over een bachelor- of masterdiploma in automatisatie, elektromechanica, elektronica-ICT of een gelijkwaardige technische richting&lt;/li&gt; 
-&lt;li&gt;Je hebt ervaring met industriële automatisatieomgevingen en bent vertrouwd met PLC-, SCADA- en/of DCS-systemen&lt;/li&gt; 
-&lt;li&gt;Je hebt kennis van industriële netwerken en protocollen zoals Profinet, Modbus TCP en EtherNet/IP&lt;/li&gt; 
-&lt;li&gt;Je beschikt over een goede basiskennis van netwerken, waaronder IP-adressering, VLAN’s, switching en routing&lt;/li&gt; 
-&lt;li&gt;Je hebt een sterke interesse in OT-cybersecurity en netwerkbeveiliging en wilt je hier verder in ontwikkelen. Ervaring binnen cybersecurity is geen vereiste&lt;/li&gt; 
-&lt;li&gt;Je werkt nauwkeurig en hecht belang aan een correcte en volledige technische documentatie&lt;/li&gt; 
-&lt;li&gt;Je voelt je thuis in een industriële omgeving en werkt graag op locatie bij klanten&lt;/li&gt; 
-&lt;li&gt;Je communiceert vlot met verschillende stakeholders, waaronder operators, onderhoudstechniekers en IT-medewerkers&lt;/li&gt; 
-&lt;li&gt;Je bent leergierig, staat open voor kennisdeling en haalt energie uit samenwerken met ervaren collega’s&lt;/li&gt; 
-&lt;li&gt;Je communiceert vlot in het Nederlands en beschikt over een goede kennis van het Engels&lt;/li&gt; 
-&lt;li&gt;Je beschikt over een rijbewijs B&lt;/li&gt; &lt;/ul&gt;</content>
-    <link href="https://www.vdab.be/vindeenjob/vacatures/74887590"/>
-    <published>2026-10-21T14:11:24+00:00</published>
+    <id>https://www.vdab.be/vindeenjob/vacatures/74896863</id>
+    <title>Databricks Specialist (Kingfisher IT)</title>
+    <updated>2026-10-22T17:16:32+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze onderneming is een Belgisch IT-bedrijf dat gespecialiseerd is in data, artificiële intelligentie (AI) en softwareontwikkeling. Het helpt bedrijven om data en AI optimaal te benutten en bedrijfsprocessen te verbeteren met innovatieve technologische oplossingen.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je ontwikkelt en onderhoudt data pipelines en bouwt mee aan moderne dataplatformen, datawarehouses en data lakes in de cloud. Je werkt met technologieën zoals Azure, Microsoft Fabric en Databricks om data uit verschillende bronnen te verzamelen, te verwerken en beschikbaar te maken voor analyse. Je analyseert de behoeften van klanten en vertaalt deze naar schaalbare en efficiënte technische oplossingen. Je werkt nauw samen met andere data engineers, BI-specialisten en klanten om de kwaliteit, betrouwbaarheid en prestaties van de dataoplossingen te garanderen. Daarnaast denk je mee over de verdere optimalisatie en uitbreiding van bestaande dataplatformen.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Je hebt minstens een bachelor of masterdiploma&lt;/li&gt;&lt;li&gt;Minimaal 4 jaar ervaring in data engineering, data analytics of business intelligence.&lt;/li&gt;&lt;li&gt;Ervaring met het ontwerpen, bouwen en onderhouden van data pipelines en dataplatformen.&lt;/li&gt;&lt;li&gt;Goede kennis van moderne data-architecturen, waaronder datawarehouses en data lakes.&lt;/li&gt;&lt;li&gt;Ervaring met de Microsoft-stack, waaronder Azure, Microsoft Fabric en Power BI.&lt;/li&gt;&lt;li&gt;Kennis van Databricks en ervaring met cloudgebaseerde dataoplossingen.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mooi brutoloon&lt;/li&gt;&lt;li&gt;Bedrijfswagen met laadpas of mobiliteitsbudget&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Groepsverzekering&lt;/li&gt;&lt;li&gt;Hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;Thuiswerkmogelijkheden&lt;/li&gt;&lt;li&gt;32 vakantiedagen vrij op te nemen&lt;/li&gt;&lt;li&gt;Opleidingsmogelijkheden&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/74896863"/>
+    <published>2026-10-22T17:16:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/74891085</id>
+    <title>Kwery - Functioneel Analist (ictjob.be)</title>
+    <updated>2026-10-23T10:17:54+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: ictjob.be (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Diegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;
+Je brengt functionele behoeften in kaart en vertaalt deze naar duidelijke requirements, user stories en praktische oplossingen.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Je analyseert bestaande bedrijfsprocessen en applicaties en onderzoekt hoe deze efficiënter en gebruiksvriendelijker kunnen worden ingericht.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Je werkt mee aan diverse IT-projecten, zoals de ontwikkeling van webapplicaties, CRM-oplossingen en de optimalisatie van interne systemen.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Je stemt regelmatig af met business stakeholders, IT-collega's en externe partners om ervoor te zorgen dat oplossingen aansluiten bij de noden van de organisatie.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Je ondersteunt het volledige traject van analyse en functionele testing tot implementatie, waarbij je de kwaliteit en goede werking van nieuwe toepassingen bewaakt.&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;
+
+Voor een stabiele en toekomstgerichte organisatie in de regio Diegem zoeken we een Functional Analyst die graag meedenkt over slimme digitale oplossingen. Je komt terecht in een omgeving waar technologie, innovatie en duurzaamheid samenkomen en waar volop wordt geïnvesteerd in de verdere digitalisering van de organisatie.&lt;br /&gt;
+
+Je krijgt de kans om betrokken te zijn bij uiteenlopende IT-projecten binnen verschillende afdelingen, van marketing en Finance tot HR. Geen eenzijdige functie dus, maar een veelzijdige uitdaging waarin je nauw samenwerkt met collega's uit de business en IT. Dankzij de informele werksfeer, korte communicatielijnen en ruimte voor eigen initiatief kan je hier echt jouw stempel drukken.&lt;p&gt;&lt;strong&gt;Wat verwachten zij van jou?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;
+Een bachelordiploma en minstens 5 jaar ervaring als Functioneel Analist of Business Analist.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Ervaring met functionele analysemethodologieën, zoals BPMN, UML en Agile/Scrum. Kennis van SQL, systeemintegraties of Jira is een pluspunt.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Je communiceert vlot in het Nederlands, durft je uit te drukken in het Frans en hebt een goede kennis van het Engels. Je bent zelfstandig, proactief en communicatief sterk, met een oprechte interesse in duurzaamheid.&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;
+Een brutoloon van EUR4.300 tot EUR6.200 per maand, afhankelijk van jouw ervaring&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een jaarlijkse bonus tot 10% van je brutojaarsalaris&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een mobiliteitsbudget of een elektrische bedrijfswagen&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Maaltijdcheques van EUR10 per gewerkte dag&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een netto thuiswerkvergoeding van EUR145 per maand&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Maar liefst 35 verlofdagen, waarvan 12 ADV-dagen&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+2 dagen thuiswerk per week en flexibele werkuren&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een cafetariaplan om jouw verloningspakket flexibel samen te stellen&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een laptop, smartphone (iPhone of Samsung) en GSM-abonnement&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een groepsverzekering en hospitalisatieverzekering&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;li&gt;
+Een afwisselende functie met ruimte voor initiatief en professionele ontwikkeling, binnen een betrokken organisatie waar jouw werk bijdraagt aan een duurzamere toekomst&lt;br /&gt;
+
+
+&lt;/li&gt;
+
+&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/74891085"/>
+    <published>2026-10-22T09:17:52+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/74891085</id>
@@ -3384,12 +2940,161 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <published>2026-11-16T08:46:22+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75068966</id>
+    <title>OpenShift Engineer (Kingfisher IT)</title>
+    <updated>2026-11-17T16:02:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Malle&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Deze organisatie een internationaal actieve Belgische organisatie die sterk investeert in de verdere modernisering van haar eigen applicatie- en infrastructuurlandschap. Binnen IT wordt gewerkt aan een brede cloudtransformatie.&lt;br/&gt;Het interne IT-team bestaat uit specialisten rond IoT, front-end, backend, DevOps en infrastructuur en werkt nauw samen aan verschillende strategische digitaliseringsprojecten. Er wordt bewust gekozen voor korte lijnen, dagelijkse afstemming en veel ownership binnen het team.&lt;br/&gt;Om deze omgeving verder te versterken zoeken ze een Cloud Engineer die technisch sterk is, maar vooral ook de maturiteit heeft om verantwoordelijkheid te nemen, werk te zien liggen en zaken effectief tot een goed einde te brengen.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je krijgt een brede hands-on rol binnen de technische IT-omgeving en werkt nauw samen met de IT Manager. Je zorgt mee voor de stabiliteit, performantie en verdere evolutie van de cloud- en platforminfrastructuur (OpenShift) en bewaakt tegelijk de samenhang tussen applicaties, infrastructuur, databases en deploymentprocessen.&lt;br/&gt;Je werkt intensief rond Kubernetes en ondersteunt developmentteams bij het bouwen, deployen en operationeel houden van moderne applicaties. Daarnaast werk je mee aan de verdere professionalisering van CI/CD.&lt;br/&gt;Je bent daarbij niet enkel degene die technologie configureert. Je kijkt breder naar beheer, continuïteit en samenhang: hoe worden applicaties gedeployed, hoe communiceren componenten, waar zitten risico’s en wat moet structureel verbeterd worden?&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT&lt;/li&gt;&lt;li&gt;Sterke ervaring in cloud engineering &amp; OpenShift&lt;/li&gt;&lt;li&gt;Kennis van Kubernetes, Linux en CI/CD&lt;/li&gt;&lt;li&gt;Je bent een doener en werkt graag in teamverband&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands en een stukje in het Engels&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Je komt terecht in een ervaren intern IT-team waar je technisch op hoog niveau kan werken en rechtstreeks impact hebt op belangrijke moderniseringsprojecten.&lt;/p&gt;&lt;p&gt;Daarnaast mag je rekenen op:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;competitief brutoloon afgestemd op je senioriteit&lt;/li&gt;&lt;li&gt;Bedrijfswagen   tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques (10euro) &amp; ecocheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;extra pensioenspaarplan&lt;/li&gt;&lt;li&gt;26 vakantiedagen   12 feestdagen&lt;/li&gt;&lt;li&gt;GSM   abonnement&lt;/li&gt;&lt;li&gt;laptop&lt;/li&gt;&lt;li&gt;thuiswerk en flexibiliteit&lt;/li&gt;&lt;li&gt;opleidingen en mogelijkheid om relevante certificeringen te behalen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br/&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75068966"/>
+    <published>2026-11-17T16:02:39+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/75064974</id>
     <title>Key Partnership Manager | SaaS (Kwery)</title>
     <updated>2026-11-17T11:32:22+00:00</updated>
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kwery (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Regio Mechelen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Voor een &lt;strong&gt;internationale speler &lt;/strong&gt;binnen de &lt;strong&gt;SaaS-wereld &lt;/strong&gt;ben ik op zoek naar een &lt;strong&gt;Key Partnership Manager&lt;/strong&gt;. Deze organisatie ontwikkelt softwareoplossingen waarmee bedrijven hun dagelijkse processen efficiënter kunnen organiseren en digitaliseren.&lt;/p&gt;&lt;p&gt;Als Key Partnership Manager word je verantwoordelijk voor het &lt;strong&gt;uitbouwen &lt;/strong&gt;van een sterk &lt;strong&gt;ecosysteem &lt;/strong&gt;van&lt;strong&gt; strategische partners&lt;/strong&gt;. Je vormt de schakel tussen de organisatie en haar belangrijkste technologie- en softwarepartners. Daarbij ligt de focus niet alleen op het onderhouden van bestaande relaties, maar vooral op het creëren van nieuwe commerciële opportuniteiten en het realiseren van duurzame groei.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;&lt;strong&gt;Hoe zal jouw takenpakket eruit zien?&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je beheert en versterkt de relaties met bestaande strategische partners en bouwt deze samenwerkingen op lange termijn verder uit.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je gaat actief op zoek naar nieuwe partners en onderzoekt waar commerciële opportuniteiten en mogelijke synergieën liggen.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je brengt partners, interne teams en klanten samen rond software-integraties, digitale oplossingen en gezamenlijke projecten.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je onderhandelt over commerciële voorwaarden, maakt duidelijke afspraken en volgt de resultaten van samenwerkingen nauwgezet op.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je denkt mee na over de verdere uitbouw van het partnernetwerk en werkt hiervoor nauw samen met het management en verschillende interne afdelingen.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt; &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;Wat verwachten zij van jou?&lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Je hebt minstens 5 jaar ervaring in een commerciële functie binnen business development, partner management of accountmanagement, idealiter binnen SaaS of software.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je weet hoe je zakelijke relaties opbouwt en onderhoudt en hebt ervaring met het uitwerken van strategische samenwerkingen.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je voelt je comfortabel in gesprekken met senior stakeholders en C-level profielen.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je combineert een commerciële ingesteldheid met een strategische kijk en weet opportuniteiten om te zetten in concrete resultaten.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Je communiceert vlot in het Nederlands, Frans en Engels en bent bereid om regelmatig klanten en partners te bezoeken, voornamelijk binnen België.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Wat bieden zij jou? &lt;br/&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Een aantrekkelijk bruto maandsalaris tussen €5.000 en €7.200, afgestemd op jouw ervaring en expertise.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een bedrijfswagen met laadpas of een mobiliteitsbudget aangevuld met een netto onkostenvergoeding.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Maaltijd- en ecocheques, aangevuld met een uitgebreide groeps- en hospitalisatieverzekering.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een gsm met abonnement.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een aantrekkelijke salesbonus boven op je vaste verloning.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;35 vakantiedagen, gecombineerd met 60% thuiswerk per week en flexibele werkuren.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Ruimte voor persoonlijke groei via opleidingen en interne doorgroeimogelijkheden.&lt;br/&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Deze vacature wordt beheerd door Toon Laurijssen. Je kan mij altijd bereiken via: |  32 470 26 82 35&lt;/p&gt;&lt;p&gt;Bekijk zeker ook onze website voor meer vacatures in IT: https://www.kwery.be/jobs&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/75064974"/>
     <published>2026-11-17T11:32:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75067925</id>
+    <title>Tech Lead .NET Developer (PeakPeople)</title>
+    <updated>2026-11-17T14:49:51+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Je bent een senior .NET developer. Je denkt in domeinen en architectuur en je hebt al een team aangestuurd. Je hoeft niet de luidste in de kamer te zijn om gehoord te worden. Mijn klant, een software consultancy bedrijf, zoekt precies dat profiel. Je werkt in langdurige opdrachten langdurige opdrachten van 2 à 3 jaar. Eén dag per week werk je intern, waar je andere developers coacht en aan eigen projecten bouwt.&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Bij de klant (4/5de)&lt;/em&gt;&lt;br /&gt;Je bent de technische spil in het project. Je werkt bij klanten in de regio Antwerpen, Mechelen en Brussel, van gevestigde bedrijven tot snelgroeiende scale-ups. Ze zitten in sectoren zoals supply chain, publieke sector, automotive en utilities. &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Je bepaalt mee de technische koers en de architectuur.&lt;/li&gt; 
+&lt;li&gt;Je maakt een technische keuze en legt uit waarom. &lt;/li&gt; 
+&lt;li&gt;Je begeleidt het team van developers in het dagelijkse werk. &lt;/li&gt; 
+&lt;li&gt;Je bewaakt kwaliteit, performantie en duurzaamheid van de code.&lt;/li&gt; 
+&lt;li&gt;Je helpt de klant keuzes maken die over vijf jaar nog kloppen.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Een voorbeeld: een bestaand .NET platform moet mee evolueren naar een cloud-native architectuur. Jij tekent mee de route uit, neemt het team mee in die overgang en zorgt dat de klant er op lange termijn beter van wordt. &lt;/p&gt; 
+&lt;p&gt;Omdat opdrachten gemiddeld 2 à 3 jaar lopen, leer je het domein van de klant echt kennen. Je ziet de gevolgen van je eigen keuzes en je bouwt een band op met het team.&lt;/p&gt; 
+&lt;p&gt;&lt;em&gt;Intern (1/5de)&lt;/em&gt;&lt;br /&gt;Eén dag per week werk je voor het bedrijf zelf. Je coacht andere developers, deelt kennis en werkt mee aan interne projecten. Het bedrijf werkt aan de technische en menselijke kant van software ontwikkeling. Jij brengt daar je ervaring in als lead. &lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;p&gt;Wat je moet hebben: &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Minstens 7 à 8 jaar ervaring als .NET developer of architect. Met 10 jaar of meer ben je helemaal op je plaats.&lt;/li&gt; 
+&lt;li&gt;Ervaring met domain driven design.&lt;/li&gt; 
+&lt;li&gt;Inzicht in architectuur, zoals microservices en clean architecture, en ervaring met het maken van technische keuzes. &lt;/li&gt; 
+&lt;li&gt;Ervaring als team lead.&lt;/li&gt; 
+&lt;li&gt;Vlot Nederlands en Engels. &lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Je technische bagage: &lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Senior niveau in .NET, Azure, Entity Framework en SQL Server. &lt;/li&gt; 
+&lt;li&gt;Automated testing: unit- en integratietests.&lt;/li&gt; 
+&lt;li&gt;Messaging-systemen zoals RabbitMQ of NServiceBus.&lt;/li&gt; 
+&lt;li&gt;Git, CI/CD en Azure DevOps.&lt;/li&gt; 
+&lt;li&gt;Een fullstack blik en voeling met React, Angular of Blazor.&lt;/li&gt; 
+&lt;li&gt;Een agile werkwijze, met Scrum of Kanban.&lt;/li&gt; 
+&lt;li&gt;Actieve interesse in AI binnen softwareontwikkeling.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Wie jij bent: 
+&lt;br /&gt;Je bent een rustige kracht. Je werkt geconcentreerd, luistert eerst en spreekt wanneer je iets te zeggen hebt. Dan zeg je het ook, ook als het tegen de stroom in gaat. Een tafelspringer past hier niet. Iemand die bij een slechte architectuurkeuze zijn mond houdt, evenmin. &lt;/p&gt; 
+&lt;p&gt;Je neemt ownership zonder er een show van te maken. Als iets misloopt, kijk je eerst naar je eigen aandeel. Je blijft nieuwsgierig naar nieuwe technologie en probeert graag iets uit voordat je erover oordeelt. &lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Brutoloon van € 5.000,00 per maand aangevuld met 13de maand, bonuspotentieel, bedrijfswagen met tank- of laadkaart, Flex Income Plan, groeps- en hospitalisatieverzekering, maaltijdcheques, gsm en laptop met de nodige tools, internetvergoeding voor thuiskantoor. &lt;/li&gt; 
+&lt;li&gt;40 uur per week, met 20 vakantiedagen en 12 ADV-dagen.&lt;/li&gt; 
+&lt;li&gt;Hybride werken met flexibele uren.&lt;/li&gt; 
+&lt;li&gt;Trainingen, opleidingen, mentorship en technische events.&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75067925"/>
+    <published>2026-11-17T14:49:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75067759</id>
+    <title>Full stack Java Developer (PeakPeople)</title>
+    <updated>2026-11-17T14:40:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Developers hebben dit softwarebedrijf opgericht. Dat merk je meteen. Wie hier beslist over architectuur, schrijft zelf ook code. Het Java-team draait op Spring en heeft sterke tech leads die hun kennis echt doorgeven.&lt;/p&gt; 
+&lt;p&gt;Je werkt niet alleen. Op klantprojecten zit je meestal in duo met een tech lead. Zo leer je sneller dan in je eentje.&lt;/p&gt; 
+&lt;p&gt;Je ontwerpt en bouwt full stack applicaties in Java en Spring, van architectuur tot oplevering. Bij de klant denk je mee over technische keuzes. Je zegt het ook als iets beter kan. Projecten lopen meestal 2 à 3 jaar. Je krijgt dus de tijd om iets degelijks neer te zetten.&lt;/p&gt; 
+&lt;p&gt;Een gemiddelde week ziet er zo uit:&lt;/p&gt; 
+&lt;ul dir="ltr"&gt; 
+&lt;li&gt;60% programmeren&lt;/li&gt; 
+&lt;li&gt;15% analyse&lt;/li&gt; 
+&lt;li&gt;15% onderzoek naar nieuwe technologie&lt;/li&gt; 
+&lt;li&gt;10% meetings&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Af en toe doe je expertisewerk, zoals een code-audit of een training. Je deelt intern wat je leert. Je groeipad stippel je samen met het bedrijf uit.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul dir="ltr"&gt; 
+&lt;li&gt;Je hebt een aantal jaar ervaring als developer, liefst 5 jaar of meer.&lt;/li&gt; 
+&lt;li&gt;Je bent sterk in Java en Spring en je werkt full stack.&lt;/li&gt; 
+&lt;li&gt;Je werkt pragmatisch. Goede code vind je belangrijk, maar je bouwt geen kathedraal als een schuur volstaat.&lt;/li&gt; 
+&lt;li&gt;Je staat open voor feedback en wilt blijven bijleren.&lt;/li&gt; 
+&lt;li&gt;Je werkt graag bij verschillende klanten, telkens voor langere tijd.&lt;/li&gt; &lt;/ul&gt; 
+&lt;p&gt;Heb je 5 jaar ervaring en wil je groeien, maar vink je nog niet elk punt aan? Solliciteer toch.&lt;/p&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul dir="ltr"&gt; 
+&lt;li&gt;Een brutoloon van rond €4.000 per maand, dat elk jaar herbekeken wordt&lt;/li&gt; 
+&lt;li&gt;Een bedrijfswagen met tankkaart, of een alternatief zoals een e-bike&lt;/li&gt; 
+&lt;li&gt;Een MacBook Pro of Lenovo-workstation, met licenties en randapparatuur&lt;/li&gt; 
+&lt;li&gt;Een Flexible Income Plan, zodat je zelf een deel van je verloning samenstelt&lt;/li&gt; 
+&lt;li&gt;Een hospitalisatie- en groepsverzekering&lt;/li&gt; 
+&lt;li&gt;Een internetvergoeding voor thuiswerk&lt;/li&gt; 
+&lt;li&gt;Hybride werken met flexibele uren&lt;/li&gt; 
+&lt;li&gt;Opleidingen en een groeitraject dat je mee uittekent&lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75067759"/>
+    <published>2026-11-17T14:40:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75067862</id>
+    <title>Full stack .NET developer (PeakPeople)</title>
+    <updated>2026-11-17T14:44:37+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: PeakPeople (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Regio Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Full stack .NET developer in regio Antwerpen. +/- € 4.000,00 bruto, bedrijfswagen en hybride werken. Technisch geleid bedrijf met sterke tech leads en eigen opleidingstrajecten.&lt;/p&gt; 
+&lt;p&gt;Mijn klant is een softwarebedrijf in regio Antwerpen, opgericht door developers. Dat merk je. Technisch leiderschap staat er centraal en wie code schrijft, krijgt er de omkadering om beter te worden. &lt;/p&gt; 
+&lt;p&gt;Je werkt als full stack .NET developer op projecten bij hun klanten. Dat gebeurt vaak in duo's met een tech lead van je eigen bedrijf die je ondersteunt. De projecten zijn gevarieerd en draaien op moderne stacks. Tussendoor doe je soms expertisewerk, zoals audits of trainingen.&lt;/p&gt; 
+&lt;p&gt;Het grootste deel programmeer je. De rest van je tijd gaat naar analyse, research en een beperkt aantal meetings. &lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Wat je concreet doet:&lt;/strong&gt;&lt;/p&gt; 
+&lt;ul&gt; 
+&lt;li&gt;Full stack applicatiearchitecturen ontwerpen en bouwen.&lt;/li&gt; 
+&lt;li&gt;Proactief bijdragen op klantprojecten en meedenken over technische keuzes.&lt;/li&gt; 
+&lt;li&gt;Research doen naar nieuwe technologie en betere oplossingen. &lt;/li&gt; 
+&lt;li&gt;Deelnemen aan de interne kennisdeling en initiatieven.&lt;/li&gt; 
+&lt;li&gt;Samen met het bedrijf je groeipad uittekenen.&lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Je hebt enkele jaren ervaring in software ontwikkeling, idealiter +5 jaar.&lt;/li&gt; 
+&lt;li&gt;Je bent sterk in .NET en C# en werkt full stack.&lt;/li&gt; 
+&lt;li&gt;Je werkt efficiënt en pragmatisch. &lt;/li&gt; 
+&lt;li&gt;Je wordt blij van goede code. &lt;/li&gt; 
+&lt;li&gt;Je denkt constructief mee en wil blijven bijleren. &lt;/li&gt; 
+&lt;li&gt;Je werkt graag bij verschillende klanten op wisselende projecten (langdurige projecten van 2 à 3 jaar). &lt;/li&gt; &lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt; 
+&lt;li&gt;Een brutoloon van ongeveen € 4.000,00 per maand, jaarlijks herbekeken.&lt;/li&gt; 
+&lt;li&gt;Een bedrijfswagen met tankkaart, of een alternatief zoals een e-bike.&lt;/li&gt; 
+&lt;li&gt;Hospitalisatie- en groepsverzekering.&lt;/li&gt; 
+&lt;li&gt;Internetvergoeding voor je thuiskantoor. &lt;/li&gt; 
+&lt;li&gt;Uitgebreide opleidings- en groeimogelijkheden.&lt;/li&gt; 
+&lt;li&gt;Hybride werken met flexibele uren en meerdere locaties. &lt;/li&gt; &lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75067862"/>
+    <published>2026-11-17T14:44:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069187</id>
+    <title>Senior Functional Analyst (Kingfisher IT)</title>
+    <updated>2026-11-17T16:16:52+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Deze internationale speler binnen logistiek bouwt dagelijks aan hun sterk netwerk. Achter deze operaties zit een krachtig IT-landschap dat grotendeels in-house ontwikkeld wordt en een cruciale rol speelt in de werking van de volledige groep.&lt;/p&gt;&lt;p&gt;Binnen hun dedicated IT-team werkt een multidisciplinair team aan de ontwikkeling en optimalisatie van business-critical applicaties. De organisatie investeert sterk in digitale innovatie, Agile werking en human development, met een cultuur die zowel professioneel als mensgericht is.&lt;/p&gt;&lt;p&gt;Door de opstart van een groot Greenfield project breiden ze vandaag hun team uit.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je speelt een sleutelrol in het vertalen van businessnoden naar concrete IT-oplossingen voor een volledig nieuw platform dat vanaf nul wordt opgebouwd. Je werkt nauw samen met Business stakeholders om hun processen en behoeften scherp te krijgen en je vertaalt deze naar duidelijke functionele analyses, user stories en specificaties voor jouw developmentteam.&lt;br/&gt;Je denkt mee over zowel API-integraties als UI/UX flows en zorgt ervoor dat alle vereisten helder, gestructureerd en bruikbaar zijn voor developers en testers. Binnen een Agile context neem je actief deel aan ceremonies en werk je intens samen met een dedicated team van developers en testers om nieuwe functionaliteiten succesvol te realiseren.&lt;br/&gt;Je bewaakt de kwaliteit en consistentie van de functionele documentatie en zorgt ervoor dat complexe processen worden omgezet in duidelijke en werkbare oplossingen binnen een business-critical omgeving. &lt;br/&gt;Na het greenfield project word je uiteraard ook betrokken bij nieuwe uitdagende projecten.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma behaald in relevante studie (IT, economie, logistiek...)&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional of Business Analyst&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en vertaalt makkelijk op niveau van je gesprekspartner&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br/&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069187"/>
+    <published>2026-11-17T16:16:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75068954</id>
+    <title>Senior .Net Software Engineer (Kingfisher IT)</title>
+    <updated>2026-11-17T16:02:26+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;4 dagen thuiswerk mogelijk (als je wil)&lt;br/&gt;Een snelgroeiende en gevestigde Belgische softwareorganisatie ontwikkelt haar eigen bedrijfsapplicaties die bij klanten in diverse sectoren worden geïmplementeerd, uitgebreid en continu verbeterd. Dankzij de sterke instroom aan nieuwe projecten breidt het developmentteam verder uit. De cultuur binnen de organisatie is vlak, informeel en collegiaal, met korte lijnen en veel aandacht voor samenwerking, kennisdeling en ownership.&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je schrijft robuuste code in .Net en zorgt voor continue verbetering van hun software, dit in projectwerking voor complexe omgevingen. De software wordt intern gebouwd én nauw geïntegreerd met de klantomgevingen, dus je impact reikt verder dan enkel development, je bent mee een drijvende kracht in de lange termijnrelatie met de klant.&lt;br/&gt;Je komt terecht in een moderne, technisch sterke omgeving met een developmentafdeling verdeeld over kleinere teams van 6 à 7 mensen. Binnen die teams heerst een open sfeer waarin kennisdelen en elkaar helpen vanzelfsprekend zijn.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor of Master in IT is een grote plus&lt;/li&gt;&lt;li&gt;Sterke werkervaring met .NET&lt;/li&gt;&lt;li&gt;Kennis van Angular of andere JavaScript frameworks is een plus&lt;/li&gt;&lt;li&gt;Je bent analytisch en oplossingsgericht ingesteld&lt;/li&gt;&lt;li&gt;Je werkt graag samen in een team maar kan ook zelfstandig verantwoordelijkheid opnemen&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Brutoloon o.b.v. jouw ervaringsniveau&lt;/li&gt;&lt;li&gt;Bedrijfswagen   tank/laadkaart&lt;/li&gt;&lt;li&gt;4 dagen per week thuiswerk en een uitstekende work/life balance&lt;/li&gt;&lt;li&gt;Nettovergoedingen&lt;/li&gt;&lt;li&gt;Maaltijdcheques&lt;/li&gt;&lt;li&gt;Ecocheques&lt;/li&gt;&lt;li&gt;Voordelen PC200&lt;/li&gt;&lt;li&gt;GSM-abonnement&lt;/li&gt;&lt;li&gt;Sport-abonnement&lt;/li&gt;&lt;li&gt;Opleiding en persoonlijke ontwikkeling als kern van je groeipad&lt;/li&gt;&lt;li&gt;Een hecht team met leuke teambuildings, sportieve uitdagingen en afterworkactiviteiten&lt;/li&gt;&lt;/ul&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75068954"/>
+    <published>2026-11-17T16:02:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069467</id>
+    <title>Functioneel Analist (Kingfisher IT)</title>
+    <updated>2026-11-17T16:32:39+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Deze grote, stabiele onderneming heeft een sterke interne IT-organisatie. Een belangrijk deel van hun software wordt intern ontwikkeld en ondersteunt complexe, bedrijfskritische processen binnen de organisatie.&lt;/p&gt;&lt;p&gt;Momenteel starten ze met de ontwikkeling van een volledig nieuw softwareplatform. Hiervoor wordt een multidisciplinair team samengesteld dat het platform vanaf nul zal uitdenken en bouwen.&lt;/p&gt;&lt;p&gt;Om dit team te versterken zoeken ze een ervaren Functional Analyst die graag dicht bij zowel de business als development werkt.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je brengt samen met verschillende stakeholders processen, noden en problemen in kaart en vertaalt deze naar duidelijke functionele oplossingen voor het nieuwe platform.&lt;br/&gt;Je werkt requirements verder uit in user stories, functionele analyses en concrete specificaties waarmee developers en testers aan de slag kunnen. Daarbij denk je ook mee over integraties, API's en de logische flow van de applicatie.&lt;br/&gt;Je werkt dagelijks samen met developers, testers en andere IT-profielen binnen een Agile omgeving en bewaakt dat businessnoden correct vertaald worden naar werkbare software.&lt;br/&gt;Na dit project blijf je betrokken bij nieuwe digitale projecten binnen de organisatie.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional Analyst of gelijkaardig&lt;/li&gt;&lt;li&gt;Je kan complexe processen vertalen naar duidelijke requirements&lt;/li&gt;&lt;li&gt;Je bent analytisch én communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon&lt;/li&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;tot 10 extra onbetaalde verlof dagen (als je wil)&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;veel autonomie en langetermijnperspectief&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br/&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069467"/>
+    <published>2026-11-17T16:32:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069468</id>
+    <title>IT Analyst (Kingfisher IT)</title>
+    <updated>2026-11-17T16:32:41+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Deze grote, stabiele onderneming heeft een sterke interne IT-organisatie. Een belangrijk deel van hun software wordt intern ontwikkeld en ondersteunt complexe, bedrijfskritische processen binnen de organisatie.&lt;/p&gt;&lt;p&gt;Momenteel starten ze met de ontwikkeling van een volledig nieuw softwareplatform. Hiervoor wordt een multidisciplinair team samengesteld dat het platform vanaf nul zal uitdenken en bouwen.&lt;/p&gt;&lt;p&gt;Om dit team te versterken zoeken ze een ervaren Functional Analyst die graag dicht bij zowel de business als development werkt.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je brengt samen met verschillende stakeholders processen, noden en problemen in kaart en vertaalt deze naar duidelijke functionele oplossingen voor het nieuwe platform.&lt;br/&gt;Je werkt requirements verder uit in user stories, functionele analyses en concrete specificaties waarmee developers en testers aan de slag kunnen. Daarbij denk je ook mee over integraties, API's en de logische flow van de applicatie.&lt;br/&gt;Je werkt dagelijks samen met developers, testers en andere IT-profielen binnen een Agile omgeving en bewaakt dat businessnoden correct vertaald worden naar werkbare software.&lt;br/&gt;Na dit project blijf je betrokken bij nieuwe digitale projecten binnen de organisatie.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional Analyst of gelijkaardig&lt;/li&gt;&lt;li&gt;Je kan complexe processen vertalen naar duidelijke requirements&lt;/li&gt;&lt;li&gt;Je bent analytisch én communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon&lt;/li&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;tot 10 extra onbetaalde verlof dagen (als je wil)&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;veel autonomie en langetermijnperspectief&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br/&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069468"/>
+    <published>2026-11-17T16:32:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069236</id>
+    <title>IT Business Analyst - Agile (Kingfisher IT)</title>
+    <updated>2026-11-17T16:18:30+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher IT (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Edegem&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;&lt;p&gt;Deze internationale speler binnen logistiek bouwt dagelijks aan hun sterk netwerk. Achter deze operaties zit een krachtig IT-landschap dat grotendeels in-house ontwikkeld wordt en een cruciale rol speelt in de werking van de volledige groep.&lt;/p&gt;&lt;p&gt;Binnen hun dedicated IT-team werkt een multidisciplinair team aan de ontwikkeling en optimalisatie van business-critical applicaties. De organisatie investeert sterk in digitale innovatie, Agile werking en human development, met een cultuur die zowel professioneel als mensgericht is.&lt;/p&gt;&lt;p&gt;Door de opstart van een groot Greenfield project breiden ze vandaag hun team uit.&lt;/p&gt;&lt;/p&gt;&lt;br/&gt;Jobomschrijving&lt;br/&gt;&lt;p&gt;Je speelt een sleutelrol in het vertalen van businessnoden naar concrete IT-oplossingen voor een volledig nieuw platform dat vanaf nul wordt opgebouwd. Je werkt nauw samen met Business stakeholders om hun processen en behoeften scherp te krijgen en je vertaalt deze naar duidelijke functionele analyses, user stories en specificaties voor jouw developmentteam.&lt;br/&gt;Je denkt mee over zowel API-integraties als UI/UX flows en zorgt ervoor dat alle vereisten helder, gestructureerd en bruikbaar zijn voor developers en testers. Binnen een Agile context neem je actief deel aan ceremonies en werk je intens samen met een dedicated team van developers en testers om nieuwe functionaliteiten succesvol te realiseren.&lt;br/&gt;Je bewaakt de kwaliteit en consistentie van de functionele documentatie en zorgt ervoor dat complexe processen worden omgezet in duidelijke en werkbare oplossingen binnen een business-critical omgeving. &lt;br/&gt;Na het greenfield project word je uiteraard ook betrokken bij nieuwe uitdagende projecten.&lt;/p&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma behaald in relevante studie (IT, economie, logistiek...)&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional of Business Analyst&lt;/li&gt;&lt;li&gt;Je bent communicatief sterk en vertaalt makkelijk op niveau van je gesprekspartner&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br/&gt;&lt;ul&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br/&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069236"/>
+    <published>2026-11-17T16:18:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/75063801</id>
@@ -3444,6 +3149,22 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <published>2026-11-17T10:55:18+00:00</published>
   </entry>
   <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069046</id>
+    <title>Functioneel Analist (Kingfisher Recruitment)</title>
+    <updated>2026-11-17T16:06:51+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je brengt samen met verschillende stakeholders processen, noden en problemen in kaart en vertaalt deze naar duidelijke functionele oplossingen voor het nieuwe platform.&lt;br&gt;Je werkt requirements verder uit in user stories, functionele analyses en concrete specificaties waarmee developers en testers aan de slag kunnen. Daarbij denk je ook mee over integraties, API's en de logische flow van de applicatie.&lt;br&gt;Je werkt dagelijks samen met developers, testers en andere IT-profielen binnen een Agile omgeving en bewaakt dat businessnoden correct vertaald worden naar werkbare software.&lt;br&gt;Na dit project blijf je betrokken bij nieuwe digitale projecten binnen de organisatie.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional Analyst of gelijkaardig&lt;/li&gt;&lt;li&gt;Je kan complexe processen vertalen naar duidelijke requirements&lt;/li&gt;&lt;li&gt;Je bent analytisch én communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Deze grote, stabiele onderneming heeft een sterke interne IT-organisatie. Een belangrijk deel van hun software wordt intern ontwikkeld en ondersteunt complexe, bedrijfskritische processen binnen de organisatie.&lt;/p&gt;&lt;p&gt;Momenteel starten ze met de ontwikkeling van een volledig nieuw softwareplatform. Hiervoor wordt een multidisciplinair team samengesteld dat het platform vanaf nul zal uitdenken en bouwen.&lt;/p&gt;&lt;p&gt;Om dit team te versterken zoeken ze een ervaren Functional Analyst die graag dicht bij zowel de business als development werkt.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon&lt;/li&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;tot 10 extra onbetaalde verlof dagen (als je wil)&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;veel autonomie en langetermijnperspectief&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069046"/>
+    <published>2026-11-17T16:06:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069056</id>
+    <title>Software Analyst (Kingfisher Recruitment)</title>
+    <updated>2026-11-17T16:08:32+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Deurne&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je brengt samen met verschillende stakeholders processen, noden en problemen in kaart en vertaalt deze naar duidelijke functionele oplossingen voor het nieuwe platform.&lt;br&gt;Je werkt requirements verder uit in user stories, functionele analyses en concrete specificaties waarmee developers en testers aan de slag kunnen. Daarbij denk je ook mee over integraties, API's en de logische flow van de applicatie.&lt;br&gt;Je werkt dagelijks samen met developers, testers en andere IT-profielen binnen een Agile omgeving en bewaakt dat businessnoden correct vertaald worden naar werkbare software.&lt;br&gt;Na dit project blijf je betrokken bij nieuwe digitale projecten binnen de organisatie.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional Analyst of gelijkaardig&lt;/li&gt;&lt;li&gt;Je kan complexe processen vertalen naar duidelijke requirements&lt;/li&gt;&lt;li&gt;Je bent analytisch én communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Deze grote, stabiele onderneming heeft een sterke interne IT-organisatie. Een belangrijk deel van hun software wordt intern ontwikkeld en ondersteunt complexe, bedrijfskritische processen binnen de organisatie.&lt;/p&gt;&lt;p&gt;Momenteel starten ze met de ontwikkeling van een volledig nieuw softwareplatform. Hiervoor wordt een multidisciplinair team samengesteld dat het platform vanaf nul zal uitdenken en bouwen.&lt;/p&gt;&lt;p&gt;Om dit team te versterken zoeken ze een ervaren Functional Analyst die graag dicht bij zowel de business als development werkt.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon&lt;/li&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;tot 10 extra onbetaalde verlof dagen (als je wil)&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;veel autonomie en langetermijnperspectief&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069056"/>
+    <published>2026-11-17T16:08:32+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.vdab.be/vindeenjob/vacatures/75063788</id>
     <title>Full-Stack Analist-Developer - Supporting Services (Delen Private Bank)</title>
     <updated>2026-11-17T09:09:05+00:00</updated>
@@ -3458,5 +3179,13 @@ Een afwisselende functie met ruimte voor initiatief en professionele ontwikkelin
     <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Delen Private Bank (derdenleveranciers)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;&lt;p&gt;Als Senior Full-Stack Developer &amp;amp; Solution Architect vertaal je goedgekeurde build-beslissingen en business requirements naar gedetailleerde technische ontwerpen en werkende software. De Domain Architect bepaalt de high-level richting en ondersteunt de buy-or-build-beslissingen. Jij ontwerpt de oplossing binnen die krijtlijnen en bouwt ze samen met je collega-developer.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;Verantwoordelijkheden&lt;p&gt;&lt;strong&gt;Solution architecture en technisch ontwerp&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je vertaalt business- en functionele requirements naar duidelijke solution designs, applicatiestructuren en technische keuzes.&lt;/li&gt;&lt;li&gt;Je ontwerpt componenten, dataflows, API's en integratiepunten binnen de domeinarchitectuur en de afgesproken standaarden.&lt;/li&gt;&lt;li&gt;Je maakt technische trade-offs expliciet en zorgt ervoor dat oplossingen veilig, schaalbaar en ondersteunbaar blijven, en in verhouding staan tot de business need.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Full-stack development en engineering standards&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je ontwikkelt production-grade applicaties in C#, .NET, Angular en TypeScript en blijft zelf actief betrokken bij de implementatie.&lt;/li&gt;&lt;li&gt;Je legt praktische standaarden vast voor coding, reviews, documentatie en quality assurance, en je moedigt het gebruik ervan aan.&lt;/li&gt;&lt;li&gt;Je gebruikt GitHub en GitHub Copilot om de samenwerking, de engineeringkwaliteit en AI-assisted development te versterken.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Delivery en operationele ownership&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je begeleidt oplossingen van design tot development en deployment, met de beschikbare standaard release-structuren en templates.&lt;/li&gt;&lt;li&gt;Je monitort en ondersteunt applicaties na de release: &lt;em&gt;you build it, you run it&lt;/em&gt;.&lt;/li&gt;&lt;li&gt;Je pakt incidenten, technical debt en verbetermogelijkheden aan met een ownership mindset op lange termijn.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Technical leadership en AI-oplossingen&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Je neemt technical leadership op en coacht collega's, zonder formele people management-verantwoordelijkheid.&lt;/li&gt;&lt;li&gt;Je integreert AI-functionaliteit via het interne AI-platform en helpt de juiste patterns te kiezen voor concrete use cases.&lt;/li&gt;&lt;li&gt;Je werkt nauw samen met de Full-Stack Solution Engineer, de Business Analyst, de Domain Architect en de business stakeholders.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Profiel&lt;/h3&gt;&lt;strong&gt;Jouw expertise&lt;/strong&gt;&lt;p&gt;We zoeken een senior full-stack engineer met sterke ervaring in solution design. Je kan de technische richting bepalen en blijft tegelijk zelf hands-on software bouwen.&lt;/p&gt;&lt;p&gt;Je hebt ruime ervaring met C#, .NET, Angular, TypeScript en GitHub. Je hebt inzicht in applicatiearchitectuur, security, operationele kwaliteit en de volledige software lifecycle. Affiniteit met AI en actief gebruik van GitHub Copilot zijn essentieel. Ervaring met API design, applicatie-integratie of technische coaching is een voordeel. Kennis van een of meer Supporting Services-domeinen is een pluspunt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Competenties&lt;/strong&gt; Je bent een pragmatische technical leader die architecturaal denken combineert met een focus op delivery.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Solution design:&lt;/strong&gt; je brengt structuur in technische complexiteit en vertaalt requirements naar duidelijke ontwerpen die je kan implementeren.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Engineering leadership:&lt;/strong&gt; je verhoogt de kwaliteit door weloverwogen beslissingen, constructieve reviews, begeleiding en kennisdeling.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ownership:&lt;/strong&gt; je blijft verantwoordelijk van design en implementatie tot release, monitoring en support.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Samenwerking:&lt;/strong&gt; je creëert alignment tussen business, analyse, architectuur en engineering, zonder onnodige complexiteit.&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;AI-affiniteit en leergierigheid:&lt;/strong&gt; je herkent waardevolle AI use cases en zet AI-assisted development verantwoord en doeltreffend in.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Positionering binnen de organisatie&lt;/strong&gt;&lt;p&gt;De Senior Full-Stack Developer &amp;amp; Solution Architect rapporteert binnen het Supporting Services-domein en:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;werkt samen met de Domain Architect, die de high-level architectuur bepaalt en de buy-or-build-beslissingen ondersteunt;&lt;/li&gt;&lt;li&gt;levert gedetailleerde solution designs en geeft de technische richting aan voor het development team;&lt;/li&gt;&lt;li&gt;werkt samen met de Full-Stack Solution Engineer en de Business Analyst, van analyse tot operations;&lt;/li&gt;&lt;li&gt;werkt rechtstreeks samen met Subject Matter Experts en stakeholders binnen Supporting Services.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;Aantrekkelijke voorwaarden&lt;p&gt;Je ontvangt een competitief salaris aangevuld met een uitgebreid pakket extralegale voordelen, zoals hospitalisatie- en ambulante verzekering, groepsverzekering, ecocheques, gsm met abonnement, optieplan, extra verlofdagen (bank holidays), Benefits at Work, restaurant met versbereide maaltijden, keuze uit bedrijfswagen of andere (mobiliteits)oplossingen via het mobiliteitsbudget.&lt;/p&gt;</content>
     <link href="https://www.vdab.be/vindeenjob/vacatures/75063944"/>
     <published>2026-11-17T09:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vdab.be/vindeenjob/vacatures/75069055</id>
+    <title>IT Analyst (Kingfisher Recruitment)</title>
+    <updated>2026-11-17T16:08:31+00:00</updated>
+    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Bedrijf: Kingfisher Recruitment (intermediairen)&lt;/li&gt;&lt;li&gt;Locatie: Antwerpen&lt;/li&gt;&lt;li&gt;Type: Vaste job&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;h3&gt;Functieomschrijving&lt;/h3&gt;Je brengt samen met verschillende stakeholders processen, noden en problemen in kaart en vertaalt deze naar duidelijke functionele oplossingen voor het nieuwe platform.&lt;br&gt;Je werkt requirements verder uit in user stories, functionele analyses en concrete specificaties waarmee developers en testers aan de slag kunnen. Daarbij denk je ook mee over integraties, API's en de logische flow van de applicatie.&lt;br&gt;Je werkt dagelijks samen met developers, testers en andere IT-profielen binnen een Agile omgeving en bewaakt dat businessnoden correct vertaald worden naar werkbare software.&lt;br&gt;Na dit project blijf je betrokken bij nieuwe digitale projecten binnen de organisatie.&lt;h3&gt;Profiel&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Bachelor- of Masterdiploma&lt;/li&gt;&lt;li&gt;Sterke werkervaring als Functional Analyst of gelijkaardig&lt;/li&gt;&lt;li&gt;Je kan complexe processen vertalen naar duidelijke requirements&lt;/li&gt;&lt;li&gt;Je bent analytisch én communicatief sterk&lt;/li&gt;&lt;li&gt;Je werkt in het Nederlands&amp;#160;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Aanbod&lt;/h3&gt;&lt;p&gt;Deze grote, stabiele onderneming heeft een sterke interne IT-organisatie. Een belangrijk deel van hun software wordt intern ontwikkeld en ondersteunt complexe, bedrijfskritische processen binnen de organisatie.&lt;/p&gt;&lt;p&gt;Momenteel starten ze met de ontwikkeling van een volledig nieuw softwareplatform. Hiervoor wordt een multidisciplinair team samengesteld dat het platform vanaf nul zal uitdenken en bouwen.&lt;/p&gt;&lt;p&gt;Om dit team te versterken zoeken ze een ervaren Functional Analyst die graag dicht bij zowel de business als development werkt.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Je komt terecht in een internationale en innovatieve omgeving waar je meewerkt aan een strategisch greenfield project met grote impact op de organisatie.&lt;br&gt;&lt;ul&gt;&lt;li&gt;aantrekkelijk brutoloon&lt;/li&gt;&lt;li&gt;bedrijfswagen met tank/laadkaart&lt;/li&gt;&lt;li&gt;maaltijdcheques&lt;/li&gt;&lt;li&gt;nettovergoedingen&lt;/li&gt;&lt;li&gt;ecocheques&lt;/li&gt;&lt;li&gt;sectorbonus&lt;/li&gt;&lt;li&gt;groepsverzekering&lt;/li&gt;&lt;li&gt;hospitalisatieverzekering&lt;/li&gt;&lt;li&gt;glijdende werkuren&lt;/li&gt;&lt;li&gt;3 dagen thuiswerk na inwerkperiode&lt;/li&gt;&lt;li&gt;5 extra sectoriële vakantiedagen&lt;/li&gt;&lt;li&gt;tot 10 extra onbetaalde verlof dagen (als je wil)&lt;/li&gt;&lt;li&gt;al het materiaal/tools om je werk goed te doen&lt;/li&gt;&lt;li&gt;veel autonomie en langetermijnperspectief&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Interesse?&lt;br&gt;michael@kingfisher-it.be&lt;/p&gt;</content>
+    <link href="https://www.vdab.be/vindeenjob/vacatures/75069055"/>
+    <published>2026-11-17T16:08:31+00:00</published>
   </entry>
 </feed>
