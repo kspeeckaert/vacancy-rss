@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>9069cb01-9b04-4d24-9a64-8e1fedbf261f</id>
   <title>Cartière</title>
-  <updated>2026-11-25T22:51:21.724406+00:00</updated>
+  <updated>2026-11-26T13:19:06.464154+00:00</updated>
   <link href="https://www.cartiere.be" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
@@ -793,45 +793,6 @@ Bekijk onze website www.cartiere.be voor meer BI vacatures.</content>
     <link href="https://www.cartiere.be/jobs/lead-data-analist/"/>
     <category term="BI/Data Analyst"/>
     <published>2026-06-16T08:24:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.cartiere.be/jobs/bi-expert/</id>
-    <title>BI Expert</title>
-    <updated>2026-06-10T14:33:45+00:00</updated>
-    <content type="html">&lt;p&gt;&lt;ul&gt;&lt;li&gt;Locatie: Beversesteenweg 576, 8800, West-Vlaanderen Province, Belgium&lt;/li&gt;&lt;li&gt;Published on 2024-11-12 09:22:31+00:00&lt;/li&gt;&lt;li&gt;Last change 2026-06-10 14:33:45+00:00&lt;/li&gt;&lt;li&gt;Valid until 2025-11-12 09:22:31+00:00&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;div style="margin-bottom: 10.0pt;margin-left: 0.0cm;margin-right: 0.0cm;margin-top: 24.0pt;"&gt;&lt;strong&gt;BEDRIJF: &lt;/strong&gt;&lt;br&gt;
-Dit gevestigd Belgisch huis is een vaste waarde binnen zijn markt en maakt deel uit van een grotere internationale groep. De organisatie staat bekend om haar resultaatgerichte cultuur en blijft sterk verankerd in de Belgische bedrijfswereld.&lt;br&gt;
-&lt;br&gt;
-Recente bewegingen in het leadership hebben data centraal geplaatst in de strategische besluitvorming. Het BI-team zit middenin de transitie naar een nieuw data platform en speelt een belangrijke rol in de strategische initiatieven van het bedrijf, met directe lijnen naar alle departementen van de organisatie.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOBOMSCHRIJVING:&lt;/strong&gt;&lt;br&gt;
-Als BI Expert vorm je een sleutelfiguur binnen het BI-team. Je bestrijkt het volledige spectrum, van data engineering tot het gesprek met business stakeholders. Concreet werk je dagelijks aan het opbouwen en uitbreiden van semantische modellen in een Microsoft Fabric omgeving, met Python en PySpark als kerntalen. Je volgt de nachtelijke verwerking op via een rolbeurt binnen het team, detecteert en lost fouten op, en zorgt voor stabiele en consistente data tot in de gold-laag. Daarnaast vertaal je vragen vanuit de business naar bruikbare modellen en nieuwe inzichten, vanuit verschillende departementen binnen de organisatie.&lt;br&gt;
-&lt;br&gt;
-Een belangrijk deel van je tijd zit in direct contact met stakeholders. Je vraagt door, daagt uit waar nodig en bewaakt dat de juiste vraag wordt opgelost. Tegelijk blijf je technisch bezig: queries schrijven, data valideren, mappings terugkoppelen naar bestaande modellen. Je werkt in een hecht team waar zelfstandigheid de norm is en waar je direct impact ziet van wat je opbouwt. Het BI-platform staat midden in een migratie van legacy-omgeving naar Microsoft Fabric, dus je krijgt ruimte om vanaf de grond mee uit te bouwen.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;JOUW PROFIEL:&lt;/strong&gt;
-&lt;ul&gt;
-	&lt;li&gt;Je hebt 5 tot 6 jaar relevante ervaring in data engineering en data-analyse.
-	&lt;li&gt;Je hebt al meerdere keren semantische modellen opgebouwd in een Microsoft Fabric of Databricks omgeving.
-	&lt;li&gt;Je werkt vlot in Python en PySpark voor dataverwerking.
-	&lt;li&gt;Je bent vertrouwd met een medallion architectuur (bronze, silver, gold).
-	&lt;li&gt;Je hebt een sterk analytisch vermogen en kan complexe vraagstukken helder verwoorden en documenteren.
-	&lt;li&gt;Je staat sterk in communicatie met business stakeholders en kan verwachtingen vakkundig managen.
-	&lt;li&gt;Je bent stressbestendig en blijft kalm in een omgeving waar veel druk samenkomt.
-	&lt;li&gt;Je hebt een hands-on doener mentaliteit en springt op de trein die al rijdt.
-	&lt;li&gt;Je spreekt vloeiend Nederlands.
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;strong&gt;UNIEK KARAKTER:&lt;/strong&gt;&lt;br&gt;
-Je komt terecht in een organisatie die data als een centraal element ziet in elke strategische beslissing. De backlog telt meer dan honderd items, gaande van het hertekenen van kernprocessen tot het uitwerken van data governance over de hele organisatie. Het BI-team zit midden in een migratie van legacy naar Microsoft Fabric en bouwt het nieuwe platform stelselmatig verder uit. Voor wie graag de hele keten beheert, van engineering tot business gesprek, ligt hier een rol klaar met substantiële autonomie en directe impact op de werking van het bedrijf.&lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Benieuwd naar meer? &lt;br&gt;
-Stuur nu jouw CV naar delphine@cartiere.be en bel +32 33 43 94 92 voor meer informatie.&lt;br&gt;
-Bekijk onze website www.cartiere.be voor meer vacatures.&lt;/strong&gt;&lt;/div&gt;
-</content>
-    <link href="https://www.cartiere.be/jobs/bi-expert/"/>
-    <category term="Analytics Engineer"/>
-    <category term="BI Developer"/>
-    <published>2024-11-12T09:22:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.cartiere.be/jobs/data-architect-4/</id>
